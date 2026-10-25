@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="theme-color" content="#4f46e5">
+  <title>Daily Current Affairs · UPSC 2027</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <script>
+    // Apply the saved theme before first paint to avoid a flash.
+    try {
+      const t = JSON.parse(localStorage.getItem("ca-theme"));
+      document.documentElement.dataset.theme = t || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+    } catch { document.documentElement.dataset.theme = "light"; }
+  </script>
+</head>
+<body>
+  <div class="bg-glow" aria-hidden="true"></div>
+
+  <div class="app">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="logo">CA</div>
+        <div><strong>Daily Current Affairs</strong><small>UPSC CSE 2027</small></div>
+      </div>
+      <nav class="side-nav" id="sideNav" aria-label="Main"></nav>
+      <div class="side-card">
+        <div id="calendar"></div>
+      </div>
+      <div class="side-foot">
+        <button class="theme-btn" data-theme-toggle></button>
+        <p class="updated" data-updated></p>
+      </div>
+    </aside>
+
+    <main class="main">
+      <header class="mobile-top">
+        <div class="brand">
+          <div class="logo">CA</div>
+          <div><strong>Current Affairs</strong><small>UPSC CSE 2027</small></div>
+        </div>
+        <button class="theme-btn icon-only" data-theme-toggle></button>
+      </header>
+
+      <!-- News: today / a past day / revision list / search -->
+      <section id="view-news" class="view">
+        <div class="hero" id="hero">
+          <div class="hero-blob b1"></div><div class="hero-blob b2"></div>
+          <div class="hero-main">
+            <p class="eyebrow" id="heroDate"></p>
+            <h1 id="greeting"></h1>
+            <p class="hero-sub" id="heroSub"></p>
+            <div class="stats">
+              <div class="stat"><b id="streak">0</b><span>🔥 day streak</span></div>
+              <div class="stat"><b id="prelimsDays">–</b><span>days to Prelims</span></div>
+              <div class="stat"><b id="mainsDays">–</b><span>days to Mains</span></div>
+            </div>
+          </div>
+          <div class="hero-side">
+            <div class="ring">
+              <svg viewBox="0 0 120 120">
+                <circle class="ring-bg" cx="60" cy="60" r="52"/>
+                <circle class="ring-fg" id="ringFg" cx="60" cy="60" r="52"/>
+              </svg>
+              <div class="ring-text"><b id="ringCount">0/0</b><span>read today</span></div>
+            </div>
+            <div class="focus">
+              <div class="focus-head"><span>🎯 Focus timer</span><small id="focusSessions"></small></div>
+              <div class="focus-time" id="focusTime">25:00</div>
+              <div class="focus-bar"><div id="focusBar"></div></div>
+              <div class="focus-actions">
+                <button class="btn small light" id="focusToggle"></button>
+                <button class="btn small ghost-light" id="focusReset" title="Reset timer"></button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="toolbar">
+          <label class="search">
+            <span class="search-icon" data-icon="search"></span>
+            <input id="search" type="search" placeholder="Search all days: RBI, ISRO, Supreme Court…" autocomplete="off">
+            <kbd>/</kbd>
+          </label>
+          <button id="refreshBtn" class="btn primary refresh" title="Fetch the latest news">
+            <span data-icon="refresh"></span><span class="label">Refresh</span>
+          </button>
+        </div>
+
+        <div class="filters">
+          <div class="segmented" id="gsSeg"></div>
+          <div class="chip-row" id="topicChips"></div>
+          <div class="toggle-row">
+            <button class="toggle-chip" id="importantOnly">★ Important only</button>
+            <button class="toggle-chip" id="hideRead">Hide read</button>
+          </div>
+        </div>
+
+        <div class="list-head">
+          <div>
+            <h2 id="viewTitle"></h2>
+            <p class="muted" id="viewMeta"></p>
+          </div>
+          <div class="day-nav" id="dayNav"></div>
+        </div>
+        <div id="cards" class="cards"></div>
+      </section>
+
+      <!-- Archive -->
+      <section id="view-archive" class="view" hidden>
+        <div class="page-head">
+          <h2>Archive</h2>
+          <p class="muted">Every day's current affairs, kept for revision until your exam.</p>
+        </div>
+        <div class="archive-grid">
+          <div class="panel"><div id="calendarBig"></div></div>
+          <div id="dayList" class="day-list"></div>
+        </div>
+      </section>
+
+      <!-- Break Zone -->
+      <section id="view-game" class="view" hidden>
+        <div class="page-head">
+          <h2>Break Zone 🎮</h2>
+          <p class="muted">A 5-minute brain break, once every 2 hours. Then back to the books.</p>
+        </div>
+        <div id="gameGate" class="panel gate"></div>
+        <div id="gamePlay" class="game" hidden>
+          <div class="game-timer">
+            <div class="gt-row"><span>⏱ Break time left</span><strong id="gameLeft">5:00</strong></div>
+            <div class="bar"><div id="gameBar"></div></div>
+          </div>
+          <div class="game-top">
+            <div class="score-box"><small>Score</small><b id="score">0</b></div>
+            <div class="score-box"><small>Best</small><b id="best">0</b></div>
+            <button class="btn ghost" id="newGameBtn">New game</button>
+          </div>
+          <div class="board" id="board">
+            <div class="cells" id="cells"></div>
+            <div class="tiles" id="tiles"></div>
+            <div class="board-overlay" id="boardOverlay" hidden></div>
+          </div>
+          <p class="muted center">Swipe or use the arrow keys. Join matching numbers to reach <b>2048</b>.</p>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <nav class="bottom-nav" id="bottomNav" aria-label="Main"></nav>
+  <div id="toasts" class="toasts" aria-live="polite"></div>
+
+  <script src="data/news.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
