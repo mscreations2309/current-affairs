@@ -18,7 +18,11 @@ const FEEDS = [
   { source: "The Hindu", section: "Environment", url: "https://www.thehindu.com/sci-tech/energy-and-environment/feeder/default.rss" },
   { source: "The Hindu", section: "Health", url: "https://www.thehindu.com/sci-tech/health/feeder/default.rss" },
   { source: "The Hindu", section: "Editorial", url: "https://www.thehindu.com/opinion/editorial/feeder/default.rss", curated: true },
-  { source: "Indian Express", section: "Explained", url: "https://indianexpress.com/section/explained/feed/", curated: true },
+  {
+    source: "Indian Express", section: "Explained", url: "https://indianexpress.com/section/explained/feed/", curated: true,
+    // Indian Express blocks cloud servers (e.g. GitHub Actions), so fall back to Google News for the same articles.
+    fallback: "https://news.google.com/rss/search?q=site:indianexpress.com/article/explained+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+  },
   { source: "Mint", section: "Economy", url: "https://www.livemint.com/rss/economy" },
 ];
 
@@ -172,7 +176,18 @@ function classify(item, feed) {
 }
 
 async function fetchFeed(feed) {
-  const res = await fetch(feed.url, {
+  try {
+    return await fetchRss(feed.url);
+  } catch (e) {
+    if (!feed.fallback) throw e;
+    console.warn(`  ~ ${feed.source} ${feed.section}: ${e.message}, using Google News instead`);
+    // Google News titles end with " - Source name"
+    return (await fetchRss(feed.fallback)).map((i) => ({ ...i, title: i.title.replace(/ - [^-]+$/, "") }));
+  }
+}
+
+async function fetchRss(url) {
+  const res = await fetch(url, {
     headers: {
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
       "Accept": "application/rss+xml, application/xml, text/xml, */*",
@@ -194,7 +209,9 @@ function loadExisting() {
 
 async function update() {
   const db = loadExisting();
-  const known = new Set(db.items.map((i) => i.link));
+  // Same story can arrive with different links (direct vs Google News), so match titles too.
+  const titleKey = (t) => t.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
+  const known = new Set(db.items.flatMap((i) => [i.link, titleKey(i.title)]));
   let added = 0;
 
   const failed = [];
@@ -208,7 +225,7 @@ async function update() {
     }
     let kept = 0;
     for (const item of r.value) {
-      if (!item.title || !item.link || known.has(item.link)) continue;
+      if (!item.title || !item.link || known.has(item.link) || known.has(titleKey(item.title))) continue;
       const c = classify(item, feed);
       if (!c) continue;
       const when = item.pubDate ? new Date(item.pubDate) : new Date();
@@ -224,6 +241,7 @@ async function update() {
         ...c,
       });
       known.add(item.link);
+      known.add(titleKey(item.title));
       kept++;
     }
     added += kept;
