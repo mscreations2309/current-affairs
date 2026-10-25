@@ -2,7 +2,11 @@
 
 A personal current affairs page for UPSC CSE 2027. It shows national and international news that matters for the exam, sorted by GS paper and topic.
 
-## Daily use
+**Live site:** https://mscreations2309.github.io/current-affairs/ (opens on any phone or computer)
+
+GitHub Actions fetches news every hour and republishes the site (see `.github/workflows/update-news.yml`). On the live site, **Refresh** loads the latest hourly update.
+
+## Running on your own PC
 1. Double-click **start.bat**. The page opens at http://localhost:3000.
 2. Click **⟳ Refresh news** at any time. The latest stories are fetched and added to the page, marked **NEW**.
 3. Keep the black start.bat window open while you use the page. Close it when you're done.
