@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T10:57:29.543Z",
+ "updated": "2026-10-25T11:11:03.328Z",
  "items": [
   {
    "id": "cnRpY2xlNzE2MjI4NDMuZWNl",
@@ -94,6 +94,25 @@
    "gs": [
     "GS-2",
     "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "xNzkyOTE5MDgzNzMyLmh0bWw",
+   "date": "2026-10-25",
+   "title": "Centre extends AIF scheme to boost farm infrastructure investments",
+   "summary": "The Agriculture Infrastructure Fund will continue until 31 March 2027, extending its lending timeline for farm-sector infrastructure projects. The scheme offers subsidised loans and credit guarantees for facilities such as warehouses, cold storages and processing centres to reduce crop losses.",
+   "link": "https://www.livemint.com/economy/centre-extends-aif-scheme-to-boost-farm-infrastructure-investments-11792919083732.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
    ],
    "score": 4,
    "important": false
