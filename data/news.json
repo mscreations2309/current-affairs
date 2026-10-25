@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T11:13:18.849Z",
+ "updated": "2026-10-25T11:15:09.422Z",
  "items": [
   {
    "id": "cnRpY2xlNzE2MjI4NDMuZWNl",
@@ -341,6 +341,25 @@
    ],
    "gs": [
     "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "bGw0YTJaU1drczFNQT9vYz01",
+   "date": "2026-10-25",
+   "title": "India-China face-off in Arunachal: What lies behind the border tensions",
+   "summary": "India-China face-off in Arunachal: What lies behind the border tensions The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNmpIZ3FQV1ZpWEt3UjRPUGZPZHZYT3N1MDZMVC0xLWlTY2UzX1hnMFEwTlFLeXI5bE5vS2ZjeTBSR3pSdzJadGdmMEFVSmx2NV95c2RXR09pQlNOYWt5ZWtLZWJacHhiU0tLWVpRYlBka0VKaFZrNUVIaUlsSlNKMGRxS2NZb0VYTlVUNzkzTnhHXzU2cFdSdVZRb0_SAaMBQVVfeXFMUHZ4blhrZ204U2Q0ZmViaWc5azl1SjBiLVRrNktsX29MRUsxQ1JCOEd1VFRjLThXaV9BLXl1R2QtczNPVHg4cW1qNUM0NGhEQjNrUGxkOU4tQ2JBNTdCV3o3OEtGYUg3Mll6bVhndmRIRUVQSmhuX0xMNGZLbUZ3ci1uajVFN3didDl1TVpMMFpwMDd0V2JfZ2UxYll4a2ZSWks1MA?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
    ],
    "score": 3,
    "important": false
@@ -1610,6 +1629,23 @@
    ],
    "gs": [
     "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "tZa0pFWmpWU1RtVlI_b2M9NQ",
+   "date": "2026-10-23",
+   "title": "The economics of social unrest: Why Europe is seeing a wave of protests",
+   "summary": "The economics of social unrest: Why Europe is seeing a wave of protests The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaVBna2g2SzJSNFI5ZGNjWDJibEVRRFFKZzQtWXFXN2loUHNwdklKcTVaRXJXdERfQmpUdXRUOElNLXd4NVhvRUpSWUpLNkhJS3hFOFJPRTMtN0U5MTRSSFBnUEpPLXZhWWtvSHhWNnZvazBBcDVWQUVrM00xaXJxYWFBc3VJN2xtT0p4NlBxZ1U3UHU5OXQ1YmhMbXZvckhKN1BqV3h5eXYtdk9tWlN2VU5SYld3cDBGaUpiQkRmNVJOZVHSAcMBQVVfeXFMTWlQZ2toNksyUjRSOWRjY1gyYmxFUURRSmc0LVlxVzdpaFBzcHZJSnE1WkVyV3REX0JqVHV0VDhJTS13eDVYb0VKUllKSzZISUt4RThST0UzLTdFOTE0UkhQZ1BKTy12YVlrb0h4VjZ2b2swQXA1VkFFazNNMWlycWFhQXN1STdsbU9KeDZQcWdVN1B1OTl0NWJoTG12b3JISjdQald4eXl2LXZPbVpTdlVOUmJXd3AwRmlKYkJEZjVSTmVR?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
    ],
    "score": 2,
    "important": false
