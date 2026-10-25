@@ -1,6 +1,27 @@
 {
- "updated": "2026-10-25T11:15:09.422Z",
+ "updated": "2026-10-25T14:57:05.324Z",
  "items": [
+  {
+   "id": "cnRpY2xlNzE2MjM2MzQuZWNl",
+   "date": "2026-10-25",
+   "title": "LS Speaker Om Birla meets counterparts from Cuba, Russia ahead of BRICS parliamentary forum meeting",
+   "summary": "Cuba lobbying for support of its UNGA resolution against a crippling economic blockade imposed by the U.S.; India, Russia review parliamentary exchanges as they mark 80th anniversary of bilateral ties",
+   "link": "https://www.thehindu.com/news/international/ls-speaker-om-birla-meets-counterparts-from-cuba-russia-ahead-of-brics-parliamentary-forum-meeting/article71623634.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Economy",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 7,
+   "important": true
+  },
   {
    "id": "cnRpY2xlNzE2MjI4NDMuZWNl",
    "date": "2026-10-25",
@@ -365,6 +386,101 @@
    "important": false
   },
   {
+   "id": "ydGljbGU3MTYyMzc1Ny5lY2U",
+   "date": "2026-10-25",
+   "title": "Nepal exports electricity worth $39 million to India a month after flash floods",
+   "summary": "Nepal Electricity Authority (NEA) Executive Director Dirghayu Kumar Shrestha said that electricity exports recovered during the period after being briefly disrupted by the flash floods in August",
+   "link": "https://www.thehindu.com/news/national/nepal-exports-electricity-worth-39-million-to-india-a-month-after-flash-floods/article71623757.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Economy",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MjMyNTkuZWNl",
+   "date": "2026-10-25",
+   "title": "Visakhapatnam’s air quality dips to ‘Poor’ category, AQI touches 254",
+   "summary": "The reading is the highest among the 15 cities in Andhra Pradesh listed in the bulletin of the Central Pollution Control Board; PM2.5 — a fine particulate matter less than 2.5 microns in diameter — has been identified as the main pollutant",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/visakhapatnams-air-quality-dips-to-poor-category-aqi-touches-254/article71623259.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYyMzE0My5lY2U",
+   "date": "2026-10-25",
+   "title": "Donald Trump says Audi to invest $4.2 billion in its first U.S. auto plant",
+   "summary": "Audi confirmed the investment in a release, saying the plant would create about 4,500 jobs",
+   "link": "https://www.thehindu.com/news/international/donald-trump-says-audi-to-invest-42-billion-in-its-first-us-auto-plant/article71623143.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "JaVlZ5TVVkaVRHcHk_b2M9NQ",
+   "date": "2026-10-25",
+   "title": "How did Starlink, Starshield restrictions disrupt Ukraine’s drone warfare?",
+   "summary": "How did Starlink, Starshield restrictions disrupt Ukraine’s drone warfare? The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUVk2THhOVHpNc3dZNGYxdjV3Y0RacHd6MkM4TldxWDlLUHFnMzBGUUlZT1MzY2dwZmRxUW1ib0dnV3hFMzg5b2xiQ29rQnp4VjlGTDA4V1B2a2pWbGF1NTNLRjB6QlVLMUY1M0thSU8xcGZXUkp1MFBFNFJOMXd6Nk1VMmtIZ0ZpcjJRaUZWMUFyTkp4X3VXMUtmSmx3eERWUzZHeUxXNkRQM0NyRDBVb21ESjEyVzlaN3hIOURtX2lIMGtlVXIxR2JManLSAcwBQVVfeXFMUFFZNkx4TlR6TXN3WTRmMXY1d2NEWnB3ejJDOE5XcVg5S1BxZzMwRlFJWU9TM2NncGZkcVFtYm9HZ1d4RTM4OW9sYkNva0J6eFY5RkwwOFdQdmtqVmxhdTUzS0YwekJVSzFGNTNLYUlPMXBmV1JKdTBQRTRSTjF3ejZNVTJrSGdGaXIyUWlGVjFBck5KeF91VzFLZkpsd3hEVlM2R3lMVzZEUDNDckQwVW9tREoxMlc5Wjd4SDlEbV9pSDBrZVVyMUdiTGpy?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "yWlZWeU1VZGlUR3B5P29jPTU",
+   "date": "2026-10-25",
+   "title": "How Starlink, Starshield pause exposed Ukraine’s drone warfare vulnerability",
+   "summary": "How Starlink, Starshield pause exposed Ukraine’s drone warfare vulnerability The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTXE0WnZhZTZCdXVNTm5VOUQtWGp3NEVSWDFsa005a0Y2akFWaU5SenJSbkNqbzY3Z1lTWmNCWXFmVU9PTmpZZWNNVWRqaUM2VUZzQXFsUUFFdXdhU0FrWmpLT0tWLUR3cDVJRkNiZ0lQczJqaGNmUnlPMTRVWHNXOXl1Z3h3alhtUmpNYmEwY0Fza0YwekZ3a1RhZnRrQW1BTjZOTlRoMC03RThsVVRDRF9WbDdWX3FDdlpFZGNGOVZZcl8yZHfSAcwBQVVfeXFMUFFZNkx4TlR6TXN3WTRmMXY1d2NEWnB3ejJDOE5XcVg5S1BxZzMwRlFJWU9TM2NncGZkcVFtYm9HZ1d4RTM4OW9sYkNva0J6eFY5RkwwOFdQdmtqVmxhdTUzS0YwekJVSzFGNTNLYUlPMXBmV1JKdTBQRTRSTjF3ejZNVTJrSGdGaXIyUWlGVjFBck5KeF91VzFLZkpsd3hEVlM2R3lMVzZEUDNDckQwVW9tREoxMlc5Wjd4SDlEbV9pSDBrZVVyMUdiTGpy?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
    "id": "cnRpY2xlNzE2MTkwMjIuZWNl",
    "date": "2026-10-25",
    "title": "IMD warns of heavy rainfall over several T.N. districts; red alert for five districts in Keralam | Updates",
@@ -679,6 +795,168 @@
    "section": "International",
    "topics": [
     "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYyMzkxMC5lY2U",
+   "date": "2026-10-25",
+   "title": "BEL to invest ₹2,500 crore in defence ecosystem in Sri Sathya Sai district",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/bel-to-invest-2500-crore-in-defence-ecosystem-in-sri-sathya-sai-district/article71623910.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjIzNzMzLmVjZQ",
+   "date": "2026-10-25",
+   "title": "Free travel scheme: Keralam govt. releases ₹88.23 crore to KSRTC to cover revenue loss",
+   "summary": "From September 1 to September 30, a total of 4,16,41,303 women passengers made use of the ‘Priyadarshini’ free travel scheme",
+   "link": "https://www.thehindu.com/news/national/kerala/free-travel-scheme-keralam-govt-releases-8823-crore-to-ksrtc-to-cover-revenue-loss/article71623733.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYyMzUwMy5lY2U",
+   "date": "2026-10-25",
+   "title": "Concerns about quality of health care, unemployment, as RMPs in Keralam cross one-lakh mark",
+   "summary": "As many as 31,446 doctors got their registrations between 2021 and 2025, show data from the Kerala State Medical Councils",
+   "link": "https://www.thehindu.com/news/national/kerala/concerns-about-quality-of-health-care-unemployment-as-rmps-in-keralam-cross-one-lakh-mark/article71623503.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYyMzUwMC5lY2U",
+   "date": "2026-10-25",
+   "title": "Gem Granites Veeramani case: Chennai Police issue LOC restraining five suspects from leaving India",
+   "summary": "One more POCSO Act case against ‘Gem Granites’ owner Veeramani",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/gem-granites-veeramani-case-chennai-police-issue-loc-restraining-five-suspects-from-leaving-india/article71623500.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MjM1MDIuZWNl",
+   "date": "2026-10-25",
+   "title": "BSF, REVA University organise Fit India Walkathon",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/karnataka/bsf-reva-university-organise-fit-india-walkathon/article71623502.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjIzNjU4LmVjZQ",
+   "date": "2026-10-25",
+   "title": "Kalpathy delegation visits Tamil Nadu temples ahead of chariot fest",
+   "summary": "The delegation offered prayers and presented festival invitations to the temple",
+   "link": "https://www.thehindu.com/news/national/kerala/kalpathy-delegation-visits-tamil-nadu-temples-ahead-of-chariot-fest/article71623658.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYyMzMxMi5lY2U",
+   "date": "2026-10-25",
+   "title": "Naidu puts officials on high alert as cyclone nears Andhra Pradesh coast",
+   "summary": "Ten NDRF and 11 SDRF teams kept ready; landfall likely between Bapatla and Visakhapatnam on October 28",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-puts-officials-on-high-alert-as-cyclone-nears-andhra-pradesh-coast/article71623312.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYyMzU2MC5lY2U",
+   "date": "2026-10-25",
+   "title": "Award-winning theoretical physicist Ashoke Sen has focused on string theory",
+   "summary": "Ashoke Sen becomes first Indian to win 2026 Oskar Klein Medal, awarded by Stockholm University and Nobel Committee for Physics of the Royal Swedish Academy of Sciences",
+   "link": "https://www.thehindu.com/sci-tech/science/award-winning-theoretical-physicist-ashoke-sen-has-focused-on-string-theory/article71623560.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjIzMDgwLmVjZQ",
+   "date": "2026-10-25",
+   "title": "Kerala High Court to consider appeal of Pinarayi Vijayan against registration of FIR in CMRL-Exalogic pay-off case on October 26, 2026",
+   "summary": "The former Keralam CM, others have secured a favourable order from the Supreme Court against an order of the Division Bench, which refused them leave to challenge the Single Judge’s order",
+   "link": "https://www.thehindu.com/news/national/kerala/kerala-high-court-to-consider-appeal-of-pinarayi-vijayan-against-registration-of-fir-in-cmrl-exalogic-pay-off-case-on-october-26-2026/article71623080.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
    ],
    "gs": [
     "GS-2"
