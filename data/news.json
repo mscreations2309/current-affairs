@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T14:57:05.324Z",
+ "updated": "2026-10-25T18:24:14.710Z",
  "items": [
   {
    "id": "cnRpY2xlNzE2MjM2MzQuZWNl",
@@ -471,6 +471,139 @@
    "section": "Explained",
    "topics": [
     "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjIzMDA3LmVjZQ",
+   "date": "2026-10-25",
+   "title": "Owner, mahout booked for neglecting elephant in Kozhikode",
+   "summary": "Forest officials find signs of severe malnutrition and chain-related injuries during an inspection at Ekarool near Unnikulam",
+   "link": "https://www.thehindu.com/news/national/kerala/owner-mahout-booked-for-neglected-elephant-in-kozhikode/article71623007.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MjI0NTkuZWNl",
+   "date": "2026-10-25",
+   "title": "Monsoon tracker LIVE: Depression over Bay of Bengal set to become ‘very severe cyclonic storm’, cross A.P. coast by October 28",
+   "summary": "IMD says the cyclone is likely to cross the Andhra Pradesh and Yanam coasts on Wednesday morning, with winds of 115 kmph to 125 kmph, gusting to 140 kmph; set to have worse impact than last year’s Montha cyclone",
+   "link": "https://www.thehindu.com/news/national/cyclone-andhra-pradesh-odisha-live-updates-october-25-2026/article71622459.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-1"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxMzA5MjkwLmVjZQ",
+   "date": "2026-10-25",
+   "title": "The road ahead for the Asiatic lion",
+   "summary": "Six decades of conservation have increased the Asiatic lion population from about 100-150 to over 1,000, with nearly half now living outside the protected area; however, the species remains confined to single forested landscape, while habitat fragmentation, disease threats continue to pose major conservation challenges",
+   "link": "https://www.thehindu.com/news/national/the-road-ahead-for-the-asiatic-lion/article71309290.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzEzMDExMTguZWNl",
+   "date": "2026-10-25",
+   "title": "Why has West Bengal cleared land for the BSF now? | Explained",
+   "summary": "Why is West Bengal central to India’s border fencing project? What are the policy challenges?",
+   "link": "https://www.thehindu.com/news/national/why-has-west-bengal-cleared-land-for-the-bsf-now-explained/article71301118.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Internal Security & Defence",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzEyNDkxMzQuZWNl",
+   "date": "2026-10-25",
+   "title": "Is Yashwant Varma still a judge?",
+   "summary": "The power to resign at will protects judicial independence; when misused, it helps evade accountability; the report by the committee tasked with investigating charges of misbehaviour against former judge Varma is set to come up in Parliament; what will become of Varma now that he has resigned?",
+   "link": "https://www.thehindu.com/news/national/is-yashwant-varma-still-a-judge/article71249134.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTI3ODQ5MC5lY2U",
+   "date": "2026-10-25",
+   "title": "Beyond national interest: role of ethics and emotions in world politics",
+   "summary": "History offers numerous examples of ethics shaping international politics. Foreign policy is not merely an exercise in strategic calculation; it is also shaped by moral perceptions and collective emotions, as illustrated by the change in public perception towards the Israel-Palestine conflict",
+   "link": "https://www.thehindu.com/news/international/beyond-national-interest-role-of-ethics-and-emotions-in-world-politics/article71278490.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Polity & Governance",
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MjQzNzQuZWNl",
+   "date": "2026-10-25",
+   "title": "Israel presses ahead with West Bank operation as election approaches",
+   "summary": "The Hebron municipality said the operation displaced more than 2,600 people; the Army declined to say how long the operation might last.",
+   "link": "https://www.thehindu.com/news/international/israel-presses-ahead-with-west-bank-operation-as-election-approaches/article71624374.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Economy",
     "Internal Security & Defence"
    ],
    "gs": [
@@ -960,6 +1093,130 @@
    ],
    "gs": [
     "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYyNDEyNC5lY2U",
+   "date": "2026-10-25",
+   "title": "Muizzu could stir up anti-India campaign again: Former Maldives Minister Abdullah Shahid",
+   "summary": "Following Maldivian President Mohamed Muizzu’s Pakistan visit, Abdulla Shahid, running to be a presidential contender in 2028, hits out at Mr. Muizzu, saying the President will ‘try to create some narrative on hate’ before the elections",
+   "link": "https://www.thehindu.com/news/national/muizzu-could-stir-up-anti-india-campaign-again-former-maldives-minister-abdullah-shahid/article71624124.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MjM4NTAuZWNl",
+   "date": "2026-10-25",
+   "title": "Depression over Bay of Bengal set to become ‘very severe cyclonic storm’, cross A.P. coast by October 28",
+   "summary": "IMD says the cyclone is likely to cross the Andhra Pradesh and Yanam coasts on Wednesday morning, with winds of 115 kmph to 125 kmph, gusting to 140 kmph; set to have worse impact than last year’s Montha cyclone",
+   "link": "https://www.thehindu.com/news/national/odisha/depression-over-bay-of-bengal-set-to-become-very-severe-cyclonic-storm-cross-ap-coast-by-october-28/article71623850.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYyMzg1My5lY2U",
+   "date": "2026-10-25",
+   "title": "DPAP and BJP flay Farooq Abdullah’s remarks on Pakistan as ‘Kashmir’s saviour’",
+   "summary": "‘A leader who has taken an oath under the Indian Constitution cannot be allowed to question the country’s intentions towards its own people while giving political legitimacy to Pakistan’s narrative,’ BJP spokesperson says",
+   "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/ghulam-nabi-azad-altaf-thakur-flay-farooqabdullahs-remarks-on-pakistan-as-kashmirs-saviour/article71623853.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjIzNzg0LmVjZQ",
+   "date": "2026-10-25",
+   "title": "Kalaburagi’s GI-tagged tur dal wins PM’s praise after export to Maldives",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/karnataka/kalaburagis-gi-tagged-tur-dal-wins-pms-praise-after-maldives-export/article71623784.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjI0NDE1LmVjZQ",
+   "date": "2026-10-25",
+   "title": "U.K. PM Burnham says he is open to discussing EU free movement",
+   "summary": "Andy Burnham — who is trying to find ways to speed up Britain’s economy is due to meet top EU officials for a summit on November 20",
+   "link": "https://www.thehindu.com/news/international/uk-pm-burnham-says-he-is-open-to-discussing-eu-free-movement/article71624415.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYyNDM0NS5lY2U",
+   "date": "2026-10-25",
+   "title": "Netanyahu warns Iran may try to disrupt Israel election, says 'don't test us'",
+   "summary": "Benjamin Netanyahu, Israel's longest-serving prime minister, has focused heavily on hawkish national security statements in the final days of the campaign",
+   "link": "https://www.thehindu.com/news/international/netanyahu-warns-iran-may-try-to-disrupt-israel-election-says-dont-test-us/article71624345.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "d2MwNVdOM1pwTm0xWD9vYz01",
+   "date": "2026-10-25",
+   "title": "Why Emirates is increasingly betting on premium economy seats in India flights",
+   "summary": "Why Emirates is increasingly betting on premium economy seats in India flights The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaEU3M3hjckstdDdlZHliU3lHVWhjU0pwX3NvWFJPN2NhOUE2UWdYaTB0VGxKTFFEanNzSXVocDVNU09rYUVyNE1NZXVxY092RXlTRDdLa05KTnlobEs1Vm5VdXJ1RjAxQThnWEUyNG53bDUzSGdlV3ZMMzR4N0RzSTdvZUd4bmxNTE9fekF3TXpOd0p4bGMwSFYyM0o0UUtYWWpTUGxycVZXbGZwREVleFZSZEFIck92bnfSAcABQVVfeXFMT1JGWFMxQVZ3cE1odTNKUXhEX2l2UDZXbG1SZHdLcTZSQ1JXbjJMNlB4UGVCNk54TTZnMU9EcVBhTjN5ZElfMlVJMzB1MXE2SzBFdkFpSEhwNVdZN0tmMjNkSXduVmR4Q3FlS29lY0tUMmFuMUVxWXk3WkZZbEdJT2lZSlhEcGc0NVhtZ2dsRExrS2ZNZU5aUS14MHI3NS1fR1FBd3Q2T2NZcmRlSmhwMmdnb1ZtTVFwc05WN3ZpNm1X?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
    ],
    "score": 2,
    "important": false
