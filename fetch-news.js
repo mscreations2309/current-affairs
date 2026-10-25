@@ -173,7 +173,11 @@ function classify(item, feed) {
 
 async function fetchFeed(feed) {
   const res = await fetch(feed.url, {
-    headers: { "User-Agent": "Mozilla/5.0 (UPSC current affairs reader)" },
+    headers: {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+      "Accept": "application/rss+xml, application/xml, text/xml, */*",
+      "Accept-Language": "en-IN,en;q=0.9",
+    },
     signal: AbortSignal.timeout(30000),
   });
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
