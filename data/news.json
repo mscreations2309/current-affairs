@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T19:18:14.348Z",
+ "updated": "2026-10-26T23:52:09.724Z",
  "items": [
   {
    "id": "ydGljbGU3MTYyNzI1NS5lY2U",
@@ -15,6 +15,74 @@
    ],
    "gs": [
     "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MjgwOTguZWNl",
+   "date": "2026-10-27",
+   "title": "On Accession Day, Mehbooba reminds Centre of promises, says ‘trust broken’",
+   "summary": "October 26 was introduced as an official holiday in J&K during the Central rule in 2020, immediately after the abrogation of provisions of Article 370 in 2019",
+   "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/on-accession-day-mehbooba-reminds-centre-of-promises-says-trust-broken/article71628098.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYyNzg1Ni5lY2U",
+   "date": "2026-10-27",
+   "title": "Ruling NC to reshuffle, expand J&K Cabinet on October 27; ally Congress to stay away",
+   "summary": "J&K Lieutenant Governor Manoj Sinha will administer the oath of office and secrecy to legislators into the Council of Ministers at Lok Bhavan Auditorium in Srinagar",
+   "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/ruling-nc-to-reshuffle-expand-jk-cabinet-on-october-27-ally-congress-to-stay-away/article71627856.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYyNzA1NC5lY2U",
+   "date": "2026-10-27",
+   "title": "Media association challenges privacy law in Supreme Court",
+   "summary": "A three-judge Bench headed by Chief Justice of India Surya Kant is scheduled to hear a batch of petitions filed by activists on October 27",
+   "link": "https://www.thehindu.com/news/national/indian-publishers-contest-modi-governments-privacy-law/article71627054.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MjgzMTYuZWNl",
+   "date": "2026-10-27",
+   "title": "A ready solution to tackle anaemia",
+   "summary": "Double fortified salt offers a scalable solution to one of India’s most pressing public health challenges",
+   "link": "https://www.thehindu.com/opinion/op-ed/a-ready-solution-to-tackle-anaemia/article71628316.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
    ],
    "score": 2,
    "important": false
