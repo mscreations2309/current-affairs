@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T21:46:42.949Z",
+ "updated": "2026-10-26T00:22:27.091Z",
  "items": [
   {
    "id": "cnRpY2xlNzE2MjQwMTYuZWNl",
@@ -50,6 +50,25 @@
    ],
    "gs": [
     "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MjQ4NDUuZWNl",
+   "date": "2026-10-26",
+   "title": "Serbia's student movement ousts longtime leader in Parliament poll",
+   "summary": "The victory in the snap vote comes after nearly two years of anti-government protests sparked by the 2024 collapse of a canopy at Novi Sad railway station that killed 16 people",
+   "link": "https://www.thehindu.com/news/international/serbias-student-movement-ousts-longtime-leader-in-parliament-poll/article71624845.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Polity & Governance",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
    ],
    "score": 2,
    "important": false
