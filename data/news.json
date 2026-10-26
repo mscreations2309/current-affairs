@@ -1,6 +1,24 @@
 {
- "updated": "2026-10-26T13:04:21.141Z",
+ "updated": "2026-10-26T19:18:14.348Z",
  "items": [
+  {
+   "id": "ydGljbGU3MTYyNzI1NS5lY2U",
+   "date": "2026-10-27",
+   "title": "Tiger Shroff firing case: Custody of four accused extended till Oct 28; 11th accused remanded till Oct 31",
+   "summary": "Mumbai Crime Branch seeks to trace weapon supply, Signal communications and local support network; defence questions need for further custody",
+   "link": "https://www.thehindu.com/news/cities/mumbai/tiger-shroff-attack-police-custody-of-4-extended-till-october-28-voice-samples-needed-say-cops/article71627255.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
   {
    "id": "cnRpY2xlNzE2MjYxOTUuZWNl",
    "date": "2026-10-26",
@@ -23,6 +41,25 @@
    "important": true
   },
   {
+   "id": "ydGljbGU3MTYyODUxOC5lY2U",
+   "date": "2026-10-26",
+   "title": "Russia says open to mini Ukraine ceasefires, but no letup in war",
+   "summary": "A ceasefire is to start in the southern Ukrainian city early October 27, brokered by U.S. First Lady Melania Trump after months of reports that residents faced dire food, water and medicine shortages",
+   "link": "https://www.thehindu.com/news/international/russia-says-open-to-mini-ukraine-ceasefires-but-no-let-up-in-war/article71628518.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 6,
+   "important": true
+  },
+  {
    "id": "ydGljbGU3MTYyNTc5Mi5lY2U",
    "date": "2026-10-26",
    "title": "Six injured in Russian strikes on Ukraine’s Zaporizhzhia, Chernihiv, officials say",
@@ -38,6 +75,23 @@
    "gs": [
     "GS-2",
     "GS-3"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "ydGljbGU3MTYyODYxNS5lY2U",
+   "date": "2026-10-26",
+   "title": "Rubio to host G20 Foreign Ministers’ meet in Atlanta on Oct 30-31",
+   "summary": "U.S. President Donald Trump is scheduled to host the G20 Leaders’ Summit in Miami on December 14-15",
+   "link": "https://www.thehindu.com/news/international/rubio-to-host-g20-foreign-ministers-meet-in-atlanta-on-oct-30-31/article71628615.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
    ],
    "score": 5,
    "important": true
@@ -197,6 +251,78 @@
    "title": "Centre committed to reducing fiscal deficit, national debt to be capped at 50% of GDP by 2030: FM Sitharaman",
    "summary": "Finance Minister Nirmala Sitharaman said the Centre remains committed to reducing the fiscal deficit and aims to cap national debt at 50% of GDP by 2030. She also highlighted measures to control inflation and protect consumers from price shocks.",
    "link": "https://www.livemint.com/economy/centre-committed-to-reducing-fiscal-deficit-national-debt-to-be-capped-at-50-of-gdp-by-2030-fm-sitharaman-11793017196193.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYyODA0OS5lY2U",
+   "date": "2026-10-26",
+   "title": "Health Department readies 6,431 emergency beds for cyclone",
+   "summary": "630 medical teams, 716 vehicles kept ready; 1,075 pregnant women shifted to hospitals",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/health-department-readies-6431-emergency-beds-for-cyclone/article71628049.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYyNzk5Ni5lY2U",
+   "date": "2026-10-26",
+   "title": "NDRF deploys nine teams in A.P. and Yanam for cyclone response",
+   "summary": "Five teams kept in reserve; schools and colleges to remain closed on October 27 and 28",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/ndrf-deploys-nine-teams-in-ap-and-yanam-for-cyclone-response/article71627996.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-1",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjI3MjAyLmVjZQ",
+   "date": "2026-10-26",
+   "title": "UN-commissioned experts say Gaza ceasefire has not stopped Israel from committing genocide",
+   "summary": "The findings by the Commission of Inquiry on the Occupied Palestinian Territory could be used by prosecutors at the International Criminal Court or in other jurisdictions to try to bring justice to victims and their relatives",
+   "link": "https://www.thehindu.com/news/international/un-commissioned-experts-say-gaza-ceasefire-has-not-stopped-israel-from-committing-genocide/article71627202.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "xNzkzMDE2MDMxOTQxLmh0bWw",
+   "date": "2026-10-26",
+   "title": "World's largest real-time payment system; 2,400 crore monthly transactions: FM Sitharaman on India's UPI revolution",
+   "summary": "The finance minister highlights India's digital payments growth at the inauguration of the RBI's Bhubaneswar campus.",
+   "link": "https://www.livemint.com/economy/worlds-largest-real-time-payment-system-2-400-crore-monthly-transactions-fm-sitharaman-on-indias-upi-revolution-11793016031941.html",
    "source": "Mint",
    "section": "Economy",
    "topics": [
@@ -686,6 +812,292 @@
    "section": "Explained",
    "topics": [
     "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjI3NDg0LmVjZQ",
+   "date": "2026-10-26",
+   "title": "Kuttiadi eyes river circuit to tap tourism potential",
+   "summary": "The proposed projects include a heritage walking trail and a happiness park in Kuttiadi; birdwatching, farm tourism and a walkway at Cherandathur Chira",
+   "link": "https://www.thehindu.com/news/national/kerala/kuttiadi-eyes-river-circuit-to-tap-tourism-potential/article71627484.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjI4MzkwLmVjZQ",
+   "date": "2026-10-26",
+   "title": "Kuki-Zo insurgent camp taken over by CRPF in Manipur among two to be relocated under MHA deal",
+   "summary": "Police say 17 people found in Sinai camp were “impersonating” registered cadres; Kuki-Zo insurgent group says they were long-term residents, calls for Central intervention; SoO camps no longer “untouchable”, says senior official",
+   "link": "https://www.thehindu.com/news/national/manipur/kuki-zo-insurgent-camp-taken-over-by-crpf-in-manipur-among-two-to-be-relocated-under-mha-deal/article71628390.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2Mjc5MDEuZWNl",
+   "date": "2026-10-26",
+   "title": "Explosions reported at two locations in Kannavam",
+   "summary": "Explosions were reported near the Kannavam Range Forest Office and at Chunda around 11.10 p.m. on Sunday. Preliminary assessments suggest that crude bombs may have been used.",
+   "link": "https://www.thehindu.com/news/national/kerala/explosions-reported-at-two-locations-in-kannavam/article71627901.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MjgzNjcuZWNl",
+   "date": "2026-10-26",
+   "title": "Vice-President calls for expansion of medical research in Universities",
+   "summary": "C. P. Radhakrishnan encourages students to dedicate their lives to finding solutions to health issues that plague society, and says the country has an adequate number of undergraduate and postgraduate medical students, and now focus must be on expanding research",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/vice-president-calls-for-expansion-of-medical-research-in-universities/article71628367.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MjgyOTAuZWNl",
+   "date": "2026-10-26",
+   "title": "CEC can be removed only like a Supreme Court judge, ECI tells top court",
+   "summary": "A common affidavit filed for the EC, CEC Kumar and Election Commissioners Sandhu and Joshi say that any attempt to restrain the CEC’s functioning is contrary to the 2023 Act; asserts that Form 6 was not amended; West Bengal CEO’s officers filed appeals against inclusions",
+   "link": "https://www.thehindu.com/news/national/cec-can-be-removed-only-like-a-supreme-court-judge-eci-tells-top-court/article71628290.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjI4MDc1LmVjZQ",
+   "date": "2026-10-26",
+   "title": "Schools shut, relief measures intensified in three North Andhra districts as cyclone nears",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/schools-shut-relief-measures-intensified-in-three-north-andhra-districts-as-cyclone-nears/article71628075.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2Mjc3MTQuZWNl",
+   "date": "2026-10-26",
+   "title": "Provide 2.5% reservation to students of govt-aided schools in medical college admissions: Anbumani",
+   "summary": "Poor and disadvantaged students studying in government-aided schools are being denied social justice in admissions to medical courses, says PMK leader",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/provide-25-reservation-to-students-of-govt-aided-schools-in-medical-college-admissions-anbumani/article71627714.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYyNjk5MC5lY2U",
+   "date": "2026-10-26",
+   "title": "Very severe cyclone ‘Arnab’ to make landfall near Yanam-Kakinada; red alert issued for seven districts",
+   "summary": "Kakinada, East Godavari, Dr. B.R. Ambedkar Konaseema, Eluru, West Godavari, Alluri Sitharama Raju, and Anakapalli districts likely to experience isolated extremely heavy rainfall, while Vizianagaram, Visakhapatnam, NTR, Krishna, Guntur, Bapatla, Srikakulam, Parvathipuram Manyam likely to receive heavy to very heavy rainfall on October 27",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/very-severe-cyclone-arnab-to-make-landfall-near-yanam-kakinada-red-alert-issued-for-seven-districts/article71626990.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYyNzQxNy5lY2U",
+   "date": "2026-10-26",
+   "title": "Delhi teenager’s Project Sadak logs 2,927 road complaints across Delhi, Mumbai, Bengaluru; tracks 190 repairs",
+   "summary": "Inspired by an accident that left his parents injured, the 16-year-old built an AI-powered platform to report potholes and other road hazards, identify the departments responsible and track repairs.",
+   "link": "https://www.thehindu.com/news/cities/Delhi/delhi-teenagers-project-sadak-logs-2927-road-complaints-across-delhi-mumbai-bengaluru-tracks-190-repairs/article71627417.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYyNzU3OS5lY2U",
+   "date": "2026-10-26",
+   "title": "Fate of voters deleted during SIR hangs in balance for upcoming municipal polls in Kolkata",
+   "summary": "Opposition parties as well as civil society members in West Bengal have demanded that the State Election Commission in view of the large number of eligible electors deleted from the electoral roll under SIR, consider holding elections only after the conclusion of the special re-enrolment drive and SSR",
+   "link": "https://www.thehindu.com/news/national/west-bengal/fate-of-voters-deleted-during-sir-hangs-in-balance-for-upcoming-municipal-polls-in-kolkata/article71627579.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjI4NDAwLmVjZQ",
+   "date": "2026-10-26",
+   "title": "Iran, Mecca pact countries agree to continue talks after 'first' meeting: state media",
+   "summary": "The meeting brought Iran together with representatives from Saudi Arabia, Pakistan and Turkey, says broadcaster",
+   "link": "https://www.thehindu.com/news/international/iran-mecca-pact-countries-agree-to-continue-talks-after-first-meeting-state-media/article71628400.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjI4MzM5LmVjZQ",
+   "date": "2026-10-26",
+   "title": "Watch: Lula defeats far-right Bolsonaro to secure a fourth presidential term | Above the Fold | Oct 26, 2026",
+   "summary": "Lula wins a historic fourth term in Brazil, Serbia’s ruling party is ousted after student-led protests, and Marine Le Pen launches her presidential bid in France. Meanwhile, Israel votes in parliamentary elections amid uncertainty over Benjamin Netanyahu’s coalition.",
+   "link": "https://www.thehindu.com/videos/shows/watch-lula-defeats-far-right-bolsonaro-to-secure-a-fourth-presidential-term-above-the-fold-oct-26-2026/article71628339.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYyNjYzNi5lY2U",
+   "date": "2026-10-26",
+   "title": "The Hindu Group, Cancer Institute launch book on comprehensive cancer care",
+   "summary": "Cancer 360 examines detection, treatment, rehabilitation and palliation",
+   "link": "https://www.thehindu.com/sci-tech/health/the-hindu-group-cancer-institute-launch-book-on-comprehensive-cancer-care/article71626636.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjI3ODEyLmVjZQ",
+   "date": "2026-10-26",
+   "title": "Dubious retreat: on the National Medical Commission and its MSMER",
+   "summary": "The National Medical Commission must not be seen as lax on regulation",
+   "link": "https://www.thehindu.com/opinion/editorial/dubious-retreat-on-the-national-medical-commission-and-its-msmer/article71627812.ece",
+   "source": "The Hindu",
+   "section": "Editorial",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjI3ODQwLmVjZQ",
+   "date": "2026-10-26",
+   "title": "A final surge: on Luiz Inácio Lula da Silva’s triumph in Brazil",
+   "summary": "Lula is the resistance to U.S. imperial ambitions in South America",
+   "link": "https://www.thehindu.com/opinion/editorial/a-final-surge-on-luiz-inacio-lula-da-silvas-triumph-in-brazil/article71627840.ece",
+   "source": "The Hindu",
+   "section": "Editorial",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "JMV1V3TUROYVlXVXg_b2M9NQ",
+   "date": "2026-10-26",
+   "title": "Israel elections: Why only coalitions have ruled so far, could this time be different",
+   "summary": "Israel elections: Why only coalitions have ruled so far, could this time be different The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTXhFaWRfamZNYzlwQjQ4c0ZrbDA1LXJoelRiRG9jRWx5XzR2WERaei1sTUwyVl9zcXJwTDZFemNwV1ZTS3dRNHBRb1RBbVY5LVM1NU1KUVl0QXFXQm85OGlYN2RhVlN0MFJFbkY5Vy1NcmhKMHFZeEcxZWJtbUY3czNKM0hhRHFlMzB3YWthcUpYTmtPMVVwRDNHcVZOX1hYand1TGdOT21BR0dlQlkzakNGVXpDdVVMVnZFVUIxU3ZuVElsVzdIQlJjOTBGbmRQRVHSAdgBQVVfeXFMTWdha3hCLUdMRlJoVVpsNEJqeFJYb1JPZGJUbmhOdFJRTVZUVkJKaUlUY2pONkxjZGhoMklXTlNkU3BjQjluZFV6c3Z3S2JDSWowN2M3X3pFMDNROXI5Y05YRnNWRnFHX1p0VkxkT1Z3ZnFqRXBPQTJqa0xhMXpOSkpZMjlDRWh0TWZuUFB4MURPVjRONklmR29Kb0VtOHVubE5xVlpTSERfbUpRX01TS1d3RFFoWVhNb2FQZEVvNXIyX1EwZy1qWlBlVnVRWktRLWUwMDNaYWUx?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations"
    ],
    "gs": [
     "GS-2"
