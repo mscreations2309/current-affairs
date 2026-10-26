@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-26T00:22:27.091Z",
+ "updated": "2026-10-26T06:11:40.115Z",
  "items": [
+  {
+   "id": "ydGljbGU3MTYyNTQ3Mi5lY2U",
+   "date": "2026-10-26",
+   "title": "Tamil Nadu receives heavy rainfall; schools closed in several districts on Oct. 26",
+   "summary": "The IMD, in its latest bulletin, said a depression over the Bay of Bengal had moved southwestwards during the past six hours and intensified into a deep depression",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-heavy-rainfall-cyclone-arnab-on-october-26-2026/article71625472.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-1",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MjU0NDYuZWNl",
+   "date": "2026-10-26",
+   "title": "Five economic challenges facing Brazil's re-elected President Lula",
+   "summary": "Lula plans a new round of debt relief, this time through discounted purchases of distressed household loans from banks, plus tax ⁠debt forgiveness for some small business owners",
+   "link": "https://www.thehindu.com/news/international/major-economic-challenges-brazil-faces-under-lulas-new-term/article71625446.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "HTUc0Mk5sUm1SMkZSP29jPTU",
+   "date": "2026-10-26",
+   "title": "Why Rs 190 crore post-flood Loss and Damage Fund payout to Nepal matters",
+   "summary": "Why Rs 190 crore post-flood Loss and Damage Fund payout to Nepal matters The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZUx5OVNyQVFjMXV5RUZBX0lGS05oYmZ4cGZmaW5YN2VNY0V3M1hrbm1EMEFlZGpPNGdNcTVxUkFvS3YtTkZNQU81Mnh4dExPclM0OV9aVVhVaTM0VVA2LWhYY0tmZ2xMUndwRXNMV0Y1R29UMnNfNVRIUDBfcHVibXA2NEdwem1ycDl6ZUktNEZQVXdXZWdxWG5iNndDNlZmbFRhSEZ5VGhNV3JGUUR1dk9qVkw1UUFERUt3TFZpTG9tM3gybXl3MU1XYjBFTVBqbmV1eUVmQzR3eG4y0gHjAUFVX3lxTE95dnMwXzJQOGhsSFdjd3YxWnRtZ1pndGlFM1ZFZ3BpdHQwTnp2MEhROE96VUJsSXM5SExKY2FuWWUtU1U2dnNWMFdYNmhVNjFpVGZEdUlYR295Mk55U0x6dG5ELUp1bzUxYVhDYlpIcG9ObV9HNG5KNXpHSUxxQ0c5cnRodTZ3aFFubDN2UWRZZXBYMVN0NWpla0phMlVMbDFjVE5JcklDUnI1WktKOGlnbTVpN05VZ1M0SnNlR05VVUdHRlZOYUFvdkt1X0p4T1dSbWc4aFVHMjZGMG42NlRmR2FR?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 3,
+   "important": false
+  },
   {
    "id": "cnRpY2xlNzE2MjQwMTYuZWNl",
    "date": "2026-10-26",
@@ -74,6 +129,183 @@
    "important": false
   },
   {
+   "id": "ydGljbGU3MTYyNTY0NS5lY2U",
+   "date": "2026-10-26",
+   "title": "Jamia University orders student union polls within 15 days of constitution approval; two students continue hunger strike",
+   "summary": "With no assurances on resignation of the Vice-Chancellor and the Chief Proctor, two students are continuing their hunger strike",
+   "link": "https://www.thehindu.com/news/cities/Delhi/jamia-university-orders-student-union-polls-within-15-days-of-constitution-approval-two-students-continue-hunger-strike/article71625645.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYyNTU2MC5lY2U",
+   "date": "2026-10-26",
+   "title": "Deep depression intensifies into Cyclonic Storm Arnab",
+   "summary": "As per IMD bulletin, the cyclone is very likely to move west-northwestwards and intensify further into a severe cyclonic storm over westcentral Bay of Bengal by midnight of October 26, 2026",
+   "link": "https://www.thehindu.com/news/national/odisha/deep-depression-intensifies-into-cyclonic-storm-arnab/article71625560.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjI1NDM3LmVjZQ",
+   "date": "2026-10-26",
+   "title": "Lula wins a record fourth presidential term as Brazil defeats far-right, defies Trump and Meta",
+   "summary": "As the prospect of a Bolsonaro presidency caused a major concern among the young, especially about public education, healthcare and transport, millions of people joined weekly rallies across the country, pledging support for Mr. Lula and demanding protection of public services",
+   "link": "https://www.thehindu.com/news/international/brazils-lula-da-silva-defies-odds-to-clinch-poll-victory-against-flavio-bolsonaro/article71625437.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYyNTYzOC5lY2U",
+   "date": "2026-10-26",
+   "title": "China’s Communist Party elite hold key talks on governance",
+   "summary": "Few details from the closed-door gathering, held under tight security, will be made known until it concludes on October 29, 2026, but the timing of the meeting is crucial",
+   "link": "https://www.thehindu.com/news/international/communist-partys-central-committee-meeting-in-beijing-xi-jinping/article71625638.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Polity & Governance",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MjU1NTMuZWNl",
+   "date": "2026-10-26",
+   "title": "Israel markets see upside in Netanyahu defeat after three-year rally",
+   "summary": "Opinion polls point to a ‌tight contest, with neither Mr. Netanyahu's ruling Likud bloc nor an opposition alliance centred on former military chief Gadi Eisenkot expected ​to secure the 61 seats in the 120-seat Knesset needed to govern",
+   "link": "https://www.thehindu.com/news/international/israeli-markets-rally-on-netanyahu-defeat-hopes/article71625553.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjI1NDU5LmVjZQ",
+   "date": "2026-10-26",
+   "title": "Trump invokes 9/11 in urging Michigan voters to oppose Muslim Senate candidate El-Sayed",
+   "summary": "If Mr. El-Sayed wins, he would be the first Muslim elected to the U.S. Senate",
+   "link": "https://www.thehindu.com/news/international/trump-urge-michigan-voters-to-oppose-muslim-senate-candidate-abdul-el-sayed/article71625459.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYyNTUzMy5lY2U",
+   "date": "2026-10-26",
+   "title": "Israel's Eisenkot vows unity as Netanyahu paints him as soft on Iran",
+   "summary": "Polls had shown Mr. Netanyahu and Mr. Eisenkot running neck and neck before a ban on new polling took effect in the three days before October 27 vote",
+   "link": "https://www.thehindu.com/news/international/israels-eisenkot-vows-unity-as-netanyahu-paints-him-as-soft-on-iran/article71625533.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "M01qbEdTRVZKVFRoVT9vYz01",
+   "date": "2026-10-26",
+   "title": "Farming under solar panels: Can agrivoltaics work in India without hurting crop yields?",
+   "summary": "Farming under solar panels: Can agrivoltaics work in India without hurting crop yields? The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaGx2N1F3TkFnZVMtT2tzNkwzSTVMX3E4R2ozM2lfSGEtdk5sX2VZUzE2dlZjRzVQbmJFSzl6T2VkOE1yVERHaWpIVVdKNDFXOExDQnBoMERWcE1HRjBmN0cyZjZzWWRMMGdjNlA3Qkl3OXRpVEtTcFlfMDRzRmpTU3R3cTR5Tmh0QnBWTjdOYWRZcjdHVnRxRXl1NENIZDh1TlhVcjIxR2s5Q20yUzBEZlNLeFRVRVNrSlHSAcABQVVfeXFMTl9xTWJJYnJOdmRCNXphNUJMckVTdUZJdDZsZmdpVzJUdS13cDRpVV9GeDBhZ3lTODJ2dkdHVEZ0SXh5ZTJuVWVvdjRSZnVQVC11RW5MSGRZeGFpUVZmcEZGWVFka1E5THctM2VNVVRIVGk0cmVrU2J1emVIMXhNUG5HeXFDTU0xdG83elAtVUYxRTAySU1fRkNWNFkxVG14VGZud080VjNOcUo4dWRkLTVrYXpXMHA3MjlGSEVJTThU?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ZE1Xbm96YzI5WFEzVT9vYz01",
+   "date": "2026-10-26",
+   "title": "As China’s leaders huddle for ‘Fifth Plenum’ today, an expert explains why the meeting matters",
+   "summary": "As China’s leaders huddle for ‘Fifth Plenum’ today, an expert explains why the meeting matters The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVzh5SzZYWVlDbndUbm9lSEdBSUVtTUQ4SENWVzFSSms0XzRBT0xpX25fVWNhdXQ0UlJvOG5hbkpRenhtSGVIUVpDTXRuUVIyOG5IeWU0QWxsclBEWWtCdWZKb1k4XzJJQk94MDl2UXB0eGdONjlJQWNad3hnZkhUZWJkcUdzR2VVdkExTVBjNEo3MnBRekxqU3E0VkphbC1veHpXMVFhOXAtVzFZYmpGbTJ30gG4AUFVX3lxTE5kN1VJdGFaUHI1NGpFVEFrMjRwcE1oR01PZWFHZC13RE9yWEd5YVoyLXhUT3RRcTNMREtzc3dtTC1LQUFlQ3ZUQjJ5QmlxTUppTlVDdW5QY3JhNTBzeFBYb0NmQ0VfRk1LaTluVlR5YmlXRXBhNXk5MlYzZFl0aEZ3QUtERTg4SDNWUG9Oam9fRVRBbG9CR19ySnJMR0VpbkJQYk5sMElQc3pvcGhsLWdMWnozc29XQ3U?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "xNzkyOTgwMjAzODc2Lmh0bWw",
+   "date": "2026-10-26",
+   "title": "Yen turns into better hedge against AI-driven market shock, thanks to Japan’s policy backdrop changes: Goldman Sachs",
+   "summary": "Goldman Sachs says the yen is becoming a more effective hedge against an AI-driven market shock as Japan’s policy backdrop reduces its vulnerability to rising global yields.",
+   "link": "https://www.livemint.com/economy/yen-turns-into-better-hedge-against-ai-driven-market-shock-thanks-to-japan-s-policy-backdrop-changes-goldman-sachs-11792980203876.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Polity & Governance",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
    "id": "cnRpY2xlNzE2MjM2MzQuZWNl",
    "date": "2026-10-25",
    "title": "LS Speaker Om Birla meets counterparts from Cuba, Russia ahead of BRICS parliamentary forum meeting",
@@ -105,6 +337,26 @@
    "topics": [
     "Health & Social Issues",
     "Polity & Governance",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "J0aWNsZTcxNjIyODQ0LmVjZQ",
+   "date": "2026-10-25",
+   "title": "How poor education, training infra constrains India's military space plans",
+   "summary": "Despite its proper structure, India’s only dedicated space university has just 1,356 students across all levels, a small base to feed a rapidly scaling space and defence-space programme",
+   "link": "https://www.thehindu.com/education/specialised-institutes-funding-required-to-boost-indias-military-space-mission/article71622844.ece",
+   "source": "The Hindu",
+   "section": "Science",
+   "topics": [
+    "Health & Social Issues",
+    "Internal Security & Defence",
     "Science & Technology"
    ],
    "gs": [
@@ -681,6 +933,25 @@
    "gs": [
     "GS-2",
     "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxMzI4MjA5LmVjZQ",
+   "date": "2026-10-25",
+   "title": "UPI and the cost of policy reversal",
+   "summary": "The government’s proposal to allow an MDR of 0.25–0.5% on UPI transactions above ₹2,000 reverses a decade-long policy; taxing the payment rail could weaken incentives for banks and fintechs to invest in UPI while undermining its role in financial inclusion, formalisation and wider digital adoption",
+   "link": "https://www.thehindu.com/business/Economy/upi-and-the-cost-of-policy-reversal/article71328209.ece",
+   "source": "The Hindu",
+   "section": "Economy",
+   "topics": [
+    "Economy",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
    ],
    "score": 3,
    "important": false
@@ -1286,6 +1557,24 @@
    "section": "Explained",
    "topics": [
     "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MjMwNzguZWNl",
+   "date": "2026-10-25",
+   "title": "Swiping in dark: The hidden cost of plastic money",
+   "summary": "It’s easy to swipe a card to satisfy a desire and gratify an impulse. However, unmindful swipe scan accumulate into a mountain of debt, take a toll on monthly budget, and derail financial goals",
+   "link": "https://www.thehindu.com/business/swiping-in-dark-the-hidden-cost-of-plastic-money/article71623078.ece",
+   "source": "The Hindu",
+   "section": "Economy",
+   "topics": [
+    "Economy",
+    "Environment & Ecology"
    ],
    "gs": [
     "GS-3"
