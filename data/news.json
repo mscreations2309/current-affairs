@@ -1,6 +1,64 @@
 {
- "updated": "2026-10-26T06:11:40.115Z",
+ "updated": "2026-10-26T13:04:21.141Z",
  "items": [
+  {
+   "id": "cnRpY2xlNzE2MjYxOTUuZWNl",
+   "date": "2026-10-26",
+   "title": "Why Poland wants a stronger relationship with India | The Hindu Editorial",
+   "summary": "Why is Poland seeking a closer partnership with India? Polish Prime Minister Donald Tusk’s visit to India highlighted growing cooperation in trade, technology, defence, critical minerals, renewable energy and geopolitical coordination. With India and the European Union preparing to finalise a landmark Free Trade Agreement, Poland is positioning itself as a key European partner for New Delhi. This ",
+   "link": "https://www.thehindu.com/videos/why-poland-wants-a-stronger-relationship-with-india-the-hindu-editorial/article71626195.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Geography & Disasters",
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1",
+    "GS-3"
+   ],
+   "score": 8,
+   "important": true
+  },
+  {
+   "id": "ydGljbGU3MTYyNTc5Mi5lY2U",
+   "date": "2026-10-26",
+   "title": "Six injured in Russian strikes on Ukraine’s Zaporizhzhia, Chernihiv, officials say",
+   "summary": "President Volodymyr Zelenskiy said Kyiv would halt strikes on Russian oil refineries only if Moscow stopped hitting power infrastructure, or if the U.S. supplied Patriot missiles or allowed Starshield use over Russia",
+   "link": "https://www.thehindu.com/news/international/six-injured-in-russian-strikes-on-ukraines-zaporizhzhia-chernihiv-officials-say/article71625792.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Economy",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "J0aWNsZTcxNjI3MDQzLmVjZQ",
+   "date": "2026-10-26",
+   "title": "Maharashtra wildlife board approves sanctuary status for two forest areas, 14 conservation reserves",
+   "summary": "The Kolamarka Conservation Reserve in Gadchiroli district, known for its population of wild buffaloes, has been approved for declaration as a wildlife sanctuary",
+   "link": "https://www.thehindu.com/news/national/maharashtra/maharashtra-wildlife-board-approves-sanctuary-status-for-two-forest-areas-14-conservation-reserves/article71627043.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
   {
    "id": "ydGljbGU3MTYyNTQ3Mi5lY2U",
    "date": "2026-10-26",
@@ -52,6 +110,100 @@
    "gs": [
     "GS-2",
     "GS-1"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MjY4MjQuZWNl",
+   "date": "2026-10-26",
+   "title": "Government amends motor vehicle rules to permit pure ethanol flex-fuel vehicles",
+   "summary": "The Ministry of Road Transport and Highways (MoRTH) has changed certain vehicle classification thresholds, fuel specifications, and technical references used in emission-related tables and testing provisions",
+   "link": "https://www.thehindu.com/news/national/government-amends-motor-vehicle-rules-to-permit-pure-ethanol-flex-fuel-vehicles/article71626824.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Economy",
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYyNjg3Ni5lY2U",
+   "date": "2026-10-26",
+   "title": "Supreme Court asks States, UTs to allocate funds to build bar rooms, washrooms for women advocates",
+   "summary": "A Bench comprising Chief Justice of India Surya Kant and Justices Joymalya Bagchi and V Mohana disapproved of the lack of ladies' bar rooms and said facilities should be provided to women advocates regardless of their numbers.",
+   "link": "https://www.thehindu.com/news/national/supreme-court-asks-states-uts-to-allocate-funds-to-build-bar-rooms-washrooms-for-women-advocates/article71626876.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjI2Nzg4LmVjZQ",
+   "date": "2026-10-26",
+   "title": "Israeli strikes in Gaza kill five including child: Civil Defence",
+   "summary": "Civil defence spokesman Mahmoud Bassal said a total of 13 people had been killed and about 60 wounded by Israeli fire and airstrikes in Gaza in the past 24 hours",
+   "link": "https://www.thehindu.com/news/international/israeli-strikes-in-gaza-kill-five-including-child-civil-defence/article71626788.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Health & Social Issues",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYyNTg0Ni5lY2U",
+   "date": "2026-10-26",
+   "title": "Iran says officials from Saudi, Turkiye, Pakistan to visit Tehran for security talks",
+   "summary": "The meeting was proposed during a visit by Pakistani Army chief Asim Munir to Tehran last week, says Ali Bagheri Kani, Deputy Secretary of Iran’s SNSC",
+   "link": "https://www.thehindu.com/news/international/iran-says-officials-from-saudi-turkiye-pakistan-to-visit-tehran-for-security-talks/article71625846.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "xNzkzMDE3MTk2MTkzLmh0bWw",
+   "date": "2026-10-26",
+   "title": "Centre committed to reducing fiscal deficit, national debt to be capped at 50% of GDP by 2030: FM Sitharaman",
+   "summary": "Finance Minister Nirmala Sitharaman said the Centre remains committed to reducing the fiscal deficit and aims to cap national debt at 50% of GDP by 2030. She also highlighted measures to control inflation and protect consumers from price shocks.",
+   "link": "https://www.livemint.com/economy/centre-committed-to-reducing-fiscal-deficit-national-debt-to-be-capped-at-50-of-gdp-by-2030-fm-sitharaman-11793017196193.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
    ],
    "score": 3,
    "important": false
@@ -301,6 +453,242 @@
    "gs": [
     "GS-2",
     "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjI2NzAzLmVjZQ",
+   "date": "2026-10-26",
+   "title": "Supreme Court notice to ED on realty company promoter’s bail plea in home buyers’ fraud case",
+   "summary": "The case pertains to allegations that Anil Mithas, promoter of a Noida-based real estate company, diverted funds collected from homebuyers by UFHL for its Aranya project, prompting money laundering proceedings by the agency",
+   "link": "https://www.thehindu.com/news/national/uttar-pradesh/supreme-court-notice-to-ed-on-realty-company-promoters-bail-plea-in-home-buyers-fraud-case/article71626703.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjI2NzkwLmVjZQ",
+   "date": "2026-10-26",
+   "title": "Gujarat govt. declares Devbhoomi Dwarka, Kutch, Jamnagar and Porbandar as drought-affected",
+   "summary": "Chief Minister Bhupendra Patel said the decision on drought declaration was taken as per the guidelines of the Centre after monsoon ended in the state; as per the Centre's 2016 guideline on drought, the announcement will be in effect for six months, Mr. Patel added.",
+   "link": "https://www.thehindu.com/news/national/gujarat/gujarat-govt-declares-devbhoomi-dwarka-kutch-jamnagar-and-porbandar-as-drought-affected/article71626790.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYyNjYwNS5lY2U",
+   "date": "2026-10-26",
+   "title": "Former DMK Minister Anbil Mahesh Poyyamozhi arrested in ₹100-crore private schools fraud case",
+   "summary": "Hours after his anticipatory bail plea was dismissed, Chennai Police took the former School Education Minister into custody in connection with an alleged multicrore scam",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/former-dmk-minister-anbil-mahesh-poyyamozhi-arrested/article71626605.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjI1NjM0LmVjZQ",
+   "date": "2026-10-26",
+   "title": "Cyclone Arnab: APEPDCL opens 41 control rooms, keeps 4,056 workers ready to restore power",
+   "summary": "People in Kakinada, East Godavari and Konaseema, the districts likely to bear the brunt, can report power problems on helpline 1912",
+   "link": "https://www.thehindu.com/news/cities/Visakhapatnam/cyclone-arnab-apepdcl-opens-41-control-rooms-keeps-4056-workers-ready-to-restore-power/article71625634.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-1",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MjU3MzYuZWNl",
+   "date": "2026-10-26",
+   "title": "Cyclone Arnab threatens Andhra’s municipal polls; SEC hopes to hold them on schedule",
+   "summary": "State Election Commissioner Anil Chandra Punetha expects normalcy within two days of the storm crossing the coast",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-threatens-andhras-municipal-polls-sec-hopes-to-hold-them-on-schedule/article71625736.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYyNTg2Ni5lY2U",
+   "date": "2026-10-26",
+   "title": "Madras High Court denies anticipatory bail to Anbil Mahesh Poyyamozhi in ₹100-crore private schools fraud case",
+   "summary": "Justice V. Lakshminarayanan dismisses his advance bail plea in a case being investigated by the Chennai Central Crime Branch police",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-denies-anticipatory-bail-to-anbil-mahesh-poyyamozhi-in-rs-100-crore-private-schools-fraud-case/article71625866.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYyNTc4OC5lY2U",
+   "date": "2026-10-26",
+   "title": "Trump says Canada trade deal coming ‘soon’",
+   "summary": "President Trump said at a Michigan rally that Canada was “willing to give us anything,” as the White House eased some tariffs following a request from Senator Susan Collins",
+   "link": "https://www.thehindu.com/news/international/trump-says-canada-trade-deal-coming-soon/article71625788.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MjU4MzAuZWNl",
+   "date": "2026-10-26",
+   "title": "Why did Tinder’s scam detection fail, and what should Indian users do?",
+   "summary": "U.S. lawmakers shared troubling statistics about how dating app users on Tinder and Hinge were matching with scammers, due to outdated AI protections",
+   "link": "https://www.thehindu.com/sci-tech/technology/why-did-tinders-scam-detection-fail-and-what-should-indian-users-do/article71625830.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjI1NTA1LmVjZQ",
+   "date": "2026-10-26",
+   "title": "Daily Quiz: On UN 81st anniversary",
+   "summary": "A quiz on the occasion of 81st anniversary of the United Nations",
+   "link": "https://www.thehindu.com/news/international/daily-quiz-on-un-81st-anniversary/article71625505.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYyNjA1NS5lY2U",
+   "date": "2026-10-26",
+   "title": "Seven caveats in the claim about turning mercury into gold with nuclear fusion",
+   "summary": "In a preprint paper uploaded to the arXiv repository in July 2025, Marathon scientists had predicted this process could produce roughly 2 tonnes of gold annually for every gigawatt (GW) of thermal fusion power",
+   "link": "https://www.thehindu.com/sci-tech/science/seven-caveats-in-the-claim-about-turning-mercury-into-gold-with-nuclear-fusion/article71626055.ece",
+   "source": "The Hindu",
+   "section": "Science",
+   "topics": [
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MjcwMjMuZWNl",
+   "date": "2026-10-26",
+   "title": "IIT Bombay develops low-cost device to screen for anaemia, sickle cell disease",
+   "summary": "The researchers said their patented automated smearing device can be manufactured cost-effectively and the test itself requires only a pipette, glass slides, an inexpensive chemical, vials for the sickling treatment, and a ruler or imaging device to measure smear length",
+   "link": "https://www.thehindu.com/sci-tech/health/iit-bombay-develops-low-cost-device-to-screen-for-anaemia-sickle-cell-disease/article71627023.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjI3MDI4LmVjZQ",
+   "date": "2026-10-26",
+   "title": "Most people globally face 'high genetic risk' for three common diseases: Study",
+   "summary": "The team analysed data from two major population biobanks that include whole genome sequencing, covering nearly one million individuals",
+   "link": "https://www.thehindu.com/sci-tech/health/most-people-globally-face-high-genetic-risk-for-three-common-diseases-study/article71627028.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "6RmlkbGN5YTFOR1p3P29jPTU",
+   "date": "2026-10-26",
+   "title": "Explained: Why the Supreme Court may be having too many Special Leave Petitions",
+   "summary": "Explained: Why the Supreme Court may be having too many Special Leave Petitions The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQanh1N09Ma1VUTkY5SEZQMGtKWG9pNG5CMkotN0RmSzg2WnBVMmplUUd0a0JwaGhOVnY4b2tqZnlPZkFmQjQ3dERkdTJfbjl5aUEybVJ2clF1MWx6bVFnVXJZV3dUb2lON3MyMVN1ZXFqeUlCM0hQc3pnN1lmV001RzdJSF9WdlQ0UTctdnJNUEtIaGJKNFU1VG1qSGhHcHJidnFrTjF3TFnSAa8BQVVfeXFMUEFPODJlUXJCS0pYMnhpWnRNLXFSNWVWdGVPaWoxbGc2dENXUkxwbmt5b042Z1hsb1E1eE02X2d6RkRIM2FxSTFITzFuSWdsY1U5dWx4VFllZ3VRX1Azdm9lUUUyNFBsWUl4UGo2czRGTjRRbnpibXRqU2E1dEhsVzVKYmx2cmJGZ3NoRmV3VEtnTmdmNFBDMlM1Z2RnUnl2cWtmeUswQzFidlcya1NGZw?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
    ],
    "score": 2,
    "important": false
