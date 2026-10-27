@@ -1,6 +1,118 @@
 {
- "updated": "2026-10-27T10:33:06.554Z",
+ "updated": "2026-10-27T16:37:24.989Z",
  "items": [
+  {
+   "id": "ydGljbGU3MTYzMjM2NS5lY2U",
+   "date": "2026-10-27",
+   "title": "Jaishankar to travel to U.S. for G20 Foreign Ministers’ meet, Quad this week",
+   "summary": "Meetings to prepare for Quad leaders’ summit in November, G20 Summit in December; South Africa’s exclusion by U.S. could be raised;",
+   "link": "https://www.thehindu.com/news/national/jaishankar-to-travel-to-us-for-g20-foreign-ministers-meet-quad-this-week/article71632365.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 6,
+   "important": true
+  },
+  {
+   "id": "xNzkzMTA0MDMwMzgzLmh0bWw",
+   "date": "2026-10-27",
+   "title": "Industrial credit growth nears 20%, signals private capex revival; Shaktikanta Das urges banks to fund strategic sectors",
+   "summary": "Shaktikanta Das said nearly 20% industrial credit growth in July signals an early revival in private capex. He urged banks to fund infrastructure, semiconductors and defence manufacturing, while flagging household debt and municipal financing needs.",
+   "link": "https://www.livemint.com/economy/industrial-credit-growth-nears-20-signals-private-capex-revival-shaktikanta-das-urges-banks-to-fund-strategic-sectors-11793104030383.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy",
+    "Polity & Governance",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 6,
+   "important": true
+  },
+  {
+   "id": "ydGljbGU3MTYwNDE0My5lY2U",
+   "date": "2026-10-27",
+   "title": "At SCO meet, Rajnath calls for dismantling the entire ecosystem of terrorism",
+   "summary": "There is no place for those who finance, support, or provide safe havens to terrorists, says Defence Minister; India supports adoption of action plan for trade and economic cooperation among SCO members",
+   "link": "https://www.thehindu.com/news/international/ecosystem-of-terrorism-must-be-firmly-and-collectively-dismantled-rajnath-singh-at-sco-meet/article71604143.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Internal Security & Defence",
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "MTc5MzA5ODI0ODQ5My5odG1s",
+   "date": "2026-10-27",
+   "title": "RBI may hike repo rate to 6.25% by H1 2027, warns Deutsche Bank as inflation risks persist",
+   "summary": "The bank expects 100-basis-point monetary tightening as inflationary pressures persist; rupee may weaken beyond 97 per US dollar.",
+   "link": "https://www.livemint.com/economy/rbi-may-hike-repo-rate-to-6-25-by-h1-2027-warns-deutsche-bank-as-inflation-risks-persist-11793098248493.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "J0aWNsZTcxNjMwNzYzLmVjZQ",
+   "date": "2026-10-27",
+   "title": "Current climate pledges will cut emissions by just 6% by 2035, far off track: UN report",
+   "summary": "The UNFCCC’s 2026 NDC Synthesis Report found that even full implementation, including conditional pledges, would cut emissions only 9% below 2019 levels by 2035",
+   "link": "https://www.thehindu.com/news/international/current-climate-pledges-will-cut-emissions-by-just-6-by-2035-far-off-track-un-report/article71630763.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Environment & Ecology",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjMwMDQwLmVjZQ",
+   "date": "2026-10-27",
+   "title": "India’s anaemia problem: an ambitious programme to combat it, but no data to measure it",
+   "summary": "Anaemia readings were omitted from the NFHS-6 and were taken instead in the SAMPADA survey. The problem is, data from SAMPADA is yet to be released, leaving the country battling a major public health concern with no numbers to show where, an in whom the problem lies",
+   "link": "https://www.thehindu.com/sci-tech/health/indias-anaemia-problem-an-ambitious-programme-to-combat-it-but-no-data-to-measure-it/article71630040.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Health & Social Issues",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 4,
+   "important": false
+  },
   {
    "id": "J0aWNsZTcxNjI4Njk2LmVjZQ",
    "date": "2026-10-27",
@@ -117,6 +229,100 @@
    "title": "'Don't panic over rupee fall': Raghuram Rajan warns against exhausting forex reserves",
    "summary": "India has used about half of the more than $140 billion secured through special measures earlier this year to support the rupee and absorb surplus liquidity in the banking system.",
    "link": "https://www.livemint.com/economy/dont-panic-over-rupee-fall-raghuram-rajan-warns-against-exhausting-forex-reserves-11793095995393.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYzMjgzNi5lY2U",
+   "date": "2026-10-27",
+   "title": "Telangana declares 365 mandals drought-affected, of which 111 severely drought-affected",
+   "summary": "The drought assessment found that the kharif crop area in 18 of the State’s 33 districts had been affected",
+   "link": "https://www.thehindu.com/news/national/telangana/telangana-declares-365-mandals-drought-affected-of-which-111-severely-drought-affected/article71632836.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Geography & Disasters",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-1",
+    "Prelims"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYzMTg1Ni5lY2U",
+   "date": "2026-10-27",
+   "title": "Call for dedicated dept., district repositories to preserve ancient manuscripts",
+   "summary": "23rd All Karnataka Manuscripts Conference, organised by Kannada University, Hampi, inaugurated in Bidar",
+   "link": "https://www.thehindu.com/news/national/karnataka/call-for-dedicated-dept-district-repositories-to-preserve-ancient-manuscripts/article71631856.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "History, Art & Culture",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-1",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTUyNTM0My5lY2U",
+   "date": "2026-10-27",
+   "title": "Days after India-Pakistan sparring at UN, senior Indian official visits Islamabad for SCO planning meet",
+   "summary": "First such official visit by Indian delegation since Operation Indoor; Senior External Affair Ministry official leads team at three-day SCO preparatory meeting",
+   "link": "https://www.thehindu.com/news/national/days-after-india-pakistan-sparring-at-un-senior-indian-official-visits-islamabad-for-sco-planning-meet/article71525343.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "RlNlR1pFT0RWck4xVT9vYz01",
+   "date": "2026-10-27",
+   "title": "Expert Explains | To counter China along LAC, why its grey-zone warfare tactics must be understood",
+   "summary": "Expert Explains | To counter China along LAC, why its grey-zone warfare tactics must be understood The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTUdZVmJqOHNKNlBfZ0I2Y2F1ZUIyTy1OamdjUVJ4ci15d0hUVExHWUlLME0zdmxrN1REN3BTNUtjQW5LdUFYZW9JbWdtbGc0X0lQXzBsVDhVejRtS3ZXQmlCVGRhS3U3eHI3bk9CS240Q1hIYjBSaUEzZmhFY0kwbXJYeTZ0Rk95V0YwUHF3T3hVbk92UDdPR3lIbWRXNkhFZzRtdNIBqwFBVV95cUxQZ0RkdXhkYkFUYmRFcDJSWm1yd1RFU2R2Vm9pNU11VWRZcU03RXBQbVVReG1sRDllSlRobEp2amQ3STd4SXUwWDFwRDFacl95OTl1N0pnU0JPZjBPV1VxaWY1QUVVcWI5MW5nWUVWYVVwdVZ0dkxvWnFkbE9QVzVEZU9wUldGWDY2ZG9ReERFb0h1alVBbGpqVEdQdWpuaGRkaXFSeGZEODVrN1U?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "MTc5MzExNTg1NTgwMi5odG1s",
+   "date": "2026-10-27",
+   "title": "Why India should resist the temptation to defend the rupee at any cost, Raghuram Rajan explains",
+   "summary": "Rajan's argument is not that the RBI should ignore the rupee's decline. Rather, he believes policymakers should avoid committing excessive resources to maintaining a particular exchange rate when broader economic conditions are pushing the currency lower.",
+   "link": "https://www.livemint.com/economy/why-india-should-resist-the-temptation-to-defend-the-rupee-at-any-cost-raghuram-rajan-explains-11793115855802.html",
    "source": "Mint",
    "section": "Economy",
    "topics": [
@@ -453,6 +659,272 @@
    "gs": [
     "GS-2",
     "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjMyOTA1LmVjZQ",
+   "date": "2026-10-27",
+   "title": "Kerala Pradesh Congress Committe apologises to CJI for post on X",
+   "summary": "KPCC chief Sunny Joseph says post demanding resignation of the Chief Justice was published without prior approval or consultation",
+   "link": "https://www.thehindu.com/news/national/kerala/kerala-pradesh-congress-committe-apologises-to-cji-for-post-on-x/article71632905.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjMyNTYxLmVjZQ",
+   "date": "2026-10-27",
+   "title": "BRICS parliamentary forum expresses ‘deep concern’ about West Asian hostilities",
+   "summary": "Jointg declaration calls for a two-state solution to Israel-Palestinan conflict; asserts the right of the Palestinian people to self-determination, freedom, and an independent, sovereign state",
+   "link": "https://www.thehindu.com/news/national/brics-parliamentary-forum-expresses-deep-concern-about-west-asian-hostilities/article71632561.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjMxODkyLmVjZQ",
+   "date": "2026-10-27",
+   "title": "SC says ‘economic policy’ cannot take precedence over lives as Centre backs ‘calibrated’ drug-price controls",
+   "summary": "Petitioners flag disproportionate margins and seek stricter enforcement of price controls; Centre says ‘complete govt. control‘ of pharma sector will adversely affect the market",
+   "link": "https://www.thehindu.com/news/national/sc-says-economic-policy-cannot-take-precedence-over-lives-as-centre-backs-calibrated-drug-price-controls/article71631892.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MzIzOTQuZWNl",
+   "date": "2026-10-27",
+   "title": "Contemplating law against child pornography, Centre tells Supreme Court",
+   "summary": "NGO Prajwala apprises the apex court about the absence of adequate safeguards for adults and circulation of sexual assault videos",
+   "link": "https://www.thehindu.com/news/national/contemplating-law-against-child-pornography-centre-tells-supreme-court/article71632394.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYzMjAxMC5lY2U",
+   "date": "2026-10-27",
+   "title": "State’s first tribal university to come up in Chitradurga district",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/karnataka/states-first-tribal-university-to-come-up-in-chitradurga-district/article71632010.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYzMjY0OC5lY2U",
+   "date": "2026-10-27",
+   "title": "Practical hurdles in bringing captive elephants to Keralam from outside, says Forest Minister",
+   "summary": "Shibu Baby John says that bringing elephants from other States involved several complicated procedures, which were not always easy to comply with",
+   "link": "https://www.thehindu.com/news/national/kerala/practical-hurdles-in-bringing-captive-elephants-to-keralam-from-outside-says-forest-minister/article71632648.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYzMjM1NC5lY2U",
+   "date": "2026-10-27",
+   "title": "Cyclone Arnab impact likely up to Krishna; A.P. on high alert, says Naidu",
+   "summary": "84,396 people evacuated to safer locations; 290 cyclone shelters set up; schools in affected districts to remain closed on October 28",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-impact-likely-up-to-krishna-ap-on-high-alert-says-naidu/article71632354.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MzI0MTQuZWNl",
+   "date": "2026-10-27",
+   "title": "Governor to lead anti-drug rally in Osmania University",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/telangana/governor-to-lead-anti-drug-rally-in-osmania-university/article71632414.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYzMDgzMC5lY2U",
+   "date": "2026-10-27",
+   "title": "Cheetah cub dies during treatment in first case of shooting in Madhya Pradesh, STF formed",
+   "summary": "The 19-month-old male cheetah cub was found with gunshot injuries outside the boundaries of Kuno National Park, the first such attack on a cheetah since the beginning of a reintroduction programme for the species in 2022",
+   "link": "https://www.thehindu.com/news/national/madhya-pradesh/cheetah-cub-dies-during-treatment-in-first-suspected-case-of-shooting-in-madhya-pradesh/article71630830.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjMwODUyLmVjZQ",
+   "date": "2026-10-27",
+   "title": "Two Britons charged in connection with assisting Iran over U.K. airbase incident",
+   "summary": "British-Iranian dual national Mohmed Abdulkarim and British citizen Nouman Essghir, both aged 24 and from London, were charged under the National Security Act, U.K. prosecutors say",
+   "link": "https://www.thehindu.com/news/international/two-men-charged-with-uk-national-security-offences-over-incident-at-us-run-military-base-in-england/article71630852.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Polity & Governance",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjMxNjEzLmVjZQ",
+   "date": "2026-10-27",
+   "title": "Netanyahu’s rival Eisenkot urges voters to unseat ‘worst govt’ in Israeli history",
+   "summary": "I call on all citizens of Israel to go vote, not to buckle under the heat or the disruptions, to stick to the mission: to replace tonight the worst government since the state was established, he said",
+   "link": "https://www.thehindu.com/news/international/netanyahus-rival-eisenkot-urges-voters-to-unseat-worst-govt-in-israeli-history/article71631613.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYzMDc1Ni5lY2U",
+   "date": "2026-10-27",
+   "title": "Congo’s Ebola outbreak tops 10,000 cases as authorities race to slow spread in African countries",
+   "summary": "Nearly half of the 10,060 confirmed cases have died, making this the deadliest and fastest-growing Ebola outbreak in history, with health workers in Congo attacked and striking over unpaid wages",
+   "link": "https://www.thehindu.com/news/international/congos-ebola-outbreak-tops-10000-cases-as-authorities-race-to-slow-spread-in-african-countries/article71630756.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYzMTU1NC5lY2U",
+   "date": "2026-10-27",
+   "title": "Ebola scientists to probe Nigeria case origin, Africa CDC says",
+   "summary": "Team to investigate possible link between Nigeria and Kenya Ebola cases as outbreak spreads to fourth African country, with nearly 10,000 cases and more than 4,600 deaths reported in Congo",
+   "link": "https://www.thehindu.com/sci-tech/health/ebola-scientists-to-probe-nigeria-case-origin-africa-cdc-says/article71631554.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYzMTQ1OS5lY2U",
+   "date": "2026-10-27",
+   "title": "Merck drug extends survival in endometrial cancer trial, wins U.S. priority review",
+   "summary": "The drug delivers a cancer-killing payload to cells that carry a protein common in endometrial tumours",
+   "link": "https://www.thehindu.com/sci-tech/health/merck-drug-extends-survival-in-endometrial-cancer-trial-wins-us-priority-review/article71631459.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "International Relations",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "FvNFZuWkZlRFZYWXc_b2M9NQ",
+   "date": "2026-10-27",
+   "title": "Siang dam project: Planned to ‘counter China’, why it is being opposed in Arunachal",
+   "summary": "Siang dam project: Planned to ‘counter China’, why it is being opposed in Arunachal The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ2tOeTI0X3BiZm9lUm94U2tHNF9ZbUNnS1R4YWg3STRrSmFtTlpOVGszZ0ZkdjJDME9TWWlxeFlnNExVbG1KbjduMVo4dWJKXzFPUWZQMjZvUWJJRk04MXptUWFEXzVxa3JMTFFCTWRqOFpXU2hBcVF1ZkJNNjYtRDJoUF9tSndxWGpjYmlicVBnY1o4VnZFeDVXYw?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
    ],
    "score": 2,
    "important": false
