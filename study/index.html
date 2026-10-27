@@ -37,6 +37,7 @@ details{border-bottom:1px dashed var(--border);padding:8px 0}summary{font-weight
 .nav{position:fixed;left:10px;right:10px;bottom:calc(10px + env(safe-area-inset-bottom));display:grid;grid-template-columns:repeat(5,1fr);background:var(--card);border:1px solid var(--border);border-radius:18px;padding:5px;box-shadow:0 10px 30px rgba(0,0,0,.15)}
 .nav button{border:0;background:none;border-radius:12px;padding:7px 2px;font-size:11px;font-weight:600;color:var(--muted)}.nav button b{display:block;font-size:18px}
 .nav button.on{background:var(--p);color:#fff}
+.hi{font-family:"Nirmala UI","Mangal",sans-serif;color:var(--muted);margin-top:4px;white-space:pre-line}
 table{width:100%;border-collapse:collapse}td{padding:7px 4px;border-bottom:1px solid var(--border);vertical-align:top;font-size:13.5px}td:first-child{font-weight:700;width:34%}
 .empty{text-align:center;color:var(--muted);padding:24px}
 </style>
@@ -112,8 +113,8 @@ const views = {
     const order = qs.slice().sort((a,b)=>(local[a.id]?.at||"").localeCompare(local[b.id]?.at||"") || a.due.localeCompare(b.due));
     const q = order[0], d = q.data;
     return `<div class="card"><div class="muted small">${esc(q.source)}${d.page?" · p."+d.page:""} · practice on phone (${qs.length} questions)</div>
-      <div class="q" style="margin-top:8px">Q. ${esc(d.question)}</div>
-      ${d.options.map((o,k)=>`<button class="opt" data-k="${k}" data-q="${q.id}">(${"abcd"[k]}) ${esc(o)}</button>`).join("")}<div id="res"></div></div>`;
+      <div class="q" style="margin-top:8px">Q. ${esc(d.question)}${d.question_hi&&d.question_hi!==d.question?`<div class="hi">${esc(d.question_hi)}</div>`:""}</div>
+      ${d.options.map((o,k)=>`<button class="opt" data-k="${k}" data-q="${q.id}">(${"abcd"[k]}) ${esc(o)}${(d.options_hi||[])[k]&&d.options_hi[k]!==o?`<div class="hi">${esc(d.options_hi[k])}</div>`:""}</button>`).join("")}<div id="res"></div></div>`;
   },
   notes(){
     return `<div class="card"><h3>⚠️ Mistakes to revise</h3>${D.mistakes.map(noteH).join("")||'<div class="muted">None yet.</div>'}</div>
@@ -136,7 +137,7 @@ function render(){
     document.querySelectorAll(".opt").forEach(x=>x.disabled=true);
     document.querySelector(`.opt[data-k="${q.data.answer}"]`).classList.add("right"); if(!ok) b.classList.add("wrong");
     local[q.id]={at:new Date().toISOString(),ok}; localStorage.setItem("phoneQuiz",JSON.stringify(local));
-    document.getElementById("res").innerHTML=`<div class="answer"><b>${ok?"✔ Correct!":"✘ Not quite."}</b> ${esc(q.data.explanation)}</div><button class="btn" style="margin-top:10px" onclick="render()">Next →</button>`;
+    document.getElementById("res").innerHTML=`<div class="answer"><b>${ok?"✔ Correct! / सही उत्तर!":"✘ Not quite. / गलत उत्तर।"}</b> ${esc(q.data.explanation)}${q.data.explanation_hi?`<div class="hi">${esc(q.data.explanation_hi)}</div>`:""}</div><button class="btn" style="margin-top:10px" onclick="render()">Next →</button>`;
   });
 }
 document.getElementById("nav").onclick = e => { const b=e.target.closest("button"); if(b){ view=b.dataset.v; render(); window.scrollTo(0,0); } };
