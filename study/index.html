@@ -87,8 +87,17 @@ function noteH(n){ return `<div class="note ${n.kind==="mistake"?"m":""}">${n.pi
 
 const views = {
   home(){
-    const s=D.stats, c=D.continue;
-    return `<div class="card"><h3>⏱ Study time</h3>
+    const s=D.stats, c=D.continue, tt=D.timetable||{days:[]};
+    const day=tt.days.find(d=>d.date===today()), hm=new Date().toTimeString().slice(0,5);
+    const plan=day?day.slots.map(x=>`<div class="row" style="${x.end<=hm?"opacity:.5":""}${x.start<=hm&&hm<x.end?";background:var(--psoft);border-radius:8px;padding:6px":""}">
+      <span style="width:92px;flex-shrink:0;font-weight:700;color:var(--muted);font-size:12.5px">${x.start}–${x.end}</span>
+      <span style="flex:1">${esc(x.title)}${(x.units||[]).length?`<br><small class="muted">${x.units.map(u=>(u.status==="done"?"✓ ":"○ ")+esc(u.book.replace(/^Class 0?(\d+) - /,"Cl $1 · "))+" · "+esc(u.title)).join("<br>")}</small>`:x.detail?`<br><small class="muted">${esc(x.detail)}</small>`:""}</span></div>`).join(""):'<div class="muted">No plan for today.</div>';
+    const overdue=(tt.overdue||[]).length;
+    const next=tt.days.filter(d=>d.date>today()).slice(0,3).map(d=>`<details><summary>${fmtD(d.date,{weekday:"short",day:"numeric",month:"short"})} · ${d.hours}h</summary>${d.slots.map(x=>`<div class="small" style="padding:3px 0"><b>${x.start}</b> ${esc(x.title)}${(x.units||[]).length?" — "+x.units.map(u=>esc(u.title)).join(", "):""}</div>`).join("")}</details>`).join("");
+    return `<div class="card"><h3>🗓 Today's plan${day?` <span class="muted small">· ${day.hours} h</span>`:""}</h3>${plan}
+      ${overdue?`<div class="note m" style="margin-top:8px"><b>Catch-up:</b> ${overdue} planned chapter${overdue>1?"s":""} not done yet (see the PC dashboard).</div>`:""}
+      ${next?`<div style="margin-top:8px">${next}</div>`:""}</div>
+      <div class="card"><h3>⏱ Study time</h3>
       <div class="row"><span>Today</span><b>${fmtMin(s.today_min)} / ${fmtMin(s.target_min)}</b></div><div class="bar"><i style="width:${Math.min(100,100*s.today_min/s.target_min)}%"></i></div>
       <div class="row"><span>Last 7 days</span><b>${fmtMin(s.week_min)}</b></div><div class="row"><span>Since day 1</span><b>${fmtMin(s.total_min)}</b></div>
       <div class="row"><span>Chapters done</span><b>${s.chapters_done} / ${s.chapters_total}</b></div></div>
