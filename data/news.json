@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T05:01:46.554Z",
+ "updated": "2026-10-27T10:33:06.554Z",
  "items": [
   {
    "id": "J0aWNsZTcxNjI4Njk2LmVjZQ",
@@ -90,6 +90,40 @@
    ],
    "gs": [
     "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "hKa1JuQTFiVXN0VVE_b2M9NQ",
+   "date": "2026-10-27",
+   "title": "Form 6, voter roll deletions: What Election Commission told the Supreme Court",
+   "summary": "Form 6, voter roll deletions: What Election Commission told the Supreme Court The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa3dBV2JFUVZqaUY2MkVKMnc3SVJ5YWZnVlJXUlU0aU1lMU1iMl9aSmZnTnIyZzlBSjlfNFpJaDRlOGc5clA2WTFLdl9CTGdHSXJSbGlFZnN3d1ZDbnFtQjJQS1gybHZsZ0p2UUpISHlRVU4wZ3pOZnc0cFFORGJRQllUTHVoNDU4b242LXVCMzFKeU9nZFBPRzl6VXZNN1FVdDEzZ2lJRGtzcjTSAbIBQVVfeXFMT1dwRUNyUGdRcDBvS01wQlNFV1lZZjlBMlhvd29pUkFFb0pfQUtneEg0QnpuMDJFLWViUW1rUUJnd21uSm4tUVlrMnlQVG1wRmJYQXFBLWJSZ0tCWGUtNklFczBQaS02eVFBYjZwTnp0THUxekNTUTJfMG1OZVlMelI0cy1tOWxMcWtZR0hrcm1vN2F1WS1aZlptT0dleTlHZVlEMUxQM2hfUXJkRnA1bUstUQ?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "xNzkzMDk1OTk1MzkzLmh0bWw",
+   "date": "2026-10-27",
+   "title": "'Don't panic over rupee fall': Raghuram Rajan warns against exhausting forex reserves",
+   "summary": "India has used about half of the more than $140 billion secured through special measures earlier this year to support the rupee and absorb surplus liquidity in the banking system.",
+   "link": "https://www.livemint.com/economy/dont-panic-over-rupee-fall-raghuram-rajan-warns-against-exhausting-forex-reserves-11793095995393.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
    ],
    "score": 3,
    "important": false
@@ -311,6 +345,113 @@
     "Economy"
    ],
    "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjI5OTU2LmVjZQ",
+   "date": "2026-10-27",
+   "title": "Four new faces join Omar Abdullah’s Cabinet in J&K",
+   "summary": "J&K Lieutenant-Governor administered oath of office and secrecy to Ali Muhammad Sagar, Shameema Firdous, Mir Saifullah, and Altaf Kaloo; One Minister, Satish Sharma, an Independent candidate from the Jammu province, was dropped from the present Cabinet",
+   "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/jammu-and-kashmir-cabinet-expansion-new-ministers-october-27-2026/article71629956.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MzAzMDAuZWNl",
+   "date": "2026-10-27",
+   "title": "Karnataka’s Forest Department and Bird Count India launch first Rajyotsava Bird Count",
+   "summary": "The count, which will be held between October 30 and November 2, is open to anyone who would like to participate",
+   "link": "https://www.thehindu.com/news/national/karnataka/karnatakas-forest-department-and-bird-count-india-launch-first-rajyotsava-bird-count/article71630300.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjMwMjcwLmVjZQ",
+   "date": "2026-10-27",
+   "title": "Supreme Court seeks government response on pleas challenging Vande Mataram as a ‘divisive religious war song’",
+   "summary": "The petitions argued that government orders had imposed a “sectarian prayer to particular goddesses of one particular religion as the National Song” which violated fundamental rights of religion and attracted the criminal law",
+   "link": "https://www.thehindu.com/news/national/supreme-court-seeks-government-response-on-pleas-challenging-vande-mataram-as-a-divisive-religious-war-song/article71630270.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MzAwODIuZWNl",
+   "date": "2026-10-27",
+   "title": "Anup Bagchi takes charge as HDFC Bank CEO and MD",
+   "summary": "Anup Bagchi, an ICICI Group veteran, becomes the first outsider to head HDFC Bank in its three-decade history, succeeding Sashidhar Jagdishan amid governance concerns",
+   "link": "https://www.thehindu.com/business/anup-bagchi-takes-charge-as-hdfc-bank-ceo-and-md/article71630082.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjMwMDc5LmVjZQ",
+   "date": "2026-10-27",
+   "title": "U.S. judge halts tree-cutting at Trump’s golf course project",
+   "summary": "District Judge Ana Reyes ordered a halt after more than 500 trees were felled at East Potomac Golf Links, as Trump pledged to appeal and vowed to proceed with the November 15 renovation",
+   "link": "https://www.thehindu.com/news/international/us-judge-halts-tree-cutting-at-trumps-golf-course-project/article71630079.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjMwMjg3LmVjZQ",
+   "date": "2026-10-27",
+   "title": "How peripheral artery disease is treated as leg pain worsens",
+   "summary": "Treatment for PAD includes medicines, structured exercise and procedures to improve blood flow. Experts advise patients not to push through severe pain during exercise and to seek medical advice if pain occurs",
+   "link": "https://www.thehindu.com/sci-tech/health/how-peripheral-artery-disease-is-treated-as-leg-pain-worsens/article71630287.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Health & Social Issues",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
     "GS-3"
    ],
    "score": 2,
