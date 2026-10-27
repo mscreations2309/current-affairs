@@ -1,6 +1,118 @@
 {
- "updated": "2026-10-27T16:37:24.989Z",
+ "updated": "2026-10-27T21:18:25.546Z",
  "items": [
+  {
+   "id": "ydGljbGU3MTYzMzE2NS5lY2U",
+   "date": "2026-10-28",
+   "title": "Brazil's Flavio Bolsonaro headed to U.S. after losing election, sources say",
+   "summary": "U.S. President Donald Trump’s administration has previously alleged that Flavio Bolsonaro’s father, former President ‌Jair Bolsonaro, was a victim of judicial persecution in Brazil",
+   "link": "https://www.thehindu.com/news/international/brazilsflavio-bolsonaro-headed-to-us-after-losing-election-sources-say/article71633165.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjMxNzgzLmVjZQ",
+   "date": "2026-10-28",
+   "title": "Fouled waters: On Rajasthan’s river pollution",
+   "summary": "River pollution from industrial effluents indicates state failure",
+   "link": "https://www.thehindu.com/opinion/editorial/fouled-waters-on-rajasthans-river-pollution/article71631783.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYzMzIwNC5lY2U",
+   "date": "2026-10-28",
+   "title": "Cyclone Arnab: Civil Aviation Ministry reviews situation to ensure safety of flight operations",
+   "summary": "Cyclone' Arnab' is forecast to intensify into a very severe cyclone and make landfall on the Andhra Pradesh coast on Wednesday (October 28, 2026), with wind speeds of 125–135 km/h",
+   "link": "https://www.thehindu.com/news/national/cyclone-arnab-civil-aviation-ministry-reviews-situation-to-ensure-safety-of-flight-operations/article71633204.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MzI0MDUuZWNl",
+   "date": "2026-10-28",
+   "title": "Neutralise remnants of terrorist ecosystem: J&K L-G Manoj Sinha tells security agencies",
+   "summary": "J&K Lieutenant Governor Manoj Sinha directed the security agencies that operations must continue to neutralise the remnants of the terrorist ecosystem",
+   "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/neutralise-remnants-of-terrorist-ecosystem-jk-l-g-manoj-sinha-tells-security-agencies/article71632405.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MzI0NzcuZWNl",
+   "date": "2026-10-28",
+   "title": "A Delhi event unveils fault lines in the Dalit-OBC formulation of SP politics",
+   "summary": "The brouhaha over Rajkumar Bhati reciting Ambedkar’s vows shows the limits of the SP’s revival of the Lohiate policy of numerical aggregation",
+   "link": "https://www.thehindu.com/news/national/uttar-pradesh/a-delhi-event-unveils-fault-lines-in-the-dalit-obc-formulation-of-sp-politics/article71632477.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MzMyNDcuZWNl",
+   "date": "2026-10-28",
+   "title": "Houthis claim attack on Saudi oil refinery, blasts shake Riyadh",
+   "summary": "Saudi Arabia, West Asia's largest economy, has suffered weeks of strikes from the Iran-backed Houthis against oil and civilian sites including Riyadh's international airport",
+   "link": "https://www.thehindu.com/news/international/houthis-claim-attack-on-saudi-oil-refinery-blasts-shake-riyadh/article71633247.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
   {
    "id": "ydGljbGU3MTYzMjM2NS5lY2U",
    "date": "2026-10-27",
@@ -109,6 +221,26 @@
    "gs": [
     "GS-2",
     "Prelims"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYzMjc1MC5lY2U",
+   "date": "2026-10-27",
+   "title": "Retired PSU staff ask President to expedite pension hikes",
+   "summary": "The NCPA said that the President must exercise her “august moral authority” and direct the Union Ministry of Labour & Employment and the EPFO to immediately withdraw an EPFO circular dated January 18, 2025",
+   "link": "https://www.thehindu.com/news/national/retired-psu-staff-ask-president-to-expedite-pension-hikes/article71632750.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Economy",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
    ],
    "score": 4,
    "important": false
@@ -330,6 +462,61 @@
    ],
    "gs": [
     "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MzI0NDguZWNl",
+   "date": "2026-10-27",
+   "title": "A.P. teachers’ body demands implementation of Old Pension Scheme",
+   "summary": "The federation leaders allege that the Central and State governments are systematically undermining public education while favouring private institutions",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/ap-teachers-body-demands-implementation-of-old-pension-scheme/article71632448.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MzIyMjguZWNl",
+   "date": "2026-10-27",
+   "title": "Survey highlights poor quality of English learning in government English-medium schools",
+   "summary": "The assessment of English language learning is based on the four main language skills of listening, speaking, reading and writing",
+   "link": "https://www.thehindu.com/news/national/karnataka/survey-highlights-poor-quality-of-english-learning-in-government-english-medium-schools/article71632228.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Reports & Indices",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "Prelims",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "xNzkzMTIzNjQzNzkyLmh0bWw",
+   "date": "2026-10-27",
+   "title": "RBI Governor Sanjay Malhotra flags need for 'prudent borrowing' as states face fiscal management challenges",
+   "summary": "RBI Governor Sanjay Malhotra urged states to improve spending quality, adopt prudent borrowing and strengthen cash management to ensure fiscal sustainability. He also called for wider use of digital platforms for lending and direct benefit transfers.",
+   "link": "https://www.livemint.com/economy/rbi-governor-sanjay-malhotra-flags-need-for-prudent-borrowing-as-states-face-fiscal-management-challenges-11793123643792.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
    ],
    "score": 3,
    "important": false
@@ -925,6 +1112,77 @@
    ],
    "gs": [
     "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2Mjk5MjYuZWNl",
+   "date": "2026-10-27",
+   "title": "Supreme Court needs transparent roster system, says former Judge Oka",
+   "summary": "Former Supreme Court Judge Abhay Oka was speaking at a discussion on judicial accountability organised by the Campaign for Judicial Accountability and Reforms at the India International Centre in New Delhi",
+   "link": "https://www.thehindu.com/news/national/supreme-court-needs-transparent-roster-system-says-former-judge-oka/article71629926.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MzIyMjYuZWNl",
+   "date": "2026-10-27",
+   "title": "U.P. approves robotics park and AI hub in Greater Noida",
+   "summary": "Project estimated to generate more than 1 lakh jobs and add ₹2,000 crore annually to the State’s economy",
+   "link": "https://www.thehindu.com/news/national/uttar-pradesh/up-approves-robotics-park-and-ai-hub-in-greater-noida/article71632226.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MzIwNzUuZWNl",
+   "date": "2026-10-27",
+   "title": "Kashmiri Pandit Rakesh Handoo circulates ‘edited terror threat’ online, faces charges under IT Act",
+   "summary": "Officials said Mr. Handoo was zeroed in after a Kashmiri Pandit employee, Rohit Raina whose name figured in the “terror threat list”, registered a complaint with the police",
+   "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/kashmiripandit-rakesh-handoo-circulates-edited-terror-threat-online-faces-charges-under-it-act/article71632075.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MzMwMTQuZWNl",
+   "date": "2026-10-27",
+   "title": "Watch: Cyclone Arnab: What Andhra Pradesh needs to know",
+   "summary": "As Cyclone Arnab approaches the Andhra Pradesh coast, authorities have stepped up evacuations, cancelled train services and flights, and activated cyclone shelters across vulnerable districts. The Hindu’s Sumit Bhattacharjee explains the storm’s expected landfall, the threat of heavy rain and strong winds, and how Andhra Pradesh has strengthened its disaster preparedness since Cyclone Hudhud.",
+   "link": "https://www.thehindu.com/videos/watch-cyclone-arnab-what-andhra-pradesh-needs-to-know/article71633014.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-1"
    ],
    "score": 2,
    "important": false
