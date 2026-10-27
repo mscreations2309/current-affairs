@@ -84,7 +84,7 @@ function dateH(d){
   return `<div class="date ${d.critical?"crit":""}" style="${left<0?"opacity:.45":""}"><div class="d">${fmtD(d.date,{day:"numeric"})}<small>${fmtD(d.date,{month:"short"}).toUpperCase()}</small></div>
   <div><b>${esc(d.title)}</b> ${t}<small class="x">${esc(d.detail)} · ${left>0?left+" days left":left===0?"Today":"Done"}</small></div></div>`;
 }
-function noteH(n){ return `<div class="note ${n.kind==="mistake"?"m":""}">${n.pinned?"📌 ":""}${n.label?`<b>${esc(n.label)}:</b>`:""} ${esc(n.text)}<span class="src">${n.kind==="user"?"My note":esc(n.source)}${n.page?" · p."+n.page:""}</span></div>`; }
+function noteH(n){ return `<div class="note ${n.kind==="mistake"?"m":""}">${n.pinned?"📌 ":""}${n.label?`<b>${esc(n.label)}:</b>`:""} ${esc(n.text)}${n.hinglish&&n.hinglish!==n.text?`<div class="hi" style="font-style:italic">${esc(n.hinglish)}</div>`:""}<span class="src">${n.kind==="user"?"My note":esc(n.source)}${n.page?" · p."+n.page:""}</span></div>`; }
 
 const views = {
   home(){
