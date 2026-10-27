@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="theme-color" content="#4f46e5">
+<meta name="robots" content="noindex">
+<title>My UPSC Study · Phone view</title>
+<style>
+:root{--bg:#f4f5fb;--card:#fff;--soft:#f6f7fc;--text:#0f172a;--muted:#64748b;--border:#e6e8f2;--p:#4f46e5;--psoft:#eef0ff;--ok:#16a34a;--oks:#dcfce7;--bad:#b91c1c;--bads:#fee2e2;--warn:#b45309;--warns:#fef3c7;--note:#fffbeb;--notebd:#fde68a}
+@media (prefers-color-scheme:dark){:root{--bg:#0b0f1a;--card:#121829;--soft:#182036;--text:#e8ebf5;--muted:#8a93ab;--border:#232c45;--p:#8b8cf8;--psoft:#1d2147;--oks:#11301f;--ok:#4ade80;--bads:#3a1414;--bad:#f87171;--warns:#33270b;--warn:#fbbf24;--note:#2a2410;--notebd:#5a4a14}}
+*{box-sizing:border-box}body{margin:0;font-family:"Segoe UI",system-ui,sans-serif;background:var(--bg);color:var(--text);font-size:15px;line-height:1.5;padding-bottom:84px}
+[hidden]{display:none!important}button{font:inherit;color:inherit}
+.top{background:linear-gradient(135deg,#4338ca,#7c3aed);color:#fff;padding:16px 16px 14px}
+.top h1{margin:0;font-size:18px}.top small{opacity:.88}
+.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin-top:12px}
+.stat{background:rgba(255,255,255,.14);border:1px solid rgba(255,255,255,.22);border-radius:12px;padding:7px;text-align:center}
+.stat b{display:block;font-size:19px}.stat span{font-size:11px;opacity:.9}
+main{padding:12px}
+.card{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:14px;margin-bottom:12px}
+.card h3{margin:0 0 10px;font-size:15px}
+.row{display:flex;justify-content:space-between;gap:8px;padding:6px 0;border-bottom:1px dashed var(--border)}.row:last-child{border:0}
+.muted{color:var(--muted)}.small{font-size:12px}
+.bar{height:8px;background:var(--soft);border-radius:8px;overflow:hidden;margin:6px 0}.bar i{display:block;height:100%;background:linear-gradient(90deg,var(--p),#22c55e)}
+.note{background:var(--note);border:1px solid var(--notebd);border-radius:10px;padding:8px 10px;margin-bottom:8px}.note.m{background:var(--bads);border-color:transparent}
+.note .src{display:block;font-size:11px;color:var(--muted)}
+.date{display:flex;gap:10px;align-items:center;padding:7px 0;border-bottom:1px dashed var(--border)}
+.date .d{width:46px;flex-shrink:0;text-align:center;border-radius:10px;background:var(--psoft);color:var(--p);padding:3px 0;font-weight:800;line-height:1.1}
+.date .d small{display:block;font-size:9px}.date.crit .d{background:var(--bads);color:var(--bad)}.date small.x{display:block;color:var(--muted);font-size:12px}
+.pill{font-size:10.5px;font-weight:700;padding:1px 8px;border-radius:99px;background:var(--psoft);color:var(--p)}.pill.ok{background:var(--oks);color:var(--ok)}.pill.warn{background:var(--warns);color:var(--warn)}.pill.grey{background:var(--soft);color:var(--muted)}
+.q{white-space:pre-line;font-weight:600;margin-bottom:10px}
+.opt{display:block;width:100%;text-align:left;border:1.5px solid var(--border);background:var(--card);border-radius:11px;padding:10px 12px;margin:7px 0}
+.opt.right{border-color:var(--ok);background:var(--oks)}.opt.wrong{border-color:var(--bad);background:var(--bads)}
+.btn{border:0;background:linear-gradient(135deg,var(--p),#7c3aed);color:#fff;border-radius:11px;padding:10px 16px;font-weight:700}
+.answer{border-left:4px solid var(--p);background:var(--soft);border-radius:10px;padding:10px 12px;margin-top:8px}.answer p{margin:5px 0}.answer ul,.answer ol{margin:5px 0;padding-left:20px}
+details{border-bottom:1px dashed var(--border);padding:8px 0}summary{font-weight:600}
+.nav{position:fixed;left:10px;right:10px;bottom:calc(10px + env(safe-area-inset-bottom));display:grid;grid-template-columns:repeat(5,1fr);background:var(--card);border:1px solid var(--border);border-radius:18px;padding:5px;box-shadow:0 10px 30px rgba(0,0,0,.15)}
+.nav button{border:0;background:none;border-radius:12px;padding:7px 2px;font-size:11px;font-weight:600;color:var(--muted)}.nav button b{display:block;font-size:18px}
+.nav button.on{background:var(--p);color:#fff}
+table{width:100%;border-collapse:collapse}td{padding:7px 4px;border-bottom:1px solid var(--border);vertical-align:top;font-size:13.5px}td:first-child{font-weight:700;width:34%}
+.empty{text-align:center;color:var(--muted);padding:24px}
+</style>
+</head>
+<body>
+<div class="top">
+  <h1>📚 My UPSC 2027 Study</h1>
+  <small id="sub">Loading…</small>
+  <div class="stats">
+    <div class="stat"><b id="sPre">–</b><span>days to Prelims</span></div>
+    <div class="stat"><b id="sToday">–</b><span>studied today</span></div>
+    <div class="stat"><b id="sStreak">–</b><span>🔥 streak</span></div>
+  </div>
+</div>
+<main id="main"></main>
+<nav class="nav" id="nav">
+  <button data-v="home" class="on"><b>🏠</b>Today</button>
+  <button data-v="quiz"><b>📝</b>Quiz</button>
+  <button data-v="notes"><b>📌</b>Notes</button>
+  <button data-v="qa"><b>💬</b>Q&amp;A</button>
+  <button data-v="exam"><b>📅</b>Exam</button>
+</nav>
+<script>
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const today = () => new Date().toLocaleDateString("en-CA");
+const daysTo = iso => Math.ceil((new Date(iso+"T00:00:00") - new Date(today()+"T00:00:00"))/86400e3);
+const fmtMin = m => m >= 60 ? `${Math.floor(m/60)}h ${String(m%60).padStart(2,"0")}m` : `${m}m`;
+const fmtD = (iso,o) => new Date(iso+"T00:00:00").toLocaleDateString("en-IN",o);
+let D = null, view = "home";
+// Quiz answers on the phone are remembered only on this phone (the PC dashboard keeps the real schedule).
+const local = JSON.parse(localStorage.getItem("phoneQuiz") || "{}");
+
+function md(src){
+  const inl = s => s.replace(/\*\*(.+?)\*\*/g,"<b>$1</b>");
+  let out=[], list=null; const close=()=>{ if(list){out.push(`</${list}>`);list=null;} };
+  for(const line of esc(src).split("\n")){ let m;
+    if((m=line.match(/^\s*[-*•]\s+(.*)/))){ if(list!=="ul"){close();out.push("<ul>");list="ul";} out.push(`<li>${inl(m[1])}</li>`); }
+    else if((m=line.match(/^\s*\d+[.)]\s+(.*)/))){ if(list!=="ol"){close();out.push("<ol>");list="ol";} out.push(`<li>${inl(m[1])}</li>`); }
+    else if(line.trim()){ close(); out.push(`<p>${inl(line.replace(/^#+\s*/,""))}</p>`); } else close(); }
+  close(); return out.join("");
+}
+function dateH(d){
+  const left=daysTo(d.date), t={official:'<span class="pill ok">Official</span>',expected:'<span class="pill warn">Expected</span>',plan:'<span class="pill grey">My plan</span>'}[d.type];
+  return `<div class="date ${d.critical?"crit":""}" style="${left<0?"opacity:.45":""}"><div class="d">${fmtD(d.date,{day:"numeric"})}<small>${fmtD(d.date,{month:"short"}).toUpperCase()}</small></div>
+  <div><b>${esc(d.title)}</b> ${t}<small class="x">${esc(d.detail)} · ${left>0?left+" days left":left===0?"Today":"Done"}</small></div></div>`;
+}
+function noteH(n){ return `<div class="note ${n.kind==="mistake"?"m":""}">${n.pinned?"📌 ":""}${n.label?`<b>${esc(n.label)}:</b>`:""} ${esc(n.text)}<span class="src">${n.kind==="user"?"My note":esc(n.source)}${n.page?" · p."+n.page:""}</span></div>`; }
+
+const views = {
+  home(){
+    const s=D.stats, c=D.continue;
+    return `<div class="card"><h3>⏱ Study time</h3>
+      <div class="row"><span>Today</span><b>${fmtMin(s.today_min)} / ${fmtMin(s.target_min)}</b></div><div class="bar"><i style="width:${Math.min(100,100*s.today_min/s.target_min)}%"></i></div>
+      <div class="row"><span>Last 7 days</span><b>${fmtMin(s.week_min)}</b></div><div class="row"><span>Since day 1</span><b>${fmtMin(s.total_min)}</b></div>
+      <div class="row"><span>Chapters done</span><b>${s.chapters_done} / ${s.chapters_total}</b></div></div>
+      ${c?`<div class="card"><h3>📖 Continue reading (on PC)</h3><b>${esc(c.book)}</b><div class="muted">${esc(c.title)} · page ${c.page} of ${c.pages}</div></div>`:""}
+      <div class="card"><h3>📅 Coming up</h3>${D.dates.filter(d=>daysTo(d.date)>=0).slice(0,5).map(dateH).join("")}</div>
+      <div class="card"><h3>📌 Key notes</h3>${D.notes.slice(0,12).map(noteH).join("")||'<div class="muted">No notes yet.</div>'}</div>
+      <div class="card"><h3>📰 Current affairs</h3><a href="${esc(D.ca_url)}">Open today's news →</a></div>`;
+  },
+  quiz(){
+    const qs = D.questions.filter(q=>q.kind==="mcq");
+    if(!qs.length) return `<div class="card empty"><b>No questions yet</b>Mark chapters as done on the PC dashboard.</div>`;
+    const order = qs.slice().sort((a,b)=>(local[a.id]?.at||"").localeCompare(local[b.id]?.at||"") || a.due.localeCompare(b.due));
+    const q = order[0], d = q.data;
+    return `<div class="card"><div class="muted small">${esc(q.source)}${d.page?" · p."+d.page:""} · practice on phone (${qs.length} questions)</div>
+      <div class="q" style="margin-top:8px">Q. ${esc(d.question)}</div>
+      ${d.options.map((o,k)=>`<button class="opt" data-k="${k}" data-q="${q.id}">(${"abcd"[k]}) ${esc(o)}</button>`).join("")}<div id="res"></div></div>`;
+  },
+  notes(){
+    return `<div class="card"><h3>⚠️ Mistakes to revise</h3>${D.mistakes.map(noteH).join("")||'<div class="muted">None yet.</div>'}</div>
+      <div class="card"><h3>📌 All key notes</h3>${D.notes.map(noteH).join("")||'<div class="muted">None yet.</div>'}</div>`;
+  },
+  qa(){
+    return `<div class="card"><h3>💬 Questions you asked</h3>${D.qa.map(x=>`<details><summary>${esc(x.question)}</summary><div class="answer">${md(x.answer)}
+      <div class="muted small">Sources: ${x.sources.map(s=>`[${s.n}] ${esc(s.book)} · p.${s.page}`).join("; ")}</div></div></details>`).join("")||'<div class="muted">No questions yet. Ask on the PC dashboard.</div>'}</div>`;
+  },
+  exam(){
+    return `<div class="card"><h3>📅 All dates</h3>${D.dates.map(dateH).join("")}</div>
+      <div class="card"><h3>Exam details</h3><table>${D.exam_details.map(([k,v])=>`<tr><td>${esc(k)}</td><td>${esc(v)}</td></tr>`).join("")}</table><div class="muted small">${esc(D.exam_footnote)}</div></div>`;
+  },
+};
+function render(){
+  document.getElementById("main").innerHTML = views[view]();
+  document.querySelectorAll("#nav button").forEach(b=>b.classList.toggle("on", b.dataset.v===view));
+  document.querySelectorAll(".opt").forEach(b=>b.onclick=()=>{
+    const q=D.questions.find(x=>x.id==b.dataset.q), ok=+b.dataset.k===+q.data.answer;
+    document.querySelectorAll(".opt").forEach(x=>x.disabled=true);
+    document.querySelector(`.opt[data-k="${q.data.answer}"]`).classList.add("right"); if(!ok) b.classList.add("wrong");
+    local[q.id]={at:new Date().toISOString(),ok}; localStorage.setItem("phoneQuiz",JSON.stringify(local));
+    document.getElementById("res").innerHTML=`<div class="answer"><b>${ok?"✔ Correct!":"✘ Not quite."}</b> ${esc(q.data.explanation)}</div><button class="btn" style="margin-top:10px" onclick="render()">Next →</button>`;
+  });
+}
+document.getElementById("nav").onclick = e => { const b=e.target.closest("button"); if(b){ view=b.dataset.v; render(); window.scrollTo(0,0); } };
+fetch("data.json?t="+Date.now(),{cache:"no-store"}).then(r=>r.json()).then(d=>{
+  D=d; const s=d.stats;
+  document.getElementById("sPre").textContent=Math.max(0,daysTo("2027-05-23"));
+  document.getElementById("sToday").textContent=fmtMin(s.today_min);
+  document.getElementById("sStreak").textContent=s.streak;
+  document.getElementById("sub").textContent=`Last synced from PC: ${new Date(d.updated).toLocaleString("en-IN",{dateStyle:"medium",timeStyle:"short"})}`;
+  render();
+}).catch(()=>{ document.getElementById("main").innerHTML='<div class="card empty"><b>No data yet</b>Start the dashboard on your PC; it publishes here automatically.</div>'; });
+</script>
+</body>
+</html>
