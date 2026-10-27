@@ -689,3 +689,19 @@ kbd {
   .focus-time { font-size: 1.5rem; }
   .board { --gap: 8px; }
 }
+
+/* key points for preparation (written by the study dashboard) */
+.kp { margin: 4px 0 12px; padding: 10px 14px; border-radius: 12px; background: var(--surface-2); border: 1px solid var(--border); }
+.kp summary { cursor: pointer; font-weight: 700; font-size: .88rem; color: var(--text); }
+.kp summary small { font-weight: 500; color: var(--muted); }
+.kp ul { margin: 8px 0 6px; padding-left: 20px; }
+.kp li { margin: 3px 0; font-size: .9rem; color: var(--text-2); }
+.kp-row { font-size: .84rem; margin-top: 4px; color: var(--text-2); }
+.kp-row.muted { color: var(--muted); }
+.kp-wait { font-size: .82rem; color: var(--muted); margin: 0 0 10px; }
+.read-full {
+  display: inline-flex; align-items: center; gap: 6px; margin: 0 0 12px;
+  font-size: .84rem; font-weight: 700; color: var(--primary); text-decoration: none;
+  padding: 6px 12px; border-radius: 10px; border: 1px solid var(--border); background: var(--surface);
+}
+.read-full:hover { border-color: var(--primary); }

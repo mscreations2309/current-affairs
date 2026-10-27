@@ -340,6 +340,22 @@ function renderFilters(items) {
   $("hideRead").classList.toggle("on", state.hideRead);
 }
 
+// Exam-focused key points per story, written by the study dashboard on the PC (data/points.json).
+let points = window.CA_POINTS || {};
+function keyPoints(i) {
+  const p = points[i.id];
+  if (!p) {
+    const recent = (Date.now() - new Date(i.date + "T00:00:00")) / 86400e3 < 2;
+    return recent ? `<p class="kp-wait">📝 Key points for this story are added within the hour.</p>` : "";
+  }
+  return `<details class="kp" open><summary>📝 Key points for preparation${p.full_article ? "" : ` <small>(from the summary)</small>`}</summary>
+    <ul>${p.points.map((x) => `<li>${esc(x)}</li>`).join("")}</ul>
+    ${p.prelims ? `<div class="kp-row"><b>Prelims:</b> ${esc(p.prelims)}</div>` : ""}
+    ${p.mains ? `<div class="kp-row"><b>Mains:</b> ${esc(p.mains)}</div>` : ""}
+    ${p.syllabus ? `<div class="kp-row muted"><b>Revise:</b> ${esc(p.syllabus)}</div>` : ""}
+  </details>`;
+}
+
 function card(i, idx) {
   const main = i.topics[0];
   const showDate = state.query || state.view === "saved";
@@ -355,6 +371,8 @@ function card(i, idx) {
     </div>
     <h3><a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a></h3>
     ${i.summary ? `<p class="summary">${esc(i.summary)}</p>` : ""}
+    ${keyPoints(i)}
+    <a class="read-full" href="${esc(i.link)}" target="_blank" rel="noopener">${I.external} Read full article on ${esc(i.source)}</a>
     <div class="card-foot">
       <div class="src"><span class="src-badge">${SOURCE_SHORT[i.source] || i.source[0]}</span>
         <span>${esc(i.source)} · ${esc(i.section)}${showDate ? ` · ${fmtDate(i.date, { day: "numeric", month: "short" })}` : ""}</span></div>
@@ -732,6 +750,10 @@ async function refreshNews() {
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       out = { data: await res.json(), failed: [] };
     }
+    try {  // key points are published separately by the study dashboard
+      const pr = await fetch(`data/points.json?t=${Date.now()}`, { cache: "no-store" });
+      if (pr.ok) points = await pr.json();
+    } catch { /* points are optional */ }
     const before = new Set(data.items.map((i) => i.id));
     data.items = out.data.items;
     data.updated = out.data.updated;
