@@ -1,6 +1,139 @@
 {
- "updated": "2026-10-28T01:20:14.375Z",
+ "updated": "2026-10-28T08:28:53.412Z",
  "items": [
+  {
+   "id": "cnRpY2xlNzE2MzQ4MzAuZWNl",
+   "date": "2026-10-28",
+   "title": "Hegseth proposes 'ambitious' U.S.-ASEAN defence framework at Philippine summit",
+   "summary": "The United States has been seeking to boost its regional defence partnerships in recent years, citing the need to uphold what it terms a \"free and open Indo-Pacific\" as China has increasingly flexed its muscles in the region",
+   "link": "https://www.thehindu.com/news/international/hegseth-proposes-ambitious-us-asean-defence-framework-at-philippine-summit/article71634830.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 7,
+   "important": true
+  },
+  {
+   "id": "cnRpY2xlNzE2MzQ3NzQuZWNl",
+   "date": "2026-10-28",
+   "title": "Jharkhand Assembly to discuss amended mines law, SIR at two-day special session from Nov. 25",
+   "summary": "The ruling alliance in Jharkhand has been protesting against the Mines and Minerals (Development and Regulation) Amendment Act that was passed in Parliament in August, and the special intensive revision (SIR) of electoral rolls",
+   "link": "https://www.thehindu.com/news/national/jharkhand/jharkhand-assembly-to-discuss-amended-mines-law-sir-at-two-day-special-session-from-nov-25/article71634774.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "cnRpY2xlNzE2MjcwNzQuZWNl",
+   "date": "2026-10-28",
+   "title": "Cyclone Arnab threat: Naidu orders evacuations, puts Andhra Pradesh on high alert",
+   "summary": "With heavy to extremely heavy rain forecast in 13 districts on October 28 and 29, the government steps up disaster preparedness, shifts 4,711 pregnant women to health facilities and deploys 15 NDRF and SDRF teams; R&B department readies emergency teams to ensure road safety and swift restoration of traffic",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-threat-naidu-orders-evacuations-puts-andhra-pradesh-on-high-alert/article71627074.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-1",
+    "GS-2"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "J0aWNsZTcxNjM0NzE0LmVjZQ",
+   "date": "2026-10-28",
+   "title": "Govt. collects ₹3.25 lakh cr. in taxes against ₹19,000 cr. mobile PLI: Vaishnaw",
+   "summary": "According to the official data shared by the government in March, India exported mobile phones worth ₹2 lakh crore in fiscal year 2025 and mobile phone imports in the country had become almost negligible at around 0.02% of the domestic demand in 2024-25 from 75% 10 years ago",
+   "link": "https://www.thehindu.com/news/national/govt-collects-325-lakh-cr-in-taxes-against-19000-cr-mobile-pli-vaishnaw/article71634714.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjM0MzE5LmVjZQ",
+   "date": "2026-10-28",
+   "title": "Air quality slips to ‘poor’ category in Delhi, parts of north India",
+   "summary": "Delhi’s 24-hour average Air Quality Index (AQI) stood at 232 (poor) at 9 a.m. on October 28, as per Central Pollution Control Board (CPCB) data",
+   "link": "https://www.thehindu.com/news/cities/Delhi/air-quality-slips-to-poor-category-in-delhi-parts-of-north-india/article71634319.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjM0NzQ5LmVjZQ",
+   "date": "2026-10-28",
+   "title": "Iran hasn't tried to repair nuclear facilities damaged in Israeli-U.S. strikes: IAEA chief",
+   "summary": "During a UN Security Council meeting, Rafael Grossi urged Iran to give inspectors access to all nuclear sites, including those damaged in the military attacks; Iran maintains that its nuclear program is peaceful",
+   "link": "https://www.thehindu.com/news/international/iran-hasnt-tried-to-repair-nuclear-facilities-damaged-in-us-strikes-iaea-chief/article71634749.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Science & Technology",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MzA2NzkuZWNl",
+   "date": "2026-10-28",
+   "title": "Hark! It’s the season: for flu",
+   "summary": "On unheard-of pathogens, pollution and climate-related health risks, regulation in the healthcare sector, our diets, and more",
+   "link": "https://www.thehindu.com/sci-tech/health/health-matters-newsletter-hark-its-the-season-for-flu/article71630679.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Environment & Ecology",
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
   {
    "id": "ydGljbGU3MTYzMzE2NS5lY2U",
    "date": "2026-10-28",
@@ -14,6 +147,120 @@
     "Polity & Governance"
    ],
    "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MzQ4NDQuZWNl",
+   "date": "2026-10-28",
+   "title": "Rajnath Singh, Hegseth review progress of India-U.S. defence pact",
+   "summary": "India and the U.S. inked the defence framework pact in October last year that sets an ambitious roadmap to further bolster bilateral defence partnership",
+   "link": "https://www.thehindu.com/news/national/rajnath-singh-pete-hegseth-meeting-india-usa-defence-pact-october-28-2026/article71634844.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MzQ1MTUuZWNl",
+   "date": "2026-10-28",
+   "title": "Infiltrators apprehended in Assam's Dhubri, handed over to BSF: CM Himanta",
+   "summary": "Assam's Sribhumi, Cachar, Dhubri and South Salmara-Mankachar districts share 267.5 km of the international border with Bangladesh",
+   "link": "https://www.thehindu.com/news/national/assam/infiltrators-held-in-dhubri-assam-bangladesh-border-bsf-expulsion-cm-himanta/article71634515.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Internal Security & Defence",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjM0Mjk1LmVjZQ",
+   "date": "2026-10-28",
+   "title": "Netanyahu and rival each claim mandate after tight Israel election",
+   "summary": "Exit polls showed Mr. Eisenkot, a former military chief and political novice, and his opposition bloc neck and neck with Mr. Netanyahu’s hard-right camp and both well away from the threshold for a majority in Parliament",
+   "link": "https://www.thehindu.com/news/international/netanyahu-and-rival-each-claim-mandate-after-tight-israel-election/article71634295.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Polity & Governance",
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYzNDE1OC5lY2U",
+   "date": "2026-10-28",
+   "title": "More than 100 people killed in Sudanese army drone attack on market, says Sudanese rights group",
+   "summary": "At least 113 people injured in the attack; many of those killed and injured are women and children, a rights group says",
+   "link": "https://www.thehindu.com/news/international/sudan-south-darfur-nyala-market-drone-attack-death-toll-injuries/article71634158.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Internal Security & Defence",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYzMjYxNS5lY2U",
+   "date": "2026-10-28",
+   "title": "India’s next investment cycle will shape its carbon future",
+   "summary": "Its future emissions will depend on what it chooses to build now and the technologies and standards incorporated into those investments",
+   "link": "https://www.thehindu.com/opinion/op-ed/indias-next-investment-cycle-will-shape-its-carbon-future/article71632615.ece",
+   "source": "The Hindu",
+   "section": "Environment",
+   "topics": [
+    "Environment & Ecology",
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "MTc5MzE2Mzk5NDA0Ni5odG1s",
+   "date": "2026-10-28",
+   "title": "Why China is defying global inflationary tide—and what it means for the world",
+   "summary": "Amid a global energy crisis, China’s inflation remains low. Deep structural flaws and a housing slump continue to threaten a global economic spillover.",
+   "link": "https://www.livemint.com/economy/china-inflation-weak-demand-property-crisis-global-economy-11793163994046.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-3",
     "GS-2"
    ],
    "score": 3,
@@ -126,6 +373,256 @@
    ],
    "gs": [
     "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYzNDU0OC5lY2U",
+   "date": "2026-10-28",
+   "title": "Human deaths in wild elephant attacks in Keralam decline marginally; 4 kumki squads to be set up",
+   "summary": "Number of people injured too showed marginal decline in past five years, according to figures provided by Forest department in Assembly",
+   "link": "https://www.thehindu.com/news/national/kerala/human-deaths-in-wild-elephant-attacks-in-keralam-decline-marginally-4-kumki-squads-to-be-set-up/article71634548.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYzNDgzOC5lY2U",
+   "date": "2026-10-28",
+   "title": "Supreme Court terms cybercrime as digital dacoity, refuses consolidation of cases",
+   "summary": "Strongly condemning the organised cybercrime rackets targeting senior citizens through digital arrests, the CJI said those involved must face stringent action",
+   "link": "https://www.thehindu.com/news/national/supreme-court-terms-cyber-crime-as-digital-dacoity-refuses-consolidation-of-cases/article71634838.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MzQ3MzQuZWNl",
+   "date": "2026-10-28",
+   "title": "Ladakh Chief Secretary reviews preparedness ahead of November 21 Panchayat, Municipal polls",
+   "summary": "Polling will be held for 193 panchayats, with the process to conclude by November 30; Municipal elections will be held in Leh and Kargil.",
+   "link": "https://www.thehindu.com/news/national/ladakh/ladakh-chief-secretary-reviews-preparedness-ahead-of-november-21-panchayat-municipal-polls/article71634734.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MzQxOTQuZWNl",
+   "date": "2026-10-28",
+   "title": "India among top countries with highest heatwave exposure for infants, older adults: Report",
+   "summary": "Globally, total number of heatwave days decreased from 2024’s historical high of 15.3 billion person-days for older adults and 2.3 billion person-days for infants",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/india-among-top-countries-with-highest-heatwave-exposure-for-infants-older-adults-report/article71634194.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MzQ2MTYuZWNl",
+   "date": "2026-10-28",
+   "title": "Why a Congress X post targeting CJI sparked a row in Keralam and prompted a party apology | Explained",
+   "summary": "Kerala Pradesh Congress Committee president has distanced the ruling party from now-deleted post that urged CJI Surya Kant to resign after the latter questioned meeting an INDIA bloc delegation, prompting a legal notice from Supreme Court Bar Association. The post sparked a dispute over authorship and approval, with the party pledging internal reforms to prevent a repeat",
+   "link": "https://www.thehindu.com/news/national/kerala/why-a-congress-x-post-targeting-cji-sparked-a-row-in-keralam-and-prompted-a-party-apology-explained/article71634616.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MzQyMDEuZWNl",
+   "date": "2026-10-28",
+   "title": "Cyclone Arnab: 609 Andhra schools turn into relief shelters",
+   "summary": "Schools in 16 coastal districts are closed, and 17,054 NCC, NSS and Scouts volunteers have been mobilised",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-609-andhra-schools-turn-into-relief-shelters/article71634201.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjMxNjU5LmVjZQ",
+   "date": "2026-10-28",
+   "title": "Congress launches Sanghatana Srujana Abhiyan drive to strengthen grassroots network in Yadgir district of Karnataka​",
+   "summary": "Following the appointment of nearly 1,100 district presidents across the country based on reports of observer, Yadgir is extending the process to frontline units, cell heads, vice-presidents, and executive committee members",
+   "link": "https://www.thehindu.com/news/national/karnataka/congress-launches-sanghatana-srujana-abhiyan-drive-to-strengthen-grassroots-network-in-yadgir-district-of-karnataka/article71631659.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYzNDM0Mi5lY2U",
+   "date": "2026-10-28",
+   "title": "Rupee rises 4 paise to 95.03 against U.S. dollar in early trade",
+   "summary": "At the interbank foreign exchange market, the rupee recorded marginal gains and touched 95.03, registering a rise of 4 paise over its previous close",
+   "link": "https://www.thehindu.com/business/markets/rupee-rises-against-usd-in-early-trade-on-wednesday/article71634342.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYzNDU4My5lY2U",
+   "date": "2026-10-28",
+   "title": "Oil rises over 1% after Saudi Arabian refinery attack reignites supply risk",
+   "summary": "Yemen’s Iran-aligned Houthis said ‌they had hit Saudi Arabia’s biggest oil refinery with a missile, intensifying their strikes against ‌the world’s second-largest crude producer",
+   "link": "https://www.thehindu.com/news/international/oil-rises-after-saudi-arabian-refinery-attack-reignites-supply-risk/article71634583.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjM0NTQwLmVjZQ",
+   "date": "2026-10-28",
+   "title": "Trump would approve Flavio Bolsonaro coming to U.S.; says Brazil election was ‘very strange’",
+   "summary": "Asked about Israeli Prime Minister Benjamin ​Netanyahu’s party losing seats in elections, Mr. Trump said he had heard that Mr. Netanyahu did very well",
+   "link": "https://www.thehindu.com/news/international/flavio-bolsonaro-us-trump-brazil-elections/article71634540.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYzNDIxNS5lY2U",
+   "date": "2026-10-28",
+   "title": "Trump drastically loosens oil and gas methane rules",
+   "summary": "Mr. Trump is pushing ways of bringing down energy costs ahead of the midterms, amid voter anger over soaring oil costs caused by his war on Iran",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/trump-drastically-loosens-oil-and-gas-methane-rules/article71634215.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MzQxNDYuZWNl",
+   "date": "2026-10-28",
+   "title": "Flavio Bolsonaro reaches U.S., say reports citing sources",
+   "summary": "Two media houses, each citing an unnamed source close to the matter, said Flavo Bolsonaro had arrived in the U.S. on October 27",
+   "link": "https://www.thehindu.com/news/international/brazils-flavio-bolsonaro-flees-to-us-after-election-loss/article71634146.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "NSREpRYjBFeVpXWk0_b2M9NQ",
+   "date": "2026-10-28",
+   "title": "How El Niño fuelled Cyclone Arnab’s rapid intensification",
+   "summary": "How El Niño fuelled Cyclone Arnab’s rapid intensification The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMGdCN3FLZ2pzMjlfZWlMSU1ETktLOWZaSDRFNnMtTFNPczBWTzhOblpOX1JSampBbHlETnBLQzVGN01tSTZWMVBHNkhreHBvS3ZPSHNnX3B3bGFCX3hkVFRkLTRwaHdNbXVtdGJOOWdWVkY1QWNBX29hMUs0Wm1VS3ZoemhqSzBETVNaSmFfTG5vR3k4WUR6R29jb0VORVlqMkNUN09ORkJKZFdnelRhYXR1OUpxQS1TcUNTVDJrOUlOdDJxcGR0b1dUU1UwU29mM0RWQmpxTGJqNXNaSUZTMjV0eUU3aHdEMlBvQTJlZkzSAfABQVVfeXFMTjBnQjdxS2dqczI5X2VpTElNRE5LSzlmWkg0RTZzLUxTT3MwVk84Tm5aTl9SUmpqQWx5RE5wS0M1RjdNbUk2VjFQRzZIa3hwb0t2T0hzZ19wd2xhQl94ZFRUZC00cGh3TW11bXRiTjlnVlZGNUFjQV9vYTFLNFptVUt2aHpoakswRE1TWkphX0xub0d5OFlEekdvY29FTkVZajJDVDdPTkZCSmRXZ3pUYWF0dTlKcUEtU3FDU1QyazlJTnQycXBkdG9XVFNVMFNvZjNEVkJqcUxiajVzWklGUzI1dHlFN2h3RDJQb0EyZWZM?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "xNzkzMTQ5MTgwOTUyLmh0bWw",
+   "date": "2026-10-28",
+   "title": "US Fed decision: What Kevin Warsh’s next move could be as inflation stays above 3% and jobs weaken | 3 things to watch",
+   "summary": "The Federal Reserve faces persistent inflation above its 2% target alongside pressure on housing and employment. Markets expect rates to hold steady after September’s increase, but investors will watch Kevin Warsh’s comments",
+   "link": "https://www.livemint.com/economy/us-fed-decision-what-kevin-warsh-s-next-move-could-be-as-inflation-stays-above-3-and-jobs-weaken-3-things-to-watch-11793149180952.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
    ],
    "score": 2,
    "important": false
@@ -1200,6 +1697,40 @@
    ],
    "gs": [
     "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYzMzA3NC5lY2U",
+   "date": "2026-10-27",
+   "title": "On the question of KIIFB’s future",
+   "summary": "An expert panel constituted by Keralam’s UDF government to review the functioning of KIIFB has recommended winding it up and absorbing its functions into the State government, prompting a closer look at the merits of off-budget borrowings by States and the need to boost public investment in Keralam",
+   "link": "https://www.thehindu.com/news/national/kerala/on-the-question-of-kiifbs-future/article71633074.ece",
+   "source": "The Hindu",
+   "section": "Economy",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYzMDYyOC5lY2U",
+   "date": "2026-10-27",
+   "title": "Your DNA says less about your personality than a short online quiz",
+   "summary": "The findings of new research reinforce a long-standing idea in genetics that there is no single ‘personality gene’; the dataset the researchers used also directly challenged older theories that attempted to link traits to particular brain chemicals",
+   "link": "https://www.thehindu.com/sci-tech/science/your-dna-says-less-about-your-personality-than-a-short-online-quiz/article71630628.ece",
+   "source": "The Hindu",
+   "section": "Science",
+   "topics": [
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
    ],
    "score": 2,
    "important": false
