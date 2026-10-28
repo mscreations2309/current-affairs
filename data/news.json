@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T08:28:53.412Z",
+ "updated": "2026-10-28T16:00:45.305Z",
  "items": [
   {
    "id": "cnRpY2xlNzE2MzQ4MzAuZWNl",
@@ -135,6 +135,65 @@
    "important": false
   },
   {
+   "id": "J0aWNsZTcxNjM3MDMyLmVjZQ",
+   "date": "2026-10-28",
+   "title": "Ministers to visit Attappady on Saturday",
+   "summary": "V.K. Sreekandan, MP, has attributed the increasing health problems in Attappady to conditions such as sickle cell disease and anaemia, gaps in nutrition programmes and shortcomings in emergency medical services",
+   "link": "https://www.thehindu.com/news/national/kerala/ministers-to-visit-attappady-on-saturday/article71637032.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MzU3MTguZWNl",
+   "date": "2026-10-28",
+   "title": "UNICEF urges media to promote inclusive early childhood development, report responsibly on AI",
+   "summary": "Workshop seeks to promote ethical, child-sensitive and non-stigmatising reporting, and raise awareness of AI-related risks, including misinformation, deepfakes, bias, privacy violations, and fabricated content",
+   "link": "https://www.thehindu.com/sci-tech/health/unicef-urges-media-to-promote-inclusive-early-childhood-development-report-responsibly-on-ai/article71635718.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MzU5MDIuZWNl",
+   "date": "2026-10-28",
+   "title": "Climate change must be declared 'global health emergency': Lancet study",
+   "summary": "Roughly 323,000 deaths have been avoided in \"at least\" 77 countries where air pollution from fossil fuels has fallen since 2016, according to the report",
+   "link": "https://www.thehindu.com/sci-tech/health/climate-change-must-be-declared-global-health-emergency-lancet-study/article71635902.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Environment & Ecology",
+    "Health & Social Issues",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
    "id": "ydGljbGU3MTYzMzE2NS5lY2U",
    "date": "2026-10-28",
    "title": "Brazil's Flavio Bolsonaro headed to U.S. after losing election, sources say",
@@ -262,6 +321,123 @@
    "gs": [
     "GS-3",
     "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjM3MTAzLmVjZQ",
+   "date": "2026-10-28",
+   "title": "India needs $220 billion for green power transition by FY30",
+   "summary": "Speaking at the press curtain raiser of the the Bharat Renewable Energy Summit & Expo (2026), Mr. Sarangi mentioned that India had secured private investment of $64 billion in the sector.",
+   "link": "https://www.thehindu.com/business/Industry/india-needs-220-billion-for-green-power-transition-by-fy30/article71637103.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Economy",
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjM2NjczLmVjZQ",
+   "date": "2026-10-28",
+   "title": "Food Commission reviews nutrition supplies in Attappady",
+   "summary": "The inspection followed reports of infant deaths in Attappady, suspected to be linked to malnutrition",
+   "link": "https://www.thehindu.com/news/national/kerala/food-commission-reviews-nutrition-supplies-in-attappadi/article71636673.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MzY2MTAuZWNl",
+   "date": "2026-10-28",
+   "title": "Keralam Assembly passes Kerala Motor Vehicles Taxation (Amendment) Bill",
+   "summary": "The Bill provides for setting up approved vehicle seizure yards in all taluks in Keralam to store vehicles seized for non-payment of tax within the State",
+   "link": "https://www.thehindu.com/news/national/kerala/keralam-assembly-passes-kerala-motor-vehicles-taxation-amendment-bill/article71636610.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYzNzE2MS5lY2U",
+   "date": "2026-10-28",
+   "title": "Israel defence minister slams Eisenkot's call for military to resist PM",
+   "summary": "Israel Katz said that Gadi Eisenkot's comments were the latest in a campaign of lies",
+   "link": "https://www.thehindu.com/news/international/israel-defence-minister-slams-eisenkots-call-for-military-to-resist-pm/article71637161.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Internal Security & Defence",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYzNDMyNy5lY2U",
+   "date": "2026-10-28",
+   "title": "Will the price caps on cancer drugs help bring down the cost of treatment?",
+   "summary": "For cancer patients in India, the struggle to stay alive is as much about the disease as about the arithmetic of fighting it. Experts call the government’s price caps a tokenistic, short-term measure. Patients will not benefit unless structural changes including tackling pricing at the manufacturing end, and large-scale government procurement to stabilise prices are put in place Will capping trade",
+   "link": "https://www.thehindu.com/sci-tech/health/will-the-price-caps-on-cancer-drugs-help-bring-down-the-cost-of-treatment/article71634327.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Health & Social Issues",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjM1OTk5LmVjZQ",
+   "date": "2026-10-28",
+   "title": "Wearables data show exercise may help buffer genetic risk for depression",
+   "summary": "The researchers analysed survey responses, electronic health records, genetic data and long-term physical activity data from Fitbit devices",
+   "link": "https://www.thehindu.com/sci-tech/health/wearables-data-show-exercise-may-help-buffer-genetic-risk-for-depression/article71635999.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Health & Social Issues",
+    "Internal Security & Defence",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3",
+    "Prelims"
    ],
    "score": 3,
    "important": false
@@ -623,6 +799,200 @@
    ],
    "gs": [
     "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYzNjkwMi5lY2U",
+   "date": "2026-10-28",
+   "title": "Forest Department says no protocol to formally inform royal family about ‘Ambari’ elephant selection",
+   "summary": "Tusker Prashanth’s selection as the lead elephant for Jamboo Savari was communicated to Pramoda Devi Wadiyar over phone on October 12, says DCF",
+   "link": "https://www.thehindu.com/news/national/karnataka/forest-department-says-no-protocol-to-formally-inform-royal-family-about-ambari-elephant-selection/article71636902.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MzQzMzMuZWNl",
+   "date": "2026-10-28",
+   "title": "Cyclone Arnab: Heavy inflows swell rivers across three North Andhra districts",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-heavy-inflows-swell-rivers-across-three-north-andhra-districts/article71634333.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYzNjQ4MC5lY2U",
+   "date": "2026-10-28",
+   "title": "National seminar on AI and Indian economy in Hubballi on Saturday",
+   "summary": "Basavaraj Horatti will inaugurate the event being organised by the JSS Banashankari Arts, Commerce and Shantikumar Gubbi Science College",
+   "link": "https://www.thehindu.com/news/national/karnataka/national-seminar-on-ai-and-indian-economy-in-hubballi-on-saturday/article71636480.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYzNjE1MS5lY2U",
+   "date": "2026-10-28",
+   "title": "Cyclone Arnab wreaks havoc at Odalarevu fishing villager, over 100 boats destroyed",
+   "summary": "Nearly one hundred boats have broken, another hundred more boats were scattered and dozens of boats were sunk in the backwaters near the confluence of Godavari river into the sea after cyclone Arnab made its landfall near Odalarevu village",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-wreaks-havoc-at-odalarevu-fishing-villager-over-100-boats-destroyed/article71636151.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MzYzODIuZWNl",
+   "date": "2026-10-28",
+   "title": "‘Raise the Flag of Freedom’: cultural protest gathering in Thrissur on October 30",
+   "summary": "Rally and cultural programmes to protest ‘vote chori’ and uphold democratic and constitutional values",
+   "link": "https://www.thehindu.com/news/national/kerala/raise-the-flag-of-freedom-cultural-protest-gathering-in-thrissur-on-october-30/article71636382.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjM0MzkwLmVjZQ",
+   "date": "2026-10-28",
+   "title": "14 candidates in fray for Ongole Mayor’s post, says Municipal Commissioner",
+   "summary": "Of the total 1,92,873 voters across 62 wards, 92,228 are men, 1,00,591 are women, and 54 are from other categories, while 224 polling stations have been designated for the election",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/14candidates-in-fray-for-ongole-mayors-post-says-municipal-commissioner/article71634390.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjM0ODAyLmVjZQ",
+   "date": "2026-10-28",
+   "title": "Israel elections: Understanding how Knesset polls work vs India’s system",
+   "summary": "Israel’s political clash after the October 27 national vote pits Prime Minister Benjamin Netanyahu against former military chief Gadi Eisenkot in a neck-and-neck fight to form a government, as neither major bloc won a 61-seat majority in the 120-seat Knesset",
+   "link": "https://www.thehindu.com/news/international/how-israel-elections-work-understanding-knesset-elections-vs-india/article71634802.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MzU2NzEuZWNl",
+   "date": "2026-10-28",
+   "title": "Indian Patent Office rejects patent application for drug-resistant TB regimen",
+   "summary": "Civil society groups urge U.S.-based Global Alliance for TB Drug Development to withdraw related patent claims in other countries",
+   "link": "https://www.thehindu.com/sci-tech/health/indian-patent-office-rejects-patent-application-for-drug-resistant-tb-regimen/article71635671.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "International Relations",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "pCWlZVaEZZMWt4YXc_b2M9NQ",
+   "date": "2026-10-28",
+   "title": "Israel elections: Why Netanyahu was punished, but not rejected",
+   "summary": "Israel elections: Why Netanyahu was punished, but not rejected The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTThqdDY2U3psVnlIcmZnUEVqZlB0dDVWTlIyRjN5OVJRR21iRzktbGUxTnJLbE9aOU94aXdpVkRzTXFEN1NidHdSeHVyUXNJeFNpaDRWWWZfWFVsWmZHZkdWREh4dVNUaHBuS2pwQUN5NXRDTGl6UnlackdHdEkxRWJaRjZsRFo4VDVZNHJ4NUJXU2g1NFlXQzgxd1poampiZVZJNDBQQnFKVXdfU1pRLWxFV2_SAbsBQVVfeXFMUDNZTVFqM25oVkFWb291ZThrZnRQTi1IZGxmT1ZLazdnLVd3dEFWTDFMN1VRdEJDSmwzWWdoZXJSMmU1bFYtbC1rUWZkNTBTYmVDOUpwN011bTRnRXhWRlBMN2NwUmVKd0ZKZlJFM3pub1FrQ2JodHFybkpTVTNlUVllVjdwcV9ZcEk2TlhCYzh1bFRKVHd2QU53MXM0bUJuMEpEb3ZwRGpTdXpnalNxeHdCZzBZVUhFY1kxaw?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "zUkRKUWIwRXlaV1pNP29jPTU",
+   "date": "2026-10-28",
+   "title": "How El Niño made Cyclone Arnab stronger and faster",
+   "summary": "How El Niño made Cyclone Arnab stronger and faster The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSnEtaXp2bF9VSE1rSGplbU9OQmhFa09YVGhuV0p0cHgzQW9RNVBzWXgwb0VZNERxWGJFNU5RV3F3UU9NazRjT0xlQllUZUd2dnBzN3REb1pLZnVGM2Q2SGJWSV91LTdzR1ZuWjFQblctQVJaUGZLbGxYc0pja3pMcklfT2pUZGFhQ1hNRFU3MWcxSFVBODRwbjBwajc2ZlR1UGlDNERxQlR3b2tsNHlFV1E5X1hCRUJ0VEpaa2w0ZXRLbmg5M2NnaTVzZDNiQnBOa2s5QmFZR01KWl9vd3E2Rk01YV9JRHZXVXfSAfABQVVfeXFMTjBnQjdxS2dqczI5X2VpTElNRE5LSzlmWkg0RTZzLUxTT3MwVk84Tm5aTl9SUmpqQWx5RE5wS0M1RjdNbUk2VjFQRzZIa3hwb0t2T0hzZ19wd2xhQl94ZFRUZC00cGh3TW11bXRiTjlnVlZGNUFjQV9vYTFLNFptVUt2aHpoakswRE1TWkphX0xub0d5OFlEekdvY29FTkVZajJDVDdPTkZCSmRXZ3pUYWF0dTlKcUEtU3FDU1QyazlJTnQycXBkdG9XVFNVMFNvZjNEVkJqcUxiajVzWklGUzI1dHlFN2h3RDJQb0EyZWZM?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "1YURWUldFbFlielpSP29jPTU",
+   "date": "2026-10-28",
+   "title": "Arnab smashes into the east coast: How cyclones are named",
+   "summary": "Arnab smashes into the east coast: How cyclones are named The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdWpoTUUwM2xSQi1YM2kyZ0Q1NGU2WlBreWZJWVU0OTlCb2lDeTVjekNkYTJpdjIxRHExdTlSdG9HekNyVFpoWjlOU3lBT1NJZlU5bU5NVk5aY1FJWGt2Q3l5bnplNVpsRi10czdFbU1DcHJPRnpFdjRrcndhdFMwVU5LT1dwZldZUUcwSUl5X1hJZ2F4WDlxMXh0bURJZF90cU9jOHJzNVJyVGhibG5r0gG2AUFVX3lxTE9EZnlQOFNUYlNPVkZZNWFoalplcFFsb3dhYTFPMUN1cmlkRkZBYlRwQjlPa3pfMGFaVTA5QnpVUm9KM0FQU01Ma1FLdTNFYnhCLWdFNmFwNFFMR0d4d0loZUxJQlI4Uk15cU4yTzJTcUtrRWlWYlNuZEFLRDAtQVQ5dzlxX3cyRmZFanNEM2x4N3JmX3loTmx3YkxITy1WWjBVNks0dWs1Q2pHNFB5aDVRWElYbzZR?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-1"
    ],
    "score": 2,
    "important": false
