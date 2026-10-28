@@ -1,6 +1,166 @@
 {
- "updated": "2026-10-28T16:00:45.305Z",
+ "updated": "2026-10-28T21:03:04.967Z",
  "items": [
+  {
+   "id": "J0aWNsZTcxNjM1OTI1LmVjZQ",
+   "date": "2026-10-29",
+   "title": "Kavitha threatens to block census operations over OBC column demand",
+   "summary": "Hyderabad Declaration adopts nine resolutions on caste census, reservations",
+   "link": "https://www.thehindu.com/news/national/telangana/kavitha-threatens-to-block-census-operations-over-obc-column-demand/article71635925.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYzNjQ2NC5lY2U",
+   "date": "2026-10-29",
+   "title": "Hunker down: On Cyclone Arnab, its landfall",
+   "summary": "Proactive governance kept the casualties low after Cyclone Arnab",
+   "link": "https://www.thehindu.com/opinion/editorial/hunker-down-on-cyclone-arnab-its-landfall/article71636464.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYzNjA0NS5lY2U",
+   "date": "2026-10-29",
+   "title": "TN Teachers Education University gets new Registrar-in-charge following allegation of irregularities by civilian group",
+   "summary": "Welcoming the move, M. Radhakrishnan of Arappor Iyakkam, in a statement, demanded a thorough and transparent investigation into the complaint and legal action against those involved in the “fraud”",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-teachers-education-university-gets-new-registrar-in-charge-following-allegation-of-irregularities-by-civilian-group/article71636045.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYzNDkzNy5lY2U",
+   "date": "2026-10-29",
+   "title": "Three schoolgirls from Tiruvannamalai rescued at Kilambakkam bus terminus",
+   "summary": "The girls were handed over to the Child Welfare Committee (CWC) for counselling before reuniting with the family members",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/three-schoolgirls-from-tiruvannamalai-rescued-at-kilambakkam-bus-terminus/article71634937.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjM3MzAxLmVjZQ",
+   "date": "2026-10-29",
+   "title": "Tiger Shroff firing case: 11 accused re-arrested under MCOCA after court grants permission",
+   "summary": "The accused were produced before the special MCOCA court on October 28, a day after the Mumbai Crime Branch invoked provisions of the Act against them",
+   "link": "https://www.thehindu.com/news/national/maharashtra/tiger-shroff-firing-case-11-accused-re-arrested-under-mcoca-after-court-grants-permission/article71637301.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MzczODIuZWNl",
+   "date": "2026-10-29",
+   "title": "Maritime Board (Amendment) Bill passed in Assembly amid Opposition walkout",
+   "summary": "The Bill provides for reconstitution of the board to establish a centralised decision-making mechanism",
+   "link": "https://www.thehindu.com/news/national/kerala/maritime-board-amendment-bill-passed-in-assembly-amid-opposition-walkout/article71637382.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MzQ0MDIuZWNl",
+   "date": "2026-10-29",
+   "title": "U.S. Fed holds interest rates steady despite surging inflation",
+   "summary": "The 12-member FOMC voted 10-2 to hold rates at a target range between 3.75 and 4.00%, citing the need for more data in the fight against inflation",
+   "link": "https://www.thehindu.com/business/Economy/federal-reserve-likely-to-skip-rate-hike-despite-elevated-inflation/article71634402.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjM3NzA5LmVjZQ",
+   "date": "2026-10-29",
+   "title": "Disinvestment as key economic strategy",
+   "summary": "Given the fact that privatisation of several PSEs is a long journey, calibrated disinvestment could serve as an interim measure",
+   "link": "https://www.thehindu.com/opinion/op-ed/disinvestment-as-key-economic-strategy/article71637709.ece",
+   "source": "The Hindu",
+   "section": "Economy",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjM2NDk3LmVjZQ",
+   "date": "2026-10-29",
+   "title": "Clinging on: On Netanyahu and the Israel elections",
+   "summary": "Netanyahu’s continuance will be bad news for Israel and the region",
+   "link": "https://www.thehindu.com/opinion/editorial/clinging-on-on-netanyahu-and-the-israel-elections/article71636497.ece",
+   "source": "The Hindu",
+   "section": "Editorial",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
   {
    "id": "cnRpY2xlNzE2MzQ4MzAuZWNl",
    "date": "2026-10-28",
@@ -189,6 +349,25 @@
     "GS-3",
     "GS-2",
     "Prelims"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "xNzkzMjA2NDYxNTA0Lmh0bWw",
+   "date": "2026-10-28",
+   "title": "India’s public debt ratio to fall to 75.1% of GDP by FY32, only major emerging economy set for a decline: RBI DG",
+   "summary": "India is the only emerging market economy among nine with GDP above $1 trillion projected to reduce its public debt ratio between 2025 and 2031, with the ratio expected to fall from 84.3% of GDP in FY26 to 75.1% in FY32, RBI Deputy Governor Poonam Gupta said.",
+   "link": "https://www.livemint.com/economy/indias-public-debt-ratio-to-fall-to-75-1-of-gdp-by-fy32-only-major-emerging-economy-set-for-a-decline-rbi-dg-11793206461504.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
    ],
    "score": 4,
    "important": false
@@ -438,6 +617,45 @@
     "GS-2",
     "GS-3",
     "Prelims"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNDQ0MzUxLmVjZQ",
+   "date": "2026-10-28",
+   "title": "The concerns over the Census questions",
+   "summary": "The questionnaire for the population enumeration phase of the 2027 Census comprises 40 questions and seek details such as nationality, number of bank accounts and mobile, Aadhaar and voter ID numbers, if available, raising concerns over its potential digression from the purpose of collecting data for policy and planning",
+   "link": "https://www.thehindu.com/news/national/the-concerns-over-the-census-questions/article71444351.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTQ1MTU0MS5lY2U",
+   "date": "2026-10-28",
+   "title": "The way out of the dangerous trap",
+   "summary": "India risks a middle-income, low-productivity trap as weak job creation, stagnant wages and sluggish investment reinforce one another; escaping it requires better vocational education, wider diffusion of technology and useful knowledge, and greater social value for skilled work",
+   "link": "https://www.thehindu.com/business/Economy/the-way-out-of-the-dangerous-trap/article71451541.ece",
+   "source": "The Hindu",
+   "section": "Economy",
+   "topics": [
+    "Economy",
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
    ],
    "score": 3,
    "important": false
@@ -993,6 +1211,101 @@
    ],
    "gs": [
     "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYzNjUxMS5lY2U",
+   "date": "2026-10-28",
+   "title": "UNESCO expert committee seeks stronger community participation in Hampi conservation",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/karnataka/unesco-expert-committee-seek-stronger-community-participation-in-hampi-conservation/article71636511.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYzNzE5My5lY2U",
+   "date": "2026-10-28",
+   "title": "MEA highlights stronger linkages between Japan and northeast India",
+   "summary": "After the leaders of Japan and Bangladesh agree to enhance regional connectivity, the MEA says it will also boost to the Japan-India economic partnership in India as well",
+   "link": "https://www.thehindu.com/news/national/mea-highlights-stronger-linkages-between-japan-and-northeast-india/article71637193.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYzNzc0Ny5lY2U",
+   "date": "2026-10-28",
+   "title": "Iran warns of 'devastating' economic fallout from any new Israeli attack",
+   "summary": "Under Israeli Prime Minister Benjamin Netanyahu, who has vowed to topple Iran's government, the two countries have directly fought a war for the first time in their history after decades of enmity",
+   "link": "https://www.thehindu.com/news/international/iran-warns-of-devastating-economic-fallout-from-any-new-israeli-attack/article71637747.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjM3NjcwLmVjZQ",
+   "date": "2026-10-28",
+   "title": "Afghan-Pakistan border clash kills one, injures five",
+   "summary": "The countries went to war earlier this year and, with no permanent resolution reached on security issues, there have been sporadic attacks since a March truce",
+   "link": "https://www.thehindu.com/news/international/afghan-pakistan-border-clash-kills-one-injures-five/article71637670.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNDI1NDk5LmVjZQ",
+   "date": "2026-10-28",
+   "title": "The gap in manufacturing sector GVA",
+   "summary": "According to the National Accounts Statistics, the manufacturing sector’s GVA is ₹38.6 lakh crore in 2023-24 at current prices.; however, an ‘Alternative Estimate’ using data from the Annual Survey of Industries and Annual Survey of Unincorporated Sector Enterprises gives a lower figure, prompting a closer look at the official estimate",
+   "link": "https://www.thehindu.com/business/Economy/the-gap-in-manufacturing-sector-gva/article71425499.ece",
+   "source": "The Hindu",
+   "section": "Economy",
+   "topics": [
+    "Economy",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "Prelims"
    ],
    "score": 2,
    "important": false
