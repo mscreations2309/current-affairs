@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T21:18:25.546Z",
+ "updated": "2026-10-28T01:20:14.375Z",
  "items": [
   {
    "id": "ydGljbGU3MTYzMzE2NS5lY2U",
@@ -109,6 +109,23 @@
    "gs": [
     "GS-2",
     "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2Mjk1OTkuZWNl",
+   "date": "2026-10-28",
+   "title": "Cyclone Arnab's landfall process continues along Andhra coast | Highlights",
+   "summary": "The northern spiral band of the cyclone has further entered the land, and the landfall process is expected to continue for the next three hours, IMD said",
+   "link": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-27-2026/article71629599.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-1"
    ],
    "score": 2,
    "important": false
