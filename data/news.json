@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T07:03:43.517Z",
+ "updated": "2026-10-29T14:17:16.080Z",
  "items": [
   {
    "id": "J0aWNsZTcxNjM5MzQ3LmVjZQ",
@@ -60,6 +60,25 @@
    "important": false
   },
   {
+   "id": "ydGljbGU3MTY0MDU4Mi5lY2U",
+   "date": "2026-10-29",
+   "title": "India ready to share battle-tested counter-terrorism expertise with ASEAN partners: Rajnath",
+   "summary": "Defence Minister Rajnath Singh told the 13th ADMM-Plus in Cebu that India would share its operational experience through joint exercises, capacity-building programmes and intelligence sharing, and proposed a dedicated defence ‘Youth Bridge’ with ASEAN countries",
+   "link": "https://www.thehindu.com/news/national/india-ready-to-share-battle-tested-counter-terrorism-expertise-with-asean-partners-rajnath/article71640582.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Internal Security & Defence",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
    "id": "J0aWNsZTcxNjM5MDQ3LmVjZQ",
    "date": "2026-10-29",
    "title": "Rupee rises 11 paise to 95.17 against U.S. dollar in early trade",
@@ -89,6 +108,60 @@
    "topics": [
     "International Relations",
     "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjQwNDY2LmVjZQ",
+   "date": "2026-10-29",
+   "title": "Sevadhi Museum, Tamil Nadu varsity join hands to preserve manuscript heritage",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/kerala/sevadhi-museum-tamil-nadu-varsity-join-hands-to-preserve-manuscript-heritage/article71640466.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-1"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjQwNTcwLmVjZQ",
+   "date": "2026-10-29",
+   "title": "Mysuru industry seeks easier business processes, better connectivity",
+   "summary": "Government officials, industry leaders discuss MSME support, logistics, industrial infrastructure and air connectivity at CII Conclave on Ease of Doing Business",
+   "link": "https://www.thehindu.com/news/national/karnataka/mysuru-industry-seeks-easier-business-processes-better-connectivity/article71640570.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "xNzkzMjY2Nzc1MjMwLmh0bWw",
+   "date": "2026-10-29",
+   "title": "Nvidia CEO Jensen Huang names 3 countries leading in tech, manufacturing: Which are they? Does India make the list?",
+   "summary": "Nvidia CEO Jensen Huang identified 3 countries as world’s leading nations in manufacturing &amp; advanced technology, excluding India. He said China’s strength comes from combining industrial production with computer science, after the US shifted much of its heavy manufacturing there over past 50 years.",
+   "link": "https://www.livemint.com/economy/nvidia-ceo-jensen-huang-names-3-countries-leading-in-tech-manufacturing-which-are-they-does-india-make-the-list-11793266775230.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "International Relations",
+    "Economy",
+    "Science & Technology"
    ],
    "gs": [
     "GS-2",
@@ -481,6 +554,131 @@
    ],
    "gs": [
     "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY0MDczNS5lY2U",
+   "date": "2026-10-29",
+   "title": "Farmers call for rasta roko tomorrow in protest against delay in sugar MSP",
+   "summary": "They are also upset with the Ramesh Chand panel not visiting the protesters at the Gurlapur Cross site in Belagavi district",
+   "link": "https://www.thehindu.com/news/national/karnataka/farmers-call-for-rasta-roko-tomorrow-in-protest-against-delay-in-sugar-msp/article71640735.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MzkyNjguZWNl",
+   "date": "2026-10-29",
+   "title": "Karnataka ranks second in PLI Scheme for Textiles and job creation",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/karnataka/karnataka-ranks-second-in-pli-scheme-for-textiles-and-job-creation/article71639268.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjQwMTQwLmVjZQ",
+   "date": "2026-10-29",
+   "title": "Hasanamba Temple festival: KSRTC, KSTDC announce 12 tour packages; private operators fully booked",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/karnataka/hasanamba-temple-festival-ksrtc-kstdc-announce-12-tour-packages-private-operators-fully-booked/article71640140.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjQwNTE4LmVjZQ",
+   "date": "2026-10-29",
+   "title": "CSIR-NGRI director stresses need for expertise in carbon storage research",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/telangana/csir-ngri-director-stresses-need-for-expertise-in-carbon-storage-research/article71640518.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NDA5NjguZWNl",
+   "date": "2026-10-29",
+   "title": "Bangladesh's tribunal sentences Awami League leader to death",
+   "summary": "A three-member tribunal led by Justice Nozrul Islam Chowdhury and comprising Justices Md. Manjurul Bashid and Nur Mohammad Shahriar Kabir delivered the verdict",
+   "link": "https://www.thehindu.com/news/international/bangladeshs-tribunal-sentences-awami-league-leader-to-death/article71640968.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Polity & Governance",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYzOTQzNy5lY2U",
+   "date": "2026-10-29",
+   "title": "U.S. bans imports from Chinese genomics companies over forced labour concerns",
+   "summary": "According to the U.S. Homeland Security, the companies “helped collect genetic material used to track persecuted ethnic minorities, including people subjected to forced labour...”",
+   "link": "https://www.thehindu.com/news/international/us-bans-chinese-genomics-imports-from-companies-forced-labour-concerns-alleged-detention-of-uyghurs-muslims-minorities/article71639437.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY0MDEwMS5lY2U",
+   "date": "2026-10-29",
+   "title": "Cyclone Arnab likely drew moisture from Tamil Nadu system, but did not merge",
+   "summary": "A lingering low-pressure system near Tamil Nadu may have supplied additional moisture to Arnab, potentially helping sustain its cloud bands and rainfall as it approached the Andhra coast.",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/cyclone-arnab-likely-drew-moisture-from-tamil-nadu-system-but-did-not-merge/article71640101.ece",
+   "source": "The Hindu",
+   "section": "Environment",
+   "topics": [
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-1"
    ],
    "score": 2,
    "important": false
