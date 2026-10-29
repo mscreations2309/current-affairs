@@ -1,6 +1,27 @@
 {
- "updated": "2026-10-29T00:54:45.920Z",
+ "updated": "2026-10-29T07:03:43.517Z",
  "items": [
+  {
+   "id": "J0aWNsZTcxNjM5MzQ3LmVjZQ",
+   "date": "2026-10-29",
+   "title": "India ready to share 'battle-tested' anti-terror expertise with ASEAN, its dialogue partners: Rajnath Singh",
+   "summary": "The Defence Minister flagged concerns over disruptions in certain maritime trade routes and asserted that India will continue to act as a \"trusted net security provider\" in the Indian Ocean region and the wider Indo-Pacific",
+   "link": "https://www.thehindu.com/news/national/rajnath-singh-india-asean-defence-ministers-meeting-plus-conclave-philippines/article71639347.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 6,
+   "important": true
+  },
   {
    "id": "J0aWNsZTcxNjM1OTI1LmVjZQ",
    "date": "2026-10-29",
@@ -17,6 +38,63 @@
     "GS-2"
    ],
    "score": 4,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYzOTA0MS5lY2U",
+   "date": "2026-10-29",
+   "title": "Hegseth fires Pentagon's top military planner even as Trump considers new Iran strikes",
+   "summary": "The defence official, who spoke on condition of anonymity to discuss sensitive personnel matters, said there is no immediate replacement for Mr. Sylvia and no reason has been given for the firing",
+   "link": "https://www.thehindu.com/news/international/hegseth-fires-pentagons-top-military-planner-even-as-trump-considers-new-iran-strikes/article71639041.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjM5MDQ3LmVjZQ",
+   "date": "2026-10-29",
+   "title": "Rupee rises 11 paise to 95.17 against U.S. dollar in early trade",
+   "summary": "The U.S. Fed kept interest rates unchanged at 3.75%–4.00% as widely expected, but the market reaction turned mildly dollar-negative, forex traders said",
+   "link": "https://www.thehindu.com/business/markets/rupee-rises-11-paise-against-us-dollar-in-early-trade-on-thursday/article71639047.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2Mzg4NTEuZWNl",
+   "date": "2026-10-29",
+   "title": "U.S. warns allies to prepare for possible Iran strikes, retaliation after elections, say sources",
+   "summary": "The U.S. has told regional allies that the new round of military action could last for several days, but regional officials are bracing for Iran and its proxy groups to retaliate — leading to a fight that could last even longer, the sources said",
+   "link": "https://www.thehindu.com/news/international/us-warns-allies-to-prepare-for-possible-iran-strikes-retaliation-after-elections-say-sources/article71638851.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
    "important": false
   },
   {
@@ -216,6 +294,198 @@
    "important": false
   },
   {
+   "id": "ydGljbGU3MTYzODc3OC5lY2U",
+   "date": "2026-10-29",
+   "title": "Cyclone Arnab LIVE: Amit Shah speaks with CMs of affected States, assures all support",
+   "summary": "Rain lashes West Bengal as Cyclone Arnab turns into a depression and IMD warns of showers till October 30",
+   "link": "https://www.thehindu.com/news/national/cyclone-arnab-weakens-into-depression-imd-alert-odisha-andhra-pradesh-telangana-live-updates-october-29-2026/article71638778.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYzNzY2Ny5lY2U",
+   "date": "2026-10-29",
+   "title": "Maoists are defeated, but arms cache and crores of money unaccounted for: LWE researcher",
+   "summary": "Book titled India’s Maoists: Glimpses into Red Insurgency was launched in Hyderabad",
+   "link": "https://www.thehindu.com/news/national/telangana/maoists-are-defeated-but-arms-cache-and-crores-of-money-unaccounted-for-lwe-researcher/article71637667.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjM5MDI3LmVjZQ",
+   "date": "2026-10-29",
+   "title": "‘Worms in food’ allegation at Keralam school sports meet: Physical education teacher suspended",
+   "summary": "General Education Minister N. Samsudheen says 'some people deliberately trying to take the shine off’ the sports event",
+   "link": "https://www.thehindu.com/news/national/kerala/keralam-teacher-arrested-for-alleging-worms-found-in-food-at-state-sports-meet-minister-alleges-conspiracy/article71639027.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjM0NDAxLmVjZQ",
+   "date": "2026-10-29",
+   "title": "Cyclone Arnab: Guntur district records 41 mm average rainfall; authorities stay alert",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-guntur-district-records-41-mm-average-rainfall-authorities-on-toes/article71634401.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MzcyNDkuZWNl",
+   "date": "2026-10-29",
+   "title": "Unmarried rural youth in Maharashtra plan Statewide stir for government help in getting brides",
+   "summary": "Core demands of the youth planning to protest include setting up an all-religion marriage registration bureau under the Social Welfare Department, providing direct financial assistance, creating steady rural employment, and guaranteeing remunerative prices for farm produce",
+   "link": "https://www.thehindu.com/news/national/maharashtra/unmarried-rural-youth-in-maharashtra-plan-statewide-stir-for-govt-help-in-getting-brides/article71637249.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MzcwMzUuZWNl",
+   "date": "2026-10-29",
+   "title": "Digital Personal Data Protection Act does not infringe on press freedom: Ashwini Vaishnaw",
+   "summary": "IT Minister invites editors and media professionals to engage in open dialogue with government to discuss concerns surrounding the law",
+   "link": "https://www.thehindu.com/news/national/digital-personal-data-protection-act-does-not-infringe-on-press-freedom-ashwini-vaishnaw/article71637035.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjM5MTkyLmVjZQ",
+   "date": "2026-10-29",
+   "title": "U.S. judge rejects Trump administration’s interference in California midterm vote",
+   "summary": "Those registered on California’s voter roles “must not be deprived of a core right merely because of unfounded allegations stemming from a procedure rife with uncertainty and errors,” U.S. District Judge David O. Carter said",
+   "link": "https://www.thehindu.com/news/international/us-judge-rejects-donald-trumps-bid-to-purge-20000-california-ballots-safeguarding-voters-rights-ahead-of-the-midterms/article71639192.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjM5MjEyLmVjZQ",
+   "date": "2026-10-29",
+   "title": "Flavio Bolsonaro claims he is Brazil’s true leader after fleeing to U.S.",
+   "summary": "“I am the elected president, and the criminals who stole Brazil’s election are part of a criminal organization that has established a tyranny,” Flavio Bolsonaro said; U.S. President Donald Trump said he “won’t get involved” in Mr. Bolsonaro’s claim",
+   "link": "https://www.thehindu.com/news/international/flavio-bolsonaro-claims-he-is-brazils-true-leader-after-fleeing-to-us/article71639212.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjM5MTkwLmVjZQ",
+   "date": "2026-10-29",
+   "title": "North Korea fires missile barrage toward sea as tensions with South rise",
+   "summary": "Seoul accused North Korea of planting mines south of the military demarcation line that caused the September 21 blasts, but Pyongyang has denied responsibility for the explosions and warned of retaliation if provoked",
+   "link": "https://www.thehindu.com/news/international/north-korea-fires-missile-barrage-toward-sea-as-tensions-with-south-rise/article71639190.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjI2NDY5LmVjZQ",
+   "date": "2026-10-29",
+   "title": "Taxonomic ‘chauvinism’ rife in ecological literature",
+   "summary": "For instance, even though birds and mammals comprise less than 1 per cent of , they dominate both conservation and research efforts, find two studies.",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/taxonomic-chauvinism-rife-in-ecological-literature/article71626469.ece",
+   "source": "The Hindu",
+   "section": "Science",
+   "topics": [
+    "Environment & Ecology",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "mYTBWS05HeE5Ua0YzP29jPTU",
+   "date": "2026-10-29",
+   "title": "Why Punjab can’t shake off drug crisis: Role of history, geography, economics",
+   "summary": "Why Punjab can’t shake off drug crisis: Role of history, geography, economics The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNDVrYXg5NklmdXpDUjFMcktuVDJ3TTBJQWw3UnczTHNXT25BNUdJcVJWSG03aWZwQUE4b2hwdU9iV2J1QUFUeXJVdUFvQjVFdExIUVNIR0xReUJwUnRnXzV6NmZsVGhOZEhFc0RRU2h0NGF5TUFMbzNMWE43RTNYd2tZMmxLN25NTGlCWlNwT1lSR2ozZ3ljeS1hV0JhYlRTV3UteWZDRG9VMEVkemtCc2tTOVRZb3BqeWZRQnh2UG9Fa1lXTHfSAcwBQVVfeXFMTU94MF9YWFZqYTBsc05BV3NaR2RLNTZZQlJyRHg2UFc0OGZ5MlYzajdWd1VucDJLRjA1VGtkbXdscXNIZEJVV2hkeDh1ZmRXTzc5RXJsWldfX0otWHk3OFQ4Tmxna04xb2lfY0xYbDlETTZqdTkyMzhqUllEU3BFYk9tQVpJWmt5TzlfZjZEa0xpQ3N4aVRxdG56QUpHZ1p4d3FEa0ZCa2tXby1vRTQzTkh0Tnl5VDd1UFBYbzFScUY1X01fa0VKNGxNTkF3?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
    "id": "cnRpY2xlNzE2MzQ4MzAuZWNl",
    "date": "2026-10-28",
    "title": "Hegseth proposes 'ambitious' U.S.-ASEAN defence framework at Philippine summit",
@@ -267,6 +537,25 @@
    ],
    "gs": [
     "GS-1",
+    "GS-2"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "cnRpY2xlNzE2MzU3NDEuZWNl",
+   "date": "2026-10-28",
+   "title": "How neoliberalism turned the world against its young",
+   "summary": "The rise in youth unrest stems from failures of neoliberal capitalism, which has weakened public welfare and worsened unemployment; as falling wages undermine consumption and investment, young people face fewer jobs, rising education costs and an economic system that prioritises profits",
+   "link": "https://www.thehindu.com/business/Economy/how-neoliberalism-turned-the-world-against-its-young/article71635741.ece",
+   "source": "The Hindu",
+   "section": "Economy",
+   "topics": [
+    "Economy",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
     "GS-2"
    ],
    "score": 5,
@@ -1360,6 +1649,42 @@
    "gs": [
     "GS-3",
     "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYzNTM5OS5lY2U",
+   "date": "2026-10-28",
+   "title": "Gene therapy offers to beat hepatitis B virus by muting its DNA",
+   "summary": "An experimental therapy called CRMA-1001 is a remarkable development because, instead of targeting the virus directly, it silences the viral DNA; this is promising because current treatments rarely eliminate the DNA, which allows the virus to rebound",
+   "link": "https://www.thehindu.com/sci-tech/science/gene-therapy-offers-to-beat-hepatitis-b-virus-by-muting-its-dna/article71635399.ece",
+   "source": "The Hindu",
+   "section": "Science",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MzY4MjcuZWNl",
+   "date": "2026-10-28",
+   "title": "Sharp cuts in price of cancer drugs expose excessive pricing, say health experts",
+   "summary": "NPPA releases revised MRPs for 543 brands of anti-cancer medicines with the new prices effective from November 9; Jan Swasthya Abhiyan India (JSA India) says controlling trade margins alone is insufficient as life-saving cancer treatment must be affordable based on medical need, not a patient’s ability to pay",
+   "link": "https://www.thehindu.com/news/national/sharp-cuts-in-price-of-cancer-drugs-expose-excessive-pricing-say-health-experts/article71636827.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
    ],
    "score": 2,
    "important": false
