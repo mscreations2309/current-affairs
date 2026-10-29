@@ -1,6 +1,131 @@
 {
- "updated": "2026-10-29T14:17:16.080Z",
+ "updated": "2026-10-29T20:16:32.584Z",
  "items": [
+  {
+   "id": "J0aWNsZTcxNjQxNzA4LmVjZQ",
+   "date": "2026-10-30",
+   "title": "J&K High Court declares imposition of water usage charges under 2010 Act in UT as ‘ultra vires’",
+   "summary": "The J&K government in 2010 passed the J&K Water Resources (Regulation and Management) Act “to generate revenue on water resources by charging for its usage from private and public units, which will include companies generating electricity in the State”",
+   "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-high-court-declares-imposition-of-water-usage-charges-under-2010-act-in-ut-as-ultra-vires/article71641708.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NDExMTguZWNl",
+   "date": "2026-10-30",
+   "title": "Open to investigation: On the challenge to the Digital Personal Data Protection Act, 2023",
+   "summary": "Public functionaries must not use privacy to seek exemption from scrutiny",
+   "link": "https://www.thehindu.com/opinion/editorial/open-to-investigation-on-the-challenge-to-the-digital-personal-data-protection-act-2023/article71641118.ece",
+   "source": "The Hindu",
+   "section": "Editorial",
+   "topics": [
+    "Polity & Governance",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY0MTEzMS5lY2U",
+   "date": "2026-10-30",
+   "title": "Aavin to invest proceeds from sale of sweets in welfare of dairy farmers",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/cities/chennai/aavin-to-invest-proceeds-from-sale-of-sweets-in-welfare-of-dairy-farmers/article71641131.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjQxNzEyLmVjZQ",
+   "date": "2026-10-30",
+   "title": "NIA takes over probe into alleged arson attack at Kadavumbhagam synagogue in Keralam",
+   "summary": "Police cite suspected cryptocurrency payments, alleged reconnaissance videos and possible international terror links as grounds for a wider probe",
+   "link": "https://www.thehindu.com/news/national/kerala/nia-takes-over-probe-into-alleged-arson-attack-at-kadavumbhagam-synagogue/article71641712.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY0MTg3NC5lY2U",
+   "date": "2026-10-30",
+   "title": "Foreign Secretary to visit Kathmandu as plans get underway for Nepal PM’s India visit",
+   "summary": "Nepal PM Balendra Shah is expected to visit Delhi by the end of the year, in what would be his first bilateral visit abroad, as he has been focused on domestic issues",
+   "link": "https://www.thehindu.com/news/national/foreign-secretary-to-visit-kathmandu-as-plans-get-underway-for-nepal-pms-india-visit/article71641874.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjQwMzQ1LmVjZQ",
+   "date": "2026-10-30",
+   "title": "Kauvery Hospital treats complex aortic valve disease using HANCHOR technology",
+   "summary": "Aortic regurgitation is a condition in which the heart’s aortic valve fails to close properly, causing blood to flow backwards into the heart",
+   "link": "https://www.thehindu.com/news/cities/chennai/kauvery-hospital-treats-complex-aortic-valve-disease-using-hanchor-technology/article71640345.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjQxMDkzLmVjZQ",
+   "date": "2026-10-30",
+   "title": "Deemed ineligible: On the Supreme Court and SIR",
+   "summary": "The Supreme Court has pointed to the SIR’s flaws by design",
+   "link": "https://www.thehindu.com/opinion/editorial/deemed-ineligible-on-the-supreme-court-and-sir/article71641093.ece",
+   "source": "The Hindu",
+   "section": "Editorial",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
   {
    "id": "J0aWNsZTcxNjM5MzQ3LmVjZQ",
    "date": "2026-10-29",
@@ -74,6 +199,23 @@
    "gs": [
     "GS-3",
     "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "MTc5MzI4NDU2ODQ2NC5odG1s",
+   "date": "2026-10-29",
+   "title": "Economy can sustain high-growth trajectory in FY27, recent GST reforms to help: Finmin review",
+   "summary": "However, there are still considerable global uncertainties, including elevated oil prices and inflation, that warrant constant vigilance, said the department of economic affairs in its October review.",
+   "link": "https://www.livemint.com/economy/economy-can-sustain-high-growth-trajectory-in-fy27-recent-gst-reforms-to-help-finmin-review-11793284568464.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
    ],
    "score": 4,
    "important": false
@@ -162,6 +304,43 @@
     "International Relations",
     "Economy",
     "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjM5Nzg3LmVjZQ",
+   "date": "2026-10-29",
+   "title": "Corporate Affairs Ministry has ‘hijacked’ staff appointments in NCLT: Supreme Court",
+   "summary": "The court said the power to make staff appointments must remain with the NCLT president, and an employer-employee relationship must prevail between staff members and the tribunal",
+   "link": "https://www.thehindu.com/news/national/sc-nclat-nclt-presidents-proposals-on-infrastructure-staff-requirements/article71639787.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY0MTExNy5lY2U",
+   "date": "2026-10-29",
+   "title": "Palestinian President says hopes for peace talks with new Israeli government",
+   "summary": "With almost all ballots counted from Israel's pivotal election, neither the bloc of Prime Minister Benjamin Netanyahu nor the opposition bloc led by former military chief Gadi Eisenkot looked able to secure a majority in parliament.",
+   "link": "https://www.thehindu.com/news/international/palestinian-president-says-hopes-for-peace-talks-with-new-israeli-government/article71641117.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Polity & Governance",
+    "International Relations",
+    "Internal Security & Defence"
    ],
    "gs": [
     "GS-2",
@@ -679,6 +858,222 @@
    ],
    "gs": [
     "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjQxODA4LmVjZQ",
+   "date": "2026-10-29",
+   "title": "M.P. wildlife officials highlight Chambal region’s gun culture as probe into cheetah shooting goes on",
+   "summary": "Speaking to The Hindu, an official said that the gun culture has emerged as a “crucial segment” in the probe and that the matter had been brought up with senior police officers",
+   "link": "https://www.thehindu.com/news/national/madhya-pradesh/mp-wildlife-officials-highlight-chambal-regions-gun-culture-as-probe-into-cheetah-shooting-goes-on/article71641808.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY0MTk1Mi5lY2U",
+   "date": "2026-10-29",
+   "title": "Our orders breached ‘left and right’, Deepavali was a festival of lights before gunpowder, Supreme Court says in firecrackers case",
+   "summary": "A complete ban may have a ‘spiralling effect’, the court says, asks the Centre and the Delhi government to ensure enforcement against sellers of spurious and banned crackers",
+   "link": "https://www.thehindu.com/news/national/our-orders-breached-left-and-right-deepavali-was-a-festival-of-lights-before-gunpowder-supreme-court-says-in-firecrackers-case/article71641952.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NDE2NzEuZWNl",
+   "date": "2026-10-29",
+   "title": "West Bengal bars new teachers from contesting elections",
+   "summary": "The move, aimed to improve quality of education in State-run and aided schools, has sparked criticism from several teachers’ associations",
+   "link": "https://www.thehindu.com/news/national/west-bengal/west-bengal-bars-new-teachers-from-contesting-elections/article71641671.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY0MTIyOS5lY2U",
+   "date": "2026-10-29",
+   "title": "Shutdown begins in Manipur district over two missing Kuki youths",
+   "summary": "The Committee on Tribal Unity says the two 20-year-olds were kidnapped around dusk on October 28",
+   "link": "https://www.thehindu.com/news/national/manipur/shutdown-begins-in-manipur-district-over-two-missing-kuki-youths/article71641229.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NDE2MzguZWNl",
+   "date": "2026-10-29",
+   "title": "Supreme Court strikes down Karnataka law validating ‘corrupt’ 2011 recruitment",
+   "summary": "Top court says cancellation of the recruitment process was upheld by both HC and SC, and that the 'power does not lie with the legislature to annul the cancellation, even by a legislation, and thus nullify the judgments of the Constitutional courts’",
+   "link": "https://www.thehindu.com/news/national/supreme-court-strikes-down-karnataka-law-validating-corrupt-2011-recruitment/article71641638.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjQyMDE5LmVjZQ",
+   "date": "2026-10-29",
+   "title": "Iran says four tankers on fire after hitting mines in Hormuz",
+   "summary": "The vessels had \"switched off all their radar and navigation systems\" and disregarded warnings from the IRGC navy, the statement said",
+   "link": "https://www.thehindu.com/news/international/iran-says-four-tankers-on-fire-after-hitting-mines-in-hormuz/article71642019.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNDY5Nzg4LmVjZQ",
+   "date": "2026-10-29",
+   "title": "The rise of industrial tourism in China",
+   "summary": "Industrial tours showcase showcase innovation and manufacturing prowess to instil national pride, while presenting STEM as a sustainable career option for the youth",
+   "link": "https://www.thehindu.com/news/international/the-rise-of-industrial-tourism-in-china/article71469788.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NDE0OTguZWNl",
+   "date": "2026-10-29",
+   "title": "Experts warn of wider spread as Ebola outbreak reaches plateau",
+   "summary": "A major challenge in Congo is limited contact tracing and collaboration with affected communities; health workers sometimes spend more time trying to convince locals to work with them than giving care",
+   "link": "https://www.thehindu.com/sci-tech/health/experts-warn-of-wider-spread-as-ebola-outbreak-reaches-plateau/article71641498.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NDE0MzQuZWNl",
+   "date": "2026-10-29",
+   "title": "ICMR funds study to identify genetic links, potential therapies for autoimmune diseases",
+   "summary": "The findings could help scientists better understand the disease processes involved and identify potential targets for developing new therapies",
+   "link": "https://www.thehindu.com/sci-tech/health/icmr-funds-study-to-identify-genetic-links-potential-therapies-for-autoimmune-diseases/article71641434.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "MlMwb3hOR1pPVFZKMz9vYz01",
+   "date": "2026-10-29",
+   "title": "How the Indian Army secured Srinagar airport during the 1947 Kashmir invasion",
+   "summary": "How the Indian Army secured Srinagar airport during the 1947 Kashmir invasion The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQU9rZWphT3pnZW4yY0pEWjBTODQ4dG44TGNrc282ZEp5NWhRZnhLMjM5UzVKZkp1ZWZZQmhqbVZwUXZsZEQ1aWxIQUJXc2p3SkZBOFV2WFhHRzdlZ1AtU0ZMd3FYZEhaalFmT0RzdkJoS2ZsbjVQUmdvVjlqRU5jb2JIWVBVUWtZejYtcnhGNnFibUVYRE9HU0p2Z01LMF9FS1Uw0gGqAUFVX3lxTE1WaGNydXBDenpiTWFXdFdZNTdkNWg3RjhiWktBQVJhUTFhNExocWJ4MHNLQlFIQWhqMl9OeTVseVNsVW1GdGdJTFkwQmpSTUZuaXJsdGhoTXN6SVBhcmFLdnNBazJINndsZWJGZEo1QWwwN2kxaDVlc1RqdUxRYnhqYmJkNkp6UkZhUVVFMDdEY3FvNDJXM0RXbXJPY1FpdHV2S0oxNGZOTVJ3?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "VTXRWV3hyZG1wcVVRP29jPTU",
+   "date": "2026-10-29",
+   "title": "US’s Freedom of Navigation ops against India: What it means for bilateral ties",
+   "summary": "US’s Freedom of Navigation ops against India: What it means for bilateral ties The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMmZUZUhMaUpmaEZhMUZfekxlLXdmalRoam9KMW5Mem9nR181cFJOZlJlWC03M3dieFk0NFQzWDh2NTRIbTNpbEhzRmJxdl9haGNSck1kZmxzWi1PUEJsUnJ5b2wyNzFDSzl2ZTViTDJoR29aTEdENzh2TFI0T3d0cXpmRjJWMjJMWlI3TmhJYUJIcXlMYVYydEU2Y1lHSW9ISmdGZjRINEQza18xeFR1VWV0a2czR3lNR0ZJaHdaUkVQSTjSAcoBQVVfeXFMTXBzaGxIdUxyaXppN2tCM3JPZ25pUW1rcFdIeFNrdzRRaWhpMG9ncnNDLTA2Nnp2NDd5VEFvbE5NNGQ1NmpyLWR5ZnI0VWlRQmJDdWR3c1VkNm1NVC1yRTdTNHR2QUpWRHhjWkR0b3dwMl9XTmRBeTFKQUZEWjRGMnZxUnVpcjE2ck9JRlc2WlNPY21ON2pQOXBYUWg0NFJCTU94ZWJndEl6WkdUbG5qSTFKWDlVVW1BbHp6T01iYktpNUMtVWxrdmpqUQ?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "V3WWtWeFV6ZFBhRkU_b2M9NQ",
+   "date": "2026-10-29",
+   "title": "How Netanyahu changed Israel, and the challenge that is for him now",
+   "summary": "How Netanyahu changed Israel, and the challenge that is for him now The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLWNWbUU2SE44VGNTNkw3bmlIdGo5U25YMGZ0M3NVcy1XaXBIRkhDT2dSZjR2SjNhNEFwTUNlNVpFZkV3MlJocXhlQXgxRGthU2NVNGNrMEt3d0swcUFZRWhFajA0MWROX3RIRjBYd2JfelZNd0xFSjJFTnNQWlY1cFlxM3dCZDlQOFNFY1ZRWWYzRVQwejdoWmdWVHBhQlhTdmpMTWx5ZW1PanBaWnRyRFk1UdIBugFBVV95cUxOQTRmeXRSNWRCcng1LTN2VnlkbnpzVUZXM1U3U1R4N01fbXZqdzFxYXdaaWpXMng1eTlRTEJFZHdEWGxRc1V2Y0plMnFzQk1Ca1ZTc2VvMHFKU2t1dXVXNFNlWEZ4Z3JWeWNYYkRCRG9ER01ZQ2lZT2FtRGMyTmxCOXdaLURkMWVvZGl2V3BCbTUtVXNMdk5JWWRHZU1xcmItd1ZORzR0blBhb08zRk9hbEUwYkVxUzdPaFE?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
    ],
    "score": 2,
    "important": false
