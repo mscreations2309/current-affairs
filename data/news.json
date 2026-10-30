@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T19:20:52.588Z",
+ "updated": "2026-10-30T23:44:45.446Z",
  "items": [
   {
    "id": "ydGljbGU3MTY0NjgwNy5lY2U",
@@ -57,6 +57,25 @@
    "important": false
   },
   {
+   "id": "J0aWNsZTcxNjQ2NDE1LmVjZQ",
+   "date": "2026-10-31",
+   "title": "CM writes to PM seeking revision of sugar MSP, order on ethanol production",
+   "summary": "The farmers are awaiting an assurance from the Centre even as the cane crushing season has been delayed amidst prospects of cane yield getting reduced this year due to drought: CM",
+   "link": "https://www.thehindu.com/news/national/karnataka/cm-writes-to-pm-seeking-revision-of-sugar-msp-order-on-ethanol-production/article71646415.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
    "id": "J0aWNsZTcxNjQ1NzkxLmVjZQ",
    "date": "2026-10-31",
    "title": "Leased forest land at Athirappilly in Keralam to be surveyed amid disputes over blocking elephant corridor",
@@ -69,6 +88,131 @@
    ],
    "gs": [
     "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NDY1ODYuZWNl",
+   "date": "2026-10-31",
+   "title": "17 NC MLAs issue 15-day ultimatum to address ‘coterie culture’, other issues in party",
+   "summary": "Four-hour meeting of the 17 NC legislators in Srinagar comes three days after party vice-president and J&K CM Omar Abdullah expanded the Cabinet, leaving several leaders disgruntled at not being given a berth",
+   "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/17-nc-mlas-issue-15-day-ultimatum-to-address-coterie-culture-other-issues-in-party/article71646586.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY0NTQwNC5lY2U",
+   "date": "2026-10-31",
+   "title": "Election Commission’s appeals against 16.10 lakh cleared voters raise legal questions",
+   "summary": "The officials who filed appeals against the inclusion of the 16.10 lakh voters may not have had the authority to do so under the Representation of the People Act; according to the Act, the CEO/DEO/ERO/AERO are the authorities with respect to electoral rolls",
+   "link": "https://www.thehindu.com/news/national/west-bengal/authority-of-officials-who-appealed-against-inclusion-of-names-in-bengal-sir-under-lens/article71645404.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY0NDUwMC5lY2U",
+   "date": "2026-10-31",
+   "title": "596 polling stations set up for civic body polls in Guntur on November 1",
+   "summary": "In total, 7,75,803 voters to exercise their franchise in Guntur and Tenali; votes to be counted at Acharya Nagarjuna University for Guntur and VSR College for Tenali on November 3",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/596-polling-stations-set-up-for-civic-body-polls-in-guntur-on-november-1/article71644500.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NDY0NzYuZWNl",
+   "date": "2026-10-31",
+   "title": "Glacial Lake Outburst Flood damages roads, washes away bridge in Bhutan",
+   "summary": "Vulnerable revenue circles in Dhubri and Kokrajhar districts of Assam have been put on high alert",
+   "link": "https://www.thehindu.com/news/international/glof-damages-roads-washes-away-bridge-in-bhutan/article71646476.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NDY4ODYuZWNl",
+   "date": "2026-10-31",
+   "title": "Police secure Poland's Constitutional Tribunal as protests erupt over court chief's suspension",
+   "summary": "Police said they detained three people after some protesters breached the tribunal's fence and others threw objects at officers",
+   "link": "https://www.thehindu.com/news/international/police-secure-polands-constitutional-tribunal-as-protests-erupt-over-court-chiefs-suspension/article71646886.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NDY2NDIuZWNl",
+   "date": "2026-10-31",
+   "title": "Beyond gullibility: On digital arrest scams",
+   "summary": "Bank measures can only limit damage from ‘digital arrest’ scams",
+   "link": "https://www.thehindu.com/opinion/editorial/beyond-gullibility-on-digital-arrest-scams/article71646642.ece",
+   "source": "The Hindu",
+   "section": "Editorial",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "zbExjRUpKUTNsR1JBP29jPTU",
+   "date": "2026-10-31",
+   "title": "On Vallabhbhai Patel’s birth anniversary, a historian explains how he became ‘Sardar’",
+   "summary": "On Vallabhbhai Patel’s birth anniversary, a historian explains how he became ‘Sardar’ The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS1VRYjhmQlFKUFFzcFYwT0M5N0pmWldmaDQxRmNLTGRDUHk2WnQzWGlnenIwZTJQQjF6a3ZfWmFyVTlIS1VZVkg2NjlRNVpfS3Y1TDNoSGxkblRxbFhySmx6WkFyVFRlUlVyamVLLURhZ3BkSXJtdTVSQ0pwdFZfOGs2WFhTVDN3c2VHTkgtSE10T3JoN3hvTk9FQ0w5SFUycjdzTzZNQS15eVViVXBBcUN5WjZGZ9IBvAFBVV95cUxNclhTUjVkZGRPTXNJY0c0Ynk1cmlrSkNFM005bkUyV2RsbFJFWjhGaG9lQ1YyV0tiT2l5azNiT2lkcC01NzRhZm5SaTNWX0thYzhXSHYyMU5QcU9zOF9QaGRzLTB5bXdqemRhbGFuTW0ySWxGOTlEODRkUldXR0R4c0hzN0xQeV9mOUdZbnpSRi1vaGY2YVI5OTVlMXRnQ1hhZjlEdjRrMldkQllzUjBzN2duX3lLcEJJQ3lGRA?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-1"
    ],
    "score": 2,
    "important": false
