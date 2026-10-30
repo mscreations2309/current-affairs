@@ -1,6 +1,25 @@
 {
- "updated": "2026-10-30T07:05:05.196Z",
+ "updated": "2026-10-30T14:06:51.564Z",
  "items": [
+  {
+   "id": "J0aWNsZTcxNjQzOTk1LmVjZQ",
+   "date": "2026-10-30",
+   "title": "Marco Rubio hosts G20 Foreign Ministers as Iran, Ukraine wars divide members",
+   "summary": "“Conversations in Atlanta will provide an opportunity to discuss energy and supply chain challenges as well as identify ways to collectively address the impact of geopolitical tensions on economic security,” a U.S. State Department official said",
+   "link": "https://www.thehindu.com/news/international/marco-rubio-hosts-g20-foreign-ministers-as-iran-ukraine-wars-divide-members/article71643995.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 7,
+   "important": true
+  },
   {
    "id": "J0aWNsZTcxNjQzNjg2LmVjZQ",
    "date": "2026-10-30",
@@ -111,6 +130,61 @@
    "important": false
   },
   {
+   "id": "J0aWNsZTcxNjQ0ODE0LmVjZQ",
+   "date": "2026-10-30",
+   "title": "Constitution must guide judiciary where law is silent: CJI Surya Kant",
+   "summary": "Chief Justice of India Surya Kant said the judiciary is now confronted with questions which were scarcely imaginable a decade ago",
+   "link": "https://www.thehindu.com/news/national/constitution-must-guide-judiciary-where-law-is-silent-cji-surya-kant/article71644814.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjQ0ODgzLmVjZQ",
+   "date": "2026-10-30",
+   "title": "Israeli forces committed war crimes, genocide even after Gaza ceasefire: UN Commission",
+   "summary": "In Gaza, Israeli forces have continued expanding their territorial control, resulting in the killing and injuring of Palestinian civilians, including children, who approach or cross the Yellow Line, which separates Israel- military controlled Gaza from the Palestine-ruled parts of the enclave, Justice Srinivasan Muralidhar said.",
+   "link": "https://www.thehindu.com/news/international/israeli-forces-committed-war-crimes-genocide-even-after-gaza-ceasefire-un-commission/article71644883.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNTY1ODEyLmVjZQ",
+   "date": "2026-10-30",
+   "title": "Trump says Russia to immediately supply diesel to U.S. after talks with Putin",
+   "summary": "The surprise announcement comes against the backdrop of a U.S. law seeking to impose steep tariffs against top purchasers of Russian oil and gas",
+   "link": "https://www.thehindu.com/news/international/trump-says-russia-to-immediately-supply-diesel-to-us-after-talks-with-putin/article71565812.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
    "id": "J0aWNsZTcxNjQxNzA4LmVjZQ",
    "date": "2026-10-30",
    "title": "J&K High Court declares imposition of water usage charges under 2010 Act in UT as ‘ultra vires’",
@@ -175,6 +249,79 @@
    "topics": [
     "International Relations",
     "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY0NDI2MS5lY2U",
+   "date": "2026-10-30",
+   "title": "Keralam’s 70th anniversary marks beginning of dream journey to become India’s best State: CM",
+   "summary": "CM launches logo for ‘Festival of Keralam 2026’",
+   "link": "https://www.thehindu.com/news/national/kerala/keralams-70th-anniversary-marks-beginning-of-dream-journey-to-become-indias-best-state-cm/article71644261.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "History, Art & Culture",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-1",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY0NTE3Ni5lY2U",
+   "date": "2026-10-30",
+   "title": "Keralam Health Minister to visit Attappady amid infant deaths; expert team begins probe",
+   "summary": "Keralam government deputes two teams of experts from the Health department and the Directorate of Medical Education, who will camp at Attapady and conduct a detailed inquiry into the circumstances leading to infant deaths in the tribal colonies there",
+   "link": "https://www.thehindu.com/news/national/kerala/keralam-health-minister-to-visit-attappady-amid-infant-deaths-expert-team-begins-probe/article71645176.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY0NDc4NS5lY2U",
+   "date": "2026-10-30",
+   "title": "Transgender Persons Act: What is the PIL challenging the law’s impact on women’s rights about?",
+   "summary": "What is the petition about? What did the 2019 Act and 2020 Rules provide? What did the 2026 amendment change? What does the petition say about NALSA Judgment?",
+   "link": "https://www.thehindu.com/news/national/transgender-persons-act-what-is-the-pil-challenging-the-laws-impact-on-womens-rights-about/article71644785.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "Q1Uldzd1gyeDVaRkU_b2M9NQ",
+   "date": "2026-10-30",
+   "title": "Bhutan glacial lake burst: What are GLOFs, and why are such events recurring in the Himalayas?",
+   "summary": "Bhutan glacial lake burst: What are GLOFs, and why are such events recurring in the Himalayas? The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWlJzT2xfZTJULVhFZnZ2V2JzZnhWeWpJQnlPZGpUdENKQkNrVThpbHdVMUs1Z0NEMFNXVUV3R3hXdlJuS3RzVzducWc5WXBON0ctaWg3aW5qMmpYT0tHVUppSUxoZDNpSVQ1WU9XVHVwY1RNOTFhcGltMUFCaWhsa083UWFIOWR1VTR5LUlJenhENTB6NUcwSTJVSk9uR0s5S3l6eUdNYzlBdGNoRm9IbU0zbzdxazFMV09RVtIBwwFBVV95cUxNby1qVlBNZVJpT0NCQmcxaFlrYzA3NGw1SGJFMms3eXoyTEFkX21ZM2pGUTlfcDVQX0w1RHNnY1c5emFQbEVDTkJSZFI2VmhRaFhwWlRmSFdXTTRNVFBraGJPOTF0UW91X3l6eFNIeW9LczhxT1RIclRNVTNUSi1HTnRQZGJ2WUFqMzdfc1JQRWlWOW43RlRqUUt1ZVNUQXVtY09uZGwzTzh1VVFsY0dUVldLYnNIVnB0M3d5RWswX2x5ZFE?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations",
+    "Geography & Disasters"
    ],
    "gs": [
     "GS-2",
@@ -429,6 +576,187 @@
    ],
    "gs": [
     "GS-2",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NDUwMDAuZWNl",
+   "date": "2026-10-30",
+   "title": "Nedumbassery luxury car crash: first and third accused seek bail in Kerala High Court",
+   "summary": "Court seeks State’s response to the bail applications. Accused say their continued detention would affect their education and that they would fulfil any bail conditions necessary to ensure their continued cooperation",
+   "link": "https://www.thehindu.com/news/national/kerala/nedumbassery-luxury-car-crash-first-and-third-accused-seek-bail-in-kerala-high-court/article71645000.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NDUzMzguZWNl",
+   "date": "2026-10-30",
+   "title": "Bihar CM Samrat Choudhary calls for adequate Ganga water share to boost state's growth",
+   "summary": "Our resolve is to make Bihar's rivers the foundation of the state's economic prosperity, Samrat Choudhary said",
+   "link": "https://www.thehindu.com/news/national/bihar/bihar-cm-samrat-choudhary-calls-for-adequate-ganga-water-share-to-boost-states-growth/article71645338.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjQzNjA2LmVjZQ",
+   "date": "2026-10-30",
+   "title": "Plea in Madras High Court seeks probe into nationality of Cockroach Janata Party co-convenor Saurav Das",
+   "summary": "Chief Justice Sushrut Arvind Dharmadhikari and Justice G. Arul Murugan order notices to the Centre as well as the CJP leader",
+   "link": "https://www.thehindu.com/news/national/probe-into-nationality-of-cockroach-janata-party-co-convenor-saurav-das-plea-before-madras-high-court/article71643606.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY0NTAyMi5lY2U",
+   "date": "2026-10-30",
+   "title": "Rasta roko by sugarcane farmers on National Highway in Belagavi prohibited",
+   "summary": "The Deputy Commissioner and the District Magistrate issues the order against efforts that will stop traffic anywhere on the National Highway",
+   "link": "https://www.thehindu.com/news/national/karnataka/rasta-roko-by-sugarcane-farmers-on-national-highway-in-belagavi-prohibited/article71645022.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NDQ3OTYuZWNl",
+   "date": "2026-10-30",
+   "title": "Agri Minister inaugurates Krishi-Thotagarike Mela in Shivamogga, appeals farmers to adopt measures to face drought effectively",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/karnataka/agri-minister-inaugurates-krishi-thotagarike-mela-in-shivamogga/article71644796.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY0NDYyMi5lY2U",
+   "date": "2026-10-30",
+   "title": "Drone strikes kill 14, including children, in Ethiopia's Amhara: witnesses",
+   "summary": "The strikes at the camp occurred just as the students were coming home from school, recounted Ahmed, one of the two other witnesses",
+   "link": "https://www.thehindu.com/news/international/drone-strikes-kill-14-including-children-in-ethiopias-amhara-witnesses/article71644622.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Health & Social Issues",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjQ0Mjg3LmVjZQ",
+   "date": "2026-10-30",
+   "title": "New York restricts AI chatbot interactions with children | Explained",
+   "summary": "Governor Kathy Hochul signed two laws on October 28 barring AI chatbots from harmful interactions with minors, including simulating romantic relationships and promoting self-harm, and requiring security safeguards in internet-connected baby monitors",
+   "link": "https://www.thehindu.com/news/international/new-york-restricts-ai-chatbot-interactions-with-children-explained/article71644287.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Polity & Governance",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "yUW01MWF6Tk5ZM3B2P29jPTU",
+   "date": "2026-10-30",
+   "title": "‘Digital arrest’: How big is the scam in India, what are banks doing to stop them?",
+   "summary": "‘Digital arrest’: How big is the scam in India, what are banks doing to stop them? The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZmtZbXY3am5HWnZHLW1rUHdXMVU5cUUtRm9LN25iVHVhV3UwRTdVTkhwZ0JVa2M3cWtmU1dFZ1JidlgySVcyX05VQXg1SUdtVmo2bGFrRU1jdXVYcU1STE1ENHpDRWhSQ0FJbzE3VUZoRVNkajJ0MDNlZ2YtaGpxZ2ptV2hZeVNUSmd1anF3STRZTzdGbjJzbnJnR3ZXTDJPVm1KbDh0bjRQMnJMSmVSZEFQa2N4NS1N0gG_AUFVX3lxTE1nWk5vQzRPMVYteU1ISFFBb1d6M1pzN2QwVzNDTWlHckFGRU1tYUJFcV9STkVQdlNjaHptaTNDbnNVbnBLMGhRU2lDbDRCM3JDU3ZGajJoV3hwWVJKNkhlX0p4MXMxYVhDNFV4M2NnMTNmQ2Y2dnhTcWpsekYyRHpZNkEtcEMwMVkzOURSUERYaEtJYXdVN1hKb19DTFUtcEdNVFN3YjB0NEtRSUp1dDZnVGc0ZzFrQm51azNNY3pv?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "aDBjM010ZEc1dFVtMD9vYz01",
+   "date": "2026-10-30",
+   "title": "How the capitalist US became more socialist under a right-wing Trump administration",
+   "summary": "How the capitalist US became more socialist under a right-wing Trump administration The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdDFpdGFWbTYxN20zZ25WY0V3Tnk0d2ZndXNVaXlMUk41YnlicHJqbGtFTVl3Z2liYUppNGZxbTR2VTNjdmNhS0dLT0VhTTNwTnZMOTUxVGdFRUFhazg2QjFFWEE0amVKWEo0RnhKY08xd1lmSmgtZXgwNnRnOUpFNkh3SENhR0YxWDlPaHlzbGgyVVE2UjF2TkRBeTNhZF9xSGdNZTB0VFFFU0dvWW1LZTdn0gG4AUFVX3lxTFBUV29wazlCV3ZCSzRXajV2d25tYmIyeldfR2ZHYUl5RnhPT004cE8tUEJTYS1aUmZUZXRzcHJncFdaYVZRRWFxVlZ5VTZ2T0JLUEMtU2lBNGxWa01odDZucDhOLXQ2ZDczNzFoQVJtMzdhWUNYX3RtVUpPcXFBZ3BNUno0M2hfdTFycGg0bVBnLWZHZ014QXFIeTVOb1lETEloT0ZzdnBDZm9sOFU0QTh0c3MtdG5tUm0?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "E3OTMzNTczODM3NDguaHRtbA",
+   "date": "2026-10-30",
+   "title": "West Asia conflict drives 15-20% surge in working capital demand at Indian banks, lifts corporate credit growth: Report",
+   "summary": "West Asia conflict has pushed working-capital demand at Indian banks up 15-20% as rising raw-material costs and shipping delays squeeze corporate cash flows. The surge has added to loan growth in the September quarter, with lenders also benefiting from refinancing and acquisition-related borrowing.",
+   "link": "https://www.livemint.com/economy/west-asia-conflict-drives-15-20-surge-in-working-capital-demand-at-indian-banks-lifts-corporate-credit-growth-report-11793357383748.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
     "Prelims"
    ],
    "score": 2,
