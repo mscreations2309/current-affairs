@@ -1,6 +1,115 @@
 {
- "updated": "2026-10-30T00:58:33.982Z",
+ "updated": "2026-10-30T07:05:05.196Z",
  "items": [
+  {
+   "id": "J0aWNsZTcxNjQzNjg2LmVjZQ",
+   "date": "2026-10-30",
+   "title": "External Affairs Minister Jaishankar in U.S. for G20 Foreign Ministers’ meet",
+   "summary": "The External Affairs Minister will participate in the two-day deliberations, which will begin with Mr. Rubio’s address on geopolitical issues",
+   "link": "https://www.thehindu.com/news/national/external-affairs-minister-jaishankar-g20-foreign-ministers-meet-in-atlanta/article71643686.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 6,
+   "important": true
+  },
+  {
+   "id": "ydGljbGU3MTY0MzUxOS5lY2U",
+   "date": "2026-10-30",
+   "title": "Countdown progressing for ISRO’s crucial GSLV-F18 launch carrying navigation satellite NVS-03",
+   "summary": "The Geosynchronous Satellite Launch Vehicle carrying on board the GSLV-F18 rocket is scheduled to lift off at 11.51 p.m. on Friday (October 30, 2026) from the second launch pad at the Satish Dhawan Space Centre",
+   "link": "https://www.thehindu.com/sci-tech/science/isros-crucial-gslv-f18-launch-carrying-navigation-satellite-nvs-03/article71643519.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "cnRpY2xlNzE2NDIzMjEuZWNl",
+   "date": "2026-10-30",
+   "title": "Telangana spotlight: Women blast through the mining barriers",
+   "summary": "From handling explosives and repairing heavy mining equipment to supervising underground operations and training to drive 100-tonne dumpers, women at State-owned Singareni Collieries Company Limited are moving into jobs long considered a male preserve after amendments to the Mines Act helped open up these opportunities to them. However, challenges remain, including workplace safety, gender bias an",
+   "link": "https://www.thehindu.com/news/national/telangana/women-blast-through-the-mining-barriers/article71642321.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY0Mzc5OC5lY2U",
+   "date": "2026-10-30",
+   "title": "Why is ISRO’s NVS-03 satellite launch crucial? | Explained",
+   "summary": "The mission could help restore the functioning of India’s regional satellite navigation system NavIC; its development began following the 1999 Kargil War, when the U.S reportedly clamped down on GPS data access",
+   "link": "https://www.thehindu.com/sci-tech/science/why-is-isros-nvs-03-satellite-launch-crucial-explained/article71643798.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NDM1MzMuZWNl",
+   "date": "2026-10-30",
+   "title": "Glacial lake outburst in Bhutan triggers flood alert in northern West Bengal, Assam",
+   "summary": "Following reports of flash floods in the river’s upper reaches, water levels in the Sankosh could rise suddenly in Assam’s Dhubri and West Bengal’s Alipurduar districts, says advisory",
+   "link": "https://www.thehindu.com/news/international/shintaphu-glacial-lake-bursting-gasa-tshachu-hot-springs/article71643533.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters",
+    "International Relations",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-1",
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjQzNjkzLmVjZQ",
+   "date": "2026-10-30",
+   "title": "Russian Foreign Minister Sergey Lavrov arrives in U.S. for G20 meeting",
+   "summary": "Moscow has said that Foreign Minister Lavrov would use his speech in the G20 meeting to argue against international sanctions",
+   "link": "https://www.thehindu.com/news/international/russian-foreign-minister-sergey-lavrov-arrives-in-us-for-g20-talks-against-sanctions-amid-mounting-global-tensions/article71643693.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
   {
    "id": "J0aWNsZTcxNjQxNzA4LmVjZQ",
    "date": "2026-10-30",
@@ -33,6 +142,43 @@
    "gs": [
     "GS-2",
     "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY0Mzg2NS5lY2U",
+   "date": "2026-10-30",
+   "title": "Labour Ministry sets up National Social Security Boards for unorganised, gig and platform workers",
+   "summary": "The mandate of the Boards include design, monitor, and recommend targeted welfare schemes to gig and platform workers and traditional unorganised workers",
+   "link": "https://www.thehindu.com/news/national/labour-ministry-sets-up-national-social-security-boards-for-unorganised-gig-and-platform-workers/article71643865.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "xRTNSbEJPUWpGd1p3P29jPTU",
+   "date": "2026-10-30",
+   "title": "Why Mao remains sensitive in China: Mbappé’s remark and the Cultural Revolution",
+   "summary": "Why Mao remains sensitive in China: Mbappé’s remark and the Cultural Revolution The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb1ZFSnFLaGVKTFFWVTVmTnJRS21yRmhYMjJCUkg2SGljdUxJNU5lUXF0ZURuUkQtd3NXaEozb2YzNURVTllyWEtYeVFvVzAyUWFvZG43RC0zd0FaRDAzeTUyclUtR0tBb1QwalM0NTk0YlRwal80OWt5M3pGdUNKVFktRmRmWDFobk1fVlJtSHBiR2Y1SzZDZWs0ZVNIenU2LXFScUI3QzlsaFFGWGstMDlqbHdTNElVLUhfbk1UcTdkRHfSAcoBQVVfeXFMTjBaWWZ0ZWhrNzFWbG9nZGNKZk5wSmU1OHhZSmc5RDBRblFtLWd3SXd2YXFwRTdwT2lPendwTXAzcjllY05LbVc5cGlBLXRPeWpsNTlFWUFPR0NBSHVreVZCeHhaNFo3QWxLQVBxazIyTzBYWnZIejljV3pvMEktcE4xV1d3S2MyR0stX1oxd3pHR0txUVNob19Uckt5NnAxTC1Oeks0djBtTnpsR3M1WGNfX1FORVBrODdoYUNfNnR1S1E3RlBOQjFwZw?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
    ],
    "score": 3,
    "important": false
@@ -122,6 +268,168 @@
    ],
    "gs": [
     "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjQzOTk0LmVjZQ",
+   "date": "2026-10-30",
+   "title": "Misuse of insolvency proceedings: ED conducts raids in West Bengal",
+   "summary": "A total of eight premises have been raided in the State in the case involving Kohinoor Power, lender banks and some others, says officials",
+   "link": "https://www.thehindu.com/news/national/west-bengal/misuse-of-insolvency-proceedings-ed-conducts-raids-in-west-bengal/article71643994.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY0MTM4Ny5lY2U",
+   "date": "2026-10-30",
+   "title": "Cyclone Arnab: Andhra Pradesh secretariat staff struggle to charge phones ahead of pension distribution",
+   "summary": "Without power to charge smartphones and biometric devices, secretariat staff are clueless on how to validate beneficiaries’ thumb impressions for identity verification during the NTR Bharosa pension distribution on October 30",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-andhra-pradesh-secretariat-staff-struggle-to-charge-phones-ahead-of-pension-distribution/article71641387.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NDM3NjMuZWNl",
+   "date": "2026-10-30",
+   "title": "Don’t grant permission for public gatherings targeting judges, Madras High Court directs Tamil Nadu police",
+   "summary": "Chief Justice Sushrut Arvind Dharmadhikari and Justice G. Arul Murugan issue the direction pursuant to a PIL petition complaining about personal attacks made against Justice G.R. Swaminathan",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/dont-grant-permission-for-public-gatherings-targeting-judges-madras-high-court-directs-tamil-nadu-police/article71643763.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY0MzU0Ny5lY2U",
+   "date": "2026-10-30",
+   "title": "India says AI, maritime security key priorities for its UNSC candidature for 2028–29",
+   "summary": "Mr. Parvathaneni underscored the need to safeguard freedom of navigation and maritime commerce, saying recent attacks against commercial shipping have demonstrated how disruptions at critical maritime chokepoints can have consequences far beyond their immediate geography",
+   "link": "https://www.thehindu.com/news/national/india-says-ai-maritime-security-key-priorities-for-its-unsc-candidature-for202829/article71643547.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjM5NzA5LmVjZQ",
+   "date": "2026-10-30",
+   "title": "Tamil Nadu Cabinet decides to form commission headed by retd. HC judge to conduct Social Justice Survey",
+   "summary": "The decision was taken at the Cabinet meeting chaired CM Vijay at the Secretariat in Chennai on Thursday",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cabinet-decides-to-form-commission-headed-by-retd-hc-judge-to-conduct-social-justice-survey/article71639709.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTYzOTgxMS5lY2U",
+   "date": "2026-10-30",
+   "title": "INDIA bloc’s ‘public impeachment’ of CEC likely to avoid mocking Parliament",
+   "summary": "Former Lok Sabha Speaker Meira Kumar to preside over proceedings, Kharge to move motion and Rahul Gandhi to speak at the end",
+   "link": "https://www.thehindu.com/news/national/india-blocs-public-impeachment-of-cec-likely-to-avoid-mocking-parliament/article71639811.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjQzMzk1LmVjZQ",
+   "date": "2026-10-30",
+   "title": "Netanyahu's party claims Israel election 'stolen' as results show him losing majority",
+   "summary": "Israeli media reported that members of Mr. Netanyahu's party were accusing Qatar — a country that many Israelis view as a patron of Hamas, the Gaza-based militant group",
+   "link": "https://www.thehindu.com/news/international/netanyahus-party-claims-election-stolen-as-results-show-him-losing-majority/article71643395.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjQzNDkyLmVjZQ",
+   "date": "2026-10-30",
+   "title": "North Korea's Kim calls for rapid expansion of drone technology, observes testing of weapons",
+   "summary": "In a speech at the exhibition, Mr. Kim stressed the need to seize “the absolute superiority in the drone technology” and announced unspecified steps needed to “rapidly expand and strengthen the unmanned aeronautical technology,” says Korean Central News Agency",
+   "link": "https://www.thehindu.com/news/international/north-koreas-kim-calls-for-rapid-expansion-of-drone-technology-observes-testing-of-weapons/article71643492.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Science & Technology",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjM5OTc0LmVjZQ",
+   "date": "2026-10-30",
+   "title": "De-notification of MSMER-2023 removes overlapping procedures, but will it safeguard standards of medical education?",
+   "summary": "Under MSMER-2023, there was a defined escalation path; now, action depends on MARB assessments being initiated, completed and acted upon within a reasonable timeframe",
+   "link": "https://www.thehindu.com/education/de-notification-of-msmer-2023-eliminates-overlapping-procedures-but-will-it-safeguard-the-standards-of-medical-education/article71639974.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Health & Social Issues",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
    ],
    "score": 2,
    "important": false
@@ -345,6 +653,25 @@
    "gs": [
     "GS-2",
     "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjM4OTk1LmVjZQ",
+   "date": "2026-10-29",
+   "title": "AI can help experts tell a real Rembrandt from a fake",
+   "summary": "A newly developed AI model aids art attribution, which traditionally takes a trained human eye and several tools, reports a new research paper.",
+   "link": "https://www.thehindu.com/sci-tech/science/ai-can-help-experts-tell-a-real-rembrandt-from-a-fake/article71638995.ece",
+   "source": "The Hindu",
+   "section": "Science",
+   "topics": [
+    "Science & Technology",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "Prelims"
    ],
    "score": 3,
    "important": false
