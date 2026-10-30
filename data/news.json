@@ -1,6 +1,78 @@
 {
- "updated": "2026-10-30T14:06:51.564Z",
+ "updated": "2026-10-30T19:20:52.588Z",
  "items": [
+  {
+   "id": "ydGljbGU3MTY0NjgwNy5lY2U",
+   "date": "2026-10-31",
+   "title": "NVS-03 satellite launch successful: ISRO",
+   "summary": "The 2250 kg NVS-03 is the third satellite in the next-generation navigation satellite system envisaged for providing continuity of navigation services for the Indian Regional Navigation Satellite System series",
+   "link": "https://www.thehindu.com/sci-tech/science/nvs-03-satellite-launch-successful-isro/article71646807.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NDQ4MjMuZWNl",
+   "date": "2026-10-31",
+   "title": "Supreme Court seeks report from ECI on Form 7 misuse allegations",
+   "summary": "Election Commission says it did not accept any Form 7s filed in violation of norms in U.P.; poll officials took prompt corrective steps, it says after Congress MP alleges widespread fraud during SIR",
+   "link": "https://www.thehindu.com/news/national/supreme-court-seeks-report-from-eci-on-form-7-misuse-allegations/article71644823.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY0NjM0OC5lY2U",
+   "date": "2026-10-31",
+   "title": "Orders issued on Vigilance probe into KIIFB-financed land acquisition in Kannur",
+   "summary": "Move follows Cabinet nod for VACB probe based on panel report. Procedural lapses alleged in land acquisitions for Kannur industrial zones, where 4,896 acres were bought for ₹12,240 crore amid questions of due diligence, compliance with LARR Act.",
+   "link": "https://www.thehindu.com/news/cities/Thiruvananthapuram/orders-issued-on-vigilance-probe-into-kiifb-financed-land-acquisition-in-kannur/article71646348.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjQ1NzkxLmVjZQ",
+   "date": "2026-10-31",
+   "title": "Leased forest land at Athirappilly in Keralam to be surveyed amid disputes over blocking elephant corridor",
+   "summary": "Forest department strongly opposes Plantation Corporation, Kerala’s proposal to renew the lease agreement and access more land, citing violation of lease conditions, including engaging private agencies for pineapple farming on the holding",
+   "link": "https://www.thehindu.com/news/national/kerala/leased-forest-land-at-athirappilly-in-keralam-to-be-surveyed-amid-disputes-over-blocking-elephant-corridor/article71645791.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
   {
    "id": "J0aWNsZTcxNjQzOTk1LmVjZQ",
    "date": "2026-10-30",
@@ -38,6 +110,27 @@
    "important": true
   },
   {
+   "id": "J0aWNsZTcxNjQ0NTk3LmVjZQ",
+   "date": "2026-10-30",
+   "title": "India slashed U.S. and Russian oil in September, coinciding with ‘Russia Sanctions Act’; import from UAE increases",
+   "summary": "Government data shows that India’s oil sourcing remains highly concentrated, with just Russia and the UAE accounting for 60% of oil imports",
+   "link": "https://www.thehindu.com/news/national/india-cut-us-and-russian-oil-imports-in-september-2026-pivoting-to-the-uae-as-tariffs-and-sanctions-reshaped-the-market/article71644597.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Polity & Governance",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 6,
+   "important": true
+  },
+  {
    "id": "ydGljbGU3MTY0MzUxOS5lY2U",
    "date": "2026-10-30",
    "title": "Countdown progressing for ISRO’s crucial GSLV-F18 launch carrying navigation satellite NVS-03",
@@ -50,6 +143,27 @@
    ],
    "gs": [
     "GS-3"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "cnRpY2xlNzE2NDY0NjAuZWNl",
+   "date": "2026-10-30",
+   "title": "India made ‘remarkable progress’ in reducing poverty: World Bank",
+   "summary": "Report says the country saw one of the fastest reductions in poverty in the world; extreme poverty fell to 2.6% in 2023 from 27.1% in 2011, driven by government transfers and rising employment",
+   "link": "https://www.thehindu.com/news/national/india-made-remarkable-progress-in-reducing-poverty-world-bank/article71646460.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "International Relations",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2",
+    "Prelims"
    ],
    "score": 5,
    "important": true
@@ -176,6 +290,64 @@
    "topics": [
     "International Relations",
     "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NDQwODQuZWNl",
+   "date": "2026-10-30",
+   "title": "Polluting vehicles remain unchecked despite strict PUC norms",
+   "summary": "Emissions containing pollutants such as carbon monoxide, nitrogen oxides and fine particulate matter, which can adversely affect human health, remain a concern despite initiatives by the State and Union governments to promote electric vehicles through attractive financing schemes and subsidies.",
+   "link": "https://www.thehindu.com/news/national/kerala/polluting-vehicles-remain-unchecked-despite-strict-puc-norms/article71644084.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NDYzMTEuZWNl",
+   "date": "2026-10-30",
+   "title": "Supreme Court asks Centre to take measures against online misuse of court feeds",
+   "summary": "Solicitor General Tushar Mehta submits that suggestions from various High Courts and other stakeholders have been received and forwarded to the Ministry of Electronics and Information Technology",
+   "link": "https://www.thehindu.com/news/national/supreme-court-asks-centre-to-take-measures-against-online-misuse-of-court-feeds/article71646311.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY0NjU1Ny5lY2U",
+   "date": "2026-10-30",
+   "title": "China denies spying on Nvidia's Jensen Huang",
+   "summary": "China is in a race for tech dominance with the United States, which restricts the export to China of the most cutting-edge silicon chips, designed by industry leader Nvidia and used to train and run AI models",
+   "link": "https://www.thehindu.com/news/international/china-denies-spying-on-nvidias-jensen-huang/article71646557.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Economy",
+    "Science & Technology"
    ],
    "gs": [
     "GS-2",
@@ -326,6 +498,47 @@
    "gs": [
     "GS-2",
     "GS-1"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NDU4NDQuZWNl",
+   "date": "2026-10-30",
+   "title": "In defence of democracy: Keralam’s cultural icons band together with Gen Z in Thrissur",
+   "summary": "In a powerful show of intergenerational solidarity, cultural personalities hand over the National Flag and Constitution to students at a gathering in Thrissur in support of the Jantar Mantar protests",
+   "link": "https://www.thehindu.com/news/national/kerala/in-defence-of-democracy-keralams-cultural-icons-band-together-with-gen-z-in-thrissur/article71645844.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Internal Security & Defence",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "E3OTMzNzU1MDA1MjEuaHRtbA",
+   "date": "2026-10-30",
+   "title": "Extreme poverty in India falls to 2.6% from 27.1%: World Bank",
+   "summary": "As many as 496 million people moved above the lower-middle-income poverty line of $4.20 a day between 2011 and 2023, according to the World Bank’s October 2026 Poverty &amp; Equity Brief.",
+   "link": "https://www.livemint.com/economy/india-extreme-poverty-rate-declines-2011-to-2023-world-bank-11793375500521.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "International Relations",
+    "Economy",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
    ],
    "score": 3,
    "important": false
@@ -758,6 +971,183 @@
    "gs": [
     "GS-3",
     "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjQ2NjcyLmVjZQ",
+   "date": "2026-10-30",
+   "title": "J&K High Court seeks status on retrieval of Pakistan-born son of Indian deported after Pahalgam attack",
+   "summary": "Scores of Pakistan-born citizens, married to citizens of J&K, were deported from the Union Territory after the Pahalgam attack, which left 26 civilians dead",
+   "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-high-court-seeks-status-on-retrieval-of-pakistan-born-son-of-indian-deported-after-pahalgam-attack/article71646672.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NDYyNzUuZWNl",
+   "date": "2026-10-30",
+   "title": "Free child-care training programme for women in Visakhapatnam",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/free-child-care-training-programme-for-women-in-visakhapatnam/article71646275.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NDY0MzIuZWNl",
+   "date": "2026-10-30",
+   "title": "Air Marshal Inderpal Singh Walia named next IAF Vice Chief",
+   "summary": "Air Marshal Walia headed the Directorate of Air Staff Inspection (DASI) of the IAF, served as the defence attache at Indian embassies in Japan and South Korea, and was the Senior Air Staff Officer of Eastern Air Command.",
+   "link": "https://www.thehindu.com/news/national/air-marshal-inderpal-singh-walia-named-next-iaf-vice-chief/article71646432.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NDQ0ODQuZWNl",
+   "date": "2026-10-30",
+   "title": "Uniform Civil Code in U.P. if BJP voted to power again: Amit Shah",
+   "summary": "Amit Shah challenges Rahul Gandhi and Akhilesh Yadav to a debate on the special intensive revision in Parliament, but says they just wanted to create a ruckus",
+   "link": "https://www.thehindu.com/news/national/uttar-pradesh/bjp-will-bring-ucc-in-uttar-pradesh-if-voted-to-power-again-says-amit-shah/article71644484.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY0NTM1OS5lY2U",
+   "date": "2026-10-30",
+   "title": "Victim of crime should never become victim of process: Madras High Court Chief Justice",
+   "summary": "Legal and administrative procedures must never inflict fresh trauma on those who are really broken, they must offer immediate support, public care, and unconditional dignity, Justice Dharmadhikari said",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/victim-of-crime-should-never-become-victim-of-process-madras-high-court-chief-justice/article71645359.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NDY2NTMuZWNl",
+   "date": "2026-10-30",
+   "title": "Ukraine has resumed strikes on Russian oil refineries, Russia says",
+   "summary": "There was no immediate comment from Ukraine",
+   "link": "https://www.thehindu.com/news/international/ukraine-has-resumed-strikes-on-russian-oil-refineries-russia-says/article71646653.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjQ2NDk1LmVjZQ",
+   "date": "2026-10-30",
+   "title": "China ruling party says 'eliminated dangers' after 33 expelled",
+   "summary": "In more than a decade in charge, Xi has cracked down hard on graft, ensnaring thousands of officials and purging dozens of members of the powerful Central Committee and a string of top military brass",
+   "link": "https://www.thehindu.com/news/international/china-ruling-party-says-eliminated-dangers-after-33-expelled/article71646495.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjQ1ODc2LmVjZQ",
+   "date": "2026-10-30",
+   "title": "Bolsonaro's getaway plane paid for from U.S. bank: Airline",
+   "summary": "Following the vote, the 45-year-old snuck out of Brazil via Argentina and Ecuador in a cloak-and-dagger operation, after being ordered to surrender his passports due to several ongoing investigations against him",
+   "link": "https://www.thehindu.com/news/international/bolsonaros-getaway-plane-paid-for-from-us-bank-airline/article71645876.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NDQ0NzguZWNl",
+   "date": "2026-10-30",
+   "title": "Nipah medicine row: Action after receiving expert panel report, says Keralam Health Minister",
+   "summary": "Muraleedharan says information presented to Assembly was based on reports from responsible officials of Health Department and that he will not make further comments until the expert committee submits its findings",
+   "link": "https://www.thehindu.com/news/national/kerala/nipah-medicine-row-action-after-receiving-expert-panel-report-says-keralam-health-minister/article71644478.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Health & Social Issues",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "E3OTMzNzIyOTMxMTQuaHRtbA",
+   "date": "2026-10-30",
+   "title": "‘2026 resembles 1991’: Why CEA V Anantha Nageswaran wants India to rethink its growth strategy — what he said",
+   "summary": "India must rethink its growth strategy as global tensions and supply-chain shocks threaten access to critical resources, Chief Economic Adviser V Anantha Nageswaran warned. He urged stronger domestic capabilities, diversified imports and strategic buffers.",
+   "link": "https://www.livemint.com/economy/2026-resembles-1991-why-cea-v-anantha-nageswaran-wants-india-to-rethink-its-growth-strategy-what-he-said-11793372293114.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
    ],
    "score": 2,
    "important": false
