@@ -1,6 +1,63 @@
 {
- "updated": "2026-10-30T23:44:45.446Z",
+ "updated": "2026-10-31T05:38:16.253Z",
  "items": [
+  {
+   "id": "xNzkzNDE5MTI2MjQxLmh0bWw",
+   "date": "2026-10-31",
+   "title": "India lifted 49.6 crore people out of poverty between 2011 and 2023, says World Bank report - Here is how it was done",
+   "summary": "The World Bank says India lifted an estimated 496 million people out of poverty between 2011 and 2023. Extreme poverty fell from 27.1% to 2.6%, driven by consumption growth, rising employment—particularly among women—and expanded social transfers.",
+   "link": "https://www.livemint.com/economy/india-lifted-49-6-crore-people-out-of-poverty-between-2011-and-2023-says-world-bank-report-here-is-how-it-was-done-11793419126241.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy",
+    "Health & Social Issues",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 6,
+   "important": true
+  },
+  {
+   "id": "ydGljbGU3MTY0ODA2MS5lY2U",
+   "date": "2026-10-31",
+   "title": "Jaishankar holds bilateral meetings with Foreign Ministers from G20 nations",
+   "summary": "External Affairs Minister Jaishankar met Canadian counterpart Anita Anand in Atlanta on the sidelines of the G20 Foreign Ministers’ Meeting",
+   "link": "https://www.thehindu.com/news/national/jaishankar-bilateral-meetings-with-foreign-ministers-from-g20-nations/article71648061.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "cnRpY2xlNzE2NDgxMjEuZWNl",
+   "date": "2026-10-31",
+   "title": "U.S., South Korea, Japan vow ‘complete’ North Korea’s denuclearisation",
+   "summary": "Speculation is mounting over a potential meeting between U.S. President Donald Trump and North Korean leader Kim Jong Un at next month’s APEC summit in China, with Mr. Trump making repeated overtures to Pyongyang for nuclear talks",
+   "link": "https://www.thehindu.com/news/international/us-south-korea-japan-vow-complete-north-korea-denuclearisation/article71648121.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 5,
+   "important": true
+  },
   {
    "id": "ydGljbGU3MTY0NjgwNy5lY2U",
    "date": "2026-10-31",
@@ -213,6 +270,131 @@
    ],
    "gs": [
     "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjQ4MTkyLmVjZQ",
+   "date": "2026-10-31",
+   "title": "What are the new questions in 2027 Census, and how are enumerators being trained? Explained",
+   "summary": "As Uttar Pradesh and three other poll-bound States—Uttarakhand, Goa and Punjab—prepare to launch the second phase of Census 2027 on December 1, field trainers are briefing about 34 lakh enumerators on 40 questions that will require longer, more sensitive interviews and digital data entry, including caste, religion, Aadhaar access, and parents’ details",
+   "link": "https://www.thehindu.com/news/national/what-are-the-new-questions-in-2027-census-and-how-are-enumerators-being-trained-explained/article71648192.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NDU0NDkuZWNl",
+   "date": "2026-10-31",
+   "title": "The great escape from Theni jail",
+   "summary": "On October 26, a group of 17 remand prisoners hatched a plan to escape from the Theni district jail under the cover of darkness. All of them were apprehended within 42 hours in a massive search operation involving various Tamil Nadu police teams and drones. But the jailbreak has raised larger questions about prison overcrowding, staff shortages, security, and the need for reform, reports L. Srikri",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/the-great-escape-from-tamil-nadus-theni-jail/article71645449.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Internal Security & Defence",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NDU2NTMuZWNl",
+   "date": "2026-10-31",
+   "title": "Karnataka’s milk price hike draws flak for impact on budget and nutrition",
+   "summary": "Experts warn of increased household expenses and reduced access to essential nutrition, particularly for low-income families",
+   "link": "https://www.thehindu.com/news/national/karnataka/karnatakas-milk-price-hike-draws-flak-for-impact-on-budget-and-nutrition/article71645653.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjQ4MDY4LmVjZQ",
+   "date": "2026-10-31",
+   "title": "U.S. imprisons two Chinese nationals for spying",
+   "summary": "The U.S. Department of Justice said the men had carried out clandestine intelligence activities in the United States that included facilitating \"dead drop\" cash payments in exchange for information related to the national security of the United States",
+   "link": "https://www.thehindu.com/news/international/us-imprisons-two-chinese-nationals-for-spying/article71648068.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "zUWtSU05FNU9XR1ZyP29jPTU",
+   "date": "2026-10-31",
+   "title": "Explained: Why India’s rejection of a TB drug patent matters for patients",
+   "summary": "Explained: Why India’s rejection of a TB drug patent matters for patients The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRnIzeTJFeUJuUmhoVzlNOFA3Sm1jMnRpV0poWHY4ZU9VTnBSTGJEQVEyNWlTLVRuQlBqeWRjT0laTlM3SUtsSm5MYXlSYjQzYU4wakt0alJ3WTR6b0loVVU1WXBfMndQNjRPVzJPZDRJQ3BOTjVqYUo3R084bHRaUHdLU0NRUkt4SXh6RUs2bE0xcnNJcllCMEYyS1VsSlpvTldYUWFrMGItbTBXUEhwRjB5LUtEeXVZ0gG_AUFVX3lxTE8wSTMyMWpJekE0b0xfMnk5aFJDVEFIMnVVcWlvR3hxUjRHZWM0NGliaDh6ZGdtUk5vT090cUUyeHZiWlV5SzFJVFplRUoxX2JHNmk5blpUYzgweXdxdG9TbDNZcXlHYmxFS3B2YXRmcmdiUVVjVmpFZ0hHQ0tNWkJLVFVNSGo2Y0RaU3NVOE5NTUJqWEVNMDg5cEJYSlhYSDdmNHp2SUx6a2pab1k5QXpxUWVOQ3F3QkRSNE5OWGVr?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "MVdkR05EWTNoUVdsaz9vYz01",
+   "date": "2026-10-31",
+   "title": "How Xi Jinping’s sweeping military purge echoed at a top Chinese leaders’ meeting",
+   "summary": "How Xi Jinping’s sweeping military purge echoed at a top Chinese leaders’ meeting The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcGY4UHM1ZXM3ZnpaRG02Sl9FbmUwRjJfOGNkSEVwOU5sSmI3eTRFOW1kSnF1TUxtT0xkSnpvbG5YY2VzNDBDQlJNN2xUN1JrTVpDb3VqNGhrUE1ra2FSR1ZBQjBhNFllNU1sdkNqS3ZOdVdSS2pROENIUzVFOWdDNm0tRnM0UURCb1dtbk5xa0I3Q1FNWVhQU2huMFpUS3FqeTBnUk1peTRLdjhaYjlORkpFR1FCX0ZvdkFSYW5IdDJaem5FQW1NV9IBzwFBVV95cUxPVE9yZFZjYmdwSEhsWDFwMk1XX1JzakRHNmNpQmhNSkMzRGFiRW9XZWoyQm52Rjl6ZXpZX0p5a0Y3WEpicVJfSGhfU2R4czZ2UW90N2I1Mmh0TUlYb1IxeWRzXzJnSmJaREU3Y21vN2tCVERkbktobGpyaldGWVZOMmNqU0VYalNTT1FuNk10cEdGYXlLZXBhS3pFNTNzbnFkTUlaS2FidXJZZDFGRHc2alBCWTdtZXNFWV94MTdocjFMS1Y4Um1WdGNDY3hQWlk?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "eVVtOU1hQzFyUW5CUj9vYz01",
+   "date": "2026-10-31",
+   "title": "Why some Delhi High Court judges are less likely to grant bail than others",
+   "summary": "Why some Delhi High Court judges are less likely to grant bail than others The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOODV2RExlV3UwU2luZDNfa0NkOFBkQkJValpxSmpsbWxsU0pqVmN6RDQ0bVNuWHJuRXVIT21kWVZnMlNXczA5c3Nvc1VtaDU0NVk3SGd6RkxxVmJPdGhfMXQtY1lTUExidXlaLXVEb3VVQ1VxN0lLUEpnekJXUnZaeDk1emZKaFpPaGE5SDZBVGVRQUlOVS1nM1Vkblh5WnlqRGJjUDhkeWpYVWYxdlc2Qk5ITEVvaVlBRUdKejJSOTcwZ2FTdnZF0gHOAUFVX3lxTE9NVkRWWWlrcHI4QWZjWUZYTWJQNHNZbkNWMF9MMGFpYldVempSS2xJWk1MZnJlY1oyaWRuT2x4aXAyZGl0UmRMRm9HNWhQSDlEOHV5ZE1QTDlEVHFJQ2xEd2dicVMzSGhUcTRkeGJwelA0UXl2ZTAtLU1SX2QtTTExdmpvT2NtZ3ZiWUhtSEM1THphcDIyUmVlMGtuSGQzdVRHTEJETG1PN0g3N0Y5NGNDWC03cE16UlRsVUhEQjNqUS1UOG0yUm9MaC1rQnBR?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
    ],
    "score": 2,
    "important": false
