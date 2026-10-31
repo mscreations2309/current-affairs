@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T12:25:48.370Z",
+ "updated": "2026-10-31T17:42:48.944Z",
  "items": [
   {
    "id": "xNzkzNDE5MTI2MjQxLmh0bWw",
@@ -39,6 +39,26 @@
     "GS-3",
     "GS-2",
     "GS-1"
+   ],
+   "score": 6,
+   "important": true
+  },
+  {
+   "id": "cnRpY2xlNzE2NTAzMjQuZWNl",
+   "date": "2026-10-31",
+   "title": "Beyond Cyclone Arnab: can India tackle the growing cost of natural disasters? | Insight India",
+   "summary": "Cyclone Arnab hit the coast of Andhra Pradesh this week. In preparation, authorities evacuated people, halted transportation services and alerted disaster response forces. This is just the first cyclone of the northeast monsoon season. As climate change threatens to bring increasingly intense cyclones and other natural disasters, will India’s current disaster management programme be able to handle",
+   "link": "https://www.thehindu.com/videos/shows/beyond-cyclone-arnab-can-india-tackle-the-growing-cost-of-natural-disasters-insight-india/article71650324.ece",
+   "source": "The Hindu",
+   "section": "Science",
+   "topics": [
+    "Geography & Disasters",
+    "Economy",
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-1",
+    "GS-3"
    ],
    "score": 6,
    "important": true
@@ -92,6 +112,26 @@
    ],
    "gs": [
     "GS-2"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "ydGljbGU3MTQ5NzAyNi5lY2U",
+   "date": "2026-10-31",
+   "title": "Towards recognising women farmers",
+   "summary": "Maharashtra’s passage of the Women Farmers’ Empowerment Bill, granting women independent recognition as farmers irrespective of land ownership, brings into focus the structural bias against the female agricultural workforce, highlights the need for a database of women farmers and using it to ensure access to welfare schemes",
+   "link": "https://www.thehindu.com/business/Economy/towards-recognising-women-farmers/article71497026.ece",
+   "source": "The Hindu",
+   "section": "Economy",
+   "topics": [
+    "Health & Social Issues",
+    "Polity & Governance",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
    ],
    "score": 5,
    "important": true
@@ -294,6 +334,102 @@
    "gs": [
     "GS-2",
     "GS-1"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NTAyNDEuZWNl",
+   "date": "2026-10-31",
+   "title": "CM to open women’s policy summit on November 2",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/kerala/cm-to-open-womens-policy-summit-on-november-2/article71650241.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "International Relations",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY0OTk0NC5lY2U",
+   "date": "2026-10-31",
+   "title": "Expert panel formed to prepare status on unfinished houses in Edamalakkudy",
+   "summary": "The panel will visit the tribal panchayat and submit a detailed report within a month",
+   "link": "https://www.thehindu.com/news/national/kerala/expert-panel-formed-to-prepare-status-on-unfinished-houses-in-edamalakkudy/article71649944.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjUwNTAxLmVjZQ",
+   "date": "2026-10-31",
+   "title": "Quad ministers express ‘grave concerns’ over economic coercion",
+   "summary": "\"The four ministers expressed grave concerns regarding economic coercion, including through arbitrary export restrictions,\" said a statement from the Quad alliance in Atlanta, Georgia.",
+   "link": "https://www.thehindu.com/news/international/quad-ministers-express-grave-concerns-over-economic-coercion/article71650501.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Economy",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjUwMzY5LmVjZQ",
+   "date": "2026-10-31",
+   "title": "Trump admin approves potential Patriot missiles sale to Ukraine",
+   "summary": "The approval, which goes to Congress for review, comes after weeks of complaints by Ukrainian authorities that its supplies of the interceptor missiles were dwindling",
+   "link": "https://www.thehindu.com/news/international/trump-admin-approves-potential-patriot-missiles-sale-to-ukraine/article71650369.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjQ5NDIyLmVjZQ",
+   "date": "2026-10-31",
+   "title": "NASA telescope on verge of plunging back to Earth after failed rescue mission",
+   "summary": "Most of the 1 ½-ton telescope is expected to burn up in the atmosphere. But a handful of pieces made of denser-than-lead tungsten and some mirror parts could survive reentry, according to NASA's Brad Cenko, the mission's chief scientist",
+   "link": "https://www.thehindu.com/sci-tech/science/nasa-telescope-on-verge-of-plunging-back-to-earth-after-failed-rescue-mission/article71649422.ece",
+   "source": "The Hindu",
+   "section": "Science",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
    ],
    "score": 3,
    "important": false
@@ -772,6 +908,205 @@
    ],
    "gs": [
     "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjQ5Mjg0LmVjZQ",
+   "date": "2026-10-31",
+   "title": "Govt. sanctions special funds for alternative drinking water sources amid El Nino concerns",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/telangana/govt-sanctions-special-funds-for-alternative-drinking-water-supply-amid-el-nino-concerns/article71649284.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY1MDQxNy5lY2U",
+   "date": "2026-10-31",
+   "title": "ED arrests four more accused, including Myanmar national, in cross-border drug network",
+   "summary": "Chintuang was a Myanmar-based supplier of the 49.1 kg methamphetamine consignment seized in August 2025, while Lalrammuana was the main handler and Jabrul Haque its intended receiver at Damchhera-Kanhmun border; Abu Saleh was allegedly the operator whose account received ₹11.44 crore",
+   "link": "https://www.thehindu.com/news/national/ed-arrests-four-more-accused-including-myanmar-national-in-cross-border-drug-network/article71650417.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY1MDA4NC5lY2U",
+   "date": "2026-10-31",
+   "title": "43 women rescued in illegal human egg harvesting racket in Hyderabad",
+   "summary": "Police examine alleged recruitment of women across States, suspected use of rented premises and links with fertility centres and ART banks in Hyderabad",
+   "link": "https://www.thehindu.com/news/national/telangana/43-women-rescued-in-illegal-human-egg-harvesting-racket-in-hyderabad/article71650084.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY1MDE3MC5lY2U",
+   "date": "2026-10-31",
+   "title": "Octogenarian’s fresh plea for additional pension",
+   "summary": "The Finance department’s Pension Welfare Cell had denied 88-year-old M.J. Antony’s request, citing the current financial situation of the State",
+   "link": "https://www.thehindu.com/news/national/kerala/octogenarians-fresh-plea-for-additional-pension/article71650170.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjUwMzAzLmVjZQ",
+   "date": "2026-10-31",
+   "title": "Quad delivering results for people in Indo-Pacific: Rubio",
+   "summary": "The group reviewed progress in turning shared priorities into real benefits for the Indo-Pacific region",
+   "link": "https://www.thehindu.com/news/national/quad-delivering-results-for-people-in-indo-pacific-rubio/article71650303.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY1MDM0MS5lY2U",
+   "date": "2026-10-31",
+   "title": "Preliminary reports suspect power leakage into pool from wiring for lights inside pool",
+   "summary": "Karnataka Swimming Association calls for a Swimming Pools Act to ensure safety norms and quality guidelines",
+   "link": "https://www.thehindu.com/news/national/karnataka/preliminary-reports-suspect-power-leakage-into-pool-from-wiring-for-lights-inside-pool/article71650341.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NDk3ODIuZWNl",
+   "date": "2026-10-31",
+   "title": "India-linked Buddha relics to be enshrined in 108 chortens in Bhutan",
+   "summary": "The simultaneous raising of these stupas will mark the spiritual foundation of Gelephu Mindfulness City, envisioned as a spirituality-driven global economic hub; this is a test of national character, says King Jigme Wangchuk",
+   "link": "https://www.thehindu.com/news/international/india-linked-buddha-relics-to-be-enshrined-in-108-chortens-in-bhutan/article71649782.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjUwMDQ0LmVjZQ",
+   "date": "2026-10-31",
+   "title": "Speakers call for youth participation in development of temples, heritage activities",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/speakers-call-for-youth-participation-in-development-of-temples-heritage-activities/article71650044.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY1MDQyNy5lY2U",
+   "date": "2026-10-31",
+   "title": "Bangladesh opposition leader warns against India corridor, seeks fair Ganges water pact: Reports",
+   "summary": "In the rally, the NCP leader also accused Bangladesh Prime Minister Tarique Rahman's government of seeking to facilitate an Indian transit corridor through the country",
+   "link": "https://www.thehindu.com/news/international/bangladesh-opposition-leader-warns-against-india-corridor-seeks-fair-ganges-water-pact-reports/article71650427.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NTAzOTkuZWNl",
+   "date": "2026-10-31",
+   "title": "Poland's President accuses PM Tusk of forced takeover of country's top court",
+   "summary": "A long-running political dispute over the Constitutional Tribunal has effectively paralysed the institution, with the pro-European government and the nationalist President refusing to ‌recognise appointees put forward by the other side",
+   "link": "https://www.thehindu.com/news/international/polands-president-accuses-pm-tusk-of-forced-takeover-of-countrys-top-court/article71650399.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjQ5MzMwLmVjZQ",
+   "date": "2026-10-31",
+   "title": "Iran says fishermen found after accusing U.S. of attack in Hormuz",
+   "summary": "Two fishermen from Qeshm, who had gone missing following an attack by the American enemy on their fishing boat this morning, have been found, state television said",
+   "link": "https://www.thehindu.com/news/international/iran-says-fishermen-found-after-accusing-us-of-attack-in-hormuz/article71649330.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
    ],
    "score": 2,
    "important": false
