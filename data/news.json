@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T05:38:16.253Z",
+ "updated": "2026-10-31T12:25:48.370Z",
  "items": [
   {
    "id": "xNzkzNDE5MTI2MjQxLmh0bWw",
@@ -18,6 +18,27 @@
     "GS-3",
     "GS-2",
     "Prelims"
+   ],
+   "score": 6,
+   "important": true
+  },
+  {
+   "id": "cnRpY2xlNzE2NDg1MDAuZWNl",
+   "date": "2026-10-31",
+   "title": "Nations commit to get nature goals back on track at UN nature summit",
+   "summary": "The United Nations had warned that progress was insufficient to meet the goals of the 2030 target including protecting 30% of Earth’s land and oceans, tackling pollution and invasive species, and boosting money for conservation",
+   "link": "https://www.thehindu.com/news/international/nations-commit-to-get-nature-goals-back-on-track-at-un-nature-summit/article71648500.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Environment & Ecology",
+    "International Relations",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2",
+    "GS-1"
    ],
    "score": 6,
    "important": true
@@ -57,6 +78,57 @@
    ],
    "score": 5,
    "important": true
+  },
+  {
+   "id": "ydGljbGU3MTY0ODQxOC5lY2U",
+   "date": "2026-10-31",
+   "title": "G20 foreign ministers to end Atlanta meeting without consensus on key issues",
+   "summary": "Divisions over Russia’s war with Ukraine overshadowed the talks, with U.S. Secretary of State Marco Rubio set to release a chairman’s statement instead of a joint communique",
+   "link": "https://www.thehindu.com/news/international/g20-foreign-ministers-to-end-atlanta-meeting-without-consensus-on-key-issues/article71648418.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "ydGljbGU3MTY0ODI5NC5lY2U",
+   "date": "2026-10-31",
+   "title": "ISRO NVS-03 launch: 5 things to know about India’s new navigation satellite",
+   "summary": "ISRO successfully launched the NVS-03 navigation satellite from the Satish Dhawan Space Centre in Sriharikota on October 30, 2026, restoring NavIC to a four-satellite, standalone operational status and advancing India’s push for an indigenous, more precise space-time network",
+   "link": "https://www.thehindu.com/sci-tech/science/isro-nvs-03-launch-navic-constellation-5-things-to-know-about-india-next-generation-satellite/article71648294.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NDg1MDkuZWNl",
+   "date": "2026-10-31",
+   "title": "How infant deaths in Keralam’s Attappady expose a deep-rooted health, social crisis",
+   "summary": "12 infants, including 10 tribals, have died in Attappady this year, sparking a political row as the State government orders an expert probe. Tribal activists say the crisis demands action beyond healthcare, addressing malnutrition, anaemia and deep-rooted social issues",
+   "link": "https://www.thehindu.com/news/national/kerala/how-infant-deaths-in-keralams-attappady-expose-a-deep-rooted-health-social-crisis/article71648509.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
   },
   {
    "id": "ydGljbGU3MTY0NjgwNy5lY2U",
@@ -127,6 +199,100 @@
    ],
    "gs": [
     "GS-3",
+    "GS-1"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NDkyNTIuZWNl",
+   "date": "2026-10-31",
+   "title": "How significant is the TVK-led regime’s move to hold Social Justice Survey? | Explained",
+   "summary": "The feature of an ‘open column’, where respondents can state their caste during the second phase of the Census, to be carried out in most parts of the country during February next year, has forced many parties and other stakeholders to express concerns over the utility of the whole exercise",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/how-significant-is-the-tvk-led-regimes-move-to-hold-social-justice-survey-explained/article71649252.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Internal Security & Defence",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjQ4OTc3LmVjZQ",
+   "date": "2026-10-31",
+   "title": "Society that accepts unverified claims and fears questions is vulnerable to authoritarianism: Justice Bhuyan",
+   "summary": "Speaking at the University of Science and Technology, Meghalaya, the Supreme Court judge said building a scientific temper must extend beyond laboratories to the capacity of youths and students to think rationally, and urged a shift from ‘us’ and ‘they’ to the Preamble’s ‘we’",
+   "link": "https://www.thehindu.com/news/national/society-that-accepts-unverified-claims-and-fears-questions-is-vulnerable-to-authoritarianism-justice-bhuyan/article71648977.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NDkyNDQuZWNl",
+   "date": "2026-10-31",
+   "title": "Iran’s Supreme Leader warns U.S., Israel against new attacks",
+   "summary": "According to the statement, Mr. Khamenei ordered the commanders to ensure that \"any level or type of threat must be met with an immediate, impactful and geographically unrestricted response\".",
+   "link": "https://www.thehindu.com/news/international/irans-supreme-leader-warns-us-israel-against-new-attacks/article71649244.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NDM3NTEuZWNl",
+   "date": "2026-10-31",
+   "title": "Whose sight matters? How gender shapes access to eye care in India",
+   "summary": "Across their lifespans, from childhood to old age, women face disadvantages in access to eye health and care. For many, treatment depends on how their health is prioritised by the men in their household. Late care, or lack of access can leave girls and women with preventable visual impairment and loss",
+   "link": "https://www.thehindu.com/sci-tech/health/whose-sight-matters-how-gender-shapes-access-to-eye-care-in-india/article71643751.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "alUya3RNRVYyZVd4dj9vYz01",
+   "date": "2026-10-31",
+   "title": "Despite flood devastation, how Nepal continued exporting power to India",
+   "summary": "Despite flood devastation, how Nepal continued exporting power to India The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX3prVmsyWUItNUlOemZnYmRFZEdCbFZyUEo1cHY3NzRSaC1YLWItMnRoNkVnVXFlaERRcHFGRGZYVXNUNXV2RDQ0S0c2VDdRTG1fVVJTSVlpLWl3LV9fOFlKTzk1Qnd0Vm8zVXhHdGVYTmxORjVLNl9BZm9TdWQtNElWT1JJR09ncGFkSERja0Y3VmoxV3JkaEJ3WHhTeVpwSndlZWZ0RFF5cjRq0gGzAUFVX3lxTE9QMjBRMkpraE5HY1dRRXd2OV9XbzBZOGl2MjhCRF9FNXRselp5SlhybkRBTjBCQ1ZNckh2dFBDS3h5emhyRDhnTTVndVYtSDd2dFc1N2wwRF9jZkdRNk5DdTJWclVzWHB0Q0k5b2Z3UGtlckdvTkhEQkZnanI2S3NMbnE1bFJhWTkzN002VDhnOXdYT3RfcHZncGRJc1hvUHEwdHN6WDZJazRjU2ktMEV2eWxv?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
     "GS-1"
    ],
    "score": 3,
@@ -395,6 +561,217 @@
    ],
    "gs": [
     "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjQ5MTQwLmVjZQ",
+   "date": "2026-10-31",
+   "title": "Heavy pesticide use puts Keralam’s cardamom ecosystem under pressure",
+   "summary": "As growers face a year-round harvest cycle driven by warming temperatures, they mix up to five or six different products, including insecticides, fungicides, micronutrients, and growth promoters, into a single tank. Experts warn that such ‘tank cocktails’ can actually weaken cardamom plants, increase their disease risk, harms essential pollinators.",
+   "link": "https://www.thehindu.com/news/national/kerala/heavy-pesticide-use-puts-keralams-cardamom-ecosystem-under-pressure/article71649140.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY0OTA0OC5lY2U",
+   "date": "2026-10-31",
+   "title": "Missing woman suspected to have crossed LoC into Pakistan",
+   "summary": "Rubina Kousar, a resident of Karni village near the LoC, took her goats out for grazing on October 30 but did not return home with preliminary information suggesting she may have crossed the LoC into PoK along with the livestock",
+   "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/missing-woman-in-jammu-and-kashmir-suspected-to-have-crossed-loc-into-pakistan/article71649048.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NDgzMDQuZWNl",
+   "date": "2026-10-31",
+   "title": "Chief Justice of India Surya Kant to inaugurate the platinum jubilee celebrations of Kerala High Court",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/kerala/chief-justice-of-india-surya-kant-to-inaugurate-the-platinum-jubilee-celebrations-of-kerala-high-court/article71648304.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY0ODc4NC5lY2U",
+   "date": "2026-10-31",
+   "title": "Six-year-old girl critically injured in alleged assault by boy at Chandigarh’s Panchkula school",
+   "summary": "The police said the eight-year-old boy is undergoing a medical assessment, while the girl remains under treatment at PGIMER, Chandigarh",
+   "link": "https://www.thehindu.com/news/national/chandigarh/six-year-old-girl-critically-injured-in-alleged-assault-by-boy-at-chandigarhs-panchkula-school/article71648784.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NDg1NzkuZWNl",
+   "date": "2026-10-31",
+   "title": "CPCB threatens to shut NCR industries yet to order pollution-control devices",
+   "summary": "In an October 30 letter, the Central Pollution Control Board asked authorities in Delhi, Haryana, Uttar Pradesh, and Rajasthan to issue show-cause notices to non-compliant units under the CAQM’s revised emission norms",
+   "link": "https://www.thehindu.com/news/national/cpcb-threatens-to-shut-ncr-industries-yet-to-order-pollution-control-devices/article71648579.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY0ODgxNC5lY2U",
+   "date": "2026-10-31",
+   "title": "Bay of Bengal weather system set to revive rain in Keralam from November 1",
+   "summary": "According to IMD, a low-pressure area formed over South Andaman Sea and adjoining areas of Andaman and Nicobar Islands is likely to intensify into a depression over southeast Bay of Bengal and adjoining areas of Andaman Sea and Andaman and Nicobar Islands on Sunday",
+   "link": "https://www.thehindu.com/news/national/kerala/bay-of-bengal-weather-system-set-to-revive-rain-in-keralam-from-november-1/article71648814.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjQ4ODgzLmVjZQ",
+   "date": "2026-10-31",
+   "title": "Air Chief Marshal Ashutosh Dixit takes charge as new Chief of Air Staff",
+   "summary": "The IAF accorded a ceremonial guard of honour to the outgoing Air Chief Marshal A.P. Singh at the Race Course Air Force Station before he handed over the baton to Ashutosh Dixit",
+   "link": "https://www.thehindu.com/news/national/air-chief-marshal-ashutosh-dixit-takes-charge-as-new-chief-of-air-staff/article71648883.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY0ODc2Ni5lY2U",
+   "date": "2026-10-31",
+   "title": "Stalin urges CM Vijay to heed women’s protest over rising prices, law and order",
+   "summary": "“The women have rung the bell. The government, which is hunting down its critics and preparing for a show in the byelection, should pay attention to governance,” he said in a social media post",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/stalin-urges-cm-vijay-to-heed-womens-protest-over-rising-prices-deteriorating-law-and-order/article71648766.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY0ODc3My5lY2U",
+   "date": "2026-10-31",
+   "title": "Rajasthan directs official records to be updated after Kota govt. school instructor's gender transition",
+   "summary": "The instructor had requested permission to change his gender from female to male and his name under Rule 8A of the Rajasthan Service Rules, 1991, in accordance with the relevant government provisions",
+   "link": "https://www.thehindu.com/news/national/rajasthan/rajasthan-directs-official-records-to-be-updated-after-kota-govt-school-instructors-gender-transition/article71648773.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NDg0MTkuZWNl",
+   "date": "2026-10-31",
+   "title": "Trump backtracks on rallies in turbulent end to midterms campaign",
+   "summary": "The U.S. President reinstated two rallies in Kansas and Iowa a day after cancelling them, saying Republicans “have a shot” in the midterms as a record 47.9 million Americans have already voted",
+   "link": "https://www.thehindu.com/news/international/trump-backtracks-on-rallies-in-turbulent-end-to-midterms-campaign/article71648419.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY0ODM1OS5lY2U",
+   "date": "2026-10-31",
+   "title": "Oman rescues 25 from burning ship, Iran halts tankers",
+   "summary": "Tehran has restricted maritime traffic through the strait since the West Asia war erupted on February 28 with U.S.-Israeli strikes on the Islamic republic",
+   "link": "https://www.thehindu.com/news/international/oman-rescues-25-from-burning-ship-iran-halts-tankers/article71648359.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NDg0MDguZWNl",
+   "date": "2026-10-31",
+   "title": "To overcome technical hurdles, ISRO flew NVS-03 satellite with pyro valves open: Narayanan",
+   "summary": "Pyro valves are crucial in spacecraft propulsion, and it may be recalled that the NVS-02 (launched in 2025), the second spacecraft in the NVS series, was a failure",
+   "link": "https://www.thehindu.com/sci-tech/science/to-overcome-technical-hurdles-isro-flew-nvs-03-satellite-with-pyro-valves-open-narayanan/article71648408.ece",
+   "source": "The Hindu",
+   "section": "Science",
+   "topics": [
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
    ],
    "score": 2,
    "important": false
