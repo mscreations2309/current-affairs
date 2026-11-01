@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-01T01:08:33.732Z",
+ "updated": "2026-11-01T07:30:18.510Z",
  "items": [
+  {
+   "id": "J0aWNsZTcxNjUyMjYyLmVjZQ",
+   "date": "2026-11-01",
+   "title": "President Trump says U.S. still has ‘one or two targets’ in Iran",
+   "summary": "The President said the United States is not in a hurry to take offensive action because it had already decimated Iran’s military and nuclear programme",
+   "link": "https://www.thehindu.com/news/international/president-trump-says-us-still-has-one-or-two-targets-in-iran/article71652262.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Science & Technology",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 6,
+   "important": true
+  },
   {
    "id": "cnRpY2xlNzE2NDg1MzcuZWNl",
    "date": "2026-11-01",
@@ -73,6 +93,60 @@
    "important": false
   },
   {
+   "id": "ydGljbGU3MTY1MjE1NC5lY2U",
+   "date": "2026-11-01",
+   "title": "Donald Trump says Flavio Bolsonaro can stay in U.S. as long as he wants amid Brazilian probes",
+   "summary": "Flavio Bolsonaro’s decision to go to the U.S. followed a ruling by a Brazilian Supreme Court Justice to revoke his passport shortly after his loss, as the candidate faces a pair of federal money-laundering probes in Brazil and police there considered him a flight risk",
+   "link": "https://www.thehindu.com/news/international/donald-trump-says-flavio-bolsonaro-can-stay-in-us-as-long-as-he-wants-amid-brazilian-probes/article71652154.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "OeGRrWlRiRmd0Um5jP29jPTU",
+   "date": "2026-11-01",
+   "title": "India’s poverty rate has fallen, but challenges remain: Jobs, AI, ageing population",
+   "summary": "India’s poverty rate has fallen, but challenges remain: Jobs, AI, ageing population The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObUd2R3ZnOFh3UFJiQTh1UmNaVF9QelB4NXBYQ2diN194dDJKaVBNalRtX0Y2cjRaQU1SdDVFM1FYbWgtUVdkNktndGx2c2NZc2MwRE5mUGkzQ1BLX0FlUWtndHFPWEY5N2hZZzdnN2gwQzBuSjdWaWNhMTg2TVNKWXNENlhUZWkzSG9iREhqZTV3ZmI4aEdiQjVRdFdWWDdfYkoxYkZTNjJ2azBKSUtjd2NBcFpZZlhybWZmR0FBQTFzUGJMeEVLNU1tSdIB0gFBVV95cUxPdll5U01hNExDMXZKUklIOTlBZWt0bVluR3BmdTRhSWVGMjVsN3Fkb2x1U0hUbUVlX2hnVmN3Mm5KS0FTVi1GbXhQNFdPWTJjY1RYSUFoOTA3MkpfeEVUeHpKYlNjQ2xYQk91SjZhQ3RYSWR5NkhGd3dtSEpGXzUyVE1nV1A2M25MbUg0dlN6R3pVT0JyZW1UczBaOW5Zb0tGa0s3VWE0b01rRjhxUXFaX1JpRW9KakJXd2tkVUtucm9ZcW9JM1R5bENxdkZTbFgtRnc?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "E3OTM1MDMxMTYxNTcuaHRtbA",
+   "date": "2026-11-01",
+   "title": "States get addition instalment of tax devolution of ₹1.09 lakh crore, supported by strong economy, taxes—See break-up",
+   "summary": "Centre releases addition instalment of tax devolution of ₹1.09 lakh crore to states. Union Finance Minister Nirmala Sitharaman said this comes amid stronger economic activity and buoyant tax collections.",
+   "link": "https://www.livemint.com/economy/states-get-addition-instalment-of-tax-devolution-of-rs-1-09-lakh-crore-supported-by-strong-economy-taxes-see-breakup-11793503116157.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
    "id": "J0aWNsZTcxNjQ5NTg5LmVjZQ",
    "date": "2026-11-01",
    "title": "Attappady tribal hospital to get more specialists, newborn care facilities",
@@ -85,6 +159,215 @@
    ],
    "gs": [
     "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NTIyMjMuZWNl",
+   "date": "2026-11-01",
+   "title": "Every squadron, air defence unit, air warrior must be ready to respond at moment’s notice: IAF Chief Dixit",
+   "summary": "Air Chief Marshal Dixit outlined his core focus areas under the acronym VAYU, defining his vision as Vigilance and operational readiness, Aatmanirbharta (self-reliance), Yukti (tactical innovation), and Unity of effort across the tri-services.",
+   "link": "https://www.thehindu.com/news/national/newly-appointed-chief-of-air-staff-air-chief-marshal-ashutosh-dixit/article71652223.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NTIxMTcuZWNl",
+   "date": "2026-11-01",
+   "title": "Minister inaugurates modern paddy storage facilities in Cuddalore district",
+   "summary": "The facilities, constructed with financial assistance under the National Bank for Agriculture and Rural Development (NABARD), have a combined storage capacity of 7,000 tonnes",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/minister-inaugurates-modern-paddy-storage-facilities-in-cuddalore-district/article71652117.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjUyMDQyLmVjZQ",
+   "date": "2026-11-01",
+   "title": "Global criticism during COVID-19 hardened China’s attitude towards world: Foreign Secretary Misri",
+   "summary": "Misri also recalled that he faced a major challenge during his posting in China as Ambassador, when India and China had an unprecedented confrontation in eastern Ladakh's Galwan Valley",
+   "link": "https://www.thehindu.com/news/national/global-criticism-during-covid-19-hardened-chinas-attitude-towards-world-foreign-secretary-misri/article71652042.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NDM3MzEuZWNl",
+   "date": "2026-11-01",
+   "title": "Justice Sanjay Kishan Kaul on his memoir ‘Without Fear or Favour ‘and the executive’s growing influence over the collegium system",
+   "summary": "The former Supreme Court judge on delays in clearing collegium recommendations and the need for reform",
+   "link": "https://www.thehindu.com/books/justice-sanjay-kishan-kaul-on-his-memoir-without-fear-or-favour-and-the-executives-growing-influence-over-the-collegium-system/article71643731.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY1MDUzNS5lY2U",
+   "date": "2026-11-01",
+   "title": "President Murmu inaugurates Simhastha Kumbh preparations in Nashik",
+   "summary": "Along with President Droupadi Murmu, the ceremony was attended by Maharashtra Governor Jishnu Dev Varma, Chief Minister Devendra Fadnavis and Deputy Chief Ministers Eknath Shinde and Sunetra Ajit Pawar, among other ministers of the State",
+   "link": "https://www.thehindu.com/news/national/maharashtra/president-murmu-inaugurates-simhastha-kumbh-preparations-in-nashik/article71650535.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NDAzNzMuZWNl",
+   "date": "2026-11-01",
+   "title": "Cut in physical education teacher-student ratio in Keralam schools unlikely to make a difference",
+   "summary": "Teachers say that a large majority of schools don’t even have these posts",
+   "link": "https://www.thehindu.com/news/national/kerala/cut-in-physical-education-teacher-student-ratio-in-keralam-schools-unlikely-to-make-a-difference/article71640373.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NTAyMjMuZWNl",
+   "date": "2026-11-01",
+   "title": "Ernakulam District Literacy Mission to launch three projects",
+   "summary": "The projects, which are expected to begin in November, to focus on bringing more people into the fold of literacy",
+   "link": "https://www.thehindu.com/news/national/kerala/ernakulam-district-literacy-mission-to-launch-three-projects/article71650223.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY1MDAwMS5lY2U",
+   "date": "2026-11-01",
+   "title": "Keralam needs strong security shield to combat cybercrimes, says Home Minister Chennithala",
+   "summary": "Plans are afoot to begin cyber defence centres in 250 degree colleges in the State to step up vigilance against cybercrimes",
+   "link": "https://www.thehindu.com/news/national/kerala/keralam-needs-strong-security-shield-to-combat-cybercrimes-says-home-minister-chennithala/article71650001.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY0OTQxOC5lY2U",
+   "date": "2026-11-01",
+   "title": "Cochin Cancer Research Centre ​will be ​developed into centre of ​excellence​, says Chief Minister V.D. Satheesan",
+   "summary": "A comprehensive development plan for the next five years will be prepared and implemented in phases, says CM",
+   "link": "https://www.thehindu.com/news/national/kerala/cochin-cancer-research-centrewillbedeveloped-into-centre-ofexcellence-sayschief-minister-vd-satheesan/article71649418.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY1MjExMC5lY2U",
+   "date": "2026-11-01",
+   "title": "‘Epstein Files’: U.S. Judge dismisses Trump lawsuit against Wall Street Journal",
+   "summary": "Donald Trump had sued for $10 billion after the newspaper’s story was published in July 2025 detailing the President’s alleged 2003 letter to Epstein, which apparently featured a drawing of a naked woman",
+   "link": "https://www.thehindu.com/news/international/epstein-files-us-judge-dismisses-trump-lawsuit-against-wall-street-journal-over-epstein-letter/article71652110.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjUyMzIwLmVjZQ",
+   "date": "2026-11-01",
+   "title": "GST mop-up grows 23% to over ₹2.31 lakh cr. in October",
+   "summary": "Gross GST collections from domestic sales rose 16% to over ₹1.59 lakh crore, and revenues from imports climbed 42% to ₹72,246 crore",
+   "link": "https://www.thehindu.com/business/Economy/gst-collections-in-october/article71652320.ece",
+   "source": "The Hindu",
+   "section": "Economy",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "DTmpCemFFeEpSVXRIP29jPTU",
+   "date": "2026-11-01",
+   "title": "Why Google’s advertising business is worrying investors amidst an AI stock selloff",
+   "summary": "Why Google’s advertising business is worrying investors amidst an AI stock selloff The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU214SW5scGJiMzA5enlDbHRNVDNtQVlDVVJkRHlMcnNkMkhJT2FZUkZLa2RGbTFVM0RqbUxUOEZ5dmxrZkVpWG41NzVfMTVKOGhMcjhnZjBpd0huSFVwSFQwNExPb3I1cnJwZHlqTnE1TW9JTFdqbkV0S1QzZGQ1dW5Mdjk2ZDFKVlpyTDZFc0lCeFVXc2RQS0psS2s1Q3hDc21PaG43UnFmZXRFd3ZnUmlVRlBfbHJXQ2lLOWxMN18waHRabnfSAcwBQVVfeXFMUGZnMDNJc2psNThlbGc5QURVOVFycm80UUVqY2pnMzRMeVUyVEFSQlhUd1h2X0dDelRNLVJQazhVNGVJU0kyRkR5Um1FVUc1dTdzZFFUYjJzWG9qeUFMOWxHRmxnOXRtekJwMXdfU01RbHQ2dU9NUTlRSmlkNlNaOU1iOEQtT0FjSXdDdVBobWVrTFlLRVhkNHRzcXJLcmk1SUJFTEVydXJSRDZISzg0Q3g2Um52REh6ZG9fUWNJVjM0Nm9CNjBzaExJRUtH?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
    ],
    "score": 2,
    "important": false
