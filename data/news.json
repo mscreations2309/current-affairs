@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T07:30:18.510Z",
+ "updated": "2026-11-01T15:06:04.569Z",
  "items": [
   {
    "id": "J0aWNsZTcxNjUyMjYyLmVjZQ",
@@ -13,6 +13,26 @@
     "International Relations",
     "Science & Technology",
     "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 6,
+   "important": true
+  },
+  {
+   "id": "J0aWNsZTcxNjUyMjc5LmVjZQ",
+   "date": "2026-11-01",
+   "title": "Terrorism is 'red line': Pakistan tells Afghanistan as it warns of action against cross-border threats",
+   "summary": "The Ministry of Information and Broadcasting of Pakistan, on Saturday, accused the Afghan Taliban leadership of refusing to address militancy emanating from Afghan soil and instead shifting blame on Islamabad for the deterioration in bilateral ties",
+   "link": "https://www.thehindu.com/news/international/terrorism-is-red-line-pakistan-tells-afghanistan-as-it-warns-of-action-against-cross-border-threats/article71652279.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence",
+    "Polity & Governance"
    ],
    "gs": [
     "GS-2",
@@ -44,6 +64,23 @@
    "title": "Rubio says U.S. yet to decide on new Iran strikes",
    "summary": "Iran’s supreme leader October 31, 2026 warned the United States and Israel against launching new attacks, following threats to resume strikes after crucial elections",
    "link": "https://www.thehindu.com/news/international/rubio-says-us-yet-to-decide-on-new-iran-strikes/article71651951.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjUzMDU3LmVjZQ",
+   "date": "2026-11-01",
+   "title": "S. Jaishankar meets Russian, Polish, South Korean counterparts; discusses Ukraine, West Asia",
+   "summary": "The External Affairs Minister also met Polish Deputy Prime Minister and Foreign Minister Radoslaw Sikorski",
+   "link": "https://www.thehindu.com/news/international/s-jaishankar-meets-russian-polish-south-korean-counterparts-discusses-ukraine-west-asia/article71653057.ece",
    "source": "The Hindu",
    "section": "International",
    "topics": [
@@ -141,6 +178,120 @@
     "Economy"
    ],
    "gs": [
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY1MzA5NC5lY2U",
+   "date": "2026-11-01",
+   "title": "A.P. civic polls largely peaceful; Jagan demands repoll in Pulivendula after clashes",
+   "summary": "Polling across 13 municipal corporations and 79 municipalities and nagar panchayats ends amid sporadic violence. The SEC puts the overall polling percentage at 48.03 by 3 p.m., reports 275 FIRs in connection with 40 incidents and says repolling, if required, will be held on November 2",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/ap-civic-polls-largely-peaceful-jagan-demands-repoll-in-pulivendula-after-clashes/article71653094.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NTI1NjYuZWNl",
+   "date": "2026-11-01",
+   "title": "CJI calls for strengthening public confidence in High Courts",
+   "summary": "High Courts should continue to remain accessible to the vulnerable, attentive to the urgency of human suffering, and unwavering in its commitment to constitutional values, says Surya Kant",
+   "link": "https://www.thehindu.com/news/national/kerala/cji-calls-for-strengthening-public-confidence-in-high-courts/article71652566.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NTI3MzQuZWNl",
+   "date": "2026-11-01",
+   "title": "Elderly, vulnerable voters overcome odds to vote in Municipal elections",
+   "summary": "For many senior citizens, particularly spectuagerians and beyond, casting a vote was not an easy exercise as they needed support to negotiate steps and crowded entrances, while others struggled to stand in queues under the hot sun; complaints about voter-list confusion surfaced at several areas in Chittoor and Hindupur",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/elderly-vulnerable-voters-overcome-odds-to-vote-in-municipal-elections/article71652734.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNjU1Mjc1MTguZWNl",
+   "date": "2026-11-01",
+   "title": "Explained | What is the Gaia space mission and what has it revealed about the Milky Way?",
+   "summary": "The new data released by the European Space Agency’s Gaia mission has revealed the surprise phenomena of ‘starquakes’—massive tsunami-like movements on the surface of stars",
+   "link": "https://www.thehindu.com/sci-tech/science/explained-what-is-the-gaia-space-mission-and-what-has-it-revealed-about-the-milky-way/article65527518.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "1lY29ub215LTEwOTQ1OTcwLw",
+   "date": "2026-11-01",
+   "title": "How AI made Taiwan the world’s fastest growing large economy",
+   "summary": "",
+   "link": "https://indianexpress.com/article/explained/explained-economics/how-ai-made-taiwan-the-worlds-fastest-growing-large-economy-10945970/",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Economy",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "bnMtaW5kaWEtMTA5NDU5NDAv",
+   "date": "2026-11-01",
+   "title": "Why Sri Lanka’s recent blackout has lessons for India’s rooftop solar push",
+   "summary": "",
+   "link": "https://indianexpress.com/article/explained/explained-economics/sri-lanka-blackout-rooftop-solar-grid-stability-lessons-india-10945940/",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations",
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-2",
     "GS-3"
    ],
    "score": 3,
@@ -365,6 +516,217 @@
    "section": "Explained",
    "topics": [
     "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY1MjM4Ny5lY2U",
+   "date": "2026-11-01",
+   "title": "Rajyotsava celebrated in Dharwad",
+   "summary": "Minister promises that development programmes and welfare schemes will continue",
+   "link": "https://www.thehindu.com/news/national/karnataka/rajyotsava-celebrated-in-dharwad/article71652387.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NTMyMzkuZWNl",
+   "date": "2026-11-01",
+   "title": "Opposition leader Pinarayi Vijayan demands Keralam govt. to reverse premium hike for NoRKA Care insurance scheme",
+   "summary": "The premium for a ‘family floater’ policy (with a coverage of ₹5 lakh) has been hiked from ₹13,411 to a range between ₹35,664 and ₹77,773, he says",
+   "link": "https://www.thehindu.com/news/national/kerala/opposition-leader-pinarayi-vijayan-demands-keralam-govt-to-reverse-premium-hike-for-norka-care-insurance-scheme/article71653239.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NTMyMDAuZWNl",
+   "date": "2026-11-01",
+   "title": "Teenager held with counterfeit currency of face value ₹60 lakh at Secunderabad railway station",
+   "summary": "As the Konark Express was cancelled due to floods, Prakash allegedly instructed him to board the Mumbai LTT Express from Secunderabad. The teen boarded the train on October 31 and was intercepted about 10 minutes later.",
+   "link": "https://www.thehindu.com/news/national/telangana/teenager-held-with-counterfeit-currency-of-face-value-60-lakh-at-secunderabad-railway-station/article71653200.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY1MjgyNy5lY2U",
+   "date": "2026-11-01",
+   "title": "Commercial tax collections in Andhra Pradesh rise by 20% in October",
+   "summary": "It is attributed to higher GST and petroleum VAT revenues, improved tax compliance, and intensified enforcement",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/commercial-tax-collections-in-andhra-pradesh-rise-by-20-in-october/article71652827.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY1Mjg5MS5lY2U",
+   "date": "2026-11-01",
+   "title": "Iranian negotiators in Doha to continue talks to end the U.S.-Iran war, official says",
+   "summary": "The talks come amid concerns that the conflict ‌could escalate again after the November 3 U.S. midterm elections",
+   "link": "https://www.thehindu.com/news/international/iranian-negotiators-in-doha-to-continue-talks-to-end-the-us-iran-war-official-says/article71652891.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY1MjY0MS5lY2U",
+   "date": "2026-11-01",
+   "title": "India’s coal imports decline 5.83% in August",
+   "summary": "According to a statement from the Coal Ministry, the decline was primarily led by the power sector whose imports during the reported period declined 6.4% overall.",
+   "link": "https://www.thehindu.com/business/Industry/indias-coal-imports-decline-583-in-august/article71652641.ece",
+   "source": "The Hindu",
+   "section": "Economy",
+   "topics": [
+    "Polity & Governance",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NTI0MzEuZWNl",
+   "date": "2026-11-01",
+   "title": "Health Wrap Episode 57 discusses mapping the human brain, potential of brain atlases and more",
+   "summary": "The episode discusses a new technology developed at IIT Madras to create detailed three-dimensional maps of the human brain, the recently released C-STROKE atlas and plans to map more than 100 brains",
+   "link": "https://www.thehindu.com/sci-tech/health/health-wrap-episode-57-discusses-mapping-the-human-brain-potential-of-brain-atlases-and-more/article71652431.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "FqYXN0aGFuLTEwOTQ2MTQzLw",
+   "date": "2026-11-01",
+   "title": "Why Punjab is reviving decades-old disputes over sharing river waters",
+   "summary": "",
+   "link": "https://indianexpress.com/article/explained/punjab-river-water-dispute-ravi-beas-yamuna-haryana-rajasthan-10946143/",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "hwbGFpbmVkLTEwOTQ1OTg1Lw",
+   "date": "2026-11-01",
+   "title": "Why can’t satellite collars live-track cheetahs? Kuno director explains",
+   "summary": "",
+   "link": "https://indianexpress.com/article/explained/satellite-collars-cheetahs-live-tracking-kuno-explained-10945985/",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "JlbmVmaXRzLTEwOTQ1ODMzLw",
+   "date": "2026-11-01",
+   "title": "Unorganised, gig workers’ welfare boards: Powers, duties & what changes for workers",
+   "summary": "",
+   "link": "https://indianexpress.com/article/explained/explained-economics/unorganised-gig-workers-board-benefits-10945833/",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ktYnViYmxlLTEwOTQ1MTkzLw",
+   "date": "2026-11-01",
+   "title": "How Google’s AI push is threatening search ad revenues and spooking investors",
+   "summary": "",
+   "link": "https://indianexpress.com/article/explained/explained-ai/google-ai-search-advertising-revenue-stock-selloff-ai-bubble-10945193/",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "E3OTM1MTc3NjE5MzAuaHRtbA",
+   "date": "2026-11-01",
+   "title": "GST collections grow fastest in four years for October, hit ₹2.31 trillion",
+   "summary": "October marked the fourth month in the current fiscal year in which GST collections crossed the ₹2 trillion threshold. Net GST collections, after refunds, rose 25.6% year-on-year to ₹2.03 trillion.",
+   "link": "https://www.livemint.com/economy/gst-collections-october-2026-import-revenue-growth-india-11793517761930.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy"
    ],
    "gs": [
     "GS-3"
@@ -1831,6 +2193,25 @@
    "gs": [
     "GS-2",
     "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "YW4tcmlza3MtMTA5NDMzNzcv",
+   "date": "2026-10-30",
+   "title": "Bhutan GLOF explained: What are glacial lake outburst floods, and why are such events recurring in Himalayas?",
+   "summary": "",
+   "link": "https://indianexpress.com/article/explained/explained-climate/glof-explained-bhutan-lake-flood-himalayan-risks-10943377/",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Geography & Disasters",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-1",
+    "GS-2"
    ],
    "score": 4,
    "important": false
@@ -3591,6 +3972,23 @@
    "title": "How Netanyahu changed Israel, and the challenge that is for him now",
    "summary": "How Netanyahu changed Israel, and the challenge that is for him now The Indian Express",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLWNWbUU2SE44VGNTNkw3bmlIdGo5U25YMGZ0M3NVcy1XaXBIRkhDT2dSZjR2SjNhNEFwTUNlNVpFZkV3MlJocXhlQXgxRGthU2NVNGNrMEt3d0swcUFZRWhFajA0MWROX3RIRjBYd2JfelZNd0xFSjJFTnNQWlY1cFlxM3dCZDlQOFNFY1ZRWWYzRVQwejdoWmdWVHBhQlhTdmpMTWx5ZW1PanBaWnRyRFk1UdIBugFBVV95cUxOQTRmeXRSNWRCcng1LTN2VnlkbnpzVUZXM1U3U1R4N01fbXZqdzFxYXdaaWpXMng1eTlRTEJFZHdEWGxRc1V2Y0plMnFzQk1Ca1ZTc2VvMHFKU2t1dXVXNFNlWEZ4Z3JWeWNYYkRCRG9ER01ZQ2lZT2FtRGMyTmxCOXdaLURkMWVvZGl2V3BCbTUtVXNMdk5JWWRHZU1xcmItd1ZORzR0blBhb08zRk9hbEUwYkVxUzdPaFE?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "oYWxsZW5nZS0xMDk0MjI3NC8",
+   "date": "2026-10-29",
+   "title": "How Netanyahu changed Israel, and the challenge he faces now | Expert Explains",
+   "summary": "",
+   "link": "https://indianexpress.com/article/explained/explained-global/how-netanyahu-changed-israel-the-challenge-10942274/",
    "source": "Indian Express",
    "section": "Explained",
    "topics": [
@@ -5915,6 +6313,23 @@
    "important": false
   },
   {
+   "id": "ta25lc3NldC0xMDkzNzg5Ni8",
+   "date": "2026-10-27",
+   "title": "As Israel’s exit polls point to tight finish, can Arab parties become kingmakers?",
+   "summary": "",
+   "link": "https://indianexpress.com/article/explained/explained-global/israel-election-2026-arab-voters-parties-knesset-10937896/",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
    "id": "cnRpY2xlNzE2MjYxOTUuZWNl",
    "date": "2026-10-26",
    "title": "Why Poland wants a stronger relationship with India | The Hindu Editorial",
@@ -6264,6 +6679,25 @@
    "gs": [
     "GS-3",
     "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "LW1hdHRlcnMtMTA5MzY3MTkv",
+   "date": "2026-10-26",
+   "title": "Where Nepal’s $20 million flood relief money is coming from: the loss and damage fund’s first payout",
+   "summary": "",
+   "link": "https://indianexpress.com/article/explained/explained-climate/why-rs-190-crore-post-flood-loss-and-damage-fund-payout-to-nepal-matters-10936719/",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
    ],
    "score": 3,
    "important": false
@@ -7028,6 +7462,40 @@
    "title": "Israel elections: Why only coalitions have ruled so far, could this time be different",
    "summary": "Israel elections: Why only coalitions have ruled so far, could this time be different The Indian Express",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTXhFaWRfamZNYzlwQjQ4c0ZrbDA1LXJoelRiRG9jRWx5XzR2WERaei1sTUwyVl9zcXJwTDZFemNwV1ZTS3dRNHBRb1RBbVY5LVM1NU1KUVl0QXFXQm85OGlYN2RhVlN0MFJFbkY5Vy1NcmhKMHFZeEcxZWJtbUY3czNKM0hhRHFlMzB3YWthcUpYTmtPMVVwRDNHcVZOX1hYand1TGdOT21BR0dlQlkzakNGVXpDdVVMVnZFVUIxU3ZuVElsVzdIQlJjOTBGbmRQRVHSAdgBQVVfeXFMTWdha3hCLUdMRlJoVVpsNEJqeFJYb1JPZGJUbmhOdFJRTVZUVkJKaUlUY2pONkxjZGhoMklXTlNkU3BjQjluZFV6c3Z3S2JDSWowN2M3X3pFMDNROXI5Y05YRnNWRnFHX1p0VkxkT1Z3ZnFqRXBPQTJqa0xhMXpOSkpZMjlDRWh0TWZuUFB4MURPVjRONklmR29Kb0VtOHVubE5xVlpTSERfbUpRX01TS1d3RFFoWVhNb2FQZEVvNXIyX1EwZy1qWlBlVnVRWktRLWUwMDNaYWUx?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "eHBsYWluZWQtMTA5Mzc1ODUv",
+   "date": "2026-10-26",
+   "title": "Explained: Why the Supreme Court may be hearing too many Special Leave Petitions",
+   "summary": "",
+   "link": "https://indianexpress.com/article/explained/explained-law/supreme-court-too-many-slps-explained-10937585/",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "1qaW5waW5nLTEwOTM2NTA1Lw",
+   "date": "2026-10-26",
+   "title": "As China’s leaders huddle for ‘Fifth Plenum’, an expert explains its significance",
+   "summary": "",
+   "link": "https://indianexpress.com/article/explained/explained-global/china-fifth-plenum-meeting-faq-xi-jinping-10936505/",
    "source": "Indian Express",
    "section": "Explained",
    "topics": [
