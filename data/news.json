@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T21:31:19.970Z",
+ "updated": "2026-11-01T01:08:33.732Z",
  "items": [
   {
    "id": "cnRpY2xlNzE2NDg1MzcuZWNl",
@@ -11,6 +11,23 @@
    "section": "National",
    "topics": [
     "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NTE5NTEuZWNl",
+   "date": "2026-11-01",
+   "title": "Rubio says U.S. yet to decide on new Iran strikes",
+   "summary": "Iran’s supreme leader October 31, 2026 warned the United States and Israel against launching new attacks, following threats to resume strikes after crucial elections",
+   "link": "https://www.thehindu.com/news/international/rubio-says-us-yet-to-decide-on-new-iran-strikes/article71651951.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
    ],
    "gs": [
     "GS-2"
@@ -33,6 +50,24 @@
    "gs": [
     "GS-2",
     "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY1MTM4OS5lY2U",
+   "date": "2026-11-01",
+   "title": "Mamdani says Trump has agreed to grant visa to mother of Ghanian teen killed in Bronx shooting",
+   "summary": "The teenager, Javits Frimpong, was on his way to school in a Bronx neighbourhood shortly before 9.30 a.m. October 29 when he was shot in the abdomen, New York City police said",
+   "link": "https://www.thehindu.com/news/international/mamdani-says-trump-has-agreed-to-grant-visa-to-mother-of-ghanian-teen-killed-in-bronx-shooting/article71651389.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
    ],
    "score": 3,
    "important": false
@@ -1194,6 +1229,42 @@
    ],
    "gs": [
     "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjQ2NDAxLmVjZQ",
+   "date": "2026-10-31",
+   "title": "70 years of the Kerala story",
+   "summary": "As Keralam enters its 70th year, a look at how several of the ideas that shaped its society decades ago continue to hold sway even today; its transformation over the years into a largely middle-class, consumerist society; the recent push to shed perceptions of its unfavourable industrial climate; the political and cultural identities that have made it a ‘model State’ for many; and the immediate ch",
+   "link": "https://www.thehindu.com/news/national/kerala/70-years-of-the-kerala-story/article71646401.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NTA2MTEuZWNl",
+   "date": "2026-10-31",
+   "title": "Students bake cakes as part of four-year UG programme on Food, Literature and Culture",
+   "summary": "The activity brought together culinary practice and cultural learning, offering students an engaging opportunity to explore the relationship between food, literature and culture beyond the confines of the classroom",
+   "link": "https://www.thehindu.com/news/national/kerala/students-bake-cakes-as-part-of-four-year-ug-programme-on-food-literature-and-culture/article71650611.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-1"
    ],
    "score": 2,
    "important": false
