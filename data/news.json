@@ -1,6 +1,25 @@
 {
- "updated": "2026-11-01T19:38:43.897Z",
+ "updated": "2026-11-01T23:34:49.382Z",
  "items": [
+  {
+   "id": "ydGljbGU3MTY1NDI2MC5lY2U",
+   "date": "2026-11-02",
+   "title": "Trump holds call with Netanyahu over state of Iran war: report",
+   "summary": "The Israeli source described the call as “tough,” while the American source said it was “direct,” according to Axios",
+   "link": "https://www.thehindu.com/news/international/trump-holds-call-with-netanyahu-over-state-of-iran-war-report/article71654260.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 4,
+   "important": false
+  },
   {
    "id": "ydGljbGU3MTY1Mzk3MS5lY2U",
    "date": "2026-11-02",
@@ -95,6 +114,25 @@
    "important": false
   },
   {
+   "id": "J0aWNsZTcxNjU0MjY2LmVjZQ",
+   "date": "2026-11-02",
+   "title": "Canada PM Carney says he had good conversation with Trump on trade",
+   "summary": "Canada and the United States have ⁠slapped billions of dollars in tariffs on each other in ‌recent months",
+   "link": "https://www.thehindu.com/news/international/canada-pm-carney-says-he-had-good-conversation-with-trump-on-trade/article71654266.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
    "id": "J0aWNsZTcxNjU0MDA0LmVjZQ",
    "date": "2026-11-02",
    "title": "Slow recovery: On the ISRO’s GSLV-F18 mission",
@@ -145,6 +183,25 @@
    ],
    "gs": [
     "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjU0MjY0LmVjZQ",
+   "date": "2026-11-02",
+   "title": "Bulgarian President wins runoff election: exit polls",
+   "summary": "The vote took place amid security concerns in the EU and NATO member states following a series of drone attacks on commercial vessels in the Black Sea",
+   "link": "https://www.thehindu.com/news/international/bulgarian-president-wins-runoff-election-exit-polls/article71654264.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
    ],
    "score": 2,
    "important": false
