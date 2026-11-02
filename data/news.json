@@ -1,6 +1,27 @@
 {
- "updated": "2026-11-01T23:34:49.382Z",
+ "updated": "2026-11-02T05:59:44.391Z",
  "items": [
+  {
+   "id": "J0aWNsZTcwOTkyMzUwLmVjZQ",
+   "date": "2026-11-02",
+   "title": "Four crew members eject safely after two Navy jets crash during air show in Idaho",
+   "summary": "The collision involved two U.S. Navy EA18-G Growlers from the Electronic Attack Squadron 129 in Whidbey Island, Washington, said Cmdr Amelia Umayam, spokesperson for Naval Air Forces, U.S. Pacific Fleet",
+   "link": "https://www.thehindu.com/news/international/four-crew-members-eject-safely-after-two-navy-jets-crash-during-air-show-in-idaho/article70992350.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 5,
+   "important": true
+  },
   {
    "id": "ydGljbGU3MTY1NDI2MC5lY2U",
    "date": "2026-11-02",
@@ -16,6 +37,62 @@
    "gs": [
     "GS-2",
     "Prelims"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY1NTI1Mi5lY2U",
+   "date": "2026-11-02",
+   "title": "Air quality worsens to ‘very poor’ category in Delhi, parts of north India",
+   "summary": "The 24-hour average Air Quality Index (AQI) of Delhi was 310 (very poor) at 8 a.m. on November 2, 2026, as per Central Pollution Control Board (CPCB) data",
+   "link": "https://www.thehindu.com/news/cities/Delhi/air-quality-worsens-to-very-poor-category-in-delhi-parts-of-north-india/article71655252.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY0NDMyNi5lY2U",
+   "date": "2026-11-02",
+   "title": "Keralam’s community study centres for tribal students must be evaluated beyond numbers",
+   "summary": "A child can be enrolled in school, given basic learning resources, and still be unable to use what is on offer. Persisting after failure and believing that school wants us to progress are not merely individual acts of will; they are social acts.",
+   "link": "https://www.thehindu.com/education/keralams-community-study-centres-for-tribal-students-must-be-evaluated-beyond-numbers/article71644326.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "MTc5MzU0ODE2MzU0MS5odG1s",
+   "date": "2026-11-02",
+   "title": "Why India faces three balancing acts—and why they are tough to achieve",
+   "summary": "India faces critical economic trade-offs: balancing fuel affordability against market price signals, optimizing interest rates for household savers versus borrowers, and offering tax incentives for foreign capital while preserving fiscal stability.",
+   "link": "https://www.livemint.com/economy/india-economic-policy-monetary-policy-fiscal-policy-inflation-fuel-prices-west-asia-war-foreign-portfolio-investors-11793548163541.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
    ],
    "score": 4,
    "important": false
@@ -133,6 +210,62 @@
    "important": false
   },
   {
+   "id": "J0aWNsZTcxNjUzMjI1LmVjZQ",
+   "date": "2026-11-02",
+   "title": "AMU wants women on campus, not at the ballot box",
+   "summary": "Around 4,000 women students at AMU’s Women’s College have been denied voting rights in the Aligarh Muslim University Students’ Union (AMUSU) elections, raising concerns over gender discrimination and unequal representation. Their fight to be included in the university-wide electoral process has brought renewed scrutiny to the separate-union rules and the barriers women face in campus politics, fin",
+   "link": "https://www.thehindu.com/news/national/uttar-pradesh/amus-wants-women-on-campus-not-at-the-ballot-box/article71653225.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY1NTE3NC5lY2U",
+   "date": "2026-11-02",
+   "title": "Cyber attacks hit Russia, Ukraine after truce ends",
+   "summary": "The cyber attacks came as the longest truce of the war, limited to Ukraine’s eastern Kherson region, ended on November 1, 2026 after Russia refused the offer of an extension, according to Kyiv",
+   "link": "https://www.thehindu.com/news/international/cyber-attacks-hit-russia-ukraine-after-truce-ends/article71655174.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjUzMDc2LmVjZQ",
+   "date": "2026-11-02",
+   "title": "Delhi High Court seeks report on qualifications of two doctors accused of mishandling child",
+   "summary": "Justice Neena Bansal Krishna passed the order on October 30 while hearing a contempt petition filed by the child’s mother",
+   "link": "https://www.thehindu.com/news/cities/Delhi/delhi-high-court-seeks-report-on-qualifications-of-two-doctors-accused-of-mishandling-child/article71653076.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
    "id": "J0aWNsZTcxNjU0MDA0LmVjZQ",
    "date": "2026-11-02",
    "title": "Slow recovery: On the ISRO’s GSLV-F18 mission",
@@ -201,6 +334,131 @@
    ],
    "gs": [
     "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjUyMzEzLmVjZQ",
+   "date": "2026-11-02",
+   "title": "Captain Chowta opposes proposal to revise timings of Gomateshwara Express",
+   "summary": "Railway Ministry’s plan to postpone Mangaluru Junction-Yeshwantpur tri-weekly and weekly express departure timing from 7 am to 11.40 am severely affects passengers",
+   "link": "https://www.thehindu.com/news/national/karnataka/captain-chowta-opposes-proposal-to-revise-timings-of-gomateshwara-express/article71652313.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2MjI2NzguZWNl",
+   "date": "2026-11-02",
+   "title": "How are tropical cyclones named?",
+   "summary": "Tropical cyclones are the second-most dangerous natural hazards, after earthquakes",
+   "link": "https://www.thehindu.com/news/national/cyclone-arnab-how-are-tropical-storms-named/article71622678.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjUzNDkzLmVjZQ",
+   "date": "2026-11-02",
+   "title": "Cyclone Murasu | Paddy farmers in Telangana fear crop damage amid high market prices",
+   "summary": "With soaked panicles delaying harvest, higher machine costs, and the need for extra drying and labor, growers warn that pre-flowering crops could suffer more, even as authorities issue alerts and supply protective tarpaulins to cushion the impact",
+   "link": "https://www.thehindu.com/news/national/telangana/cyclone-murasu-paddy-farmers-in-telangana-fear-crop-damage-amid-high-market-prices/article71653493.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjU1MTE2LmVjZQ",
+   "date": "2026-11-02",
+   "title": "Cyclone Murasu: Holiday for schools and colleges in Chennai and Tiruvallur",
+   "summary": "Chennai and Tiruvallur District Collectors have announced that schools and colleges in the districts will be closed on November 2 because of heavy rain",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/cyclone-murasu-tamil-nadu-schools-colleges-holiday-chennai-november-2/article71655116.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY1MjcxNC5lY2U",
+   "date": "2026-11-02",
+   "title": "Thammanam-Pullepady road project gets a fresh push",
+   "summary": "11(1) notification for land acquisition published; final survey to determine land required from each plot, followed by demarcation of boundaries and assessment of building values",
+   "link": "https://www.thehindu.com/news/national/kerala/thammanam-pullepady-road-project-gets-a-fresh-push/article71652714.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Reports & Indices"
+   ],
+   "gs": [
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "NWIyRjBSbWRNVlMxUj9vYz01",
+   "date": "2026-11-02",
+   "title": "Israel’s Arab parties are kingmakers, yet no one wants them. Here’s why",
+   "summary": "Israel’s Arab parties are kingmakers, yet no one wants them. Here’s why The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMld6NGF3bVZaeThRMFc5YjFUdnBDMm1EenVjaGkzSm1BRTU4eWhOSnR6VE11QkoxbXNiMnA1MG9odHE1UVdQZ1l5c1VFMkxMcGduNlpvNUNrSEFkdmp6Q3Y4RG1ubnRjdUR0NVlvcERqYUgxaGVLUjl5eWpIdEtqTzFfVnFRTmlVYzdMcEZ2dFBsYmEwVnlSNTl4RHZlTjRBY2I5XzZGdldWSXNmcDZrOElTdmc3Yk91MGVKWVRoTDZfSW9MWF9F0gHOAUFVX3lxTE96eE5xVEl1QkIxbi04WXdpdVd0X0xyZm9GbTZSUnBJWldkN2JXSE1xajU3amFSREs5ZlI5WVdGbnZzR2tsbjhEQU9id1ZuRWtmWUFmSnlCbkZ0bExGb2prZV9DODFlYWlsdjFYUVMzVWQtOHVLWlVldkgxQjhkRE53eVRTVjVnTzA1cmVzSmhQVEtIVGtVSXF3MGxZQWhzbGp3SnZGNVVOcTZmOVJSYVp0RmJLTVNfNFdwTGdLTGs3SldDeW95b2F0RmdMVS1R?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "bVdGTjBTVEUxVkVndz9vYz01",
+   "date": "2026-11-02",
+   "title": "Amid IDBI Bank sale, Sitharaman cites India’s first big financial scandal: The 1957 Mundhra case",
+   "summary": "Amid IDBI Bank sale, Sitharaman cites India’s first big financial scandal: The 1957 Mundhra case The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNDZuTXp6azRwODdNcUg0QWlEc2dsOHNKSWJLUlFNWDVlSmE5QUkzSC1mNmtBdlJrWTRYS1gxTnNrLWxXdGp2QVVuZU5XTFExdGVvX3ZoOXg1UmN2bGtfc1FYTHNIZ0t4QWd5VFVtdjdEQ19sczJ0ZzkzQzRUaVNERHNWazVWY3JFTk5tS1pLaEQzRGFFVDlRZzVxNEF3eDZtSzRsaUZ4bE0yU0JFckhIOXRLZjZLdUJrYTFFZ0RMdU9VRWljRGk1X3dQZGlvMFNQ0gHXAUFVX3lxTE9FMGp1WEl1VHhnUllhOVJJV3l2dmRVa1owWlh3eUJlOXQxX3dUNm1kLUtxMHFtc0FNSW4xT1phNGhMLUFPRkdyRmFkYVNYVE1ETjAzQktNNHM5VC1PMmZGUkZKanlPZWhteVd6OVY4VlRLQ0d4b25udUlXTmVvM3hRS1l0a0FvT0VGZjRCdlFGS09CdzI3VE85R3laM3N5c0FOajBPczdoRDNOVU1NQjJPZkxnVVRoWXdZbUFHRUJpREpDcTF3Qjl5VXFDaW1mWFN0STE1VEgw?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
     "GS-3"
    ],
    "score": 2,
@@ -557,6 +815,23 @@
    "gs": [
     "GS-3",
     "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY1MjIyNi5lY2U",
+   "date": "2026-11-01",
+   "title": "Why even a strong El Niño does not guarantee a poor Indian monsoon",
+   "summary": "Seven Indian monsoons since 1950 have run into a moderate or strong El Niño. Of these, in five years, including 2026, monsoon rainfall levels were at least 10% lower than the long-term average. The IMD refers to this level as 'deficient’. The 2023 season was something of an exception with ‘below average’ rainfall. However, 1997 had ‘average’ rainfall",
+   "link": "https://www.thehindu.com/sci-tech/science/why-even-a-strong-el-nino-does-not-guarantee-a-poor-indian-monsoon/article71652226.ece",
+   "source": "The Hindu",
+   "section": "Science",
+   "topics": [
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-1"
    ],
    "score": 3,
    "important": false
@@ -1104,6 +1379,25 @@
    ],
    "gs": [
     "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY1MTk4MC5lY2U",
+   "date": "2026-11-01",
+   "title": "Playbook to overcome inflation",
+   "summary": "Fuel, education, healthcare, and travel costs tend to surge in urban and semi urban areas and hence inflation can differ depending on what you consume",
+   "link": "https://www.thehindu.com/business/Economy/playbook-to-overcome-inflation/article71651980.ece",
+   "source": "The Hindu",
+   "section": "Economy",
+   "topics": [
+    "Economy",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
    ],
    "score": 2,
    "important": false
