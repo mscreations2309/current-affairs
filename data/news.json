@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-02T05:59:44.391Z",
+ "updated": "2026-11-02T15:47:38.235Z",
  "items": [
+  {
+   "id": "ydGljbGU3MTY1NzE5MC5lY2U",
+   "date": "2026-11-02",
+   "title": "Women’s policy will be implemented without compromises: CM",
+   "summary": "Says government mulling special Act to prevent cyber attacks on women; inaugurates Her Summit 2026 organised by Women and Child Development department for framing new women’s policy",
+   "link": "https://www.thehindu.com/news/national/kerala/womens-policy-will-be-implemented-without-compromises-cm/article71657190.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 6,
+   "important": true
+  },
   {
    "id": "J0aWNsZTcwOTkyMzUwLmVjZQ",
    "date": "2026-11-02",
@@ -93,6 +113,26 @@
    "gs": [
     "GS-3",
     "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY1NzU2NC5lY2U",
+   "date": "2026-11-02",
+   "title": "Foreign policy is a local issue in U.S. midterm campaigns",
+   "summary": "The number of Republicans who say that Trump’s policies have made the economy worse has almost doubled (18% to 35%) since the start of the year",
+   "link": "https://www.thehindu.com/news/international/foreign-policy-is-a-local-issue-in-us-midterm-campaigns/article71657564.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Polity & Governance",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
    ],
    "score": 4,
    "important": false
@@ -261,6 +301,137 @@
    "gs": [
     "GS-2",
     "Prelims"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NTc0OTcuZWNl",
+   "date": "2026-11-02",
+   "title": "Health Department readies 724 medical teams in 13 cyclone-prone districts",
+   "summary": "A total of 4,628 emergency beds, 205 relief camps and 807 ambulances and mobile medical units kept ready; 1,103 pregnant women shifted to nearby hospitals",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/health-department-readies-724-medical-teams-in-13-cyclone-prone-districts/article71657497.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NTcxNDEuZWNl",
+   "date": "2026-11-02",
+   "title": "Hair donation drive to support cancer patients held at Sri Ramachandra Institute of Higher Education and Research",
+   "summary": "The drive was organised in association with Ladies Circle India, Hair for Hope India, and the Adyar Cancer Institute",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/hair-donation-drive-to-support-cancer-patients-held-at-sri-ramachandra-institute-of-higher-education-and-research/article71657141.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NTYyNzMuZWNl",
+   "date": "2026-11-02",
+   "title": "West Asia conflict: China's Foreign Minister pushes for dialogue",
+   "summary": "Dialogue ‌and negotiation are the way ‌to ⁠resolve West Asia conflicts, Chinese FM ⁠told Ali Bagheri Kani, the Deputy Secretary of the Iran Supreme National Security Council",
+   "link": "https://www.thehindu.com/news/international/west-asia-conflict-chinas-foreign-minister-pushes-for-dialogue/article71656273.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NTY5MTEuZWNl",
+   "date": "2026-11-02",
+   "title": "Ebola reminder of urgent need to finish pandemic treaty: WHO chief",
+   "summary": "Pointing to several recent deadly disease outbreaks, he stressed that completing a pandemic treaty was \"about protecting people\"",
+   "link": "https://www.thehindu.com/sci-tech/health/ebola-reminder-of-urgent-need-to-finish-pandemic-treaty-who-chief/article71656911.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Health & Social Issues",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjI1OTk4LmVjZQ",
+   "date": "2026-11-02",
+   "title": "Who decides the cost of medicines in India?",
+   "summary": "India’s separation of medicine licensing under CDSCO and pricing under NPPA presents a policy challenge. Stronger coordination,supported by pharmaceutical, clinical and health-economic expertise, could bridge this gap",
+   "link": "https://www.thehindu.com/sci-tech/health/who-decides-the-cost-of-medicines-in-india/article71625998.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Polity & Governance",
+    "Economy",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "a2RscFpiR3M0WkV4dj9vYz01",
+   "date": "2026-11-02",
+   "title": "Why India wants telecom operators to report critical AI cybersecurity incidents",
+   "summary": "Why India wants telecom operators to report critical AI cybersecurity incidents The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTS1yNjN6NXpwRktlZzZEWXJsNzV3ZzA5OGhCVFk5b0pBMUVESkQtcDdWbkJ4SUNVMDFZUTZyVUFibHBLLVd3eV9wY3dfbVU5dWFBYURfdFdtdWtYOGZrSE9EaFFhUGJtTFZ1TEU1NUFvQ1MyRHBSWFFZMHhaam1vRkNwY1hkZ3F3NGE0azFIQThSa0VxRlM1REQydERWdEFSYlE1SldlVUlOcDcyNTB6M3QtcGtGRU5RYkHSAcABQVVfeXFMTl9SeDU1cnROV1JxN2R1YVkwSWh3SFZDRXlfT0FpUDh3RFRTVlNrN0k1RXFsV3hKanQwXzdQcjdURVdKYVVnbTJtVDVLVVlnQy1sZGFFNkd2ZExvSXRUYjRyT3pnVFpFdktPaXJCSjlMTlVjSG1jMTIwU040SVQtQ0Y0U200a2V3RjZYMC1KYlVuZUpWMXlGNkdUOGkwVnNCVGo2NmR5QWRHYm5tRHUyTGVsU1lLclZkdlpZbGs4ZExv?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Science & Technology",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "MTc5MzU5ODYwMTI1My5odG1s",
+   "date": "2026-11-02",
+   "title": "India’s manufacturing growth stays strong as price pressures ease: PMI Manufacturing survey",
+   "summary": "The seasonally adjusted index fell to 54.7 in October from 55.1 in September and remained below the flash figure readings of 54.9. But the index was comfortably above the neutral mark of 50 and its long-run average.",
+   "link": "https://www.livemint.com/economy/india-manufacturing-pmi-october-2026-growth-new-export-orders-11793598601253.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Reports & Indices",
+    "Economy"
+   ],
+   "gs": [
+    "Prelims",
+    "GS-3"
    ],
    "score": 3,
    "important": false
@@ -457,6 +628,241 @@
    "section": "Explained",
    "topics": [
     "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NTY2OTcuZWNl",
+   "date": "2026-11-02",
+   "title": "Two SFI activists suspended over alleged disruption of convocation ceremony at Maharaja’s College",
+   "summary": "SFI alleges that the chairperson and vice-chairperson of the college union were suspended for asking the Higher Education Minister legitimate questions about the suspension of 16 students at the Sree Sankaracharya University of Sanskrit, Kalady.",
+   "link": "https://www.thehindu.com/news/national/kerala/two-sfi-activists-suspended-over-alleged-disruption-of-convocation-ceremony-at-maharajas-college/article71656697.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY1NzE4Ni5lY2U",
+   "date": "2026-11-02",
+   "title": "Navy welcomes INS Sudarshini on completion of Lokayan 26",
+   "summary": "The ship, which completed the voyage spanning over 22,000 nautical miles across the oceans, was honoured with a water cannon salute and a ceremonial welcome by the Naval Band.",
+   "link": "https://www.thehindu.com/news/national/kerala/navy-welcomes-ins-sudarshini-on-completion-of-lokayan-26/article71657186.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Internal Security & Defence",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjU3NDYxLmVjZQ",
+   "date": "2026-11-02",
+   "title": "One-time settlement scheme to clear motor vehicle tax arrears",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/kerala/one-time-settlement-scheme-to-clear-motor-vehicle-tax-arrears/article71657461.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NTY4MjEuZWNl",
+   "date": "2026-11-02",
+   "title": "Electoral authorities hold no monopoly over voter awareness campaigns: Supreme Court",
+   "summary": "You can regulate in case they are involved in corrupt practices but you cannot monopolise the voter awareness exercise, Justice Bagchi observed",
+   "link": "https://www.thehindu.com/news/national/rajasthan/supreme-court-sets-aside-rajasthan-sec-order-denying-voter-awareness-campaign-nod/article71656821.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNDY2MDEyLmVjZQ",
+   "date": "2026-11-02",
+   "title": "Satheesan, Anwar Ibrahim discuss investment opportunities in Keralam",
+   "summary": "The meeting focused on expanding cooperation between Keralam and Malaysia in healthcare, tourism, trade, investment and education, and on identifying opportunities for Malaysian investment in the State.",
+   "link": "https://www.thehindu.com/news/national/kerala/satheesan-anwar-ibrahim-discuss-investment-opportunities-in-keralam/article71466012.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NTY4ODAuZWNl",
+   "date": "2026-11-02",
+   "title": "Telangana plans AI-enabled transactions in agri. market yards",
+   "summary": "Minister for Agriculture Tummala Nageswara Rao says the digital system would improve transparency in activities",
+   "link": "https://www.thehindu.com/news/national/telangana/telangana-plans-ai-enabled-transactions-in-agri-market-yards/article71656880.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY1NzE3NS5lY2U",
+   "date": "2026-11-02",
+   "title": "Joint survey to resolve Revenue-Forest land disputes: Ponguleti",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/telangana/joint-survey-to-resolve-revenue-forest-land-disputes-ponguleti/article71657175.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NTYzODMuZWNl",
+   "date": "2026-11-02",
+   "title": "VB-G RAM G grievances must be resolved in 15 days under new rules; no FIR clause",
+   "summary": "Two key clauses that were in the grievance redressal rules under MGNREGA were not included: requirement for FIR registration in cases of prima facie evidence of financial irregularities, and for action-taken reports on grievances to be placed before panchayat and district panchayat meetings",
+   "link": "https://www.thehindu.com/news/national/government-notifies-grievance-redressal-rules-under-vb-g-ram-g-act-fixes-15-day-deadline/article71656383.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjU2MDYwLmVjZQ",
+   "date": "2026-11-02",
+   "title": "Iran says considering two-day plan to reopen Hormuz",
+   "summary": "“The possibility of implementing this plan in two days is another indication of Iran's good-faith approach,” Foreign Ministry spokesperson Esmaeil Baqaei said",
+   "link": "https://www.thehindu.com/news/international/iran-says-considering-two-day-plan-to-reopen-hormuz/article71656060.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Polity & Governance",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NTYxNTguZWNl",
+   "date": "2026-11-02",
+   "title": "Shock and regret: scientists react to AI roiling life’s work",
+   "summary": "OpenAI and Anthropic each said last week that one of their AI models had disproved the exponential time hypothesis",
+   "link": "https://www.thehindu.com/sci-tech/science/shock-and-regret-scientists-react-to-ai-roiling-lifes-work/article71656158.ece",
+   "source": "The Hindu",
+   "section": "Science",
+   "topics": [
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "xGSmJYcGZUVXBDWXc_b2M9NQ",
+   "date": "2026-11-02",
+   "title": "Lie-flat business class seats, premium economy: IndiGo goes upscale with wide-body aircraft",
+   "summary": "Lie-flat business class seats, premium economy: IndiGo goes upscale with wide-body aircraft The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV1hwMlNxOHBLRnNFdndBQXRnM0w4U0owOGNpUUkxaVNyY05hVDRhb3pRXzduOFZtLW9uX0pZQy1KT2d6aHRHNUR3Q3FteDIzM3Z4YVBrYWJUVzlyeUFHanpLd3Y4aHZCWXl1SUx0RnZhZ0xsUFhURnpDX2tSdlkxVWRJd0prLWZKUDZnLXY2RnF5QV9IVG9oSkNfM1BoWjFQTVQzQk5pclhiUEczSU14UmlMYnbSAbsBQVVfeXFMT1hfQmxfQzdSa2NRMU9rVEl4dXU1Rm44UjBBS18zcnhZdVhnU0Z0U3FRSHBOaGZjTzJGdTZoeEpzZGdYTUN1bWVxakRZVW5vRHMzRlV0Y0p6QnVUUXVWNlJaemVpdmV3ZjB2QjdReGZsdTNldEJjRkIyMHJvWnNfM0VlaGFkcHlPMG5yZ3dUaS1JUFdpTkQ2MVJWRGxhT3g1SnI2MW5EM2hObXRJWDFnY1RlQlFJbXpfTUpCYw?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "TYUhKM2JHcFdiMDkzP29jPTU",
+   "date": "2026-11-02",
+   "title": "Ahead of Hornbill Festival, why Nagaland wants Protected Area Permit rules withdrawn",
+   "summary": "Ahead of Hornbill Festival, why Nagaland wants Protected Area Permit rules withdrawn The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPam81WUlBRjc5X29yNmwzcGh1ZkhDSVBDZEJwQlVrc2sweV9WZUJGNDFFMmk4MjExSVQwazVnYlRLbzZyWmozN0hyVVA4QTl5OW1CNkQwWXIwTHl6eEd1VHdpckVxcklkN1czRk1RcEZ5TjlCZFFpa1Ffb1dWMkdhMm9LR2s1c0tLb1V0dmxSbC1NUzdkdlktanB2QURsRFJYZjNiT3NBZF8ybGJ2VlRrUUNWcFZFa2tI0gG_AUFVX3lxTFBnRmd1X3dLYWRXRzFzTE5GQVduYkxJRHR1ZFFfSGhEa0NVQml2SXNOa0xOWXlPOUM1eWoxQWRrRWRjNGFnNFlyM3lWRGpfOUl5bHpzN0VKTjNkQnRSNHdPZGZMS3o4anpaaTFVYjZwRHhUS2I1cmx0dVc2amZGN0Mwd1NCSm9uOUU1ak9ta0E1dmFZY3BVZXRsenhua21tZ0JQZWtlalBZSnpJeXVuUkp0TXZXRFpSaHJ3bGpWb093?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "xaEZWM050VjFJd2R3P29jPTU",
+   "date": "2026-11-02",
+   "title": "How New York’s proposed law restricts AI chatbot interaction with children",
+   "summary": "How New York’s proposed law restricts AI chatbot interaction with children The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcTFPUU1vd1M1M205TnVxdVFKdU5MVDlyYXdZUTA1RWY0T251QkVvNHFaREE0bnJUTDdDRHp1bFR0UUdCWDNzWlZHT2ZJaTJ1ZTBpZXRHR0hiNXdrRUtrSV9uN3VwOGtZT2lkRVdDX0pkTndSMm54NFN4X09mWGtUMEZOaEEwaUlqYUlWb2VjMmtYeHR1QmE0bEpDcjR3NWE5VDUxQkd6SXlDNHFpdXEtQl9reFRFZmtpWklQLWRTMkhxdVXSAcoBQVVfeXFMTmtZZFdnX3F0NEpXTDdKcGtwLXRhb3VoZzRvZWRaUlVtWnVhYUhiSU5rMjcxTC1xdXhiMlRYalNoNy1GckdxZ3RJT2NENDFMMkFQMW9uaFJmb2k1NTIyRy1rbDZ3UkJPQUtMVndWREdFbFhldUJzRlhQck5WTUV0Vm5IZGVwbDFBck1yZEY1TmUwZkF1RTA4bDBhSXNHa1ozREYxT05rNWhvcGRFN0tEZFBVMWljREJhcE10LWlKMTYxN1hFV3NtV1Iwdw?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Science & Technology"
    ],
    "gs": [
     "GS-3"
