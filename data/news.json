@@ -1,6 +1,129 @@
 {
- "updated": "2026-11-02T15:47:38.235Z",
+ "updated": "2026-11-02T23:29:19.041Z",
  "items": [
+  {
+   "id": "cnRpY2xlNzE2NTc5NDAuZWNl",
+   "date": "2026-11-03",
+   "title": "Maharashtra sets up drought mitigation panel, approves ₹291.91 crore relief for flood-hit farmers",
+   "summary": "The measures follow deficient rainfall in parts of Maharashtra during 2026, prompting the government to declare drought in talukas identified under the Kharif season’s Trigger-1 assessment",
+   "link": "https://www.thehindu.com/news/national/maharashtra/maharashtra-sets-up-drought-mitigation-panel-approves-29191-crore-relief-for-flood-hit-farmers/article71657940.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters",
+    "Economy",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-1",
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 6,
+   "important": true
+  },
+  {
+   "id": "ydGljbGU3MTY1NjMwMy5lY2U",
+   "date": "2026-11-03",
+   "title": "Palnadu on high alert as Cyclone Murasu to bring heavy rain",
+   "summary": "The cyclone's impact is expected to be significant in the district on November 2 and 3, and people have been advised to remain vigilant; Collector instructs all departments to remain prepared and take precautionary measures to minimise the impact of heavy rainfall",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/palnadu-on-high-alert-as-cyclone-murasu-threatens-heavy-rain/article71656303.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY1NjAzNS5lY2U",
+   "date": "2026-11-03",
+   "title": "T.N.’s GST collection over past six months raises serious questions about its economy: Annamalai",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/tns-gst-collectionover-past-six-months-raises-serious-questions-about-its-economy-annamalai/article71656035.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY1NjkzNy5lY2U",
+   "date": "2026-11-03",
+   "title": "Lok Sabha Speaker Birla calls dissent essential to democracy",
+   "summary": "Dissent must also be respected, he said at the inaugural session of the ‘Janpratinidhi Sammelan’ (Public Representatives’ Conference) organised under the ‘Samvidhan Pakhwada’ (Constitution Fortnight) by the Haryana Legislative Assembly in Panchkula",
+   "link": "https://www.thehindu.com/news/national/lok-sabha-speaker-birla-calls-dissent-essential-to-democracy/article71656937.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NTg1MTQuZWNl",
+   "date": "2026-11-03",
+   "title": "Rubio meets Venezuelan counterpart as U.S. presses for progress on election preparations",
+   "summary": "The meeting held on November 2 was one of the highest-level encounters between a senior Trump administration official and a counterpart from acting President Delcy Rodríguez's government",
+   "link": "https://www.thehindu.com/news/international/rubio-meets-venezuelan-counterpart-as-us-presses-for-progress-on-election-preparations/article71658514.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjU4MzU2LmVjZQ",
+   "date": "2026-11-03",
+   "title": "Netanyahu pressing Trump to attack Iran after midterms, says officials",
+   "summary": "A return to full-scale war with Iran could help Benjamin Netanyahu to form an emergency government after he and his far-right allies lost their parliamentary majority in last week's elections",
+   "link": "https://www.thehindu.com/news/international/netanyahu-pressing-trump-to-attack-iran-after-midterms-says-officials/article71658356.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjU4MjMxLmVjZQ",
+   "date": "2026-11-03",
+   "title": "Many U.K. social care migrant workers to get PR in five years under softer immigration overhaul",
+   "summary": "Under the scheme, finalised on November 2, social care workers earning at least £25,000 per year, who arrived in the U.K. before May 2025, would be eligible for ‘indefinite leave to remain’ (ILR) after five years",
+   "link": "https://www.thehindu.com/news/international/many-uk-social-care-migrant-workers-to-get-pr-in-five-years-under-softer-immigration-overhaul/article71658231.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
   {
    "id": "ydGljbGU3MTY1NzE5MC5lY2U",
    "date": "2026-11-02",
@@ -133,6 +256,25 @@
    "gs": [
     "GS-2",
     "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjU3NzUxLmVjZQ",
+   "date": "2026-11-02",
+   "title": "In first high-level visit after new government’s arrival, Foreign Secretary Misri to visit Nepal on November 4-5",
+   "summary": "Misri’s visit to include discussions on Prime Minister Balendra Shah’s visit to India; appointment of Nepal’s new Ambassador to India and disaster assistance following the flash floods are also expected to be on the agenda",
+   "link": "https://www.thehindu.com/news/national/in-first-high-level-visit-after-new-governments-arrival-foreign-secretary-misri-to-visit-nepal-on-november-4-5/article71657751.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
    ],
    "score": 4,
    "important": false
@@ -866,6 +1008,114 @@
    ],
    "gs": [
     "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY1NzUxMC5lY2U",
+   "date": "2026-11-02",
+   "title": "Independent thinking, subject mastery key for judicial service, says former A.P. High Court judge",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/independent-thinking-subject-mastery-key-for-judicial-service-says-former-ap-high-court-judge/article71657510.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjU1OTkzLmVjZQ",
+   "date": "2026-11-02",
+   "title": "Doval meets Vietnam Defence Minister, agrees to deepen bilateral defence cooperation",
+   "summary": "The meeting was part of Mr. Doval’s two-day official visit to Vietnam; it follows the fourth India-Vietnam Security Dialogue held in October",
+   "link": "https://www.thehindu.com/news/national/doval-meets-vietnam-defence-minister-agrees-to-deepen-bilateral-defence-cooperation/article71655993.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjU3NDE4LmVjZQ",
+   "date": "2026-11-02",
+   "title": "Cyclone Murasu nears A.P. coast, heavy rain alert issued",
+   "summary": "The India Meteorological Department (IMD) said the storm is likely to move with a “wind speed of 100 to 110 kmph (and) gusting up to 120 kmph between Nellore and Narasapur”.",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-murasu-nears-ap-coast-heavy-rain-alert-issued/article71657418.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NTc5MTYuZWNl",
+   "date": "2026-11-02",
+   "title": "Iran says ready to reopen Hormuz in two days if U.S. agrees to demands",
+   "summary": "A senior Iranian official said the offer to open the vital energy corridor, which follows intense efforts by mediators to stop a return to war, showed good faith",
+   "link": "https://www.thehindu.com/news/international/iran-says-ready-to-reopen-hormuz-in-two-days-if-us-agrees-to-demands/article71657916.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjU3OTcxLmVjZQ",
+   "date": "2026-11-02",
+   "title": "U.K. warns EU against keeping Britain out of ‘Made in Europe’",
+   "summary": "The European Union wants to boost domestic sectors like cars and defence by forcing companies to buy European if they want public money",
+   "link": "https://www.thehindu.com/news/international/uk-warns-eu-against-keeping-britain-out-of-made-in-europe/article71657971.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjU3OTE1LmVjZQ",
+   "date": "2026-11-02",
+   "title": "Congress seeks JPC probe into IDBI Bank sale, alleges valuation irregularities",
+   "summary": "The party questions the use of bank’s funds by Fairfax to finance acquisition; demands disclosure of valuation reports",
+   "link": "https://www.thehindu.com/news/national/congress-seeks-jpc-probe-into-idbi-bank-sale-alleges-valuation-irregularities/article71657915.ece",
+   "source": "The Hindu",
+   "section": "Economy",
+   "topics": [
+    "Economy",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "Prelims"
    ],
    "score": 2,
    "important": false
