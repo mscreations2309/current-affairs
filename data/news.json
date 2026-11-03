@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T23:29:19.041Z",
+ "updated": "2026-11-03T06:45:02.987Z",
  "items": [
   {
    "id": "cnRpY2xlNzE2NTc5NDAuZWNl",
@@ -21,6 +21,284 @@
    ],
    "score": 6,
    "important": true
+  },
+  {
+   "id": "J0aWNsZTcxNjU5MjEyLmVjZQ",
+   "date": "2026-11-03",
+   "title": "U.S. strikes Iran's Qeshm Island: report",
+   "summary": "The Wall Street Journal added that strikes have been carried out on ‌a smaller scale and purposefully ​kept secret so as not to signal any intent ⁠of resuming its major military campaign against Iran",
+   "link": "https://www.thehindu.com/news/international/us-strikes-irans-qeshm-island-report/article71659212.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3",
+    "GS-1",
+    "Prelims"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "J0aWNsZTcxNjU5MzMxLmVjZQ",
+   "date": "2026-11-03",
+   "title": "Parts of Delhi reel under ‘severe’ level air pollution",
+   "summary": "The 24-hour average Air Quality Index (AQI) of Delhi was 330 (very poor) at 8 a.m. on November 3, 2026, as per Central Pollution Control Board (CPCB) data",
+   "link": "https://www.thehindu.com/news/cities/Delhi/parts-of-delhi-reel-under-severe-level-air-pollution/article71659331.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NTk1MDUuZWNl",
+   "date": "2026-11-03",
+   "title": "Russia-Ukraine war: Strikes on a school by Russia kills 26, derailing hopes of progress toward peace",
+   "summary": "Russia resumed its strikes on the southern region of Kherson after the end of a ceasefire in the area, the longest truce in the war raging between the neighbours since Russia’s 2022 invasion, Kyiv said",
+   "link": "https://www.thehindu.com/news/international/russia-ukraine-war-strikes-on-a-school-by-russia-kills-26-derailing-hopes-of-progress-toward-peace/article71659505.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NTk0MjkuZWNl",
+   "date": "2026-11-03",
+   "title": "Former Maldives Foreign Minister Abdulla Shahid arrested on child sexual abuse charges",
+   "summary": "The arrest assumes significance as Mr. Shahid is among the prominent presidential aspirants within the main opposition Maldivian Democratic Party (MDP) for the island nation’s 2028 elections",
+   "link": "https://www.thehindu.com/news/international/former-maldives-foreign-minister-abdulla-shahid-arrestedchild-sexual-abuse-allegations/article71659429.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Health & Social Issues",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NTkyMzIuZWNl",
+   "date": "2026-11-03",
+   "title": "U.S. Supreme Court rejects Trump administration push to set aside thousands of California ballots",
+   "summary": "Another federal judge ruled against the administration's efforts to make last-minute demands of California election officials, finding they violated the Constitution",
+   "link": "https://www.thehindu.com/news/international/us-supreme-court-rejects-trump-administration-push-to-set-aside-thousands-of-california-ballots/article71659232.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Polity & Governance",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "E3OTM2MjgxMzYzMTAuaHRtbA",
+   "date": "2026-11-03",
+   "title": "Mint Explainer | What is driving the surge in GST collections from imported goods?",
+   "summary": "GST revenue from imports rose 42.2% year-on-year to ₹72,246 crore in October, far outpacing domestic growth of about 16%. Higher import values, rupee depreciation and demand for industrial inputs may explain the rise, which boosted overall GST collections and may reflect expanding manufacturing.",
+   "link": "https://www.livemint.com/economy/india-gst-revenue-imports-domestic-collections-rupee-depreciation-11793628136310.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "xNzkzNjczOTgwNTQ5Lmh0bWw",
+   "date": "2026-11-03",
+   "title": "Can India abolish LTCG tax? SBI Research says Centre has ‘fiscal headroom’ to absorb loss, suggests alternatives",
+   "summary": "SBI Research says India has enough ‘fiscal headroom’ to abolish long-term capital gains tax (LTGC) and absorb the loss of potential ₹40,000- 50,000 in FY28 revenue. Instead, it suggests higher exemptions, lower rates for longer-held investments and a 50% increase in STT.",
+   "link": "https://www.livemint.com/economy/can-india-abolish-ltgc-tax-sbi-research-say-centre-fiscal-headroom-absorb-50000-cr-loss-alternatives-high-exemptions-stt-11793673980549.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY1OTUwNC5lY2U",
+   "date": "2026-11-03",
+   "title": "Indian Navy rescues hijacked fishing vessel off Somalia, frees all 20 crew members",
+   "summary": "The operation demonstrated the Navy’s operational preparedness and its ability to undertake complex maritime security missions through seamless coordination with the Air Force",
+   "link": "https://www.thehindu.com/news/national/indian-navy-rescues-hijacked-fishing-vessel-off-somalia-frees-all-20-crew-members/article71659504.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Internal Security & Defence",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NTk2NDYuZWNl",
+   "date": "2026-11-03",
+   "title": "What is Project 18A, and why is the Navy embarking on building futuristic warships? | Explained",
+   "summary": "The Indian Navy is preparing for a major transformation of its surface combat fleet with Project 18A, an ambitious programme to develop next-generation stealth guided-missile destroyers",
+   "link": "https://www.thehindu.com/news/national/what-is-project-18a-and-why-is-the-navy-embarking-on-building-futuristic-warships-explained/article71659646.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY1OTUzOC5lY2U",
+   "date": "2026-11-03",
+   "title": "Cyclone Murasu completes landfall, to weaken by noon",
+   "summary": "Heavy spells of rainfall may likely to continue over South Coastal Andhra Pradesh during next 12 hours, the IMD said",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-murasu-completes-landfall-to-weaken-by-noon/article71659538.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-1"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjU5NDc1LmVjZQ",
+   "date": "2026-11-03",
+   "title": "Congress slams 'felling' of trees for Maharashtra power project, calls it another ecological disaster",
+   "summary": "A pumped-storage hydropower project in Maharashtra’s Western Ghats has raised concerns over forest rights, tribal livelihoods and ecological impact",
+   "link": "https://www.thehindu.com/news/national/maharashtra/congress-slams-felling-of-trees-for-maharashtra-power-project-calls-it-another-ecological-disaster/article71659475.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology",
+    "Health & Social Issues",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NTk1MTUuZWNl",
+   "date": "2026-11-03",
+   "title": "Russia downs hundreds of drones after Ukraine truce ends",
+   "summary": "The attacks followed a rare pause in the fighting between Russia and Ukraine in the southern Ukrainian region of Kherson, which ended November 1",
+   "link": "https://www.thehindu.com/news/international/russia-downs-hundreds-of-drones-after-ukraine-truce-ends/article71659515.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjU5MjQ0LmVjZQ",
+   "date": "2026-11-03",
+   "title": "U.S. has conducted defensive strikes on some Iranian targets in Strait of Hormuz: official ahead of midterm elections",
+   "summary": "Vice-President J.D. Vance told reporters that he just spoke to President Trump about talks with Iran and said that “the president and I both feel pretty good about the prospects for potentially coming to a negotiated settlement”",
+   "link": "https://www.thehindu.com/news/international/us-strikes-iran-strait-of-hormuz-midterm-elections-trump-netanyahu-vance/article71659244.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NTk2NTUuZWNl",
+   "date": "2026-11-03",
+   "title": "After 22 years, RBI reopens UCB licensing: can new audit rules ensure a safer banking sector? | Explained",
+   "summary": "MSC​​ARO and ICAI build guardrails for multi-state cooperatives aspiring to become banks",
+   "link": "https://www.thehindu.com/business/Economy/after-22-years-rbi-reopens-ucb-licensing-can-new-audit-rules-ensure-a-safer-banking-sector-explained/article71659655.ece",
+   "source": "The Hindu",
+   "section": "Economy",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "htYkdORlJrdDROM2M_b2M9NQ",
+   "date": "2026-11-03",
+   "title": "US midterms: Why voters may punish Trump and Republicans despite booming economy",
+   "summary": "US midterms: Why voters may punish Trump and Republicans despite booming economy The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTmsxM2NQd04xQ0djWjh2RGJoUUphME1yUG1YUmM0QnJUellDcC1JWVljMW90NUF6bFItZ2RQUi03UEFUZml3WWZnZmhNdmY0dEJYb2x0aHl4emFHOE9BeXY2RWtVV0NJejE4ZDk0NzEyOWJZZHZjdlBfSHZvM01Vanl3ekZBODNGTzJVY0F5eFhRRmhmUmVqdjRiMWRkMHpUQVNKVExJUHl5cXY5RjZRNGZCNXNpT2I1dUVjQUw1R3ZoY1hyZC0tMURhcV94Tmd3dWc2WG4wd9IB3gFBVV95cUxOOTRZOXN3bzhtaGV1S0R4RkxfZFB0QzRUZUV3WXJOM2NUQVZETG5BWlBMTGlCVGJLb2loOWNSeVMzZkxPTG8wQnZIZm9oUzQ4b1M4TmtMdmtmQ09EYWtUZnZzc0J4ZlhyZFdZSFhKZU5acllPSGt6aTRsdldiVkliRGVSYkVOSWNYb2pMcTh3T2RoTFJnTEpwX1ZHVGRwemNBai1WOUlzTldnMVRRYTY0MzNnSllVSTBwYTg3OEJlR3luM2Qxa1FiZWgyeWFPS0R6QnlwYVhmbGNFRkt4N3c?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
   },
   {
    "id": "ydGljbGU3MTY1NjMwMy5lY2U",
@@ -120,6 +398,202 @@
    ],
    "gs": [
     "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjU5NTc3LmVjZQ",
+   "date": "2026-11-03",
+   "title": "India, Israel vote against UNGA draft on regional conventional arms control",
+   "summary": "India and Israel were the only countries to vote against the resolution in the 193-member UN body",
+   "link": "https://www.thehindu.com/news/national/india-israel-vote-against-unga-draft-on-regional-conventional-arms-control/article71659577.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY1NzI0MS5lY2U",
+   "date": "2026-11-03",
+   "title": "Schools, colleges and hostels to be covered under El Nino awareness drive in Hyderabad",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/cities/Hyderabad/schools-colleges-and-hostels-to-be-covered-under-el-nino-awareness-drive-in-hyderabad/article71657241.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NTk1MDIuZWNl",
+   "date": "2026-11-03",
+   "title": "Centre proposes 10 new import gateways for drugs, medical devices",
+   "summary": "The proposed amendment to Rule 43A of the Drugs Rules, 1945, is aimed at easing import operations, reducing inland transportation distances and improving the movement of healthcare products across the country",
+   "link": "https://www.thehindu.com/news/national/centre-proposes-10-new-import-gateways-for-drugs-medical-devices/article71659502.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjU3MTM5LmVjZQ",
+   "date": "2026-11-03",
+   "title": "Over one lakh workers expected at Jantar Mantar in Delhi for indefinite protest by CITU starting December 1",
+   "summary": "The Centre of Indian Trade Unions (CITU) will launch an indefinite protest at Jantar Mantar demanding protection of workers’ rights and repeal of ‘anti-worker’ labour codes",
+   "link": "https://www.thehindu.com/news/national/karnataka/citu-protest-jantar-mantar-delhi-december-1-worker-rights-agitation/article71657139.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjU2ODg1LmVjZQ",
+   "date": "2026-11-03",
+   "title": "Haryana Congress to launch fresh phase of ‘Save Vote – Save Democracy Chaupal’ campaign from November 3",
+   "summary": "The objective of this campaign is to sensitise the people about their constitutional right to vote, strengthen public participation in ensuring the fairness and transparency of electoral rolls, and establish a robust organisational and mass-movement mechanism to safeguard the vote of every eligible voter,” says Haryana Congress In-charge",
+   "link": "https://www.thehindu.com/news/national/haryana/haryana-congress-to-launch-fresh-phase-of-save-vote-save-democracy-chaupal-campaign-from-november-3/article71656885.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NTc1MTEuZWNl",
+   "date": "2026-11-03",
+   "title": "Initiative to strengthen perinatal mental healthcare to be piloted in T.N.’s Villupuram district",
+   "summary": "As a part of the initiative, Village Health Nurses and medical officers are being trained to screen pregnant women for mental health problems, particularly depression, during the antenatal and postnatal periods and facilitate timely and appropriate care",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/initiative-to-strengthen-perinatal-mental-healthcare-to-be-piloted-in-villupuram-district/article71657511.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NTcwODQuZWNl",
+   "date": "2026-11-03",
+   "title": "Termination of NHM staff’s job contract likely to affect services in govt. hospitals in Keralam",
+   "summary": "Job contracts of 1,495 temporary staff working under the National Health Mission have been terminated from October 31; ninety-nine people have lost their jobs in Kozhikode district alone",
+   "link": "https://www.thehindu.com/news/national/kerala/termination-of-nhm-staffs-job-contract-likely-to-affect-services-in-govt-hospitals-in-keralam/article71657084.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY1OTMyNC5lY2U",
+   "date": "2026-11-03",
+   "title": "Mild earthquake of 3.1 magnitude hits of J&K's Kishtwar",
+   "summary": "No reports of any loss of life or damage to property received from anywhere in the Union Territory so far",
+   "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/jammu-and-kashmir-kishtwar-mild-earthquake/article71659324.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-1",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NTkyNjcuZWNl",
+   "date": "2026-11-03",
+   "title": "U.S. votes for midterm elections, seen as referendum on Trump",
+   "summary": "The polling will decide whether President Trump’s Republican Party retains control of the House of Representatives and the Senate, the two chambers of the U.S. Congress, or, as opinion polls are predicting, the Democratic Party wrests control of at least the House if not the Senate, also in the final two years of Mr. Trump’s second term in office",
+   "link": "https://www.thehindu.com/news/international/us-votes-for-mid-term-elections-seen-as-referendum-on-trump/article71659267.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "XZHZXVnB2T1c4MFZRP29jPTU",
+   "date": "2026-11-03",
+   "title": "How does India regulate food safety? Maharashtra’s plea highlights Centre-state divide",
+   "summary": "How does India regulate food safety? Maharashtra’s plea highlights Centre-state divide The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdU03ZXBDNzJFckdORG5adTF2MjF5MEhJSHBhcmMtUGxOZHV1a0NLc2ZYblhzSFIyZGRqendncWJBczdpVlZmdWcxaHJBMTBHalBVOFloNHg4WnEzLTAtMnZ4d1RRS0ZIaGVaTnJoLUVMLWoyNGRjX0dCdEhEbWJ4cFZMTHlsQTRQS0J6SUltU21yV09xc3NMQzMzLW1ZQ2JncDNZS0pPUUzSAa8BQVVfeXFMTk44MDhDQW1Vdk15YVFlNU1vS0h0eUlpM1c4c3U2bmY3aTdkZjNEWkRYUjJfWS01WmtURjd1cUs3MkxaVnFieXVEd29Ob3JFUG1nZDVHblVsbTNXNUlPd2lnYW5tOU9LZjRpX1J0Ykp1M18tSlU5SWM0X2RVdlJhLXBnWm1ueDNlaXY5Y0p5aW0yYTJGUDlvMFI2dk92NWxsb0htclVKZWdvWVpvOW80VQ?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "GcldtbzVkblpoZGtFP29jPTU",
+   "date": "2026-11-03",
+   "title": "How animal products are powering India’s farm exports",
+   "summary": "How animal products are powering India’s farm exports The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRnFfM2tUNXczNnZlTklBZjU2UmhrOGNDcFdyZExmTUh2ckJ5T21ncDhxbUYtZTJWRFZVVFJuVEYwTWpoTGswS1ZTUERsaE1XTjRoLUYxY3lYaFQ2Ni1wcFJKdVhCNGVtWTd1UGg4SHdaSzNaODZQQmdRRXZvQWtmd25yVUR0ekhUQW5TdmlISndkTWpxUC1sYnIwRnhRdnFyQ1drUHNYMHYtQXB5Zy1Va2NxbWgzX2g1ZWZocXJOQWZFOURGdW9pSHJqTzFfN0JxMWkzRtIB2wFBVV95cUxQZ2xYOWx6RTRxY3FKLVRXSjhCU0lmR19FUG9wUWRvUFdnYmNoNGFhRjdNT1RMZGt0SjFhOVRiOE9IaEF1MVZtdDI2c01la1VTUFVXNGk4SDFFSGtGazFTczlheTJObTZsM2hSRUVaZVdzamtnQjF3LXV6UURqWW5ITnRqT2tQNVFDNVl2cklEZVVrV1RZbjktNUswRkduaEZWZjdxaklFaENGUUZ4UVplT3VVempsUXlBWl9HeUF3azlsUnlOUXdWdlhpZHZqT2dtYTFrWmo5dnZhdkE?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
    ],
    "score": 2,
    "important": false
@@ -1116,6 +1590,44 @@
    "gs": [
     "GS-3",
     "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NTcwNzcuZWNl",
+   "date": "2026-11-02",
+   "title": "How smoking sets the stage for lung cancer, glimpsed in new study",
+   "summary": "Chronic smoke exposure alters lung stem cells and weakens their safety mechanisms and local immune defences, creating a precancerous state; common KRAS and TP53 mutations triggered tumours only in smoke-conditioned tissue, showing how smoking primes cells for cancer",
+   "link": "https://www.thehindu.com/sci-tech/science/how-smoking-sets-the-stage-for-lung-cancer-glimpsed-in-new-study/article71657077.ece",
+   "source": "The Hindu",
+   "section": "Science",
+   "topics": [
+    "Health & Social Issues",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjUyOTM0LmVjZQ",
+   "date": "2026-11-02",
+   "title": "The Milky Way grew by devouring galaxies, leaving a trail of ghost stars",
+   "summary": "Galactic archaeologists are using precise measures and larger sample sizes afforded by new missions to tease apart minute differences between groups of stars, revealing the history of the Milky Way going back almost 12 billion years",
+   "link": "https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece",
+   "source": "The Hindu",
+   "section": "Science",
+   "topics": [
+    "Health & Social Issues",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
    ],
    "score": 2,
    "important": false
