@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T20:58:00.742Z",
+ "updated": "2026-11-04T01:20:20.861Z",
  "items": [
   {
    "id": "J0aWNsZTcxNjYyNzU1LmVjZQ",
@@ -160,6 +160,60 @@
    "section": "Editorial",
    "topics": [
     "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NjE1NjkuZWNl",
+   "date": "2026-11-04",
+   "title": "Amit Shah compares INDIA bloc’s mock Parliament to Maoists’ Jantana Sarkar",
+   "summary": "The mock Parliament was held at Congress president Mallikarjun Kharge’s New Delhi residence on October 31 for a “public impeachment” of Chief Election Commissioner Gyanesh Kumar",
+   "link": "https://www.thehindu.com/news/national/chhattisgarh/amit-shah-compares-india-blocs-mock-parliament-to-maoists-jantana-sarkar/article71661569.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjYxNDQzLmVjZQ",
+   "date": "2026-11-04",
+   "title": "When will 14 State-run universities get Vice-Chancellors and Syndicates, Madras High Court asks T.N. government",
+   "summary": "Justice N. Anand Venkatesh suo motu impleads Higher Education Secretary as a respondent to a batch of applications filed by him and calls for explanation by November 17",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/when-will-14-state-run-universities-get-vice-chancellors-and-syndicates-madras-high-court-asks-tn-government/article71661443.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NjIxMzguZWNl",
+   "date": "2026-11-04",
+   "title": "Over 50% of startups in Tamil Nadu are led by women, says StartupTN Chairman",
+   "summary": "We are still in a mindset that certain roles are meant for a particular gender. This has to change, the Chairman says",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/over-50-of-startups-in-tamil-nadu-are-led-by-women-says-startuptn-chairman/article71662138.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues"
    ],
    "gs": [
     "GS-2"
