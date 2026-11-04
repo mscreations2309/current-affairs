@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-04T09:09:31.942Z",
+ "updated": "2026-11-04T17:14:32.765Z",
  "items": [
+  {
+   "id": "J0aWNsZTcxNjY1NDc1LmVjZQ",
+   "date": "2026-11-04",
+   "title": "U.S. midterm results may matter less for India-U.S. ties than for India’s room to manoeuvre in geopolitics",
+   "summary": "With U.S. President Donald Trump’s Republicans facing a major loss, the results could affect India’s position on the Iran war, Russian oil, the trade deal, immigration and China policy",
+   "link": "https://www.thehindu.com/news/national/us-midterm-results-may-matter-less-for-india-us-ties-than-for-indias-room-to-manoeuvre-in-geopolitics/article71665475.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 6,
+   "important": true
+  },
   {
    "id": "ydGljbGU3MTY1OTQ4OC5lY2U",
    "date": "2026-11-04",
@@ -16,6 +34,84 @@
    ],
    "gs": [
     "GS-2",
+    "GS-3"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "J0aWNsZTcxNjY3MTQyLmVjZQ",
+   "date": "2026-11-04",
+   "title": "Iran says tankers destroyed after hitting mines in Hormuz",
+   "summary": "It came a day after President Donald Trump said the United States had launched strikes on the Islamic Republic, following reports of a raid on Qeshm, the largest island in the strait",
+   "link": "https://www.thehindu.com/news/international/iran-says-tankers-destroyed-after-hitting-mines-in-hormuz/article71667142.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Geography & Disasters",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1",
+    "Prelims"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "cnRpY2xlNzE2NjYxNDYuZWNl",
+   "date": "2026-11-04",
+   "title": "United Nations report says genocide continues in Gaza",
+   "summary": "The Israeli violations include widespread or systematic attacks directed against the civilian population, state policy, and the fact that the security forces knew the acts constituted part of an attack against the civilian population and so intended them (mens rea)",
+   "link": "https://www.thehindu.com/news/international/united-nations-report-says-genocide-continues-in-gaza/article71666146.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Polity & Governance",
+    "International Relations",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "ydGljbGU3MTY2NDk3NS5lY2U",
+   "date": "2026-11-04",
+   "title": "Supreme Court upholds States’ power to levy additional sales tax, says case has become academic",
+   "summary": "The seven-judge Bench, led by CJI Surya Kant, said the reference in the Orissa Sales Tax Act case no longer requires adjudication since the challenged provisions have been amended and GST governs the issue moving forward",
+   "link": "https://www.thehindu.com/news/national/supreme-court-upholds-states-power-to-levy-additional-sales-tax-says-case-has-become-academic/article71664975.ece",
+   "source": "The Hindu",
+   "section": "Economy",
+   "topics": [
+    "Polity & Governance",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "xNzkzODAxNTY5MzYzLmh0bWw",
+   "date": "2026-11-04",
+   "title": "LTCG tax relief on cards? FM acknowledges FPI concerns as SEBI, FICCI push for reforms in Budget 2027",
+   "summary": "FM Nirmala Sitharaman said the government recognizes investor concerns about India’s investment climate and will consider feedback as it seeks to sustain growth near 7%. She acknowledged rising foreign investment outflows.",
+   "link": "https://www.livemint.com/economy/ltcg-tax-relief-on-cards-fm-acknowledges-fpi-concerns-as-sebi-ficci-push-for-reforms-in-budget-2027-11793801569363.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy",
+    "Environment & Ecology"
+   ],
+   "gs": [
     "GS-3"
    ],
    "score": 5,
@@ -55,6 +151,64 @@
    "gs": [
     "GS-3",
     "Prelims"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY2NzAzNC5lY2U",
+   "date": "2026-11-04",
+   "title": "Cess levied as increment to sales tax remains within State’s scope, says Supreme Court",
+   "summary": "But the Constitution Bench notes that sales tax regime has changed with VAT and GST over the years",
+   "link": "https://www.thehindu.com/news/national/cess-levied-as-increment-to-sales-tax-remains-within-states-scope-says-supreme-court/article71667034.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY2NTQ5NC5lY2U",
+   "date": "2026-11-04",
+   "title": "Union Cabinet approves new VISTAR scheme to overhaul India’s statistical system",
+   "summary": "The three-pronged scheme is aimed at strengthening data collecting, analysis, the incorporation of AI, as well as provide fresh data on the unorganised sector to make the overall GDP figure more accurate",
+   "link": "https://www.thehindu.com/business/Economy/union-cabinet-approves-new-vistar-scheme-to-overhaul-indias-statistical-system/article71665494.ece",
+   "source": "The Hindu",
+   "section": "Economy",
+   "topics": [
+    "Polity & Governance",
+    "Economy",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjY1MDQ0LmVjZQ",
+   "date": "2026-11-04",
+   "title": "U.S. midterm elections impact on India: Faster trade deal talks and higher tariffs likely",
+   "summary": "Trade and geopolitical experts say that losing control of the U.S. Congress will push President Donald Trump to increase tariff pressure on India to seal a deal. Indian negotiators, for their part, will smell an opportunity",
+   "link": "https://www.thehindu.com/business/Economy/us-midterm-elections-impact-on-india-faster-trade-deal-talks-and-higher-tariffs-likely/article71665044.ece",
+   "source": "The Hindu",
+   "section": "Economy",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
    ],
    "score": 4,
    "important": false
@@ -199,6 +353,99 @@
     "International Relations"
    ],
    "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY2NjM3NC5lY2U",
+   "date": "2026-11-04",
+   "title": "VIT University donates ₹1 crore towards cyclone relief in Andhra Pradesh",
+   "summary": "University Chancellor Viswanathan says the institution considers it a moral responsibility to stand by the people of the State during natural disasters",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/vit-university-donates-1-crore-towards-cyclone-relief-for-andhra-pradesh/article71666374.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-1",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY2NTU2MS5lY2U",
+   "date": "2026-11-04",
+   "title": "Supreme Court rejects plea for rotation of SC/ST-reserved seats in Parliament, Assemblies",
+   "summary": "In a lighter vein, the CJI remarked that the petitioner could also take up the issue through public protests and demonstrations",
+   "link": "https://www.thehindu.com/news/national/supreme-court-rejects-plea-for-rotation-of-scst-reserved-seats-in-parliament-assemblies/article71665561.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjY1NTk2LmVjZQ",
+   "date": "2026-11-04",
+   "title": "Greater focus on research must to achieve excellence in higher education, says Namoshi",
+   "summary": "He was speaking after being felicitated by Sharnbasva University on his election to the Legislative Council for a record fifth term in Kalaburagi",
+   "link": "https://www.thehindu.com/news/national/karnataka/greater-focus-on-research-must-to-achieve-excellence-in-higher-education-says-namoshi/article71665596.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY2NTAwNS5lY2U",
+   "date": "2026-11-04",
+   "title": "Jaishankar highlights importance of digital public infrastructure at Commonwealth meet in Antigua and Barbuda",
+   "summary": "Mr. Jaishankar also spoke about India's recent Free Trade Agreements and other ongoing negotiations at the meeting",
+   "link": "https://www.thehindu.com/news/international/jaishankar-highlights-importance-of-digital-public-infrastructure-at-commonwealth-meet-in-antigua-and-barbuda/article71665005.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NjY4MDMuZWNl",
+   "date": "2026-11-04",
+   "title": "Centre earmarks ₹2,814 crore to boost lithium, nickel processing",
+   "summary": "In a social media post, Union Coal and Mines Minister G. Kishan Reddy stated the scheme would help strengthen domestic capabilities, boost manufacturing and reduce dependence on imports.",
+   "link": "https://www.thehindu.com/business/Economy/centre-earmarks-2814-crore-to-boost-lithium-nickel-processing/article71666803.ece",
+   "source": "The Hindu",
+   "section": "Economy",
+   "topics": [
+    "Economy",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
     "GS-2"
    ],
    "score": 3,
@@ -652,6 +899,240 @@
    ],
    "gs": [
     "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjY2Mjk2LmVjZQ",
+   "date": "2026-11-04",
+   "title": "Devaswoms must embrace change to ensure safe fireworks displays: former PESO expert",
+   "summary": "Dr. R. Venugopal calls for technology-driven displays and scientific fireworks manufacturing hubs to prevent accidents",
+   "link": "https://www.thehindu.com/news/national/kerala/devaswoms-must-embrace-change-to-ensure-safe-fireworks-displays-former-peso-expert/article71666296.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjY0MTYzLmVjZQ",
+   "date": "2026-11-04",
+   "title": "SRM A.P. tops State ranking in QS Asia University Rankings 2027",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/srm-ap-ranks-no-1-in-ap-in-qs-asia-university-rankings-2027/article71664163.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjY2MTM2LmVjZQ",
+   "date": "2026-11-04",
+   "title": "Falling fertility rate makes two-child penalties outdated in India, says Supreme Court",
+   "summary": "‘The foundation of such laws, that is, the fear of overpopulation, has crumbled due to demographic changes in the past few decades’, says Bench",
+   "link": "https://www.thehindu.com/news/national/rolling-effect-of-decelerating-population-growth-very-hard-to-reverse-supreme-court/article71666136.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NjU5ODYuZWNl",
+   "date": "2026-11-04",
+   "title": "Nandan Nilekani calls on Naidu, discusses reforms in examination system",
+   "summary": "While the Chief Minister bats for reforms that ultimately improve employment opportunities, HRD Minister Lokesh briefs the Chairman of the High-Powered Task Force on Examination Reforms about the use of technology in the State to improve efficiency and transparency",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/nandan-nilekani-calls-on-naidu-discusses-reforms-in-examination-system/article71665986.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjY1Njk3LmVjZQ",
+   "date": "2026-11-04",
+   "title": "Agricultural labour seek 200 days of work under rural job scheme",
+   "summary": "The workers submit a memorandum to the ZP highlighting the hardships faced by them due to the prevailing drought conditions in the district",
+   "link": "https://www.thehindu.com/news/national/karnataka/agricultural-labour-seek-200-days-of-work-under-rural-job-scheme/article71665697.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NjQ5ODEuZWNl",
+   "date": "2026-11-04",
+   "title": "U.S. midterm election results: Senate, House and Governor shifts before and after",
+   "summary": "Democrats surged to full control of Congress in the November 2026 U.S. midterm elections, flipping the Senate and House after winning net seats across key battlegrounds and sweeping into Republican strongholds. Here’s what changed between 2022 and 2026 midterms.",
+   "link": "https://www.thehindu.com/news/international/us-midterm-election-results-2026-congress-senate-house-governor-races-before-and-after/article71664981.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Polity & Governance",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjY3MDAzLmVjZQ",
+   "date": "2026-11-04",
+   "title": "U.S. VP Vance says Iran war was the reason Republicans lost midterms",
+   "summary": "The U.S. vice-president said the conflict doomed Republicans, as he sought to distance himself from the war ahead of a possible 2028 presidential run",
+   "link": "https://www.thehindu.com/news/international/us-vp-vance-says-iran-war-was-the-reason-republicans-lost-midterms/article71667003.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjY2MTI0LmVjZQ",
+   "date": "2026-11-04",
+   "title": "Israel’s President accepts certified election results in a blow to Netanyahu’s claim of vote fraud",
+   "summary": "Herzog's acceptance of the results as valid dealt a blow to Prime Minister Benjamin Netanyahu's effort to discredit the vote in which his religious-nationalist bloc lost its majority in the Israeli parliament, or Knesset",
+   "link": "https://www.thehindu.com/news/international/israels-president-accepts-certified-election-results-in-a-blow-to-netanyahus-claim-of-vote-fraud/article71666124.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Polity & Governance",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY2NTM4NC5lY2U",
+   "date": "2026-11-04",
+   "title": "Israel election commission rejects Benjamin Netanyahu charges of fraud",
+   "summary": "The Central Elections Committee said it had conducted an audit of 9,069 polling stations following complaints and was confident that the announced results accurately reflect the will of the voters",
+   "link": "https://www.thehindu.com/news/international/israel-election-commission-rejects-benjamin-netanyahu-charges-of-fraud/article71665384.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Polity & Governance",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NjQ2ODAuZWNl",
+   "date": "2026-11-04",
+   "title": "India-Bangladesh Joint River Commission | Explained",
+   "summary": "Following the war of 1971, India and Bangladesh agreed to establish a Joint River Commission to deal with all river-water-related issues between the two sides",
+   "link": "https://www.thehindu.com/news/national/india-bangladesh-joint-river-commission-explained/article71664680.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjY1NDA2LmVjZQ",
+   "date": "2026-11-04",
+   "title": "Union Cabinet approves ₹14,500 crore VGF scheme to develop large scale energy storage in India",
+   "summary": "The scheme is designed to provide for the development of hydro pumped storage plant (PSP) capacity, battery energy storage system (BESS) capacity, as well as alternative energy storage technologies",
+   "link": "https://www.thehindu.com/business/Economy/union-cabinet-approves-14500-crore-vgf-scheme-to-develop-large-scale-energy-storage-in-india/article71665406.ece",
+   "source": "The Hindu",
+   "section": "Economy",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NTk1MjMuZWNl",
+   "date": "2026-11-04",
+   "title": "Apollo Foundation’s hospital in Aragonda blends healthcare with education, nutrition and sanitation",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/apollo-foundations-hospital-in-aragonda-blends-healthcare-with-education-nutrition-and-sanitation/article71659523.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "c1kwRnFlakpoVW5rND9vYz01",
+   "date": "2026-11-04",
+   "title": "Trump’s midterm defeat: Good news or fresh trouble for India’s trade deal?",
+   "summary": "Trump’s midterm defeat: Good news or fresh trouble for India’s trade deal? The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcnJLV1F4bFM0dVU2ajVDSWlBYmFFbkFCSExNbE9wZzBkOWhtWE5VRkRzMUh4Y2ZlSGNsalJmd0g1NjBsdjBMU2lINkNwUUNPT3RnLUNpaEEzSHl4RWU5VVNTaFUzWnA1dXBIRk9sN0pNeXZzRTJ6WjZZWGNUOGh5Ty1NYWFtbnNkVUdsRXVzYlFtOHRSV2xYZ1VSbVgzTk1pRC1Sd01QY25JYXVzTmlwVGhhSjVVZlUwUmFTOHJ3Sm5OelRTOEtzV1BkR2FCR05f0gHXAUFVX3lxTFAycThWQWtURFRTQzl5aE5HRURxQzFQeFB2bElHWEVkamg5eXh0bDJVdnpfNXdEQzhrb012Mzl6Z0k2QTRPS1dXQmZ0bENrbTNHMHl2VjU0MzNBbHIyZEdNOXZLVGlRaFlvbGFCSTVNbjNtUFFndW5rTWJDX2Uza0xkMzdrUkF5U29pN3dUZ1Jpd1hqdV9KUHVOWHpvSjZubmpFYXNkWWpiU0taNWlkbERlbXI3VGp5TXlsQ09wZkhvZDFZY3UtYXNPSl9PU3JsY0FqejJhUnk4?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
    ],
    "score": 2,
    "important": false
