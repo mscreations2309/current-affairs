@@ -1,6 +1,64 @@
 {
- "updated": "2026-11-04T01:20:20.861Z",
+ "updated": "2026-11-04T09:09:31.942Z",
  "items": [
+  {
+   "id": "ydGljbGU3MTY1OTQ4OC5lY2U",
+   "date": "2026-11-04",
+   "title": "Between pathogens, people and policy",
+   "summary": "On One Health, gender disparities in healthcare, emerging research, infectious diseases and more",
+   "link": "https://www.thehindu.com/sci-tech/health/health-matters-newsletter-between-pathogens-people-and-policy/article71659488.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Health & Social Issues",
+    "Polity & Governance",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "J0aWNsZTcxNjYzNzE3LmVjZQ",
+   "date": "2026-11-04",
+   "title": "Trump says U.S. has no immediate plan to strike Iran: report",
+   "summary": "“We ‌seem to be getting everything we want,” ‌he told FT",
+   "link": "https://www.thehindu.com/news/international/trump-says-us-has-no-immediate-plan-to-strike-iran-report/article71663717.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NjM5NTMuZWNl",
+   "date": "2026-11-04",
+   "title": "Many parts of Delhi reel under ‘severe’ level air pollution",
+   "summary": "The 24-hour average Air Quality Index (AQI) of Delhi was 379 (very poor) at 9 a.m. on November 4, 2026, as per Central Pollution Control Board (CPCB) data",
+   "link": "https://www.thehindu.com/news/cities/Delhi/many-parts-of-delhi-reel-under-severe-level-air-pollution/article71663953.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Environment & Ecology",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 4,
+   "important": false
+  },
   {
    "id": "J0aWNsZTcxNjYyNzU1LmVjZQ",
    "date": "2026-11-04",
@@ -9,6 +67,134 @@
    "link": "https://www.thehindu.com/news/international/trump-says-us-cutting-38-billion-annual-security-assistance-to-israel/article71662755.ece",
    "source": "The Hindu",
    "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjY0MjAyLmVjZQ",
+   "date": "2026-11-04",
+   "title": "Union Cabinet to discuss capex support for critical mineral processing, VGF for RE grid-scale storage system",
+   "summary": "The Hindu had learnt previously that the potential scheme could provide support of about 30% for setting up of these processing plants",
+   "link": "https://www.thehindu.com/business/union-cabinet-discussion-capex-support-for-critical-mineral-processing-vgf-re-grid-scale-storage-system/article71664202.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjY0Mjk3LmVjZQ",
+   "date": "2026-11-04",
+   "title": "North Africa’s green hydrogen exports to Europe could harm water supply and marine life: study",
+   "summary": "The research found that producing green hydrogen in desert areas in Australia, Chile and north Africa needs far more water than the industry claims. It also found serious environmental risks that had been overlooked",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/north-africas-green-hydrogen-exports-to-europe-could-harm-water-supply-and-marine-life-study/article71664297.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Economy",
+    "Environment & Ecology",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NjM4MTguZWNl",
+   "date": "2026-11-04",
+   "title": "Democrats win U.S. Congress in midterm rout of U.S. President Donald Trump",
+   "summary": "The Opposition party also retained key Senate seats, while victory in Georgia’s Governor race added to mounting signs that Republicans face a difficult night",
+   "link": "https://www.thehindu.com/news/international/us-midterm-elections-2026-senate-governor-races-winners-losers-trump-republicans-democrats-news/article71663818.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY2Mzg3OS5lY2U",
+   "date": "2026-11-04",
+   "title": "Democrats win U.S. House in growing midterms wave against Trump",
+   "summary": "A Democratic House majority would give the Opposition the power to block Mr. Trump’s legislative agenda and launch sweeping investigations of his administration during the final two years of his presidency",
+   "link": "https://www.thehindu.com/news/international/democrats-win-us-house-in-growing-midterms-wave-against-trump/article71663879.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NjM3MzAuZWNl",
+   "date": "2026-11-04",
+   "title": "U.S. midterm elections: Democrat Roy Cooper flips Republican-held US Senate seat in North Carolina",
+   "summary": "Cooper, a well-known former two-term Governor, ‌defeated a hand-picked candidate of President Donald Trump after campaigning ‌on the high cost ‌of ⁠food and energy as ⁠Mr. Trump’s approval ratings fell",
+   "link": "https://www.thehindu.com/news/international/us-midterm-elections-democrat-roy-cooper-flips-republican-held-us-senate-seat-in-north-carolina/article71663730.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjY0MjA0LmVjZQ",
+   "date": "2026-11-04",
+   "title": "Oil rises on Iran war uncertainty after Trump’s Republicans face election rout",
+   "summary": "In the previous session, Brent settled at its lowest level in nearly four weeks ‌as traders weighed talks to end the wars in Ukraine and Iran",
+   "link": "https://www.thehindu.com/business/Economy/oil-rises-on-iran-war-uncertainty-after-trumps-republicans-face-election-rout/article71664204.ece",
+   "source": "The Hindu",
+   "section": "Economy",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "MW8wUlZrME55MUNadz9vYz01",
+   "date": "2026-11-04",
+   "title": "Democrats flip both Houses in midterms: What happens next in Trump’s Washington?",
+   "summary": "Democrats flip both Houses in midterms: What happens next in Trump’s Washington? The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWml3cTVDS0RGeXY5VmN0RWYtS214TnhqNUlGM3JOcjN4MnEzWG1oLWJmV1RVQzdfNUpjRGRWTEcxTGVSV29WQzhLM2N5eHdhSlZmM0xWdlcyalg0cVI2a0x2ZlVhdl9vaFNpV0I0Q0tiTUpqUnBtaVAyOE5sa2hTVlJtTzFISmhGZTZiemtyWERTZ1AyOWZEMFZ6OEU2ZDdWV3BUWmpXeUJHVlA4WWo2UWd5SVZkbHfSAb4BQVVfeXFMT0ZPQ3RIS0Z4NnMtYmEyMTJ4NGtyVDhHRVk4VFpqdURaVndTMC1USjEyRlRFbE1wRUZrR1MweF92MHlFSE1SV1hBSzFBNjh5a3VCbzNWdWE2bVlGTzFLTGhVU1UtTG1FR25nMHJjV01hbjg5NXdGTWxqRGFZWHVKNkVXenJUaGRyVmZVR3pmcnhGZXJnVkpsRTdPT3oxRjFlTGE4dVZWd1d6ckNUZkdDNVhGU2UwR1o0RVk0Ny1CZw?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
    "topics": [
     "International Relations"
    ],
@@ -217,6 +403,255 @@
    ],
    "gs": [
     "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NjQzOTQuZWNl",
+   "date": "2026-11-04",
+   "title": "Cyclone Murasu: Ramanaidu puts irrigation officials on high alert over swollen rivers, drains",
+   "summary": "The Nallamada and Parchur drains are flowing above their maximum levels around Parchur, Bapatla and Chirala",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-murasu-ramanaidu-puts-irrigation-officials-on-high-alert-over-swollen-rivers-drains/article71664394.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY2NDE5NS5lY2U",
+   "date": "2026-11-04",
+   "title": "Naidu writes to Piyush Goyal on 150 chilli containers held at Colombo port over moisture content",
+   "summary": "Seeks immediate assistance for losses caused by cyclones Arnab and Murasu; raises issue of chilli consignments stranded at Colombo port",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-writes-to-piyush-goyal-on-150-chilli-containers-held-at-colombo-port-over-moisture-content/article71664195.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NjQ2OTkuZWNl",
+   "date": "2026-11-04",
+   "title": "SC seeks Centre, EC response on law giving blanket, lifelong immunity to CEC, Election Commissioners",
+   "summary": "RJD MP Manoj Jha has moved the Supreme Court challenging Section 16 of The Chief Election Commissioner And Other Election Commissioners (Appointment, Conditions Of Service And Term Of Office) Act, 2023",
+   "link": "https://www.thehindu.com/news/national/sc-seeks-centre-ec-response-on-law-giving-blanket-lifelong-immunity-to-cec-election-commissioners/article71664699.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY2NDE1OS5lY2U",
+   "date": "2026-11-04",
+   "title": "Tamil Nadu takes baby steps towards conservation of Bengal fox, golden jackal",
+   "summary": "The State government has sanctioned ₹1.3 crore this year for comprehensive assessment of current threats, habitat use, and distribution patterns to develop an effective, long-term conservation roadmap.",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-takes-baby-steps-towards-conservation-of-bengal-fox-golden-jackal/article71664159.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY2NDMyMC5lY2U",
+   "date": "2026-11-04",
+   "title": "Supreme Court judgment questions two-child norm with falling fertility rate",
+   "summary": "The Court noted that India’s total fertility rate has fallen from 3 to 1.9. A total rate of 2.1, known as the replacement rate, would allow one generation to completely replace itself",
+   "link": "https://www.thehindu.com/news/national/supreme-court-judgment-questions-two-child-norm-with-falling-fertility-rate/article71664320.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY2Mzg1NC5lY2U",
+   "date": "2026-11-04",
+   "title": "Telangana’s groundwater levels drop further in a month as rain deficit soars; lowest in Vikarabad, Hyderabad periphery",
+   "summary": "The State received 628 mm rainfall against 831 normal rainfall. While 11 districts recorded normal rainfall ( -19% to -3%), 22 districts recorded deficit (-20% to -50%)",
+   "link": "https://www.thehindu.com/news/national/telangana/telangana-groundwater-levels-drop-further-in-a-month-as-rain-deficit-soars/article71663854.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY2NDE0Ny5lY2U",
+   "date": "2026-11-04",
+   "title": "Trump-backed Indian-American Vivek Ramaswamy loses Ohio Governor’s race",
+   "summary": "Vivek Ramaswamy lost to Amy Acton, who became the first woman to be elected Governor of the state",
+   "link": "https://www.thehindu.com/news/international/trump-backed-indian-american-vivek-ramaswamy-loses-ohio-governors-race/article71664147.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Polity & Governance",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNjc4NDQ4MDEuZWNl",
+   "date": "2026-11-04",
+   "title": "Prabowo Subianto | The ‘reformed’ General",
+   "summary": "The former military leader and Defence Minister, who is likely to become Indonesia’s new President, was once accused of human rights abuses, but ran a campaign with a softer image of himself using Instagram and TikTok",
+   "link": "https://www.thehindu.com/news/international/prabowo-subianto-from-indonesias-strongman-general-to-cute-and-cuddly-presidential-candidate/article67844801.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjYzOTczLmVjZQ",
+   "date": "2026-11-04",
+   "title": "Bhutan sets Guinness record by raising 108 stupas in 9 hours",
+   "summary": "About 40,000 trained volunteers achieved the feat to lay the spiritual foundation of the Himalayan country’s Gelephu Mindfulness City, envisaged as an ethical global economic hub",
+   "link": "https://www.thehindu.com/news/international/bhutan-sets-guinness-record-by-raising-108-stupas-in-9-hours/article71663973.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjYzOTM5LmVjZQ",
+   "date": "2026-11-04",
+   "title": "In huge blow to Republicans, Democrat Talarico flips U.S. Senate seat in Texas",
+   "summary": "Democrats notched a string of early victories in U.S. midterm elections, flipping a Republican-held Senate seat and making inroads in conservative House districts as President Donald Trump faced the prospect of a bruising election setback",
+   "link": "https://www.thehindu.com/news/international/in-huge-blow-to-republicans-democrat-talarico-flips-us-senate-seat-in-texas/article71663939.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjYzNzg0LmVjZQ",
+   "date": "2026-11-04",
+   "title": "Pia Dandiya, first-generation Indian-American, wins U.S. House of Representatives from Florida",
+   "summary": "Ms. Dandiya, a former high school principal, bagged 51.9% of the votes to become the newest Indian-American U.S. congresswoman, as per the results declared",
+   "link": "https://www.thehindu.com/news/international/pia-dandiya-first-generation-indian-american-wins-us-house-of-representatives-from-florida/article71663784.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "RnZWWEZIYTI5c2VGWT9vYz01",
+   "date": "2026-11-04",
+   "title": "US midterms 2026: How Trump’s India trade deal pitch, peace claims ran into reality check",
+   "summary": "US midterms 2026: How Trump’s India trade deal pitch, peace claims ran into reality check The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZjIwV1lLd21GMUhlaG9tVk5hY3EwTHpmVkNGblcyVF96bUFDdVQ3bVdsSmVhaXR5TDZVcjZ6SUNBNG9QM2J1Z2FacW4wSTNUcC1jZzRMVGE5dDREMVlZSVA5WEg0Z002Z04xS1RIY2xhTldpeW1EODdJTXppREpicDN4ZEJEMVdPX0JET0g3bFplVGFqY1RuRVNvWk0xdkFvVXFHa29seFY?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "xNzkzNzgxMTg1NDQ2Lmh0bWw",
+   "date": "2026-11-04",
+   "title": "Services sector growth hits a four-month peak in October, PMI survey shows",
+   "summary": "Driven by strong domestic demand, HSBC's India Services PMI rose to 55.8 in October as cost pressures eased to a six-year low, even as export orders and hiring slowed.",
+   "link": "https://www.livemint.com/economy/india-services-pmi-hsbc-india-pmi-11793781185446.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "xNzkzNzI1NDU0MDI2Lmh0bWw",
+   "date": "2026-11-04",
+   "title": "Geographical branding revolutionized French champagne; are GI tags working for India, too?",
+   "summary": "India has thousands of products unique to a particular area, and the last few years have seen greater impetus to assign them a Geographical Indication (GI) tag, or an geographical origin branding. So far, some stories have played out successfully, while other hold potential to be unlocked.",
+   "link": "https://www.livemint.com/economy/geographical-indication-gi-tags-india-traditional-products-darjeeling-tea-chanderi-saris-pochampally-ikat-kalanamak-rice-11793725454026.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-1"
    ],
    "score": 2,
    "important": false
@@ -1432,6 +1867,43 @@
    ],
    "gs": [
     "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY2MDQyOC5lY2U",
+   "date": "2026-11-03",
+   "title": "Cellophane bees produce a kind of plastic that also degrades, study finds",
+   "summary": "The nest lining of the ground-nesting bee is translucent, flexible, resilient and degrades within a year",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/cellophane-bees-produce-a-kind-of-plastic-that-also-degrades-study-finds/article71660428.ece",
+   "source": "The Hindu",
+   "section": "Science",
+   "topics": [
+    "Environment & Ecology",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjYwMzU3LmVjZQ",
+   "date": "2026-11-03",
+   "title": "A mother’s hidden genes decide which way her snail baby spirals",
+   "summary": "In 2023, after poring through photos posted online by hikers, a researcher found a location in north Japan where there were both left- and right-handed snails of a single species. Their shells also looked similar, suggesting the snails had interbred. This new population provided important clues about how the myosin gene worked",
+   "link": "https://www.thehindu.com/sci-tech/science/a-mothers-hidden-genes-decide-which-way-her-snail-baby-spirals/article71660357.ece",
+   "source": "The Hindu",
+   "section": "Science",
+   "topics": [
+    "Environment & Ecology",
+    "Science & Technology"
+   ],
+   "gs": [
     "GS-3"
    ],
    "score": 2,
