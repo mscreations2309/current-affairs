@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T22:39:21.110Z",
+ "updated": "2026-11-05T03:29:01.839Z",
  "items": [
   {
    "id": "ydGljbGU3MTY1MjY3My5lY2U",
@@ -23,6 +23,25 @@
    "important": true
   },
   {
+   "id": "J0aWNsZTcxNjY4NDMxLmVjZQ",
+   "date": "2026-11-05",
+   "title": "U.S. slaps sanctions on Indian, Turkish firms and people for aiding Iran",
+   "summary": "The sanctions are part of the Trump administration’s “Operation Economic Outcast,” which aims to cut off Iran’s ability to sell oil to fund the war with the U.S. and Israel",
+   "link": "https://www.thehindu.com/news/international/us-slaps-sanctions-on-indian-turkish-firms-and-people-for-aiding-iran/article71668431.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 6,
+   "important": true
+  },
+  {
    "id": "ydGljbGU3MTY2MjY3My5lY2U",
    "date": "2026-11-05",
    "title": "How the Supreme Court shaped due process in death penalty cases",
@@ -41,6 +60,82 @@
    ],
    "score": 5,
    "important": true
+  },
+  {
+   "id": "J0aWNsZTcxNjY4NDU0LmVjZQ",
+   "date": "2026-11-05",
+   "title": "What the U.S. midterms mean for ties with China",
+   "summary": "Here is how the outcome of the vote, which offers the Democratic Party the power to stymie President Donald Trump’s maverick foreign policy, could impact the thorny relationship between Washington and Beijing",
+   "link": "https://www.thehindu.com/news/international/what-the-us-midterms-mean-for-ties-with-china/article71668454.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "J0aWNsZTcxNjY4NDc5LmVjZQ",
+   "date": "2026-11-05",
+   "title": "Private sector participation in nuclear energy: AERB will provide enabling environment without compromising safety, says Chairperson",
+   "summary": "The AERB chairperson’s remarks gain significance in the context of SHANTI Act and the Union government’s policy decision to welcome private players",
+   "link": "https://www.thehindu.com/news/national/kerala/private-sector-participation-in-nuclear-energy-aerb-will-provide-enabling-environment-without-compromising-safety-says-chairperson/article71668479.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Environment & Ecology",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjY4NDA0LmVjZQ",
+   "date": "2026-11-05",
+   "title": "U.S. midterm elections 2026 LIVE: Republican U.S. House Speaker to step down; Zelenskyy hopes Democrat gains will bring more help for Ukraine",
+   "summary": "President Trump says Defence Secretary Pete Hegseth doing 'a very good job' as questions swirl about his future",
+   "link": "https://www.thehindu.com/news/international/us-midterm-elections-2026-results-trump-senate-congress-races-winners-losers-live-updates-republicans-democrats/article71668404.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "aV0d4Q1RuaHJlV05uP29jPTU",
+   "date": "2026-11-05",
+   "title": "Trump says US will cut military aid to Israel: Why now, and what can actually happen?",
+   "summary": "Trump says US will cut military aid to Israel: Why now, and what can actually happen? The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOHVmRVRUWkxnU1lfZVB6aVRib0JycDZuejhHcGhJUWV1MFVha1RmREIxaHFpV1ZfcXczQXFhVHlqclhUQVpUVkZLYUJVX212ZzlJX0tMSWFVRzlJTHE0UzY0WlBiZVc3N1liLVVsNU11aVc3aVpCV3FmVk1qY2pCMzdPYVBSNWtBQnQzMW9FYzgwaHVjUlJuSWY0VTFEYVlKcGxsTVlYbEJOeGt5Y2fSAa4BQVVfeXFMTjh1ZkVUVFpMZ1NZX2VQemlUYm9CcnA2bno4R3BoSVFldTBVYWtUZkRCMWhxaVdWX3F3M0FxYVR5anJYVEFaVFZGS2FCVV9tdmc5SV9LTElhVUc5SUxxNFM2NFpQYmVXNzdZYi1VbDVNdWlXN2laQldxZlZNamNqQjM3T2FQUjVrQUJ0MzFvRWM4MGh1Y1JSbklmNFUxRGFZSnBsbE1ZWGxCTnhreWNn?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
   },
   {
    "id": "J0aWNsZTcxNjY2NDgyLmVjZQ",
@@ -92,6 +187,27 @@
    ],
    "gs": [
     "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjY2NTQyLmVjZQ",
+   "date": "2026-11-05",
+   "title": "Satellite assessment shows 73% reduction in Bhutan’s lake after GLOF",
+   "summary": "The Noida-based geospatial intelligence company’s study indicates a supraglacial lake adjoining the GLOF-hit Sintaphu Tsho continues to remain substantially larger than its 2016 extent",
+   "link": "https://www.thehindu.com/news/international/satellite-assessment-shows-73-reduction-in-bhutans-lake-after-glof/article71666542.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Science & Technology",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3",
+    "Prelims"
    ],
    "score": 3,
    "important": false
@@ -240,6 +356,40 @@
    ],
    "gs": [
     "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY2NDYzNC5lY2U",
+   "date": "2026-11-05",
+   "title": "27 shops on Borivali plot meant for BEST bus station demolished after Supreme Court orders BMC Commissioner’s salary freeze",
+   "summary": "CJI-led Bench ordered that Ashwini Bhide’s salary and that of her personal staff be withheld over non-compliance with earlier directions to clear the land",
+   "link": "https://www.thehindu.com/news/national/maharashtra/bmc-completes-demolition-drive-in-mumbais-borivali-removes-27-structures/article71664634.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "VPR2hXUldwdlREWm4_b2M9NQ",
+   "date": "2026-11-05",
+   "title": "How the US midterm results reflect the Constitution’s distrust of majorities",
+   "summary": "How the US midterm results reflect the Constitution’s distrust of majorities The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYnVQNi1xSTlza3hiLU5HYzl4SWUxMXJyYzczVUs4c2hjVDRjWUJzc25VN082SjFGSENxc1FtTXgzd3FjTzdoUXhtTDhsX3RiUHlsSHEwNk9SbXBVekpqVWxkX1J4NUQzNlZkazNudEdUcWduMkJnM083cHlac0VqLW1PV2RzMEFIVVJEWFBueFpNcGFjSjlQVWVqZXZqZnlqa3NQRG05Y0QwY2pJTTNjM1RuSVYwU0NjM0VUenNMendUNXlJRDVRTjM5OEE3ekVLbDBLZWFxQlNUYzViek9Z0gHmAUFVX3lxTE4tMkxmZmxhdU5hZFp0OVhXOUtBemRmOEtBWXVOcm9sb2JOd3FaUEo3bWpWdGduVTE3RzZ4UFNvNVJnT1VNdWVoYS03b1FGTUZfU0tFalZ6TjZzS0FlR2llck5vcU1hNGlHbnpkWkpTUUVtZTJQS05rem5VNWZ0eG1MU3Rtbl9rRlhKa25hVl9UNmNEYnVKT0lCakpGX0s5THdaSktPOE1OUlpOcWt1UmZoTEtXc3Q1NUxPNU1iaXVZN0JYeG5wb2VvYzVOWGV5ODhxTHZzWEVMOXR0MVI5OGhWRWpvTDZn?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
    ],
    "score": 2,
    "important": false
@@ -1508,6 +1658,25 @@
    "gs": [
     "GS-3",
     "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjY1NTc0LmVjZQ",
+   "date": "2026-11-04",
+   "title": "From poverty alleviation to prosperity",
+   "summary": "India has reduced extreme poverty, but its high prosperity gap shows that millions remain far from a comfortable standard of living; informal work, stagnant wages and limited employment opportunities continue to constrain upward mobility",
+   "link": "https://www.thehindu.com/business/Economy/from-poverty-alleviation-to-prosperity/article71665574.ece",
+   "source": "The Hindu",
+   "section": "Economy",
+   "topics": [
+    "Economy",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
    ],
    "score": 2,
    "important": false
