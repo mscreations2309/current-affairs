@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T03:29:01.839Z",
+ "updated": "2026-11-05T12:18:17.480Z",
  "items": [
   {
    "id": "ydGljbGU3MTY1MjY3My5lY2U",
@@ -138,6 +138,27 @@
    "important": false
   },
   {
+   "id": "J0aWNsZTcxNjY5NzMzLmVjZQ",
+   "date": "2026-11-05",
+   "title": "How Andhra Pradesh avoided a bigger cyclone disaster | The Hindu Editorial",
+   "summary": "The successful handling of Cyclones Arnab and Murasu demonstrated the benefits of improved forecasting, technology-driven governance and coordinated disaster response.",
+   "link": "https://www.thehindu.com/videos/how-andhra-pradesh-avoided-a-bigger-cyclone-disaster-the-hindu-editorial/article71669733.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters",
+    "Polity & Governance",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-1",
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
    "id": "J0aWNsZTcxNjY2NDgyLmVjZQ",
    "date": "2026-11-05",
    "title": "Schools must address bullying based on gender identity, sexual orientation: High Court",
@@ -208,6 +229,97 @@
     "GS-2",
     "GS-3",
     "Prelims"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2Njk3NjguZWNl",
+   "date": "2026-11-05",
+   "title": "Democrats take back Congress: What it means for Donald Trump",
+   "summary": "The 2026 U.S. midterm elections have dramatically reshaped Washington, with Democrats projected to regain control of both the House of Representatives and the Senate. The results are being viewed as a major setback for President Donald Trump, limiting his ability to advance his legislative agenda during the final two years of his presidency. Democrats made gains in several traditionally Republican",
+   "link": "https://www.thehindu.com/videos/democrats-take-back-congress-what-it-means-for-donald-trump/article71669768.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2Njk0NDcuZWNl",
+   "date": "2026-11-05",
+   "title": "Climate change increased tropical Cyclone Arnab’s damage by 33%: Study",
+   "summary": "“Climate change increased Cyclone Arnab’s maximum wind speed by approximately 5%, and intensified its eyewall rainfall rate by 11% at landfall,” according to the study",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/climate-change-increased-tropical-cyclone-arnabs-damage-by-33-study/article71669447.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters",
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-1",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY2OTA4Mi5lY2U",
+   "date": "2026-11-05",
+   "title": "Malkajgiri Police arrest seven in illegal loan racket; gang collected hefty interest in advance, blank signed cheques",
+   "summary": "An elderly woman doctor, who wanted to purchase an AI-based cancer-detection machine, is one of the victims. Her car and SUV were taken away.",
+   "link": "https://www.thehindu.com/news/cities/Hyderabad/malkajgiri-police-arrest-seven-in-illegal-loan-racket-gang-collected-hefty-interest-in-advance-blank-signed-cheques/article71669082.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY2ODg2Mi5lY2U",
+   "date": "2026-11-05",
+   "title": "Midterm results put U.S.-Israel ties under further strain",
+   "summary": "Critics on both sides argue that Mr. Netanyahu pulled Mr. Trump into a war he could not win. Now when even the Vice-President is blaming the war for the electoral defeat, the real target is the ‘special relationship’ with Israel",
+   "link": "https://www.thehindu.com/news/international/midterm-results-put-us-israel-ties-under-further-strain/article71668862.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "MTc5Mzg1NzUyMTIyNy5odG1s",
+   "date": "2026-11-05",
+   "title": "Mint Primer | How will the blue tsunami in the US mid-terms benefit India?",
+   "summary": "The expectation is that Trump will hold back his aggressive instincts and opt for a negotiated settlement to the Iran war.",
+   "link": "https://www.livemint.com/economy/trump-midterm-election-results-impact-on-india-global-economy-11793857521227.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "International Relations",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
    ],
    "score": 3,
    "important": false
@@ -390,6 +502,258 @@
    ],
    "gs": [
     "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY2OTc1Ny5lY2U",
+   "date": "2026-11-05",
+   "title": "Vigilance launches inspection in welfare fund boards functioning under Keralam government",
+   "summary": "Vigilance director says the inspections were progressing in 78 offices of 16 boards functioning under the State government’s Department of Labour",
+   "link": "https://www.thehindu.com/news/national/kerala/vigilance-launches-inspection-in-welfare-fund-boards-functioning-under-keralam-government/article71669757.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY2ODgzMy5lY2U",
+   "date": "2026-11-05",
+   "title": "24-hour to produce before Magistrate starts from detention, not ‘formal arrest’: Supreme Court",
+   "summary": "The Court said fundamental rights trumped even over special laws like UAPA, PMLA, in which the right to bail was heavily restricted",
+   "link": "https://www.thehindu.com/news/national/24-hour-to-produce-before-magistrate-starts-from-detention-not-formal-arrest-supreme-court/article71668833.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjY5MTk1LmVjZQ",
+   "date": "2026-11-05",
+   "title": "Amit Shah at Karnal rally says Rahul Gandhi creating ‘ruckus’ culture in Parliament",
+   "summary": "The Home Minister, who led the BJP's 'Loktantra Bachao, Arajakta Hatao' march in Karnal, accused the Congress leader of spreading anarchy in the country",
+   "link": "https://www.thehindu.com/news/national/haryana/amit-shah-at-karnal-rally-says-rahul-gandhi-creating-ruckus-culture-in-parliament/article71669195.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NjkwNjkuZWNl",
+   "date": "2026-11-05",
+   "title": "Supreme Court asks Allahabad HC to give Azam Khan priority hearing",
+   "summary": "The Supreme Court has asked the High Court to hear the case on November 16; Azam Khan alleges “series of politically motivated cases”",
+   "link": "https://www.thehindu.com/news/national/sc-asks-allahabad-hc-to-give-azam-khan-priority-hearing/article71669069.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjY5MjI5LmVjZQ",
+   "date": "2026-11-05",
+   "title": "Keralam PWD wary of wider adoption of white-topped roads despite proven durability",
+   "summary": "Relatively high initial construction costs cited. The technology offers several advantages over conventional asphalt roads, particularly in urban areas of Keralam that experience heavy rainfall, high summer temperatures and severe traffic congestion",
+   "link": "https://www.thehindu.com/news/national/kerala/keralam-pwd-wary-of-wider-adoption-of-white-topped-roads-despite-proven-durability/article71669229.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY2OTM3Mi5lY2U",
+   "date": "2026-11-05",
+   "title": "Supreme Court asks Calcutta High Court to decide plea for direction on disqualification of rebel Trinamool MLAs",
+   "summary": "A Supreme Court Bench disposed of the plea filed by Mamata Banerjee-led Trinamool Congress faction leader Sobhandeb Chattopadhyay and asked him to approach the Calcutta High Court",
+   "link": "https://www.thehindu.com/news/national/west-bengal/supreme-court-asks-calcutta-high-court-to-decide-plea-for-direction-on-disqualification-of-rebel-trinamool-mlas/article71669372.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY2OTA3Mi5lY2U",
+   "date": "2026-11-05",
+   "title": "UN Human Rights Commissioner releases video celebrating Keralam’s achievement in eliminating extreme poverty",
+   "summary": "Video is part of observation of 40th anniversary of UN Declaration on the Right to Development, adopted on December 4, 1986",
+   "link": "https://www.thehindu.com/news/national/kerala/un-human-rights-commissioner-releases-video-celebrating-keralams-achievement-in-eliminating-extreme-poverty/article71669072.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2Njg4NTcuZWNl",
+   "date": "2026-11-05",
+   "title": "U.S. midterm elections witness historic firsts: First Black woman governor to first Muslim senator",
+   "summary": "The US midterm elections delivered a series of historic firsts by electing a Black female governor, a Muslim senator and openly gay male US senator",
+   "link": "https://www.thehindu.com/news/international/us-midterm-elections-2026-historic-firsts-black-woman-governor-muslim-senator/article71668857.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Polity & Governance",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2Njg1NTIuZWNl",
+   "date": "2026-11-05",
+   "title": "Donald Trump’s midterm defeat dims hopes of North Korea meeting",
+   "summary": "Mr. Kim’s powerful sister Kim Yo Jong signalled that there was little appetite for renewed dialogue with Washington, saying Pyongyang had “no need to sit face to face with such unreliable and hostile persons”",
+   "link": "https://www.thehindu.com/news/international/donald-trumps-midterm-defeat-dims-hopes-of-north-korea-meeting/article71668552.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjY4NTIzLmVjZQ",
+   "date": "2026-11-05",
+   "title": "U.S. Democrats' midterm sweep fuels $750 billion Big Tech rally",
+   "summary": "Apple, which has avoided ‌Big Tech’s massive AI spending but is feeling the sting of an AI-fueled surge in memory chip prices, jumped nearly 7% ‌to a record high",
+   "link": "https://www.thehindu.com/sci-tech/technology/us-democrats-midterm-sweep-fuels-750-billion-big-tech-rally/article71668523.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY2ODU2NS5lY2U",
+   "date": "2026-11-05",
+   "title": "How is Delhi implementing restrictions to reduce air pollution?",
+   "summary": "From Automatic Number Plate Recognition cameras to AI-enabled Integrated Control and Command Centres ICCC and manual checking, the authorities have adopted a mixed approach to impose the restrictions with varying degrees of success",
+   "link": "https://www.thehindu.com/news/cities/Delhi/how-is-delhi-implementing-restrictions-to-reduce-air-pollution/article71668565.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Environment & Ecology",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "BkU05uWkVVekJXWnc_b2M9NQ",
+   "date": "2026-11-05",
+   "title": "What Democrat-controlled US Congress means for AI, trade, immigration, oil",
+   "summary": "What Democrat-controlled US Congress means for AI, trade, immigration, oil The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU3JHQ195UTFsaFlIYWV4OVdCdFEwMl9DSkJ2Rkhscm80R2gxa0tHM25ZNHVqSUR0NElTS3duamJ3RWdvSWNjX09uRnJBcGZvSDk2aXZ5Y2t3RGN0R1FxZHFONmFPLW1CQk11Nm5ZVHpCR25kbmZWODFMaFItOGRGT2pOOWQ1UTlzSHR5NWRXa24xZENuQ1YwNXVGemN5WlM0anBCN0RnRUxfeTdCMHZ1eGlWUHEtM0dSNnZEUzBWZw?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "t0YVNVTk5jWEE0ZHc_b2M9NQ",
+   "date": "2026-11-05",
+   "title": "Why revamped Agniveer scheme isn’t a return to regular recruitment of troops",
+   "summary": "Why revamped Agniveer scheme isn’t a return to regular recruitment of troops The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbS1ycFNJWTVEd2xsRXJ0NWtTQjhoUVdsUUFBNmw0Nl83cTBFcFdYMUlMdWZGSmY0cnhlcndNWGJrcFRFdzFxMlVtMFJMY0hkQ2U5VXU0ZlUxOFg0dlpKbkZHV2tFSXdfWUp3R0xjT2JsQmd6MTN6Z0VhTlNBNjAxWFNNaHZSTkdVWmgwYU1IUVh5VHZjaU5xRlhQMmFvNWJrcDFkSmI4ZlloN0nSAbIBQVVfeXFMT1hseEo5RDQ3Z2p5WU91OWpYZ0h4ZEN2SlR0YTNBUm5oR2VqTFl6UzFzUTVpSWJWRVo1YXZGdFo5QndyMjhKTTBoMXpndEZ6Zktub1YwWUhnU0QwbGhpN2RvbElzMktxOEFWR0xJZ3JpNlBRYlZPSG1fNXkwcVp4c3pOaVE2Z2N5a2JtaEh4Y3JubHpiR1JIZ0VwMVIxeUNTM19WNmFQT1A2RktaSUNNcXA4dw?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "MTc5Mzg2NTc4MjcyMS5odG1s",
+   "date": "2026-11-05",
+   "title": "Food accounts for 53.5% of rural household spending as inflation rises: NABARD survey",
+   "summary": "While spending on food remains sticky despite rising prices, rural households face growing financial strain as savings erode and borrowing activity picks up, the survey revealed.",
+   "link": "https://www.livemint.com/economy/nabard-survey-rural-inflation-food-expenditure-11793865782721.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "Prelims"
    ],
    "score": 2,
    "important": false
@@ -1676,6 +2040,23 @@
    ],
    "gs": [
     "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "FOVJjMlZOU1hCS1FRP29jPTU",
+   "date": "2026-11-04",
+   "title": "US midterms: Trump loses Congress. What changes for India and the world?",
+   "summary": "US midterms: Trump loses Congress. What changes for India and the world? The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbUxld2wzdmQ5dy1KazhMaWh6WDlHN05QVzY3Q0k3dXhlUDVOakIyeUs4ZHhZVndDUGtJMFBqQmpmUEJfRnRzbnFESjRTM2ljY25nTllKOHZYdml1eUMyTFpXQ0lKN2NKZC0yMTFjTHdYWnF2WGZzb2tva1ZsbzZ5QzJWZVZBeFhsY05qWWJUYWxTNUFRZDdTVWRNekVlNzAwck9VZnh1bVduYmlZTjhTbFhBSFQzd9IBvAFBVV95cUxNTlctX2RGSVdTR0FvbFJVRXFDeFk4N252cVNMSHVITEo3elF6Sk1oRjE4aUpKbnhKT1RkYUlpZW9QajdPMDdRSk96aUVNbVFGRkZGeXJsblJXUFYta0oyT2cyTXFnb1lQczR6akh4dHFqM1R2Uk11UkpvNGRYVk9iZWl3UmJBaWhDU2R3NGZJNVg4dlE2ZThqcWlkNzhzZFJ6ZjJQZHpkdXdUdkw2TGdYOF80bE9Rc2VNSXBKQQ?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
     "GS-2"
    ],
    "score": 2,
