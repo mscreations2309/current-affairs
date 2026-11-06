@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T01:31:50.806Z",
+ "updated": "2026-11-06T09:22:06.291Z",
  "items": [
   {
    "id": "cnRpY2xlNzE2NzEzNjkuZWNl",
@@ -14,6 +14,26 @@
     "Polity & Governance"
    ],
    "gs": [
+    "GS-2"
+   ],
+   "score": 6,
+   "important": true
+  },
+  {
+   "id": "J0aWNsZTcxNjcyOTkwLmVjZQ",
+   "date": "2026-11-06",
+   "title": "VISTAR: India’s shift towards a real-time, technology-driven statistical system | Explained",
+   "summary": "For an economy aspiring to become a developed nation by 2047, the statistical blind spots could translate into costly policy mistakes, misdirected investments and ineffective welfare schemes",
+   "link": "https://www.thehindu.com/business/Economy/vistar-indias-shift-towards-a-real-time-technology-driven-statistical-system-explained/article71672990.ece",
+   "source": "The Hindu",
+   "section": "Economy",
+   "topics": [
+    "Economy",
+    "Health & Social Issues",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-3",
     "GS-2"
    ],
    "score": 6,
@@ -35,6 +55,23 @@
    "gs": [
     "GS-2",
     "GS-3",
+    "GS-1"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "ydGljbGU3MTY3MzAzOC5lY2U",
+   "date": "2026-11-06",
+   "title": "Mahabharata, Arthashastra, Rajatarangini manuscripts added to UNESCO memory regional register",
+   "summary": "Union Culture Minister Gajendra Singh Shekhawat hailed the inscriptions as a landmark recognition of India’s extraordinary documentary and civilisational heritage",
+   "link": "https://www.thehindu.com/society/history-and-culture/mahabharata-arthashastra-rajatarangini-manuscripts-added-to-unesco-memory-regional-register/article71673038.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "History, Art & Culture"
+   ],
+   "gs": [
     "GS-1"
    ],
    "score": 5,
@@ -246,6 +283,120 @@
    "important": false
   },
   {
+   "id": "J0aWNsZTcxMDg3NDM5LmVjZQ",
+   "date": "2026-11-06",
+   "title": "Delhi High Court quashes Newsclick FIR, ED money laundering case",
+   "summary": "Judge says allegations on FDI, share valuation and expenditure do not disclose criminal offences",
+   "link": "https://www.thehindu.com/news/national/gross-abuse-of-process-of-law-hc-quashes-delhi-police-ed-cases-against-newsclick/article71087439.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Economy",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY3MzA0MC5lY2U",
+   "date": "2026-11-06",
+   "title": "Supreme Court stands firm by March 11 judgment on assessing OBC creamy layer policy",
+   "summary": "As far as the operation of the 2025 batch was concerned, the Court said the service allocation would be in compliance with the March 2026 judgment",
+   "link": "https://www.thehindu.com/news/national/sc-clarifies-its-march-2026-verdict-on-obc-creamy-layer-policy-will-not-apply-retrospectively/article71673040.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY3MzQxOS5lY2U",
+   "date": "2026-11-06",
+   "title": "Supreme Court terms vehicular emissions major contributor to air pollution in Delhi-NCR",
+   "summary": "The Bench highlighted the large number of vehicles plying on roads connecting Delhi with neighbouring areas, including Ghaziabad, Greater Noida, Gurugram and Faridabad",
+   "link": "https://www.thehindu.com/news/national/supreme-court-terms-vehicular-emissions-major-contributor-to-air-pollution-in-delhi-ncr/article71673419.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjcyODQ5LmVjZQ",
+   "date": "2026-11-06",
+   "title": "Bihar’s new regulations for government school teachers, non-teaching staff and students | Explained",
+   "summary": "Under the new regulations, the State Education Department has prohibited outsiders and unauthorised persons from visiting school premises without permission from authorities",
+   "link": "https://www.thehindu.com/news/national/bihar/why-bihar-education-department-has-imposed-new-regulations-for-government-school-teachers-non-teaching-staff-and-students-explained/article71672849.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NzM0OTcuZWNl",
+   "date": "2026-11-06",
+   "title": "Key takeaways from the West Bengal Investment Promotion Policy, 2026",
+   "summary": "The announcement of incentives marks a policy shift for West Bengal as the previous Trinamool Congress government had passed the Revocation of West Bengal Incentive Schemes and Obligations 2025",
+   "link": "https://www.thehindu.com/news/national/west-bengal/key-takeaways-from-the-west-bengal-investment-promotion-policy-2026/article71673497.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Economy",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NzA2NjguZWNl",
+   "date": "2026-11-06",
+   "title": "Hyderabad startup opens India’s first private space debris recovery facility",
+   "summary": "Of the nearly 28,000 satellites currently in orbit, about 10,000 are non-operational, while millions of debris fragments pose risks to active satellites and space missions",
+   "link": "https://www.thehindu.com/news/national/telangana/hyderabad-startup-opens-indias-first-private-space-debris-recovery-facility/article71670668.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
    "id": "ydGljbGU3MTY2OTg4MS5lY2U",
    "date": "2026-11-06",
    "title": "School excursion row: UDF leaders release CCTV footage in support of their claims",
@@ -329,6 +480,202 @@
    "topics": [
     "Polity & Governance",
     "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY3MzU4MS5lY2U",
+   "date": "2026-11-06",
+   "title": "Supreme Court seeks response from NewsClick, Purkayastha on ED plea against High Court order",
+   "summary": "At the outset, the counsel appearing for the ED submitted that they needed four weeks' time as Additional Solicitor General S.V. Raju, representing the agency, was not available",
+   "link": "https://www.thehindu.com/news/national/supreme-court-seeks-replies-of-newsclick-journalist-prabir-purkayastha-on-eds-plea-against-hc-order/article71673581.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjczMzYxLmVjZQ",
+   "date": "2026-11-06",
+   "title": "Cyclone Murasu: Search for five missing fishermen intensified, says Tamil Nadu Government",
+   "summary": "The nine Kasimedu fishermen who left Chennai on October 29 during Cyclone Murasu faced engine failure near Ramayapatnam Port, Andhra Pradesh, on November 3",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/cyclone-murasu-search-for-five-missing-fishermen-intensified-says-tamil-nadu-government/article71673361.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY3MzMwMi5lY2U",
+   "date": "2026-11-06",
+   "title": "Nashra Naim elected first woman vice-president of AMU students’ union in 105-year history",
+   "summary": "Women candidates won six of the 13 posts, a record five of the 10 cabinet member posts, in the first elections after an eight-year gap",
+   "link": "https://www.thehindu.com/news/national/uttar-pradesh/nashra-naim-elected-first-woman-vice-president-of-amu-students-union-in-105-year-history/article71673302.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY3MDU3MC5lY2U",
+   "date": "2026-11-06",
+   "title": "Karnataka: 5,000 government school teachers to be trained in AI",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/cities/bangalore/karnataka-5000-government-school-teachers-to-be-trained-in-ai/article71670570.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY3MzIwNi5lY2U",
+   "date": "2026-11-06",
+   "title": "Supreme Court agrees to hear DMK leader's plea challenging rejection of election petition",
+   "summary": "A Bench of Justices Vikram Nath and Aparesh Kumar Singh admitted the appeal by K.R. Periyakaruppan, who has challenged a Madras High Court order that rejected his election petition against Seenivasa Sethupathi's victory in the Tirupattur Assembly constituency",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/supreme-court-agrees-to-hear-dmk-leaders-plea-challenging-rejection-of-election-petition/article71673206.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY3MzA4Ni5lY2U",
+   "date": "2026-11-06",
+   "title": "Key federal panel approves Trump’s arch while it is being challenged in court",
+   "summary": "The National Capital Planning Commission voted 8-4 to approve the 76-metre memorial arch near Washington, as three lawsuits challenge it and a judge is expected to rule soon on whether to block construction.",
+   "link": "https://www.thehindu.com/news/international/key-federal-panel-approves-trumps-arch-while-it-is-being-challenged-in-court/article71673086.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY3MzE4NS5lY2U",
+   "date": "2026-11-06",
+   "title": "Magnitude 4.2 earthquake strikes Nepal's Humla district",
+   "summary": "The tremors were also felt in neighbouring Mugu and Bajhang districts",
+   "link": "https://www.thehindu.com/news/international/nepal-humla-earthquake-updates-on-november-6-2026/article71673185.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY2NjY1Mi5lY2U",
+   "date": "2026-11-06",
+   "title": "A noisy Anthropocene is imposing fatal stress on wildlife",
+   "summary": "Researchers analysed over 200 experimental studies on 177 aquatic and terrestrial species across six continents and found that noise altered specific traits in 80% of the animals studied",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/a-noisy-anthropocene-is-imposing-fatal-stress-on-wildlife/article71666652.ece",
+   "source": "The Hindu",
+   "section": "Science",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY3MjcwMS5lY2U",
+   "date": "2026-11-06",
+   "title": "Google sued over suicide-related AI chats on school computer",
+   "summary": "The teenager was not able to access Google's Gemini app, nor OpenAI's ChatGPT, because they were blocked by her school",
+   "link": "https://www.thehindu.com/sci-tech/technology/google-sued-over-suicide-related-ai-chats-on-school-computer/article71672701.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY3MjgwMi5lY2U",
+   "date": "2026-11-06",
+   "title": "Air quality of Delhi worsens, many parts reel under ‘severe’ level air pollution",
+   "summary": "Many parts of the national capital, including IIT Delhi, ITO, Dwarka, Rohini, Punjabi Bagh, Alipur, Bawana, and Jahangirpuri, witnessed “severe” level air pollution",
+   "link": "https://www.thehindu.com/news/cities/Delhi/air-quality-of-delhi-worsens-many-parts-reel-under-severe-level-air-pollution/article71672802.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "sb3pSblF0YVhoMGNBP29jPTU",
+   "date": "2026-11-06",
+   "title": "Who will form Israel government? Advantage Eisenkot, but don’t count out Netanyahu yet",
+   "summary": "Who will form Israel government? Advantage Eisenkot, but don’t count out Netanyahu yet The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd3hZd3ljTHUzZnFfQmdyRWY3U1RLM1B1MGpGaEE3MUpYcC03aWthcWRwRmFMT1YzT3dLV2xxNnVDQVduNjFfRXl1NGFMc0R2RVFlMjJOSXpLZE5HbWl4cnFpNk50dDFaNmZBazI0dDZ4RTNDeGtVUk1qYkU5UnBLbjZmOGZDRERUdmdhLUp4WnFsQ05VczRLeHhYaVhzQTduZ2NFaHlocmNUckc3RkZyaVE4dmhtX3VzWXk4OTlGSzVRVE1mVGgyZ2R6dTVpVEJ3QV9MUTY2MGVoUdIB4AFBVV95cUxQQVhna0o4VF91dE13VGFwYVRISXBXWVp4WjFDbmpLcDJRMUtvalFINFB1ekIwX19GZmUyZFFDMVh3d3NkV1dPMFVNcmNDeFZYQVZVMnhfT0hlZi0xU0REZWVud1J0dE9yR0hUaGxxMDM1cWlRODhRR0ZLNTNDbGFrVzRVSDVuWWJjOUlIVVVBRDdNOHFiYnQ3cWN4VmYxV2c3QWZhOXZPaHU0bW8wa1hXSTFnaFVaZHZfcTVZVzR0aFNZZXFMNFplQzZlTTZ2b3h1a1IxUV9tdlozRnQtaXh0cA?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations"
    ],
    "gs": [
     "GS-2"
@@ -690,6 +1037,23 @@
     "Polity & Governance",
     "International Relations",
     "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY2OTc0My5lY2U",
+   "date": "2026-11-05",
+   "title": "A new political balance in Washington",
+   "summary": "The Democrats’ midterm victory gives them an opportunity to check Trump’s unilateral policies through congressional oversight and legislative powers; a weakened Trump Administration could also give India greater leverage in bilateral trade negotiations",
+   "link": "https://www.thehindu.com/news/international/a-new-political-balance-in-washington/article71669743.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
    ],
    "gs": [
     "GS-2"
@@ -1344,6 +1708,23 @@
    "section": "Explained",
    "topics": [
     "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NzAyNjUuZWNl",
+   "date": "2026-11-05",
+   "title": "How do tokamaks work to make nuclear fusion possible?",
+   "summary": "A tokamak uses magnetic fields to confine superhot plasma to enable nuclear fusion; despite advances in research, engineering challenges remain, and no tokamak has generated net energy for commercial power",
+   "link": "https://www.thehindu.com/sci-tech/science/how-do-tokamaks-work-to-make-nuclear-fusion-possible/article71670265.ece",
+   "source": "The Hindu",
+   "section": "Science",
+   "topics": [
+    "Science & Technology"
    ],
    "gs": [
     "GS-3"
