@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T09:22:06.291Z",
+ "updated": "2026-11-06T17:28:44.595Z",
  "items": [
   {
    "id": "cnRpY2xlNzE2NzEzNjkuZWNl",
@@ -397,6 +397,136 @@
    "important": false
   },
   {
+   "id": "J0aWNsZTcxNjc0OTAzLmVjZQ",
+   "date": "2026-11-06",
+   "title": "Post-cyclone viral fever suspected among Kurupam Gurukul girls",
+   "summary": "Health condition of students stable; one tests positive for malaria, say health officials monitoring the situation",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/post-cyclone-viral-fever-suspected-among-kurupam-gurukul-girls/article71674903.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjc1ODA1LmVjZQ",
+   "date": "2026-11-06",
+   "title": "Bangladesh rescues Rohingya refugees in border gun battle",
+   "summary": "One soldier was killed in the clash on November 5 night, the military's Inter-Services Public Relations (ISPR) said.",
+   "link": "https://www.thehindu.com/news/international/bangladesh-rescues-rohingya-refugees-in-border-gun-battle/article71675805.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Internal Security & Defence",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NzUxODUuZWNl",
+   "date": "2026-11-06",
+   "title": "Trump administration scraps meeting of panel that includes Meta's Zuckerberg, Nvidia's Huang",
+   "summary": "Technology shares sold ‌off ⁠dramatically on November 5 ⁠on growing concerns that a new Congress will slow AI development, and ​also on fears ‌that the massive capital expense of building out AI will not yield sufficient ‌returns",
+   "link": "https://www.thehindu.com/news/international/trump-administration-scraps-meeting-of-panel-that-includes-metas-zuckerberg-nvidias-huang/article71675185.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Science & Technology",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NzQ3OTUuZWNl",
+   "date": "2026-11-06",
+   "title": "EU says 'a lot of work' still needed to reach Ukraine peace deal",
+   "summary": "Earlier, a NATO spokeswoman said Ukraine's allies are working for a \"just and sustainable\" end to the war ahead of U.S.-mediated talks next week in Abu Dhabi",
+   "link": "https://www.thehindu.com/news/international/eu-says-a-lot-of-work-still-needed-to-reach-ukraine-peace-deal/article71674795.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjc0MTkzLmVjZQ",
+   "date": "2026-11-06",
+   "title": "Magnitude-6.1 earthquake hits off Tokyo, no tsunami alert: weather agency",
+   "summary": "There were no immediate reports of damage or injuries",
+   "link": "https://www.thehindu.com/news/international/tokyo-japan-earthquake-weather-updates-november-6-2026/article71674193.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Geography & Disasters",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-1",
+    "Prelims"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NzM2MjguZWNl",
+   "date": "2026-11-06",
+   "title": "After Donald Trump’s midterm poll rout, South America breathes easy as far-right feels the heat",
+   "summary": "Just a day after a blue wave swept across the U.S. in midterms election shaking President Donald Trump’s administration, the fall of Santiago Pena carries significance beyond the borders of the country of seven million people",
+   "link": "https://www.thehindu.com/news/international/after-trumps-midterm-poll-rout-south-america-breathes-easy-as-far-right-feels-the-heat/article71673628.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NzM2ODUuZWNl",
+   "date": "2026-11-06",
+   "title": "Keralam’s mangrove cover expanded in past decade despite prior decline, finds study",
+   "summary": "Study by ICAR-Central Marine Fisheries Research Institute based in Kochi compared satellite images from 2017 and 2026 to map changes in mangrove vegetation across Keralam’s coastal districts",
+   "link": "https://www.thehindu.com/news/national/kerala/keralams-mangrove-cover-expanded-in-past-decade-despite-prior-decline-finds-study/article71673685.ece",
+   "source": "The Hindu",
+   "section": "Environment",
+   "topics": [
+    "Science & Technology",
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
    "id": "ydGljbGU3MTY2OTg4MS5lY2U",
    "date": "2026-11-06",
    "title": "School excursion row: UDF leaders release CCTV footage in support of their claims",
@@ -679,6 +809,222 @@
    ],
    "gs": [
     "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NzUwODAuZWNl",
+   "date": "2026-11-06",
+   "title": "Pendency of schemes for minorities’ welfare reviewed",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/telangana/pendency-of-schemes-for-minorities-welfare-reviewed/article71675080.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NzU2NzEuZWNl",
+   "date": "2026-11-06",
+   "title": "Condemn Hindu nationalism, support students’ protests: U.S. Representative Ro Khanna",
+   "summary": "No response from MEA, but I&B Ministry advisor slams Mr. Khanna’s remarks; USCIRF claims shootings outside gurdwaras in Punjab are ‘vigilante attacks’",
+   "link": "https://www.thehindu.com/news/national/condemn-hindu-nationalism-support-students-protests-us-representative-ro-khanna/article71675671.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjc0OTIzLmVjZQ",
+   "date": "2026-11-06",
+   "title": "Railway tribunal rejects ₹10 lakh claim, says trespassers on tracks not entitled to compensation",
+   "summary": "The applicant claimed he was injured after falling into the gap between the train and platform while travelling from Mavelikkara to Changanassery in May 2023",
+   "link": "https://www.thehindu.com/news/national/kerala/railway-tribunal-rejects-10-lakh-claim-says-trespassers-on-tracks-not-entitled-to-compensation/article71674923.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NzQyODIuZWNl",
+   "date": "2026-11-06",
+   "title": "Karnataka High Court quashes POCSO case against child’s father, citing abuse of law by mother due to marital discord",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-quashes-pocso-case-against-childs-father-citing-abuse-of-law-by-mother-due-to-marital-discord/article71674282.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NzU2NzcuZWNl",
+   "date": "2026-11-06",
+   "title": "Rural women narrate stories on how Gruaha Lakshmi scheme helped build their lives",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/karnataka/rural-women-narrate-stories-on-how-gruaha-lakshmi-scheme-helped-build-their-lives/article71675677.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY3NTM5NC5lY2U",
+   "date": "2026-11-06",
+   "title": "U.S. Attorney whose office oversaw Trump's election conspiracy probe resigns",
+   "summary": "Jason ⁠Reding Quiñones’ resignation marked ⁠the departure of the second senior Justice Department official ​since the ‌Republicans devastating losses in the midterms",
+   "link": "https://www.thehindu.com/news/international/us-attorney-whose-office-oversaw-trumps-election-conspiracy-probe-resigns/article71675394.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY3NTc4Ny5lY2U",
+   "date": "2026-11-06",
+   "title": "Iran Guards say two tankers caught fire in Hormuz",
+   "summary": "Since the outbreak of the West Asia war on February 28, Tehran has sought to limit traffic through the strategic waterway, which normally carries about one-fifth of global oil consumption",
+   "link": "https://www.thehindu.com/news/international/iran-guards-say-two-tankers-caught-fire-in-hormuz/article71675787.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NzU3MzMuZWNl",
+   "date": "2026-11-06",
+   "title": "Myanmar to conduct byelections next April",
+   "summary": "The move indicates the military's increasing confidence in its ability to control territory in the Southeast Asian nation after it claimed advances following a string of offensives",
+   "link": "https://www.thehindu.com/news/international/myanmar-to-conduct-byelections-next-april/article71675733.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NzQ5OTEuZWNl",
+   "date": "2026-11-06",
+   "title": "Airstrikes on market in southwestern Yemen kill at least 20, Houthis say",
+   "summary": "A Houthi Health Ministry spokesperson, Anees Alsabahi, told Houthi-run TV Al Masirah that 15 people were also wounded in the airstrikes on the market in al-Waziyah in the province of Taiz",
+   "link": "https://www.thehindu.com/news/international/airstrikes-on-market-in-southwestern-yemen-kill-at-least-20-houthis-say/article71674991.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY3NDM4My5lY2U",
+   "date": "2026-11-06",
+   "title": "India-born Saba Haider wins Illinois State Representative election",
+   "summary": "An alumnus of Aligarh Muslim University (AMU), Saba Haider earned an MSc in Wildlife Science from the institution; the AMU Network congratulated her on her victory, describing it as a \"proud moment for the university community\"",
+   "link": "https://www.thehindu.com/news/national/india-born-saba-haider-wins-illinois-state-representative-election/article71674383.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Environment & Ecology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjcxNzc2LmVjZQ",
+   "date": "2026-11-06",
+   "title": "Daily Quiz: On U.S. election history",
+   "summary": "A four-way contest, a deeply divided nation and the election of Abraham Lincoln set the United States on a course towards one of the most consequential periods in its history",
+   "link": "https://www.thehindu.com/news/international/daily-quiz-on-us-election-history/article71671776.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NzQ2NDYuZWNl",
+   "date": "2026-11-06",
+   "title": "$2.5 trillion wiped off Nasdaq 100 as U.S. midterm outcome adds to AI stock slump",
+   "summary": "Democrats’ victories raise prospect of tighter scrutiny of data-centre projects as investors reassess AI spending; Indian equities buck global market weakness",
+   "link": "https://www.thehindu.com/business/us-midterm-results-add-to-global-ai-linked-stock-sell-off-25-trillion-wiped-off-nasdaq-100/article71674646.ece",
+   "source": "The Hindu",
+   "section": "Economy",
+   "topics": [
+    "International Relations",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
    ],
    "score": 2,
    "important": false
