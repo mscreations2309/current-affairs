@@ -1,6 +1,64 @@
 {
- "updated": "2026-11-07T16:25:09.614Z",
+ "updated": "2026-11-07T20:52:04.604Z",
  "items": [
+  {
+   "id": "ydGljbGU3MTY3OTE0MC5lY2U",
+   "date": "2026-11-08",
+   "title": "India’s policy shift towards Israel is regrettable, says former Madras High Court judge at book launch",
+   "summary": "The book, Amerikka-Israel Aneethiyum Makkal Samuga Kadamaiyum, features articles examining the trajectory of hostilities between the United States and Iran and the Israel-Lebanon conflict",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/indias-policy-shift-towards-israel-is-regrettable-says-former-madras-high-court-judge-at-book-launch/article71679140.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "International Relations",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 7,
+   "important": true
+  },
+  {
+   "id": "cnRpY2xlNzE2NzgyMjQuZWNl",
+   "date": "2026-11-08",
+   "title": "ATMED, Anna University sign MoU to boost medical device industry-academia collaboration",
+   "summary": "The collaboration will also promote joint workshops, seminars, faculty-industry interactions, student innovations, and opportunities to access Anna University’s technical infrastructure",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/atmed-anna-university-sign-mou-to-boost-medical-device-industry-academia-collaboration/article71678224.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY3OTQ3Ny5lY2U",
+   "date": "2026-11-08",
+   "title": "Israeli President picks Gadi Eisenkot, Netanyahu rival, to try to form government",
+   "summary": "Mr. Eisenkot, a former military chief, has declined to join forces with Arab parties, with whose support he ‌would have a majority of seats in parliament",
+   "link": "https://www.thehindu.com/news/international/israeli-president-picks-gadi-eisenkot-netanyahu-rival-to-try-to-form-government/article71679477.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Polity & Governance",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
   {
    "id": "cnRpY2xlNzE2Nzc1NzkuZWNl",
    "date": "2026-11-07",
@@ -39,6 +97,26 @@
     "GS-3",
     "GS-2",
     "GS-1"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "ydGljbGU3MTY3ODI3NC5lY2U",
+   "date": "2026-11-07",
+   "title": "Manipur gets Northeast’s first AI-enabled career intelligence hub",
+   "summary": "Chief Minister Yumnam Khemchand Singh says the facility marks a significant step towards integrating artificial intelligence into the education and career guidance ecosystem of the State",
+   "link": "https://www.thehindu.com/news/national/manipur/manipur-gets-northeasts-first-ai-enabled-career-intelligence-hub/article71678274.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology",
+    "Environment & Ecology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
    ],
    "score": 5,
    "important": true
@@ -217,6 +295,24 @@
    "important": false
   },
   {
+   "id": "cnRpY2xlNzE2NzkxMjguZWNl",
+   "date": "2026-11-07",
+   "title": "As COP31 comes to Turkiye, satellites reveal a landfill methane problem",
+   "summary": "Methane is the biggest cause of climate change after carbon dioxide (CO2) and is over 80 times more potent than CO2 in its first 20 years in the air. Sharp cuts could therefore slow warming relatively quickly",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/as-cop31-comes-to-turkiye-satellites-reveal-a-landfill-methane-problem/article71679128.ece",
+   "source": "The Hindu",
+   "section": "Environment",
+   "topics": [
+    "Environment & Ecology",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
    "id": "ydGljbGU3MTY3NzM5MS5lY2U",
    "date": "2026-11-07",
    "title": "Madras High Court closes plea to regulate gold loans and auction of pledged jewellery",
@@ -335,6 +431,45 @@
    "section": "International",
    "topics": [
     "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY3OTI5OS5lY2U",
+   "date": "2026-11-07",
+   "title": "NGT issues notice to Tirunelveli Collector over threats to Tamirabharani fish species",
+   "summary": "National Green Tribunal takes suo motu cognisance of The Hindu report",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/ngt-issues-notice-to-tirunelveli-collector-over-threats-to-tamirabharani-fish-species/article71679299.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Environment & Ecology",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NzkyNTQuZWNl",
+   "date": "2026-11-07",
+   "title": "Ukraine says Russia ramps up strikes to pressure Kyiv at talks",
+   "summary": "Ukraine's Energy Ministry said \"a massive attack on a number of energy facilities\" had plunged five regions into darkness and significantly hampered electricity transmission in Kyiv and surrounding region",
+   "link": "https://www.thehindu.com/news/international/ukraine-says-russia-ramps-up-strikes-to-pressure-kyiv-at-talks/article71679254.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Polity & Governance"
    ],
    "gs": [
     "GS-2"
@@ -789,6 +924,114 @@
    "gs": [
     "GS-2",
     "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY3NzkxMi5lY2U",
+   "date": "2026-11-07",
+   "title": "Enforcement Directorate is not a ‘super cop’, says Karnataka High Court",
+   "summary": "ED cannot file private complaint when other agencies decline to act on its information on alleged offences, court said while quashing ED cases against K.Y. Nanjegowda, Congress MLA from Malur",
+   "link": "https://www.thehindu.com/news/national/karnataka/enforcement-directorate-is-not-a-super-cop-says-karnataka-high-court/article71677912.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY3ODM5OC5lY2U",
+   "date": "2026-11-07",
+   "title": "Shreya N. Gowda from Bhadravati tops NDA & NA entrance exam",
+   "summary": "Shreya N. Gowda of Thimlapura in Bhadravati town has topped the list of women candidates who qualified in the National Defence Academy and Naval Academy Examination conducted by the Union Public Service Commission",
+   "link": "https://www.thehindu.com/news/national/karnataka/shreya-n-gowda-from-bhadravati-tops-nda-na-entrance-exam/article71678398.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NzkwMzguZWNl",
+   "date": "2026-11-07",
+   "title": "Bihar’s Ranivas Mound declared monument of national importance",
+   "summary": "Currently, 70 sites in Bihar are under the stewardship of the Archaeological Survey of India.",
+   "link": "https://www.thehindu.com/news/national/bihar/bihars-ranivas-mound-declared-monument-of-national-importance/article71679038.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "History, Art & Culture",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-1",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NzkwNjguZWNl",
+   "date": "2026-11-07",
+   "title": "Biswajit Basu becomes fourth retired judge to resign from West Bengal SIR tribunal",
+   "summary": "Others who quit are former Calcutta HC Chief Justice T.S. Sivagnanam, former judges Ranjit Kumar Bagh and Indrajit Chatterjee; judges heading the 19 tribunals have complained about the slow pace of disposal of 38 lakh pending appeals",
+   "link": "https://www.thehindu.com/news/cities/kolkata/biswajit-basu-becomes-fourth-retired-judge-to-resign-from-west-bengal-sir-tribunal/article71679068.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2Nzg2MTAuZWNl",
+   "date": "2026-11-07",
+   "title": "Rajasthan bags national award for performance in renewable energy framework",
+   "summary": "The State has an installed renewable energy capacity of 51.6 GW and a solar power capacity of 45 GW, Rajasthan Minister of State for Energy Heeralal Nagar says",
+   "link": "https://www.thehindu.com/news/national/rajasthan/rajasthan-bags-national-award-for-performance-in-renewable-energy-framework/article71678610.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjc5MTM3LmVjZQ",
+   "date": "2026-11-07",
+   "title": "Cyclone Murasu: Andhra Pradesh CM orders swift power restoration, price control measures",
+   "summary": "Naidu tells officials to monitor field-level relief operations, complete damage assessments at the earliest and esnure prompt financial assistance to the affected families",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-murasu-andhra-pradesh-cm-orders-swift-power-restoration-price-control-measures/article71679137.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-1",
+    "Prelims"
    ],
    "score": 2,
    "important": false
