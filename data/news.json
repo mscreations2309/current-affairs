@@ -1,6 +1,27 @@
 {
- "updated": "2026-11-07T10:04:10.177Z",
+ "updated": "2026-11-07T16:25:09.614Z",
  "items": [
+  {
+   "id": "cnRpY2xlNzE2Nzc1NzkuZWNl",
+   "date": "2026-11-07",
+   "title": "Sannati set for a heritage makeover as Karnataka Cabinet clears development authority Bill",
+   "summary": "Proposed legislation aims to transform the ancient Buddhist site into an international heritage and tourism destination, with emphasis on conservation of Ashokan edicts and archaeological treasures",
+   "link": "https://www.thehindu.com/news/national/karnataka/sannati-set-for-a-heritage-makeover-as-karnataka-cabinet-clears-development-authority-bill/article71677579.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "History, Art & Culture",
+    "Polity & Governance",
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-1",
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 6,
+   "important": true
+  },
   {
    "id": "ydGljbGU3MTY3NzM0NC5lY2U",
    "date": "2026-11-07",
@@ -177,6 +198,25 @@
    "important": false
   },
   {
+   "id": "J0aWNsZTcxNjc3OTkxLmVjZQ",
+   "date": "2026-11-07",
+   "title": "Vance distancing himself from Trump ahead of 2028 Presidential race: Ex-U.S. NSA Bolton",
+   "summary": "Bolton described Vance's remarks as \"very wrong\" and a \"big political mistake\", saying the Republicans overlooked broader voter dissatisfaction with the economy, rising prices, and Trump's tariff policies",
+   "link": "https://www.thehindu.com/news/international/vance-distancing-himself-from-trump-ahead-of-2028-presidential-race-ex-us-nsa-bolton/article71677991.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
    "id": "ydGljbGU3MTY3NzM5MS5lY2U",
    "date": "2026-11-07",
    "title": "Madras High Court closes plea to regulate gold loans and auction of pledged jewellery",
@@ -241,6 +281,58 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSDNmWGZNTDcyU3pYZDB1M0ZQbGI4RlBjSXljSE1OZTZ6ZG1jQjRIQVZaa3BXOVRDSnNVWmhrQ0F3SWZ5Wkp3b3J3NFhaMjhacS1iT3B3NkxLM1U0YXJaSUVCT3pGUlZOSkJ6RFhQQk9HUVpJcFBzb29nUGNuODVnMWZIdzB2N3otY0dDYkZpbXFOcFVNQWl2RnFKQXdNcWdGYmhTMnZOdnBmYVpIVFVreV9kVdIBugFBVV95cUxPaVN0LVoyM3lkNmthc0xHWWxQWExfZmVlSFhfeDY1eEV1bHB4Q0F3RVBlMWM4NkQwQWdYSXZabWphUTFFNkRRQkp0Z1dLSDUweng3dmdWQTBaRHltdk5VSFJlS2tWRkZEblVmQ3paWXVqeUtlRmZ3S1hrLVljd1ZZcDhTaThGTmpjMjVEMEhVY0dXSW03azhzX3ZoVU41VFhWVmJXb3ktRGF4YnJudVpINVBvWVAzbFQ1ZXc?oc=5",
    "source": "Indian Express",
    "section": "Explained",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY3ODU2Ni5lY2U",
+   "date": "2026-11-07",
+   "title": "From strategic Eastern airbase, Rajnath calls for highest military preparedness",
+   "summary": "Defence Minister calls upon the military to keep special focus on strengthening domain awareness, cyber resilience, and information integrity to effectively counter emerging security threats",
+   "link": "https://www.thehindu.com/news/national/from-strategic-eastern-airbase-rajnath-calls-for-highest-military-preparedness/article71678566.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Internal Security & Defence",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY3ODg5OS5lY2U",
+   "date": "2026-11-07",
+   "title": "Allahabad High Court slams U.P. Police over routine violations of fundamental rights",
+   "summary": "Ordering the release of a petitioner whose family alleged that he was forcibly picked up by police in plain clothes on September 5, the Bench says police appear to have little regard for constitutional freedoms",
+   "link": "https://www.thehindu.com/news/national/uttar-pradesh/allahabad-high-court-slams-up-police-over-routine-violations-of-fundamental-rights/article71678899.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2Nzg2MzkuZWNl",
+   "date": "2026-11-07",
+   "title": "Italian Foreign Minister says pro-Russian hackers targeted him over Ukraine support",
+   "summary": "Moscow has not commented on the incident. Russia has consistently ​denied any involvement ‌in cyberattacks or hacking operations abroad",
+   "link": "https://www.thehindu.com/news/international/italian-foreign-minister-says-pro-russian-hackers-targeted-him-over-ukraine-support/article71678639.ece",
+   "source": "The Hindu",
+   "section": "International",
    "topics": [
     "International Relations"
    ],
@@ -625,6 +717,78 @@
    ],
    "gs": [
     "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY2MDg1My5lY2U",
+   "date": "2026-11-07",
+   "title": "Rampur’s Lavi Fair: Storytelling through 300 years of Himalayan trade and tradition",
+   "summary": "Rampur Bushahr’s Lavi Fair in Himachal Pradesh traces a Himalayan journey from wool and barter to women entrepreneurs and digital payments",
+   "link": "https://www.thehindu.com/society/lavi-fair-rampur-himachal-pradesh-story/article71660853.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY3ODYxMy5lY2U",
+   "date": "2026-11-07",
+   "title": "Declare November 7 as State Students’ Day, urges Vice-Chancellor",
+   "summary": "Dr. Ambedkar firmly believed education was the most powerful tool for transforming human lives and bringing about social change, says Bangalore University Vice-Chancellor",
+   "link": "https://www.thehindu.com/news/national/karnataka/declare-november-7-as-state-students-day-urges-vice-chancellor/article71678613.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2Nzg2NzUuZWNl",
+   "date": "2026-11-07",
+   "title": "KLDB to launch livestock research centre at Mattupetty",
+   "summary": "Minister for Animal Husbandry and Dairy Development Bindu Krishna will inaugurate the centre on Monday",
+   "link": "https://www.thehindu.com/news/national/kerala/kldb-to-launch-livestock-research-centre-at-mattupetty/article71678675.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjc0NjEzLmVjZQ",
+   "date": "2026-11-07",
+   "title": "Supreme Court says stopping vehicles, construction to prevent pollution ‘old, tried, failed tools’",
+   "summary": "Govt., CAQM says measures like GRAP cannot be dubbed a ‘complete failure’",
+   "link": "https://www.thehindu.com/news/national/supreme-court-on-stopping-vehicles-construction-to-prevent-pollution/article71674613.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
    ],
    "score": 2,
    "important": false
