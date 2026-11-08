@@ -1,6 +1,23 @@
 {
- "updated": "2026-11-08T15:11:11.274Z",
+ "updated": "2026-11-08T19:41:05.208Z",
  "items": [
+  {
+   "id": "J0aWNsZTcxNjgxMjEwLmVjZQ",
+   "date": "2026-11-09",
+   "title": "Air pollution over 50 times WHO limit in parts of Delhi as people defy ban on firecrackers on Deepavali",
+   "summary": "The overall air quality of Delhi continued to be in the “very poor” category while many parts of the city continued to reel under “severe” air quality",
+   "link": "https://www.thehindu.com/news/cities/Delhi/air-pollution-over-50-times-who-limit-in-parts-of-delhi-as-people-defy-ban-on-firecrackers-on-deepavali/article71681210.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
   {
    "id": "ydGljbGU3MTY3OTE0MC5lY2U",
    "date": "2026-11-08",
@@ -226,6 +243,43 @@
    ],
    "gs": [
     "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2ODExMjQuZWNl",
+   "date": "2026-11-08",
+   "title": "Tens of thousands march in Amsterdam, pressing Dutch government on Gaza, Israel",
+   "summary": "Organisers of the “Red Line” demonstration called for stricter trade sanctions, a halt to arms sales, and an official declaration that Israel’s actions in Gaza amount to genocide",
+   "link": "https://www.thehindu.com/news/international/tens-of-thousands-march-in-amsterdam-pressing-dutch-government-on-gaza-israel/article71681124.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjgxMDc3LmVjZQ",
+   "date": "2026-11-08",
+   "title": "Train collision in Egypt's Giza kills four, injures 88 others: Health Ministry",
+   "summary": "Authorities said they had launched an investigation into the cause of the crash, which occurred in Giza's Al-Ayyat area, the site of Egypt's worst-ever rail disaster",
+   "link": "https://www.thehindu.com/news/international/egypt-train-collision-giza-to-fayoum-crash-updates-november-8-2026/article71681077.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
    ],
    "score": 3,
    "important": false
@@ -584,6 +638,60 @@
    "link": "https://www.thehindu.com/news/international/migrant-boat-sinks-off-senegal-death-toll/article71680824.ece",
    "source": "The Hindu",
    "section": "International",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2ODExNTguZWNl",
+   "date": "2026-11-08",
+   "title": "Thick smog blankets Delhi on Deepavali night, AQI at 20 stations ‘severe’",
+   "summary": "The Air Quality Early Warning System (EWS) has forecast that Delhi's air quality is likely to slip into the 'severe' category from November 9 and remain there for the subsequent few days",
+   "link": "https://www.thehindu.com/news/cities/Delhi/delhi-air-quality-deepavali-cracker-ban-ver-poor/article71681158.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjgxMDkzLmVjZQ",
+   "date": "2026-11-08",
+   "title": "Revanth celebrates Deepavali with Indiramma house beneficiary",
+   "summary": "Ministers, MLAs asked to spend festival with poor families who received houses; 2.21 lakh houses completed under scheme",
+   "link": "https://www.thehindu.com/news/national/telangana/revanth-celebrates-deepavali-with-indiramma-house-beneficiary/article71681093.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY4MTA3My5lY2U",
+   "date": "2026-11-08",
+   "title": "UK Hindu family takes legal action after school objects to boy wearing tilak",
+   "summary": "The parents of a nine-year-old boy have approached the UK High Court, alleging religious discrimination after he was prevented from wearing the sacred Tilak-Chandlo to school",
+   "link": "https://www.thehindu.com/news/international/uk-hindu-family-takes-legal-action-after-school-objects-to-boy-wearing-tilak/article71681073.ece",
+   "source": "The Hindu",
+   "section": "National",
    "topics": [
     "Polity & Governance",
     "Health & Social Issues"
