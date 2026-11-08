@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T19:41:05.208Z",
+ "updated": "2026-11-08T23:41:57.341Z",
  "items": [
   {
    "id": "J0aWNsZTcxNjgxMjEwLmVjZQ",
@@ -14,6 +14,62 @@
    ],
    "gs": [
     "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2ODEyNDkuZWNl",
+   "date": "2026-11-09",
+   "title": "Pope Leo takes Milei to task as he visits divided Argentina",
+   "summary": "Pope Leo spoke out in defence of the poor and pensioners, insisting that “particular concern be shown for those affected by illness, dependency and disability” — a veiled reference to the government’s controversial cuts to disability assistance",
+   "link": "https://www.thehindu.com/news/international/pope-leo-takes-milei-to-task-as-he-visits-divided-argentina/article71681249.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Health & Social Issues",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjgxMjUwLmVjZQ",
+   "date": "2026-11-09",
+   "title": "Trump, in CBS interview, says deportation policy was ‘too tough’",
+   "summary": "“I think it was too tough...I think it might be too tough,” Mr. Trump said in CBS’ “60 Minutes” interview",
+   "link": "https://www.thehindu.com/news/international/trump-in-cbs-interview-says-deportation-policy-was-too-tough/article71681250.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Polity & Governance",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY4MTIzOS5lY2U",
+   "date": "2026-11-09",
+   "title": "Nvidia investigating reports that CEO Jensen Huang was targeted by Chinese intelligence",
+   "summary": "The announcement came after Jensen Huang acknowledged to the board that he had been intimate with a business executive whom U.S. intelligence determined was gathering information for Beijing",
+   "link": "https://www.thehindu.com/sci-tech/technology/nvidia-investigating-reports-that-ceo-jensen-huang-was-targeted-by-chinese-intelligence/article71681239.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
    ],
    "score": 2,
    "important": false
