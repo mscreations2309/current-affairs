@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T00:34:31.791Z",
+ "updated": "2026-11-08T07:17:47.534Z",
  "items": [
   {
    "id": "ydGljbGU3MTY3OTE0MC5lY2U",
@@ -61,6 +61,62 @@
     "GS-3"
    ],
    "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2ODA1MzkuZWNl",
+   "date": "2026-11-08",
+   "title": "News in Frames: Many twists in the monsoon’s tale",
+   "summary": "Andhra Pradesh swung from drought to deluge, with two back-to-back cyclones causing an estimated ₹6,500 cr. in damage and leaving at least 17 dead; crops were flattened and coconut trees uprooted, with farmers in the Godavari belt facing at least two years of recovery",
+   "link": "https://www.thehindu.com/photos/news-in-frames-many-twists-in-the-monsoons-tale/article71680539.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters",
+    "Economy"
+   ],
+   "gs": [
+    "GS-1",
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY3ODY4NC5lY2U",
+   "date": "2026-11-08",
+   "title": "301 Colony residents put forward 10 recommendations to foster tribal settlement’s development",
+   "summary": "During the meeting that took place on November 3, residents outlined key priorities spanning housing, basic infrastructure, land utilisation, agriculture, and human-wildlife conflict mitigation",
+   "link": "https://www.thehindu.com/news/national/kerala/301-colony-residents-put-forward-10-recommendations-to-foster-tribal-settlements-development/article71678684.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Environment & Ecology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2ODA1ODAuZWNl",
+   "date": "2026-11-08",
+   "title": "Iran executes three men over armed unrest during January protests",
+   "summary": "The executions are the latest in a ‌series Iran has carried out ‌in ⁠recent months over the January ⁠protests, including of people accused of links to Israel and the U.S.",
+   "link": "https://www.thehindu.com/news/international/iran-executes-three-men-over-armed-unrest-during-january-protests/article71680580.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
    "important": false
   },
   {
@@ -170,6 +226,111 @@
    ],
    "gs": [
     "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2Nzc0NjIuZWNl",
+   "date": "2026-11-08",
+   "title": "Kishore Biyani, Future Retail and the ₹904-crore bank fraud case: What led to the Group’s collapse?",
+   "summary": "Kishore Biyani’s Future Group witnessed meteoric rise before mounting financial troubles pushed it into insolvency",
+   "link": "https://www.thehindu.com/business/Industry/kishore-biyani-future-retail-cbi-defrauding-charges-reliance-amazon-deal/article71677462.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjc4NjU0LmVjZQ",
+   "date": "2026-11-08",
+   "title": "Keralam measles outbreaks call for a relook at disease epidemiology",
+   "summary": "Once predominantly a childhood disease affecting children aged one to five, measles is now being reported across age groups, including among fully vaccinated individuals and infants below nine months, who are not yet eligible for routine measles vaccination",
+   "link": "https://www.thehindu.com/news/national/kerala/keralam-measles-outbreaks-call-for-a-relook-at-disease-epidemiology/article71678654.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjc5NDc4LmVjZQ",
+   "date": "2026-11-08",
+   "title": "Trump offers UFC boss press secretary post, urges criminal probes of Democrats",
+   "summary": "Dana White had earlier shared a photo -- possibly AI-generated -- showing him behind the lectern in the White House press briefing room, captioned “On to the next chapter.”",
+   "link": "https://www.thehindu.com/news/international/trump-says-he-wants-ufc-chief-dana-white-for-white-house-press-secretary/article71679478.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjgwNTU3LmVjZQ",
+   "date": "2026-11-08",
+   "title": "Iran says two tankers caught fire in Hormuz after hitting mines",
+   "summary": "Since the outbreak of the Iran war in late February, Tehran has severely restricted traffic through the strategic waterway, insisting vessels use routes authorised by the Islamic republic",
+   "link": "https://www.thehindu.com/news/international/iran-says-two-tankers-caught-fire-in-hormuz-after-hitting-mines/article71680557.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cmRGOHlVRlpKYnpSMT9vYz01",
+   "date": "2026-11-08",
+   "title": "Meet the Siddis: Tribal Gujaratis from Kathiawad, natural athletes of African stock",
+   "summary": "Meet the Siddis: Tribal Gujaratis from Kathiawad, natural athletes of African stock The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNjRHRUxqT3p0MndCSmJ0YXd0eUVhdmNFTzNkNjUtb1AwM3JiNkdCZGs5RzNCZ0huWnpYQU9WbUh6RlJXandtZWpQQW4zaWR6YnBISlVKSGo1eTI5Z2wxbjI3MG5XU0xhM1VMYjU4OWJiOU9NLWI3c3dMMkdjTGNMY09KZl81ZmlhQVFhVzhmSnd5SXZmSFVSNmoxSEFUWGhhczlXakFHNDZoV3c4aXJjMlBwTE5DdWlLUWfSAcABQVVfeXFMUFZFdC1NclViVDhHNUJNakVxUzdGWWFOVm00UlZ1bVU2ejJKTXFqQ3UyLTZIZ1ZfeWdKc0JfM25MQ0N1ZGRjdHV2ZW81T2hJSmMzVWhKcWVUNHg2WkJkdHBrajRUSGVkUWFER1JEeDU3OEtYT3c4aVk3ZzY3UkpPV3NWMV84VG84TmFXUHFRU3lnWkhkTVZvamZmSmxsRld5NDd2UGR4a28wRmlsMzNzRmFDM1RpTF9rdF8yUFZJbzR1?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "UFIxWlNUVE4wV0ZsQj9vYz01",
+   "date": "2026-11-08",
+   "title": "Why ‘physical AI’ marks the next frontier in industrial applications",
+   "summary": "Why ‘physical AI’ marks the next frontier in industrial applications The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMm1FOWdyNlU5QTlNaUhaNlRpck1nNklLTUZWSFdjU1g0SWxZNEFFdDA4dWpHdTFEM3pNTEoyd2VKWjFkZjV3SVZ2T1VGODViU3BYQlR2cHJ3bTlfNkJaMEgxSS13WlJZVldpcnRoMFlZNUFEWU40YTZoQUp0UjRqaVdiLUMxcDNhWmdMT3N0ckE2dU9rQjY0SGdkWXVhNWZqcnVRejNMX0pYZkZwcVIxdzB4VFd6WHpkejNNRXpBeFlyZ2VJS1dN0gHOAUFVX3lxTE42YWw5UUdabnp2LWJpNFFLRVJidkxvVnVuS0R3MkxJMkczdnZmM0JZeUJBT0VVcG0zRTU5RERISzhrMHIyRVV6WTRjTnhtb2hZRWxjWXR4U1drbzRLNTVIQ21yYWd4QVFaZGVla3FRTG4wWHJZQnBjZGp2cE5rRWgtd053Y2lKVUlFeVFEdHR2LXV3QXJlRkNtYUl2T0h3b0EzWjItTWNlRVJkdGFxdnc5OHExblBoU3c5Vl9DaXM3LTJFRjBPR1ZSTTN0WFlB?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
    ],
    "score": 2,
    "important": false
@@ -423,6 +584,27 @@
    ],
    "gs": [
     "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2Nzg5MTYuZWNl",
+   "date": "2026-11-07",
+   "title": "Festivals, infections and more | Health Wrap Ep. 58",
+   "summary": "In the 58th episode of Health Wrap by The Hindu, Ramya Kannan, Health Editor, The Hindu, and Zubeda Hamid, Senior Assistant Editor, The Hindu, discuss the public health concerns surrounding festivals, marking Diwali, including air pollution and AQI",
+   "link": "https://www.thehindu.com/sci-tech/health/festivals-infections-and-more-health-wrap-ep-58/article71678916.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Environment & Ecology",
+    "Health & Social Issues",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2",
+    "GS-1"
    ],
    "score": 4,
    "important": false
@@ -1147,6 +1329,23 @@
    "gs": [
     "GS-1",
     "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY3NzM3MS5lY2U",
+   "date": "2026-11-07",
+   "title": "Willem Einthoven’s Nobel-winning discovery that laid the foundations of the modern ECG",
+   "summary": "Willem Einthoven’s development of the string galvanometer transformed the recording of cardiac electrical signals and laid the foundations of modern electrocardiography",
+   "link": "https://www.thehindu.com/sci-tech/health/willem-einthovens-nobel-winning-discovery-that-laid-the-foundations-of-the-modern-ecg/article71677371.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
    ],
    "score": 2,
    "important": false
