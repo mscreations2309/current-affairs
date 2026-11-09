@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-09T06:23:41.290Z",
+ "updated": "2026-11-09T17:28:00.156Z",
  "items": [
+  {
+   "id": "cnRpY2xlNzE2ODIxMTEuZWNl",
+   "date": "2026-11-09",
+   "title": "Trump says likely to meet Putin, Xi at China APEC summit",
+   "summary": "U.S. President Donald Trump indicated to reporters that a deal on the Russia-Ukraine war, the Iran issue and nuclear arms control would be on the agenda",
+   "link": "https://www.thehindu.com/news/international/us-china-russia-leaders-to-meet-next-week-says-trump-beijing-says-in-communication-with-parties/article71682111.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 8,
+   "important": true
+  },
+  {
+   "id": "ydGljbGU3MTY4MjM4NS5lY2U",
+   "date": "2026-11-09",
+   "title": "Cyber bullying affects one in ten students worldwide; AI fuels new threat: UNESCO",
+   "summary": "The United Nations agency has called upon countries to invest in digital safety measures, teacher preparation, and mental health support for students, in coordination with technology companies",
+   "link": "https://www.thehindu.com/sci-tech/health/cyber-bullying-affects-one-in-ten-students-worldwide-ai-fuels-new-threat-unesco/article71682385.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Science & Technology",
+    "International Relations",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 6,
+   "important": true
+  },
   {
    "id": "ydGljbGU3MTY4MTM2NC5lY2U",
    "date": "2026-11-09",
@@ -76,6 +116,45 @@
    "important": false
   },
   {
+   "id": "ydGljbGU3MTY4MjUzNi5lY2U",
+   "date": "2026-11-09",
+   "title": "Trump to meet Iran war mediator Qatar, no imminent deal seen to end war",
+   "summary": "Mutual attacks continue, with the U.S. striking Iran's Qeshm island overnight, according to Iranian state media, and Iran attacking tankers in the Gulf and ‌Strait of Hormuz this month while its Yemeni Houthi allies have hit Saudi Arabia",
+   "link": "https://www.thehindu.com/news/international/trump-to-meet-iran-war-mediator-qatar-no-imminent-deal-seen-to-end-war/article71682536.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjgyMzkxLmVjZQ",
+   "date": "2026-11-09",
+   "title": "At peak of air pollution on Deepavali night, data goes missing at several govt monitoring stations in Delhi",
+   "summary": "‘When the hourly PM2.5 data is missing, it will artificially lower the Air Quality Index, showing better air quality, when the actual air quality is worse,’ Manoj Kumar, analyst, Centre for Research on Energy and Clean Air said",
+   "link": "https://www.thehindu.com/news/cities/Delhi/at-peak-of-air-pollution-on-deepavali-night-data-goes-missing-at-several-govt-monitoring-stations-in-delhi/article71682391.ece",
+   "source": "The Hindu",
+   "section": "Environment",
+   "topics": [
+    "Environment & Ecology",
+    "Science & Technology",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
    "id": "J0aWNsZTcxNjgxNDU5LmVjZQ",
    "date": "2026-11-09",
    "title": "Delhi air pollution: AAP slams Delhi govt for alleged air quality data ‘manipulation’",
@@ -138,6 +217,82 @@
    "section": "International",
    "topics": [
     "Environment & Ecology",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjgzNDIyLmVjZQ",
+   "date": "2026-11-09",
+   "title": "RBI extends Abhyudaya Bank supersession by another year",
+   "summary": "The RBI first superseded the bank’s Board of Directors for one year on November 24, 2023, citing “material concerns arising from poor governance standards observed within the bank.",
+   "link": "https://www.thehindu.com/business/rbi-extends-abhyudaya-bank-supersession-by-another-year/article71683422.ece",
+   "source": "The Hindu",
+   "section": "Economy",
+   "topics": [
+    "Economy",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjgyMDExLmVjZQ",
+   "date": "2026-11-09",
+   "title": "Deepavali pollution spike: How does it affect lung function and respiratory health? | Explained",
+   "summary": "Firecracker smoke releases fine particles and harmful gases that irritate the airways and affect lung health. Experts explain the short- and long-term effects of exposure and whether the damage persists after air quality improves",
+   "link": "https://www.thehindu.com/sci-tech/health/deepavali-pollution-spike-how-does-it-affect-lung-function-and-respiratory-health/article71682011.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Environment & Ecology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "1wR1NrUnRWM05sZHc_b2M9NQ",
+   "date": "2026-11-09",
+   "title": "When can the Income Tax Department reopen a taxpayer’s assessment?",
+   "summary": "When can the Income Tax Department reopen a taxpayer’s assessment? The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQemZLUnJQWHJlUlp6V2lWSkxROTJMQ3ZQZm9IeHp1UndXaEZJQWNlTFB1aG84ZjRwWXY2dTNPNVVSdmRncFBmUkpTdFh5c1Z0UnNRQlN6VG9TOGczdF9RYnh2MndLQ3VKRHAxOUVzSzI1eWlTY3NmYWZ2ZS00STZ3OWxuWWFxN0lndjVreGVPc2pLS2hjZmhITklhTmVuMGdZeUpYWjJ4clRwUEnSAbIBQVVfeXFMTlV4WklTZlpZSE54MVB6cFhmSzNrQ2VQa2RnenNoMFpRVFZpUVd3QUpTZm5xMFYzZXBkSDNkTjdVUENkVm9TZnhxWHVyN1htcVU3eHBOQzVHUjhjY1N6QmhXUXpubzFtVUVTYkNtMGRJRU1GcmFIOUdhZDJvT3NqYTM3MEJHWmxTMnpLekZ1Y0Nza0hrNDBWQ1VQUkU0VmY1MHpPRVBXQnZERmpGSkRtV3Nldw?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Economy",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "E3OTQyMjI3MTIzMDIuaHRtbA",
+   "date": "2026-11-09",
+   "title": "Why it will take more than just signing FTAs to boost India’s exports",
+   "summary": "Exporters across industrial hubs are gearing up to tap the opportunities arising from India’s many free trade pacts. In doing so, they hope to rewrite the script. Earlier FTAs did not do much for exporters, and only served to widen the trade deficit with India’s partners.",
+   "link": "https://www.livemint.com/economy/why-indian-exporters-struggle-to-benefit-from-ftas-11794222712302.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy",
     "International Relations"
    ],
    "gs": [
@@ -303,6 +458,380 @@
    "section": "Explained",
    "topics": [
     "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2ODMwNzguZWNl",
+   "date": "2026-11-09",
+   "title": "Karnataka High Court issues guidelines to BMRCL for ensuring access to remaining portion of properties acquired for metro project",
+   "summary": "Court declares some provisions of Way Leave Policy as unconstitutional while imposing costs of ₹10 lakh on corporation",
+   "link": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-issues-guidelines-to-bmrcl-for-ensuring-access-to-remaining-portion-of-properties-acquired-for-metro-project/article71683078.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY4MjU2Ni5lY2U",
+   "date": "2026-11-09",
+   "title": "Srisailam gears up for ‘Karthika Masam’ festivities from November 10",
+   "summary": "Temple management officials say ‘Sparsha Darshan’ will be suspended on Saturdays, Sundays, Mondays, and other auspicious festival days, while it will be permitted during specific time slots on other days",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/srisailam-gears-up-for-karthika-masam-festivities-from-november-10/article71682566.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2ODM0MDEuZWNl",
+   "date": "2026-11-09",
+   "title": "A.P. cities record dip in AQI after Deepavali; Visakhapatnam worst hit",
+   "summary": "Visakhapatnam and Rajamahendravaram in “poor” category a day after festival; pulmonologist advises masks for vulnerable groups",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/ap-cities-record-dip-in-aqi-after-deepavali-visakhapatnam-worst-hit/article71683401.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjgzMTc5LmVjZQ",
+   "date": "2026-11-09",
+   "title": "Suvendu says only Communists, non-Sanatanis complaining about firecrackers amid severe Kolkata air pollution",
+   "summary": "Separately, one BJP MLA claimed that bursting crackers wards off diseases, while a minister suggested spraying a mixture of rose water and water to control air pollution.",
+   "link": "https://www.thehindu.com/news/national/west-bengal/suvendu-says-only-communists-non-sanatanis-complaining-about-firecrackers-amid-severe-kolkata-air-pollution/article71683179.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY4MzM3OS5lY2U",
+   "date": "2026-11-09",
+   "title": "Andhra Pradesh govt. offers one-time option to CPS employees to shift to Old Pension Scheme",
+   "summary": "Employees whose recruitment process had commenced before September 1, 2004 but appointments were made thereafter are eligible for the one-time option",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-govt-offers-one-time-option-to-cps-employees-to-shift-to-old-pension-scheme/article71683379.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2ODMzODQuZWNl",
+   "date": "2026-11-09",
+   "title": "Human-wildlife conflict in Keralam: order for removal of encroachments in catchment areas of Anayirankal dam",
+   "summary": "Officials say the catchment area serves as a primary habitat for wild elephants in the Devikulam range in Keralam’s Idukki",
+   "link": "https://www.thehindu.com/news/national/kerala/human-wildlife-conflict-in-keralam-ordrer-for-removal-of-encroachments-in-catchment-areas-of-anayirankal-dam/article71683384.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY4MzM2MC5lY2U",
+   "date": "2026-11-09",
+   "title": "U.S. healthcare tech firm opens AI engineering centre, to hire 1,000",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/cities/Hyderabad/us-healthcare-tech-firm-opens-ai-engineering-centre-to-hire-1000/article71683360.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY4MTQ1Ny5lY2U",
+   "date": "2026-11-09",
+   "title": "Chennai’s air quality deteriorates to ‘poor’ the morning after Deepavali",
+   "summary": "Manali Village recorded the highest AQI at 296, followed by Arumbakkam at 265, Kodungaiyur at 215, Royapuram at 184 and Velachery Residential Area at 142",
+   "link": "https://www.thehindu.com/news/cities/chennai/chennais-air-quality-deteriorates-to-poor-the-morning-after-deepavali/article71681457.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY4MzQzOC5lY2U",
+   "date": "2026-11-09",
+   "title": "Schools failing to implement child-safety guidelines, says SHRC amid attacks",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/schools-failing-to-implement-child-safety-guidelines-says-shrc-amid-attacks/article71683438.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2ODMxNTIuZWNl",
+   "date": "2026-11-09",
+   "title": "Forum for Good Governance questions Telangana govt’s spending on temples and religious events",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/cities/Hyderabad/forum-for-good-governance-questions-telangana-govts-spending-on-temples-and-religious-events/article71683152.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjgzNzkzLmVjZQ",
+   "date": "2026-11-09",
+   "title": "Trump says resumption of war with Iran 'highly unlikely'",
+   "summary": "Iran continues to at least partly block traffic through the strategic Strait of Hormuz, which has dented oil supplies out of the Gulf.",
+   "link": "https://www.thehindu.com/news/international/trump-says-resumption-of-war-with-iran-highly-unlikely/article71683793.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjgyNzkxLmVjZQ",
+   "date": "2026-11-09",
+   "title": "Four killed in Gaza as sand embankment collapses on tents",
+   "summary": "Medics ​said heavy rain late on November 8 washed away a rocky sand ⁠bank abutting a camp for displaced families south of Deir al-Balah, in central Gaza",
+   "link": "https://www.thehindu.com/news/international/four-killed-in-gaza-as-sand-embankment-collapses-on-tents/article71682791.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjgxNjI4LmVjZQ",
+   "date": "2026-11-09",
+   "title": "Russia hits power stations in Ukraine, vessel in Black Sea",
+   "summary": "Russia’s armed forces struck three Ukrainian power substations overnight.",
+   "link": "https://www.thehindu.com/news/international/russia-hits-power-stations-in-ukraine-vessel-in-black-sea/article71681628.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY4MTk1NS5lY2U",
+   "date": "2026-11-09",
+   "title": "Untangling Nvidia chief Jensen Huang’s Chinese spy connection",
+   "summary": "Nvidia said that it was investigating its chief, Mr. Huang, after he told the board he had been intimate with a customer, Alice Huang, whom U.S. intelligence determined was a Chinese spy, per a report by New York Times",
+   "link": "https://www.thehindu.com/sci-tech/technology/untangling-nvidia-chief-jensen-huangs-chinese-spy-connection/article71681955.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjgyMDMwLmVjZQ",
+   "date": "2026-11-09",
+   "title": "China dismisses a spy plot claim involving Nvidia CEO Jensen Huang as smear campaign",
+   "summary": "The chips company CEO is at the center of a controversy over whether he drove sales of advanced computer chips to China, in spite of U.S. tech restrictions aimed at limiting China’s ability to access these advanced technologies",
+   "link": "https://www.thehindu.com/news/international/china-dismisses-a-spy-plot-claim-involving-nvidia-ceo-jensen-huang-as-smear-campaign/article71682030.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjgxODQ2LmVjZQ",
+   "date": "2026-11-09",
+   "title": "World entering ‘age of climate extremes’: UN chief",
+   "summary": "The UN chief statement came as the UN’s World Meteorological Organization released a report indicating that 2026 has continued a streak of exceptional global temperatures, melting ice and rising sea levels",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/world-entering-age-of-climate-extremes-un-chief/article71681846.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Environment & Ecology",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY4Mjg2Ni5lY2U",
+   "date": "2026-11-09",
+   "title": "Commercial cultivation within forest land not protected under FRA, 2006: Supreme Court",
+   "summary": "Says FRA protects forest-dwelling communities dependent on forests for generations, not commercial cultivators and plantation owners",
+   "link": "https://www.thehindu.com/news/national/commercial-cultivation-within-forest-land-not-protected-under-fra-2006-supreme-court/article71682866.ece",
+   "source": "The Hindu",
+   "section": "Environment",
+   "topics": [
+    "Polity & Governance",
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2ODE3OTUuZWNl",
+   "date": "2026-11-09",
+   "title": "Revised MRPs of 1,364 anti-cancer formulations come into effect; consumers to save ₹3,540 crore/year",
+   "summary": "According to the Ministry, 85 pharmaceutical companies have reported revised MRPs for 1,364 anti-cancer formulations across 121 drugs as of November 8, 2026",
+   "link": "https://www.thehindu.com/sci-tech/health/revised-mrps-of-1364-anti-cancer-formulations-come-into-effect-consumers-to-save-3540-croreyear/article71681795.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "b3lSSEZPVWs1MFNGRT9vYz01",
+   "date": "2026-11-09",
+   "title": "Behind Nvidia CEO Jensen Huang’s affair, lies a much bigger China controversy",
+   "summary": "Behind Nvidia CEO Jensen Huang’s affair, lies a much bigger China controversy The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOFk4N3hjOWRMUWsybU5MU1NKV0owYlp2YjNuM3pzalVsUGtja2FDeUVXYlBZUkFIZGdvMmpPWkg3ekdFQ0ZiMk5DNEozNXpQREE3ZGVOWDBNU09TcnVnUGZFbmNLNGIwRmZGRFNvbU1xckxPa3ZYVi1MaUpoQXRBMi1ZMGw5b3ZaUUZIQ0lGUC11M0NWcXJ5Q3RyUXpqUlV2MEE3VFl0ZGZFNmZ5ZGNXN2JFc0NELTV4TmtxM0pCMNIBxgFBVV95cUxObWt2SFNGeTZ3NmwwN2s0T08xNTBlenA1bG9VbW1pY2hjMlBjLTd0TWZZYzV2aXduMWpWVXg2NWNKbHhIcW9YWHRUcV9IUHZiQ05lVnltNVhNNVhjR0Zvb3Q1ZHRVSkNWWEJ6WmF1aHJ1YXA1MU90VHEteW96U21NQU1WUGFNZXlSaHFDMHRRN3JEX1RLeDdCcGt3bGFVNmY5N21Nak5iR2RJd1ZyZnVHb01LcnZvVkRZa2FoQXoyRHFOUk50SFE?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "kblJscFdOR3RNZUUwP29jPTU",
+   "date": "2026-11-09",
+   "title": "10 years after demonetisation, cash remains king despite India’s digital payments boom",
+   "summary": "10 years after demonetisation, cash remains king despite India’s digital payments boom The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUVJHT0xBZUwtbGJLQzlQVmg0Mm8zbG1zbXZ4TmlFbklSbXVlR0FkWTI0ZjBfZVdhZFpCZndYd1RLbDRZSzFUbWxmbHN6UDlEMXFxMl80MW9tQTZLMFRkYkppRmVlR2FQU3UwQmpKZGpfVU4temVuYktsRlEtWjcyTUtQUnAtOXY5Wmdad0dmUUR4Mlk0TkNzQ2lCRE1yMnBNUlg0R01zQ2NTcHRmQnNfRjZkeGNQVC1fTVRDSXZoUTVxcGNSWUtTbzJXdHdCYWQ3aTZPZtIB2wFBVV95cUxQeFVfQmdvV0xNeUVWSjlibjB6OEt5M0xsYjE4dDRLMWI0Vkxuam1PRE5iS1lIbE1mZk0taVhCcDhiamp6cHlTOXJTTEFZUHpEUW5EZmZ1aWs0X1U2WklxWktkcGFPVDZWdzE0ZjFpeW9hNDBGSC0zdWM4WGpuRGJSQUowazZwNmhHLWZXam5CWUV1MFhBdWMzZFVPRTZPckdlbi1xbGxhMF94OVl5OFZXcWZ3Mlk3YVRKekRra0FXZWdxaEt6N1ZaU2JiWkUxUWZ4VEdnRlpWNGtMeE0?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "E3OTM5NjMyMzQ0NjAuaHRtbA",
+   "date": "2026-11-09",
+   "title": "Fertilizer availability comfortable for rabi sowing, stock position exceeds requirement across key nutrients",
+   "summary": "India enters the rabi season with comfortable fertilizer stocks despite early ground-level shortages and delayed crop sowing. The supply buffer arrives as the nation's annual fertilizer subsidy spending climbs past ₹2.17 trillion.",
+   "link": "https://www.livemint.com/economy/fertiliser-availability-comfortable-for-rabi-sowing-stock-position-exceeds-requirement-across-key-nutrients-11793963234460.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy"
    ],
    "gs": [
     "GS-3"
