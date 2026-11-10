@@ -1,6 +1,117 @@
 {
- "updated": "2026-11-10T17:48:54.410Z",
+ "updated": "2026-11-10T23:18:17.172Z",
  "items": [
+  {
+   "id": "ydGljbGU3MTY4NjM0Mi5lY2U",
+   "date": "2026-11-11",
+   "title": "Andhra Pradesh Cabinet clears policy frameworks to attract investments in AI, electronics, renewable energy",
+   "summary": "Directorate of Traffic Management and Road Safety to be set up at Mangalagiri; ₹31,387-crore green integrated AI data centre proposed by AM Intelligence at Amanam in Visakhapatnam district cleared",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-cabinet-clears-policy-frameworks-to-attract-investments-in-ai-electronics-renewable-energy/article71686342.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Economy",
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "J0aWNsZTcxNjg2NTk5LmVjZQ",
+   "date": "2026-11-11",
+   "title": "Caste and class: On OBC reservation",
+   "summary": "Exclusion of creamy layer is essential, but must be done consistently",
+   "link": "https://www.thehindu.com/opinion/editorial/caste-and-class-on-obc-reservation/article71686599.ece",
+   "source": "The Hindu",
+   "section": "Editorial",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2ODY5NzQuZWNl",
+   "date": "2026-11-11",
+   "title": "Producers welcome proposal for minimum sustainable price for tea",
+   "summary": "Tea Board of India has recommended a proposal to the Ministry of Commerce to implement minimum sustainable price (MSP) for tea. Several stake holders said that MSP is essential for long-term sustainability of the industry",
+   "link": "https://www.thehindu.com/news/national/west-bengal/producers-welcome-proposal-for-minimum-sustainable-price-for-tea/article71686974.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjg3MDA4LmVjZQ",
+   "date": "2026-11-11",
+   "title": "Bombay High Court declines request for hearing each day in quota petitions for Maratha reservation",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/maharashtra/bombay-high-court-declines-request-for-hearing-each-day-in-quota-petitions-for-maratha-reservation/article71687008.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2ODcxNDQuZWNl",
+   "date": "2026-11-11",
+   "title": "Bihar Cabinet hikes 3% DA for employees, pensioners",
+   "summary": "The Cabinet approved the “Bihar Ki Beti Startup Challenge Scheme”, under which, 2,100 female students may be provided benefits beginning from the current financial year",
+   "link": "https://www.thehindu.com/news/national/bihar/bihar-cabinet-hikes-3-da-for-employees-pensioners/article71687144.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjg2MTgzLmVjZQ",
+   "date": "2026-11-11",
+   "title": "‘AI-generated’ book purchase case: DMK’s Paranthamen moves Madras High Court seeking registration of FIR by DVAC",
+   "summary": "Says, he had lodged a complaint as early as on November 7, 2026 but the vigilance sleuths had not taken any action on his plaint",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/ai-generated-book-purchase-case-dmks-paranthamen-moves-madras-high-court-seeking-registration-of-fir-by-dvac/article71686183.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
   {
    "id": "ydGljbGU3MTY4NTYxMS5lY2U",
    "date": "2026-11-10",
@@ -249,6 +360,24 @@
    "section": "International",
    "topics": [
     "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY4NTk0MC5lY2U",
+   "date": "2026-11-10",
+   "title": "Andhra Pradesh weighs making father’s name optional in official documents",
+   "summary": "State consultation calls for a child-friendly policy to ensure that children of single parents, sex workers, divorced couples and orphans are not denied education, identity documents or welfare benefits",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-weighs-making-fathers-name-optional-in-official-documents/article71685940.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Polity & Governance"
    ],
    "gs": [
     "GS-2"
@@ -1254,6 +1383,25 @@
    "link": "https://www.livemint.com/economy/explainer-what-is-mawan-terminal-how-china-s-high-tech-ports-could-change-how-80-of-global-trade-moves-11794326327687.html",
    "source": "Mint",
    "section": "Economy",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjg3MzIyLmVjZQ",
+   "date": "2026-11-10",
+   "title": "NMDC said to be in talks with Russia’s Rosatom over lithium investments",
+   "summary": "Rosatom and Russian miner Nornickel, however, are developing the country’s largest lithium deposit through their PolarLithium joint venture, with commercial production expected to begin by 2030",
+   "link": "https://www.thehindu.com/business/nmdc-said-to-be-in-talks-with-russias-rosatom-over-lithium-investments/article71687322.ece",
+   "source": "The Hindu",
+   "section": "International",
    "topics": [
     "International Relations",
     "Economy"
