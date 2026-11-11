@@ -1,6 +1,112 @@
 {
- "updated": "2026-11-11T14:29:52.587Z",
+ "updated": "2026-11-11T21:56:10.964Z",
  "items": [
+  {
+   "id": "J0aWNsZTcxNjkwMzE0LmVjZQ",
+   "date": "2026-11-12",
+   "title": "Kerala High Court orders government to ready adequate medicines, vehicles at mental health centres by November 24",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/kerala/kerala-high-court-orders-government-to-ready-adequate-medicines-vehicles-at-mental-health-centres-by-november-24/article71690314.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjkwNTA5LmVjZQ",
+   "date": "2026-11-12",
+   "title": "Consultations with Governor ongoing to arrive at agreement over V-C appointment: Higher Education Minister",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/consultations-with-governor-ongoing-to-arrive-at-agreement-over-v-c-appointment-higher-education-minister/article71690509.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY5MDkxNi5lY2U",
+   "date": "2026-11-12",
+   "title": "Madras High Court reserves orders in cases challenging NGT’s construction ban on 1 km radius around Pallikaranai marshland",
+   "summary": "Chief Justice Sushrut Arvind Dharmadhikari and Justice G. Arul Murugan defer their verdict without mentioning a date when the orders would be pronounced",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-reserves-orders-in-cases-challenging-ngts-construction-ban-on-1-km-radius-around-pallikaranai-marshland/article71690916.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTEyMjIuZWNl",
+   "date": "2026-11-12",
+   "title": "Norwegian journalist Helle Lyng says she has been stopped from coming to Hyderabad for Bharat Summit",
+   "summary": "Ms. Lyng says she has been denied entry into India despite having a visa",
+   "link": "https://www.thehindu.com/news/national/norwegian-journalist-helle-lyng-says-she-has-been-stopped-from-coming-to-hyderabad-for-bharat-summit/article71691222.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjkwNzE0LmVjZQ",
+   "date": "2026-11-12",
+   "title": "APSCHE launches digital portal for accessible, self-paced learning",
+   "summary": "‘Vidya Vahini’ aims to provide accessible, flexible and quality-assured online learning opportunities for students and the faculty across higher education institutions",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/apsche-launches-digital-portal-for-accessible-self-paced-learning/article71690714.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTAzNDguZWNl",
+   "date": "2026-11-12",
+   "title": "Visions of the future: On this year’s Booker Prize",
+   "summary": "This year’s Booker Prize betrays an anxiety about AI’s place in society",
+   "link": "https://www.thehindu.com/opinion/editorial/visions-of-the-future-on-this-years-booker-prize/article71690348.ece",
+   "source": "The Hindu",
+   "section": "Editorial",
+   "topics": [
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
   {
    "id": "ydGljbGU3MTY4NjM0Mi5lY2U",
    "date": "2026-11-11",
@@ -373,6 +479,82 @@
    ],
    "gs": [
     "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY4OTkxMC5lY2U",
+   "date": "2026-11-11",
+   "title": "Drone industry needs deeper localisation as import dependence poses risks: DFI",
+   "summary": "The dependence on foreign-made motors, batteries, flight controllers, communication systems and rare earth magnets leaves the sector vulnerable to supply disruptions and export restrictions, cautions Smit Shah, president, Drone Federation India",
+   "link": "https://www.thehindu.com/news/national/karnataka/drone-industry-needs-deeper-localisation-as-import-dependence-poses-risks-dfi/article71689910.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjkwNzUwLmVjZQ",
+   "date": "2026-11-11",
+   "title": "India, France hold dialogues on economic security, space, technology",
+   "summary": "The two sides discuss supply chain vulnerabilities, critical technologies, cybersecurity and safeguarding strategic supplies, as part of the India-France Economic Security and Critical Technologies Dialogue",
+   "link": "https://www.thehindu.com/news/national/india-france-hold-dialogues-on-economic-security-space-technology/article71690750.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology",
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjkwOTQzLmVjZQ",
+   "date": "2026-11-11",
+   "title": "‘Iran will not allow enriched nuclear material to leave the country’",
+   "summary": "Rezaei has ‌said ⁠there are currently no negotiations taking place between Tehran ⁠and Washington",
+   "link": "https://www.thehindu.com/news/international/iran-will-not-allow-enriched-nuclear-material-to-leave-the-country/article71690943.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY5MDQ0MS5lY2U",
+   "date": "2026-11-11",
+   "title": "Central committee suggests three-year roadmap to phase out unsustainable sand mining from active river channels",
+   "summary": "In its report, the CEC observes that while sand and gravel are crucial ingredients for infrastructure and construction, their unscientific or excessive extraction from active channels and floodplains disrupts the delicate dynamic balance of river systems",
+   "link": "https://www.thehindu.com/news/national/central-committee-suggests-three-year-roadmap-to-phase-out-unsustainable-sand-mining-from-active-river-channels/article71690441.ece",
+   "source": "The Hindu",
+   "section": "Environment",
+   "topics": [
+    "Economy",
+    "Geography & Disasters",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-1",
+    "Prelims"
    ],
    "score": 3,
    "important": false
@@ -806,6 +988,131 @@
    "gs": [
     "GS-3",
     "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY5MDg4OC5lY2U",
+   "date": "2026-11-11",
+   "title": "Government extends micro credit guarantee scheme for five years",
+   "summary": "Collateral-free loans have created a whole new generation of entrepreneurs who previously could not avail loans from the formal banking system",
+   "link": "https://www.thehindu.com/news/national/government-extends-micro-credit-guarantee-scheme-for-five-years/article71690888.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY5MDU5Ni5lY2U",
+   "date": "2026-11-11",
+   "title": "Stop penalising farmers for stubble burning, says RSS body",
+   "summary": "Bharatiya Kisan Sangh hails Supreme Court’s observations, seeks withdrawal of fines and FIRs against farmers",
+   "link": "https://www.thehindu.com/news/national/stop-penalising-farmers-for-stubble-burning-says-rss-body/article71690596.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjkwNzkzLmVjZQ",
+   "date": "2026-11-11",
+   "title": "KTR accuses Congress, BJP of neglecting Telangana farmers’, seeks pending Rythu Bandhu dues, drought relief",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/telangana/ktr-accuses-congress-bjp-of-neglecting-telangana-farmers-seeks-pending-rythu-bandhu-dues-drought-relief/article71690793.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTEwNDAuZWNl",
+   "date": "2026-11-11",
+   "title": "German military to stop using Chinese-made drones, citing security concerns",
+   "summary": "Drones from Chinese manufacturers had previously been permitted as a cost-effective option for target practice and training purposes; they will now be replaced with European products",
+   "link": "https://www.thehindu.com/news/international/german-military-to-stop-using-chinese-made-drones-citing-security-concerns/article71691040.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTEwMjIuZWNl",
+   "date": "2026-11-11",
+   "title": "DR Congo Ebola outbreak exceeds 11,000 cases, causes 5,387 deaths",
+   "summary": "The 17th outbreak of the virus in the DRC's history was officially declared in May, but experts believe it emerged weeks or even months earlier",
+   "link": "https://www.thehindu.com/news/international/dr-congo-ebola-outbreak-exceeds-11000-cases-causes-5387-deaths/article71691022.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjkwODUzLmVjZQ",
+   "date": "2026-11-11",
+   "title": "COP31 leaders urge focus on climate action despite global conflicts",
+   "summary": "Negotiators from nearly 200 countries are seeking agreement at COP31 on a proposal from Turkey to increase the share of electricity in global ‌energy use and revive stalled efforts to move away from fossil fuels",
+   "link": "https://www.thehindu.com/news/international/war-conflict-must-not-distract-from-climate-action-leaders-warn-cop31/article71690853.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "dVNFFXTXdNVUZUTUE_b2M9NQ",
+   "date": "2026-11-11",
+   "title": "Why Sonia Gandhi chose a Milan hospital over Tata Memorial for cancer surgery",
+   "summary": "Why Sonia Gandhi chose a Milan hospital over Tata Memorial for cancer surgery The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVHpZeElJZk16TjlGNzRhYkFvWFRHUDZYbHFoRnY2TDQ4QzNjV1JBWWRIYVVaU0ZKQ0RwS0N2eF9kT1ptWFFmX2t2cjJZRFRUMGNuZVllVjNLc2RMX3pnVmNZelpPWmtwZi11dWg2QTFTdjZPNC1uV194VDhlRkticEhMcm4tYkdBTGlRUGpERER3ZVNkbXMtbGUwdGh3RTZvbnM4YzMyZm9qN1l6SThuSVhPbzLSAbsBQVVfeXFMUG1tNFlfSkNrN0FfazFEWWFLNmdnVlJTRDh5dTFKdURNWWtpSjdRRkhhczJzTHRGZFdhdUhuaFBFdFpvblJuMWdPNkV0VHNqZkJ0T2FvTm1vSmF0T2hkZ1V0bWMxMFVUakFVZzJ2bWhBZkJqeE1ZdFE3X005YmFmellrNU15V216STEtdmtTTXNxN0Qyc3hlclFMZnNvVW1KVThNQUZYLXhzTjBFLVlqeVBtRWU4QWMwMUFTMA?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
    ],
    "score": 2,
    "important": false
