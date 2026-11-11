@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T06:14:47.806Z",
+ "updated": "2026-11-11T14:29:52.587Z",
  "items": [
   {
    "id": "ydGljbGU3MTY4NjM0Mi5lY2U",
@@ -13,6 +13,26 @@
     "Polity & Governance",
     "Economy",
     "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "cnRpY2xlNzE2ODg1MjkuZWNl",
+   "date": "2026-11-11",
+   "title": "How Nvidia CEO Jensen Huang's extramarital affair could cause collateral damage in Washington",
+   "summary": "Nvidia CEO Jensen Huang confronts a widening political and legal storm in Washington over an alleged extramarital affair and claims a former Megaspeed executive spied for China, as federal investigators probe export controls and possible national-security breaches tied to Nvidia’s chips in the high-stakes U.S.-China AI race",
+   "link": "https://www.thehindu.com/news/international/how-nvidia-ceo-jensen-huangs-extramarital-affair-could-cause-collateral-damage-in-washington/article71688529.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Economy",
+    "Science & Technology"
    ],
    "gs": [
     "GS-2",
@@ -37,6 +57,106 @@
    "gs": [
     "GS-2",
     "Prelims"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY5MDI5Ny5lY2U",
+   "date": "2026-11-11",
+   "title": "Netanyahu dismisses claims that Israel blocking supplies to Gaza",
+   "summary": "Benjamin Netanyahu said the Palestinian militant group Hamas is to blame because it continues to refuse to disarm, a condition of the deal announced by Donald Trump, and seizes humanitarian aid in order to use it for military purposes",
+   "link": "https://www.thehindu.com/news/international/netanyahu-dismisses-claims-that-israel-blocking-supplies-to-gaza/article71690297.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjg4NjIxLmVjZQ",
+   "date": "2026-11-11",
+   "title": "Himalayas agenda left off COP31 formal list as major blocs withhold support: Nepal Foreign Minister",
+   "summary": "Nepal's Minister of Foreign Affairs, said that the three countries would continue to face challenges in getting the issue formally recognised without the support of major countries",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/himalayas-agenda-left-off-cop31-formal-list-as-major-blocs-withhold-support-nepal-foreign-minister/article71688621.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Environment & Ecology",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "ZGpSVUZMYzFkemRrZz9vYz01",
+   "date": "2026-11-11",
+   "title": "Karakoram-2026: How China and Pakistan are deepening military ties — and what it means for India",
+   "summary": "Karakoram-2026: How China and Pakistan are deepening military ties — and what it means for India The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZlAxbTFPZ21EY3hJSVRmNnlaNzBZTzhvbDcxQnl5Vk03TFI2LUl2YkRZdHk3N3plcXJVSjFfbTZ5QXk5ekZUZ2V5c3VXZlg0QVhDRnFGWndSQUVEcF9fM3RiZjhCZVZkczN0b1ctZDIxbkljclkxVThwRE5UTFJodmZXUkhNcHdGVHBFOTdJVXVhalpCV0pYZkd1MlBZWXlRU3hBREtxTWdSbFBtODJ1QVFB0gG4AUFVX3lxTFBHVXhkWHZpZzhQZEU0NEpNS2twNmlDdV9tSTNHRng0by1RanFTZkE0cHV4SXgxUm9idER4Wk9vSzFGZlBaNzFIQ3h2Zjh4UzY4bi1sQVRWUVlVQlQ0VHJqRjFYZ1lxQ2IxM29OMG9MazBXSmVSVlpWd2ItQVVWbUd3TWlRb0RQWkJIejdEeW5VUktmNDJxRXlza1RJMi1yaDZzTTM2SXdPWWplaU5fQkdjRUFLc1dzdkg?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "OURObmhWVkVOSFdWRT9vYz01",
+   "date": "2026-11-11",
+   "title": "What is China’s Singles’ Day, and how is AI changing the world’s biggest shopping festival?",
+   "summary": "What is China’s Singles’ Day, and how is AI changing the world’s biggest shopping festival? The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcWNqbnJUZUw5SmpJdG9hWW5SMzhhckp5U2I3UjBKMU5RcTdleGpsdkp1YVNZT3JZSV9ENV82OW1idjY2cThPLTZlLTUyZzVNSGR6Ri1CTFhVcTNzZHJaa1FrYkFhQnpYSGI5Mnk4QmpNNHh4Unp6bHFrSEtsZWlCRE1ORkRPZnp6UEtuMG9SckpMbDE2ZEtTX29Lc9IBogFBVV95cUxPT210RF9LN0xRX19RVVROTm1VVEJrc010RnJ3dFdfd1VDdXY4cmZqanlXTG9wcVFyRkg0ZlQwOE8zaTVDeEZ1RnA4eXpwajdsNTVnN2wzOGpwaWlzRmd2dTg2RzlGNXR4MjJaOFVVRDRMRG5oeEFIbFZPMFQtZDJ1UmR0WER6aHF2LTF1aXZEWkstbzN0MlR3Sk9DNnhVVENHWVE?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations",
+    "Science & Technology",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "MTc5NDM3NzE5NjY1MC5odG1s",
+   "date": "2026-11-11",
+   "title": "Scientific research and granular data key to tackling climate, food security challenges: PK Mishra",
+   "summary": "Mishra said climate change must no longer be viewed merely as an environmental concern because its implications extend to agricultural productivity, water availability, food prices, public health and livelihoods.",
+   "link": "https://www.livemint.com/economy/scientific-research-granular-data-climate-food-security-challenges-pk-mishra-11794377196650.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy",
+    "Environment & Ecology",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
    ],
    "score": 4,
    "important": false
@@ -164,6 +284,95 @@
    "gs": [
     "GS-3",
     "GS-1"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2ODY4NTQuZWNl",
+   "date": "2026-11-11",
+   "title": "Call to reinvent street theatre to connect with tribal communities",
+   "summary": "Thampu, a tribal collective working in Attappady and Wayanad, using tribal languages, folk songs, traditional art forms and local narratives to communicate health messages",
+   "link": "https://www.thehindu.com/news/national/kerala/call-to-reinvent-street-theatre-to-connect-with-tribal-communities/article71686854.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjg4NTc1LmVjZQ",
+   "date": "2026-11-11",
+   "title": "Government bars export of lithium-ion battery waste and scrap containing black mass",
+   "summary": "Black mass, the particulate powdered mixture recovered during the recycling of lithium-ion batteries, is particularly essential for India's electronics and electric vehicle as well as renewable energy storage ecosystem",
+   "link": "https://www.thehindu.com/business/govt-prohibits-export-of-unsorted-lithium-ion-batterywaste-scrap/article71688575.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology",
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY4OTI2Ny5lY2U",
+   "date": "2026-11-11",
+   "title": "Russia, Ukraine agree to major prisoner swap after U.S.-brokered talks in Abu Dhabi",
+   "summary": "The two sides have exchanged thousands of captured soldiers throughout the almost five-year war, started by Russia’s 2022 invasion",
+   "link": "https://www.thehindu.com/news/international/russia-ukraine-agree-to-prisoner-swap-at-us-brokered-talks/article71689267.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY2OTQ2MS5lY2U",
+   "date": "2026-11-11",
+   "title": "Anaemia prevention in India: pivoting towards better multidimensional strategies",
+   "summary": "If anaemia reduction should align with India’s goals for NCD reduction, then the focus must be on better diets through diversification. That should be non-negotiable for public health policy: no amount of papering over cracks with pills and potions will work in the long term",
+   "link": "https://www.thehindu.com/sci-tech/health/anaemia-prevention-in-india-pivoting-towards-better-multidimensional-strategies/article71669461.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Health & Social Issues",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "xNzk0Mzc1MjkwMzgxLmh0bWw",
+   "date": "2026-11-11",
+   "title": "How the government finance math looks more challenging in H2 FY27",
+   "summary": "The Centre’s fiscal position has weakened in H1 FY27 compared to previous years, but remained within manageable limits. The second half could prove more challenging as the dividend cushion may fade and the pace of spending and income tax collections needed to meet Budget targets has to be stronger.",
+   "link": "https://www.livemint.com/economy/india-fiscal-deficit-dividend-cushion-disinvestment-risks-11794375290381.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
    ],
    "score": 3,
    "important": false
@@ -414,6 +623,189 @@
    ],
    "gs": [
     "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY4OTU2Ny5lY2U",
+   "date": "2026-11-11",
+   "title": "The Hindu in School Science Festival and Maths Olympiad 2026 in Hassan and Madikeri",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/karnataka/the-hindu-in-school-science-festival-and-maths-olympiad-2026-in-hassan-and-madikeri/article71689567.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2ODk3NzAuZWNl",
+   "date": "2026-11-11",
+   "title": "Dalit leaders threaten to launch agitation against Kanheri seer",
+   "summary": "They condemn the seer’s statement on Manusmruti and the Constitution",
+   "link": "https://www.thehindu.com/news/national/karnataka/dalit-leaders-threaten-to-launch-agitation-against-kanheri-seer/article71689770.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2ODg5NTAuZWNl",
+   "date": "2026-11-11",
+   "title": "Mafia rule prevails ‘at every level’ in Bihar, says Tejashwi Yadav",
+   "summary": "‘There is no such thing as governance in Bihar,’ RJD leader alleges in a long social media post targeting the BJP’s Samrat Choudhary as an ‘inept, criminally inclined Chief Minister, resulting in a state of anarchy and disarray’",
+   "link": "https://www.thehindu.com/news/national/bihar/mafia-rule-prevails-at-every-level-in-bihar-claims-rjds-tejashwi-yadav/article71688950.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY4OTQ3MC5lY2U",
+   "date": "2026-11-11",
+   "title": "Keralam government rolls out drought preparedness measures ahead of summer",
+   "summary": "Statutory committees chaired by MLAs will be constituted in every Assembly constituency to coordinate drought mitigation efforts and address water supply issues within a fixed time frame",
+   "link": "https://www.thehindu.com/news/national/kerala/keralam-government-rolls-out-drought-preparedness-measures-ahead-of-summer/article71689470.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2ODkwMTguZWNl",
+   "date": "2026-11-11",
+   "title": "CPI(M) seeks reimbursement of poll expenses, staff allowances",
+   "summary": "Party urges State Election Commission to address pending payments to panchayat secretaries and ensure adequate facilities for personnel deployed for gram panchayat polls",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/cpim-seeks-reimbursement-of-poll-expenses-staff-allowances/article71689018.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTAxNTYuZWNl",
+   "date": "2026-11-11",
+   "title": "Kolkata-Sairang Express derails a day after Northeast Frontier Railway chief inspects track",
+   "summary": "Safety experts have raised questions about the quality of the inspection and operational alertness, saying that such exercises should not be conducted merely as routine formalities",
+   "link": "https://www.thehindu.com/news/national/west-bengal/kolkata-sairang-express-derails-a-day-after-northeast-frontier-railway-chief-inspects-track/article71690156.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2ODg4NDEuZWNl",
+   "date": "2026-11-11",
+   "title": "Iran says tanker struck mine, caught fire in Hormuz",
+   "summary": "The American military recently claimed all mines had been cleared from the strait",
+   "link": "https://www.thehindu.com/news/international/iran-says-tanker-struck-mine-caught-fire-in-hormuz/article71688841.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2ODg4NDQuZWNl",
+   "date": "2026-11-11",
+   "title": "Moody’s ups India’s FY27 growth estimate to 7% on broad-based momentum",
+   "summary": "Robust consumption, improving investment dynamics and strong macroeconomic fundamentals imply that the economy appears well positioned to sustain growth near 7% over the medium term, Moody's said",
+   "link": "https://www.thehindu.com/business/Economy/moodys-ups-indias-fy27-growth-estimate-to-7-on-broad-based-momentum/article71688844.ece",
+   "source": "The Hindu",
+   "section": "Economy",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "VTmtjblp6VWt0T2N3P29jPTU",
+   "date": "2026-11-11",
+   "title": "Delhi air pollution: How cloud seeding works — and doesn’t work",
+   "summary": "Delhi air pollution: How cloud seeding works — and doesn’t work The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbXdaMmRaMjRkcTRCVkJKVDdNQ3dDM0xnSUZua1hxUHV5Tm10QXhsa0xKLUlqV1cySUEtZnFrcUV4TXNxeWpDcG5jSXVHUVZ2VjNyMTg5UkNoaGEwcXM3VWYycFRuZEtrczJzTTVJN1lfTDFlMXZSYWZXTS1EMEpFa1F1M043MlVwczBYSHVlZnQ0OTdVb2JOZ2tCMkt4SGdlcG1pajRSN1FkZ1JNWG14OG12WGtKQVBCa0ViR1NrNUdwNnNhZUNvdEl4Y1jSAdMBQVVfeXFMTXZ2R2xENUZzTEhyM1ZZNk0zWkczNTktaDdxdm81NFNHVGtPdFdoMXFEQ2Q1ZUdZQjhRQzBISkg3bjB1VTdHa1ZFM2dDWHp6akwzU09rWVBPNVpJaml5OGxEdlpEWnQtMDF6WmRjdTl1Ml83TmxTUTNlWmM1RnM5Vy1LT1hTZkpkVzNDUHZVMXZSenJ3MThpYWpVX0lCNkdEd1lxb2dXVmdNS1UwVFYyQUZSWW5uNUxBWW1JcmZaTHJGOEtnUTJTcGFMUUNkcnZzUktOcw?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "E3OTQzODY1MTA0OTIuaHRtbA",
+   "date": "2026-11-11",
+   "title": "Moody's ups India's FY27 growth forecast to 7% on strong economic momentum, warns of risks",
+   "summary": "Moody's has raised India's FY27 growth forecast to 7% from 6.5%, citing strong economic momentum and resilience to energy shocks. However, it flagged inflationary pressures, a deficient monsoon and rising El Niño risks as potential threats to growth.",
+   "link": "https://www.livemint.com/economy/moodys-ups-indias-fy27-growth-forecast-to-7-on-strong-economic-momentum-warns-of-risks-11794386510492.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-1"
    ],
    "score": 2,
    "important": false
