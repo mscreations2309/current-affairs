@@ -1,6 +1,118 @@
 {
- "updated": "2026-11-11T21:56:10.964Z",
+ "updated": "2026-11-12T02:57:40.711Z",
  "items": [
+  {
+   "id": "ydGljbGU3MTY5MDM5MC5lY2U",
+   "date": "2026-11-12",
+   "title": "CII Partnership Summit: Andhra CM Naidu makes investment pitch before UAE, Japanese delegations",
+   "summary": "Naidu invites UAE to invest in food, maritime and aerospace sectors and discusses skill development, critical minerals, steel industry and green energy with Japanese Ambassador",
+   "link": "https://www.thehindu.com/news/cities/Visakhapatnam/cii-partnership-summit-andhra-cm-naidu-makes-investment-pitch-before-uae-japanese-delegations/article71690390.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Geography & Disasters",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1",
+    "GS-3"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "J0aWNsZTcxNjkyMTc5LmVjZQ",
+   "date": "2026-11-12",
+   "title": "Israeli strike on southern Gaza hospital kills five, Gaza civil defence says",
+   "summary": "Israel, which has stepped up its attacks ⁠on the enclave, says Hamas is trying to regroup and refill its arsenal. ‌Hamas says it is committed to a year-old ceasefire agreement and accuses Israel of trying to undermine it",
+   "link": "https://www.thehindu.com/news/international/israeli-strike-on-southern-gaza-hospital-kills-five-gaza-civil-defence-says/article71692179.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "xNzk0Mzg5MzMyOTk1Lmh0bWw",
+   "date": "2026-11-12",
+   "title": "'New state law to shield investors in Andhra Pradesh'",
+   "summary": "Andhra Pradesh is planning an Investment Protection Act and escrow accounts to reassure investors about policy continuity and incentives. Chief minister Chandrababu Naidu also has plans for further investment, and reforms aimed at accelerating business and economic growth.",
+   "link": "https://www.livemint.com/economy/new-state-law-to-shield-investors-in-andhra-pradesh-chandrababu-naidu-11794389332995.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Polity & Governance",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjg5ODc2LmVjZQ",
+   "date": "2026-11-12",
+   "title": "NTR Health University scrutinises 1,622 applications for UG research programme",
+   "summary": "NTRUHS to earmark 10 to 25 grants from a pool of 200 Faculty Research Grants for PG students undertaking research projects independently of their mandatory dissertations",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/ntr-health-university-scrutinises-1622-applications-for-ug-research-programme/article71689876.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2ODkxNTcuZWNl",
+   "date": "2026-11-12",
+   "title": "Public concerns persist over poor air quality levels in Edayar industrial area",
+   "summary": "Elected representatives and residents of wards near Edayar industrial area raise concerns over continuing odour and air pollution with the Chief Minister; probe initiated, says Environment Surveillance Centre of the PCB in Eloor",
+   "link": "https://www.thehindu.com/news/national/kerala/public-concerns-persist-over-poor-air-quality-levels-in-edayar-industrial-area/article71689157.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTE0MDcuZWNl",
+   "date": "2026-11-12",
+   "title": "Trump defends Iran war in Veterans Day address",
+   "summary": "Mr. Trump said in his remarks that the conflict was started not by Washington but by Tehran, which “has been waging war on America since 1979”",
+   "link": "https://www.thehindu.com/news/international/usa-president-donald-trump-veterans-day-address-iran-war/article71691407.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
   {
    "id": "J0aWNsZTcxNjkwMzE0LmVjZQ",
    "date": "2026-11-12",
@@ -103,6 +215,75 @@
    ],
    "gs": [
     "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY4ODk3NS5lY2U",
+   "date": "2026-11-12",
+   "title": "Environmental, social costs of Vizhinjam port railway tunnel to be higher than anticipated",
+   "summary": "The proposed tunnel between Balaramapuram and Vizhinjam to provide rail connectivity to Vizhinjam International Seaport has triggered serious environmental and land stability concerns in the region",
+   "link": "https://www.thehindu.com/news/national/kerala/environmental-social-costs-of-vizhinjam-port-railway-tunnel-to-be-higher-than-anticipated/article71688975.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY4OTQyNy5lY2U",
+   "date": "2026-11-12",
+   "title": "State Highways to open FOB to connect railway station and bus terminus in Tiruvannamalai",
+   "summary": "Collector Vandhana Garg will inspect the new facility in the coming days before the bridge is opened for public use",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/state-highways-to-open-fob-to-connect-railway-station-and-bus-terminus-in-tiruvannamalai/article71689427.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTIxMzguZWNl",
+   "date": "2026-11-12",
+   "title": "Nvidia preparing to oust CEO Jensen Huang: U.S. media",
+   "summary": "The New York Times reported that Jensen Huang was also involved in a second extramarital affair, with Nvidia's vice-president of health care, Kimberly Powell",
+   "link": "https://www.thehindu.com/news/international/nvidia-preparing-to-oust-ceo-jensen-huang-us-media/article71692138.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "CMmNGRkZabFk1VVdjP29jPTU",
+   "date": "2026-11-12",
+   "title": "Deepinder Goyal’s Temple: Can a wearable really measure blood flow inside your brain?",
+   "summary": "Deepinder Goyal’s Temple: Can a wearable really measure blood flow inside your brain? The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWlUybEN5T3ZzQk1KSzY4LXZhZkdNck9ITGtERVEwUVFKUEdtQ29ZZ1pJd0NJRFBBSGtwc1d6Tlp6M1A2bUNPNTZudVFkZVRPMHdBZHhCaEtuekc3bzVxUTNxNEo1WDh2cFczV1VucmMxaG1OOVAwT0Z2eFVxNGRzVDlRdVRpeEtiVnNVbzhObmpNVi1KZm11UkxvRTdXT3VRbkt2eDNidkJ6SWJpdnhhaDk1RWFuTHowRGJ6NTNNZHhPVHpHWWVDNmFlNlpUMjM0S2JoRtIB2wFBVV95cUxNVHpNNDdQZ3d4NkFHcW5uRE1VcWIxd2NKN3pVTkpRX21OXzlhMnhIdy1nWEx0RGZ4bzJya2FYYWJVZlBISjlFQ1pSaHFUV1NwMzFoVHN6ZG8xbWhFaXZlMmxBOWRjdGJXLUE1MENGNnZfSG5PbFROMXNrRDBKbUZPN3ZvZ0VRZVEwcF9NNkNKWW9UZVJzdzkxUk80QXVwM2p0OVl3M0o1NUNCa2pRV0d2X2dwLWVBRFBac2hEeVU3UWxnUlQ4X2k4LTRORHlla0dRWDB2cFFFZlY5UWc?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-1"
    ],
    "score": 2,
    "important": false
