@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T11:04:00.590Z",
+ "updated": "2026-11-12T18:54:10.087Z",
  "items": [
   {
    "id": "ydGljbGU3MTY5MDM5MC5lY2U",
@@ -38,6 +38,26 @@
    "gs": [
     "GS-2",
     "GS-3"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "J0aWNsZTcxNjk1MDM5LmVjZQ",
+   "date": "2026-11-12",
+   "title": "India records 38% drop in TB mortality since 2015: WHO report",
+   "summary": "World Health Organization’s Global Tuberculosis Report 2026 showed a total of 1.13 million people died from tuberculosis last year",
+   "link": "https://www.thehindu.com/news/national/india-records-38-drop-in-tb-mortality-since-2015-who-report/article71695039.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "International Relations",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
    ],
    "score": 5,
    "important": true
@@ -114,6 +134,103 @@
     "GS-2",
     "GS-3",
     "GS-1"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTQyOTEuZWNl",
+   "date": "2026-11-12",
+   "title": "DRDL Director highlights importance of indigenous research",
+   "summary": "Signing an MoU with Siddhartha Academy of Higher Education, Ankathi Raju urges students and faculty to actively take up research activities, innovation and technology development to contribute towards national missions",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/drdl-director-highlights-importance-of-indigenous-research/article71694291.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTQwNTMuZWNl",
+   "date": "2026-11-12",
+   "title": "Vizag CII Summit: ReNew to invest ₹80,000 crore in green data centre, solar manufacturing in Andhra Pradesh",
+   "summary": "Investments include a ₹67,000-crore Green Hyperscale Data Centre in Anakapalli, ₹11,000-crore polysilicon and metallurgical silicon manufacturing facilities in Anakapalli and Nellore; and ₹1,500-crore permanent magnet manufacturing facility in Rambilli",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/vizag-cii-summit-renew-to-invest-80000-crore-in-green-data-centre-solar-manufacturing-in-andhra-pradesh/article71694053.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "International Relations",
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTQxMDAuZWNl",
+   "date": "2026-11-12",
+   "title": "Centre sanctions new roads, infrastructure along China’s border",
+   "summary": "The Indo-Tibetan Border Police sanctions the construction of 15 pedestrian suspension bridges and 18 log bridges in Arunachal Pradesh; CCS clears 26 new roads as part of ICBR-III",
+   "link": "https://www.thehindu.com/news/national/centre-sanctions-new-roads-infrastructure-along-chinas-border/article71694100.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Economy",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjk0MDk5LmVjZQ",
+   "date": "2026-11-12",
+   "title": "How is seeking assistance from Centre anti-people, A.P. Health Minister asks YSRCP president",
+   "summary": "Union government introduced VGF scheme to encourage private investment in creation of healthcare infrastructure, including medical colleges, across the country, and it agreed to provide aid for five medical colleges in A.P., says Minister for Health Satya Kumar Yadav in a letter to Jagan Mohan Reddy",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/how-is-seeking-assistance-from-centre-anti-people-ap-health-minister-asks-ysrcp-president/article71694099.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTM1MDMuZWNl",
+   "date": "2026-11-12",
+   "title": "Retail inflation crosses RBI’s upper limit for first time in two years, comes in at 6.1% in October 2026",
+   "summary": "The Consumer Price Index saw almost all categories hit series highs as inflation spread across sectors of the economy",
+   "link": "https://www.thehindu.com/business/Economy/retail-inflation-crosses-rbis-upper-limit-for-first-time-in-two-years-comes-in-at-61-in-october-2026/article71693503.ece",
+   "source": "The Hindu",
+   "section": "Economy",
+   "topics": [
+    "Economy",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "Prelims"
    ],
    "score": 4,
    "important": false
@@ -279,6 +396,152 @@
    ],
    "gs": [
     "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjk0OTc0LmVjZQ",
+   "date": "2026-11-12",
+   "title": "India-EU FTA will be a game changer, says German envoy",
+   "summary": "‘My focus is to enhance and deepen the strategic partnership between India and Germany and military cooperation and defence industrial cooperation play a huge role in that partnership,’ says Jasper Wieck",
+   "link": "https://www.thehindu.com/news/national/india-eu-fta-will-be-a-game-changer-says-german-envoy/article71694974.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Internal Security & Defence",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTQ0MTguZWNl",
+   "date": "2026-11-12",
+   "title": "No compromise with Ukraine, Putin indicates to U.S. envoys during talks",
+   "summary": "The Russian President proposes a short-term ceasefire in a key frontline city in Donetsk; he also rules out agreeing to foreign troops being stationed in Ukraine",
+   "link": "https://www.thehindu.com/news/international/us-envoys-meet-putin-at-kremlin-following-ukraine-talks-in-abu-dhabi/article71694418.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTUxMDMuZWNl",
+   "date": "2026-11-12",
+   "title": "Trump says U.S. does not ‘need a deal with Iran’",
+   "summary": "His comments came shortly after the Wall Street Journal reported that Vice-President J.D. Vance was mulling face-to-face talks with a top Iranian security official",
+   "link": "https://www.thehindu.com/news/international/trump-says-us-does-not-need-a-deal-with-iran/article71695103.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY5MzU0Ny5lY2U",
+   "date": "2026-11-12",
+   "title": "Why RBI wants to cap select overseas remittances at ₹50 Lakh to save rupees | Explained",
+   "summary": "The RBI has reportedly proposed a ₹50 lakh sub-limit within the ₹2,50,000 annual Liberalised Remittance Scheme cap to curb dollar outflows and protect the rupee",
+   "link": "https://www.thehindu.com/business/Economy/why-rbi-wants-to-cap-select-overseas-remittances-at-50-lakh-to-save-rupees-explained/article71693547.ece",
+   "source": "The Hindu",
+   "section": "Economy",
+   "topics": [
+    "Economy",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2Nzc2MDcuZWNl",
+   "date": "2026-11-12",
+   "title": "A disease rooted in social and economic vulnerability can only be eliminated as underlying systems become stronger: Dhun Davar",
+   "summary": "Dhun Davar, deputy CEO & chief of programmes, Asian Venture Philanthropy Network spoke to The Hindu about the challenges in the TB elimination programme",
+   "link": "https://www.thehindu.com/sci-tech/health/a-disease-rooted-in-social-and-economic-vulnerability-can-only-be-eliminated-as-underlying-systems-become-stronger-dhun-davar/article71677607.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Health & Social Issues",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "XYms1WU5UaFRjMnRSP29jPTU",
+   "date": "2026-11-12",
+   "title": "Global carbon emissions are set to fall. Why are India’s emissions projected to rise?",
+   "summary": "Global carbon emissions are set to fall. Why are India’s emissions projected to rise? The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQM0tOMkpEM2dvWkhGOHBJbjZSN2YyR3VXcTZ1OWFrNXR2Sml3SUs3NVVHdXVTZEM0WmFibUgxMnp1YUczakxjNTVGNV9EWWdMUVpERnUxWGQ1V2o5N0RIaEx2RmVrQTItSXlYaHN0SFNva2RuUmozaG8xS1NjRTgwTlBCbDhKOHJKTERubU9CeU5KN1U0NzVrN3hBbjRJMXN2dy1jcEpkejlhTWhvYlRucGttdkZ6ME1RUWFQbEpPelAxS3d1YUVRM0FvY3Nhdlpzdk9V0gHaAUFVX3lxTE9Cb1ZIdXBVcENFeUN1TjFkSkNiTkRYYnQ1N0U3cllfQUZHd3g4eXZZcDE1SjN5Y1YyZ0Qtc0FYT0pNSmx1ZUF2LU91V3Y4N1FGWU5VYXZiMm83TW5udE8xZnVJbS1QbTdCTnhfMnZDLTFEdGpFRi1DMGJOWXJJUmFkdVpOZEo2TFZiZ083LTRMZmt2WmVJNmh2cnBGOTZ6SU9vYXBxLWxUQUpWTWtpT0VNVGxldmNJOV8yOTJfallGeHBLTXRobHBJZy1KeWlHQ2pWbk5YNThTc2tR?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ZGRExUWTBabGRVTkE_b2M9NQ",
+   "date": "2026-11-12",
+   "title": "Why New York schools are pushing back against Google’s AI, and what is at stake",
+   "summary": "Why New York schools are pushing back against Google’s AI, and what is at stake The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPME5sY0NnYlBtaE1nc0NERm9MNENtbXAxY2xMNVMwcUpZUnB0WHI5OU96VVEtWlFFekpRUUR6WHJQN1hUR2ZOUnk0UEFiSVo3VTZkZHhLVUloU0o5REJkdWk2UXFxTHRSOU1pZjdYdlZlQlVvR0J3RnMxRTYyWXhyeHJ1UmZwdzl0YkhPeGQ5UjFCekpKUnRvblFMUkc3LVZucTFlWnVnaVhFcHJZX1ExWWk3TjPSAbsBQVVfeXFMUFNOWEp2bUtMRmVxM3piRTZyZk5iWXhkSWpoR3I3bTd4QUp3RHVSMEJtUFh0bWRrS1Zyb0dCNWZZQ0VsbzBENkxLME1sVzI1TURmYnh6UDI5VXhMREhhekJQRFhWYUFYZUNzZVZiLWt4WFViU2k1eUxobVdFM2lnNmZuVC1YZXVwVnM1RkRCNUl6eDk0X3J0aFhwLXlwVHNJel9tQmxpYXVtcWVsZFQzcGhyNVFDLTY0ZldUNA?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "xNzk0NDY3NzI0NDg1Lmh0bWw",
+   "date": "2026-11-12",
+   "title": "Retail inflation hits 6.09% in October, crosses RBI's upper tolerance limit",
+   "summary": "A Mint poll of 15 economists had estimated the consumer price index (CPI)-based inflation to rise to a two-year high of 6% in October.",
+   "link": "https://www.livemint.com/economy/cpi-retail-inflation-october-india-rbi-target-food-price-inflation-11794467724485.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "Prelims"
    ],
    "score": 3,
    "important": false
@@ -659,6 +922,260 @@
    ],
    "gs": [
     "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjk0ODEyLmVjZQ",
+   "date": "2026-11-12",
+   "title": "Ladakh civil society group begins protest over Home Ministry failure to hold talks",
+   "summary": "It opposes holding of hill council elections at the peak of winter; climate activist Sonam Wangchuk put under house arrest and disallowed to join the protest",
+   "link": "https://www.thehindu.com/news/national/ladakh/ladakh-civil-society-group-begins-protest-over-home-ministry-failure-to-hold-talks/article71694812.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTQyNzIuZWNl",
+   "date": "2026-11-12",
+   "title": "India undergoing massive transformation in renewable energy: Earthshot Prize CEO",
+   "summary": "“There is a race on right now. The first country that can have access to cheap, clean and abundant energy, is going to have a huge economic advantage. And India knows that,” says Jason Knauf",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/india-undergoing-massive-transformation-in-renewable-energy-earthshot-prize-ceo/article71694272.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjk1MDEzLmVjZQ",
+   "date": "2026-11-12",
+   "title": "Siddhasiri cooperative society urges people not to panic following reports over its financial health",
+   "summary": "We have given convincing responses to the Central Registrar of Cooperative Societies, says society",
+   "link": "https://www.thehindu.com/news/national/karnataka/siddhasiri-cooperative-society-urges-people-not-to-panic-following-reports-over-its-financial-health/article71695013.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY5NDYzMy5lY2U",
+   "date": "2026-11-12",
+   "title": "Hyderabad Police launch AI platform to map accused persons and criminal networks",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/telangana/hyderabad-police-launch-ai-platform-to-map-accused-persons-and-criminal-networks/article71694633.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjk0NjYyLmVjZQ",
+   "date": "2026-11-12",
+   "title": "OBC associations call for protest at Ramlila Maidan demanding drop-down for all castes in 2027 Census",
+   "summary": "The Centre will be enumerating caste through an open column for everyone apart from SCs and STs during the Population Enumeration phase of the 2027 Census, which yielded over 46 lakh caste names during 2011 SECC",
+   "link": "https://www.thehindu.com/news/national/obc-associations-call-for-protest-at-ramlila-maidan-demanding-drop-down-for-all-castes-in-2027-census/article71694662.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY5MzgxOC5lY2U",
+   "date": "2026-11-12",
+   "title": "Government planning special Session to clear Delimitation Bill; Congress calls it a ‘bluster’",
+   "summary": "Sources in the government said the Centre is confident of the numbers, of having “at least 15-16 more votes than needed”, but did not disclose the dates or duration of the proposed Session",
+   "link": "https://www.thehindu.com/news/national/government-planning-special-session-to-clear-delimitation-bill-congress-calls-it-a-bluster/article71693818.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY5NTEwMC5lY2U",
+   "date": "2026-11-12",
+   "title": "No need for Opposition approval to launch strikes, says Israel’s Katz",
+   "summary": "Opposition leader Gadi Eisenkot urged caretaker PM Netanyahu to show restraint, warning that force without a “direct and immediate threat” could have “disastrous consequences for Israeli democracy and citizens’ trust”",
+   "link": "https://www.thehindu.com/news/international/no-need-for-opposition-approval-to-launch-strikes-says-israels-katz/article71695100.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY5MzMxNi5lY2U",
+   "date": "2026-11-12",
+   "title": "Venezuela tells COP31 it has sovereign right to pump more oil",
+   "summary": "Venezuela’s Acting President ​Delcy Rodriguez’s comments at the UN ‌talks on Turkiye’s Mediterranean coast jar with efforts by other conference leaders to convince global governments to accelerate a ‌shift from carbon-emitting fossil fuels",
+   "link": "https://www.thehindu.com/news/international/venezuela-tells-cop31-it-has-sovereign-right-to-pump-more-oil/article71693316.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTQ5MDcuZWNl",
+   "date": "2026-11-12",
+   "title": "CAG widens purview of power sector audit, starting with DISCOMs; consumer satisfaction in focus",
+   "summary": "Officials stated that DISCOMs would be evaluated for their performance over a five-year period, following by transmission, generation, renewable energy and RDSS.",
+   "link": "https://www.thehindu.com/business/Industry/cag-widens-purview-of-power-sector-audit-starting-with-discoms-consumer-satisfaction-in-focus/article71694907.ece",
+   "source": "The Hindu",
+   "section": "Economy",
+   "topics": [
+    "Polity & Governance",
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTQwNTAuZWNl",
+   "date": "2026-11-12",
+   "title": "New shark species identified in Indian Ocean after decades of misclassification",
+   "summary": "The researchers identified the species Indian Bramble Shark, named Echinorhinus roinee",
+   "link": "https://www.thehindu.com/sci-tech/science/new-shark-species-identified-in-indian-ocean-after-decades-of-misclassification/article71694050.ece",
+   "source": "The Hindu",
+   "section": "Science",
+   "topics": [
+    "Environment & Ecology",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2ODU0NzMuZWNl",
+   "date": "2026-11-12",
+   "title": "On COP31 and Indonesia’s forest fires | Green Humour by Rohan Chakravarty",
+   "summary": "",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/on-cop31-and-indonesias-forest-fires-green-humour-by-rohan-chakravarty/article71685473.ece",
+   "source": "The Hindu",
+   "section": "Environment",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTM2NjguZWNl",
+   "date": "2026-11-12",
+   "title": "Study suggests not all obesity means ill-health",
+   "summary": "The study follows a proposal last year from experts and medical organisations to move obesity diagnosis beyond just body mass index (BMI), based on a person’s weight and height, to include body fat and broader health",
+   "link": "https://www.thehindu.com/sci-tech/health/study-suggests-not-all-obesity-means-ill-health/article71693668.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Health & Social Issues",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjgxNzA3LmVjZQ",
+   "date": "2026-11-12",
+   "title": "What polluted air adds to India’s rising blood sugar",
+   "summary": "India’s blood-sugar readings are climbing, and studies from Tamil Nadu and Delhi link type 2 diabetes to dirty air, outdoors and in smoky kitchens, inside. In a year when cooking gas ran short, however, the national health survey left clean cooking fuel out of its fact sheets. The link is there, the data is missing",
+   "link": "https://www.thehindu.com/sci-tech/health/what-polluted-air-adds-to-indias-rising-blood-sugar/article71681707.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Health & Social Issues",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "FzYUU1blQxTTRiM2M_b2M9NQ",
+   "date": "2026-11-12",
+   "title": "Jensen Huang resigns: Why his exit from Nvidia will be a test for the AI boom",
+   "summary": "Jensen Huang resigns: Why his exit from Nvidia will be a test for the AI boom The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObTg5TXNIaGRPUnJ3dkY5UjQwcXoxSDJGY2dXMDkyYjdiNG1OMEUwdU5TQjFyazB6SDdvd2hqTGhQb09VZlJ5S2xIUzJiRURMM010VW5rQXhtelhUUkRKWWVmVVA4RmRjUk9XaTRtMW9UdGRnQVBvckZ2aUsxS2p4NVpISi14Ni1yUjRGNTFubGtsSEtKNUxTVXlRR2NFS0h4OUdCaVRURDdRRjZHMXdoUVpOONIBugFBVV95cUxOWUJBRklyckdDZ0VaLUlyZFY5R1p2cEdta1doQmdOTmNlNktqUkk2NWpnVC1vSjIyS2tnc0hDa29LbDd6UW96UmFmQlpxWktnSFFqQTI2Z0NDNXlwZTJXcUtjcE5OQTdpY0I4aVZNZTZEZmtBSGM4OFBjMW1aV0MwLWNOM2FHYXB6N0hWYkZYMW5ONmlHNm5zNldzWDBlUUxyaFByM21vRGRUSFJvc2dPYS1saE5nT1M4b3c?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
    ],
    "score": 2,
    "important": false
