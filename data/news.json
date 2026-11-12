@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T02:57:40.711Z",
+ "updated": "2026-11-12T11:04:00.590Z",
  "items": [
   {
    "id": "ydGljbGU3MTY5MDM5MC5lY2U",
@@ -17,6 +17,26 @@
    "gs": [
     "GS-2",
     "GS-1",
+    "GS-3"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "J0aWNsZTcxNjg5MjE3LmVjZQ",
+   "date": "2026-11-12",
+   "title": "Keralam to launch Family Sustainability Mapping to identify children in high-risk environments",
+   "summary": "Minister for Women and Child Development Bindhu Krishna says circumstances of families and children will be assessed with cooperation of schools, Anganwadis, local self-government institutions, District Child Protection Units, healthcare workers and police",
+   "link": "https://www.thehindu.com/news/national/kerala/keralam-to-launch-family-sustainability-mapping-to-identify-children-in-high-risk-environments/article71689217.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Health & Social Issues",
+    "Environment & Ecology",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
     "GS-3"
    ],
    "score": 5,
@@ -56,6 +76,44 @@
    "gs": [
     "GS-2",
     "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTI3OTEuZWNl",
+   "date": "2026-11-12",
+   "title": "Is Trump’s ‘no-war, no-peace’ plan on Iran sustainable?",
+   "summary": "Despite the U.S. President’s decision to hold off on further strikes, he remains neck-deep in the war he launched alongside Israel’s Netanyahu on February 28 this year",
+   "link": "https://www.thehindu.com/news/international/is-trumps-no-war-no-peace-plan-on-iran-sustainable/article71692791.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTI2OTQuZWNl",
+   "date": "2026-11-12",
+   "title": "Alice Huang, accused of spying on Nvidia chief, entered Taiwan eight times in 2024-25: Official",
+   "summary": "Taiwan, a dominant player in the global semiconductor industry, sits at the centre of strategic competition between the United States and China, which claims the self-ruled island as part of its territory",
+   "link": "https://www.thehindu.com/news/international/chinese-woman-accused-of-spying-on-nvidia-chief-entered-taiwan-eight-times/article71692694.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Science & Technology",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3",
+    "GS-1"
    ],
    "score": 4,
    "important": false
@@ -102,6 +160,118 @@
    "title": "Trump defends Iran war in Veterans Day address",
    "summary": "Mr. Trump said in his remarks that the conflict was started not by Washington but by Tehran, which “has been waging war on America since 1979”",
    "link": "https://www.thehindu.com/news/international/usa-president-donald-trump-veterans-day-address-iran-war/article71691407.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY5MzAxOC5lY2U",
+   "date": "2026-11-12",
+   "title": "Keralam govt intervenes to repatriate seafarer stranded in Iran after Pakistan authorities fail to return travel documents",
+   "summary": "Pakistani port authorities reportedly seized and failed to return passports and CDCs of crew members, including Kollam native Akshay H., aboard the Dubai- and Iran-owned vessel Palm Marine",
+   "link": "https://www.thehindu.com/news/national/kerala/keralam-govt-intervenes-to-repatriate-seafarer-stranded-in-iran-after-pakistan-authorities-fail-to-return-travel-documents/article71693018.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTI5MzQuZWNl",
+   "date": "2026-11-12",
+   "title": "Delhi’s air was already toxic before Deepavali. Here’s what a new study found",
+   "summary": "A new analysis by the Centre for Science and Environment (CSE) has found that Delhi entered the Deepavali season with its worst pre-festival air quality in three years.",
+   "link": "https://www.thehindu.com/videos/delhis-air-was-already-toxic-before-deepavali-heres-what-a-new-study-found/article71692934.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTI1OTUuZWNl",
+   "date": "2026-11-12",
+   "title": "Pawan Kalyan pitches Andhra Pradesh as trusted global hub; Lokesh unveils red-carpet framework at 31st Vizag CII Summit",
+   "summary": "Mr. Lokesh urged corporate leaders to move beyond setting up manufacturing units and relocate their primary corporate headquarters to Andhra Pradesh, citing superior quality of life, skilled talent pipelines, and seamless connectivity anchored by new ports and the Bhogapuram International Airport",
+   "link": "https://www.thehindu.com/news/cities/Visakhapatnam/pawan-kalyan-pitches-andhra-pradesh-as-trusted-global-hub-lokesh-unveils-red-carpet-framework-at-31st-vizag-cii-summit/article71692595.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTI0NzIuZWNl",
+   "date": "2026-11-12",
+   "title": "Piyush Goyal, Naidu, Pawan Kalyan tour Andhra Pradesh Pavilion at CII Partnership Summit in Visakhapatnam",
+   "summary": "The leaders try their hand at tribal art and taste Araku Coffee before the summit’s inaugural session",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/piyush-goyal-naidu-pawan-kalyan-tour-andhra-pradesh-pavilion-at-cii-partnership-summit-in-visakhapatnam/article71692472.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Health & Social Issues",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY5MjU0MC5lY2U",
+   "date": "2026-11-12",
+   "title": "Indonesia's Vice President resigns as eligibility and academic credentials are questioned",
+   "summary": "The Constitutional Court and the Supreme Court ruled last month that the documents submitted by Gibran Rakabuming Raka, the 39-year-old son of former President Joko Widodo, regarding his overseas education didn't meet election requirements",
+   "link": "https://www.thehindu.com/news/international/indonesias-vice-president-resigns-as-eligibility-and-academic-credentials-are-questioned/article71692540.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY5MjIwNS5lY2U",
+   "date": "2026-11-12",
+   "title": "G7 Foreign Ministers say China's actions east of Taiwan threaten stability",
+   "summary": "The G7 statement said the Ministers ⁠stressed the importance of maintaining peace and stability across the Taiwan Strait",
+   "link": "https://www.thehindu.com/news/international/g7-foreign-ministers-say-chinas-actions-east-of-taiwan-threaten-stability/article71692205.ece",
    "source": "The Hindu",
    "section": "International",
    "topics": [
@@ -284,6 +454,211 @@
    ],
    "gs": [
     "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTAxMzcuZWNl",
+   "date": "2026-11-12",
+   "title": "Amid reports of Korean firms shifting to Andhra Pradesh, Hwashin and Seoyon commit ₹1,370-crore investments in Tamil Nadu",
+   "summary": "A formal MoU is expected to be signed at the upcoming Investment Conversion Conclave of the TVK government",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/amid-reports-of-korean-firms-shifting-to-ap-hwashin-and-seoyon-commit-1370-crore-investments-in-tn/article71690137.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNjk2ODU2ODcuZWNl",
+   "date": "2026-11-12",
+   "title": "Madras High Court suspends IAS officer Anshul Mishra’s one-month sentence in contempt plea",
+   "summary": "A Division Bench of Justices M.S. Ramesh and V. Lakshminarayanan direct the officer to deposit ₹25,000 with the Registrar (Judicial) of the High Court",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-suspends-ias-officer-anshul-mishras-one-month-sentence-in-contempt-plea/article69685687.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY5Mjc1NC5lY2U",
+   "date": "2026-11-12",
+   "title": "Villagers panic as leopard kills cow near Hasanur",
+   "summary": "The cow, which had been left to graze near the reserve forest, was found dead on the roadside along National Highway 948 (Dindigul-Mysuru), which passes through STR",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/villagers-panic-as-leopard-kills-cow-near-hasanur/article71692754.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY5MjkxOC5lY2U",
+   "date": "2026-11-12",
+   "title": "NIA to probe online radicalisation of Indian youths by Pakistan-based gangster Shahzad Bhatti",
+   "summary": "During the investigation, it emerged that Pakistani gangster Bhatti, Jatt and radical Pakistani YouTubers, allegedly acting on instructions from the ISI, were attempting to radicalise Indian youths and entice them with financial incentives",
+   "link": "https://www.thehindu.com/news/national/nia-to-probe-online-radicalisation-of-indian-youths-by-pakistan-based-gangster-shahzad-bhatti/article71692918.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTQ4NTc4OS5lY2U",
+   "date": "2026-11-12",
+   "title": "The digital recruiter | Shahzad Bhatti",
+   "summary": "The Pakistani social media influencer’s campaign to establish fear and clout in India has spread to 14 States, leading the Home Ministry to designate his network as a terror group",
+   "link": "https://www.thehindu.com/news/national/the-digital-recruiter-shahzad-bhatti/article71485789.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjkyMTU0LmVjZQ",
+   "date": "2026-11-12",
+   "title": "CII Partnership Summit: Vizianagaram likely to attract more investments due to Bhogapuram airport, officials say",
+   "summary": "The government has recently given its nod for Reliance Industries Limited for the construction of its data centre in Bhogapuram and the project is expected to attract nearly ₹1 lakh crore investments",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/cii-partnership-summit-vizianagaram-likely-to-attract-more-investments-due-to-bhogapuram-airport-officials-say/article71692154.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY5MDI0NC5lY2U",
+   "date": "2026-11-12",
+   "title": "BJP leader Ravi Kumar seeks withdrawal of ‘army training’ advertisement by Minorities Department of Karnataka",
+   "summary": "Chief Whip of Opposition in Legislative Council N. Ravi Kumar said the advertisement mentions that the Department of Minorities will provide 60-day army training only to youths from minority communities",
+   "link": "https://www.thehindu.com/news/national/karnataka/bjp-leader-ravi-kumar-seeks-withdrawal-of-army-training-advertisement-by-minorities-department-of-karnataka/article71690244.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY5MzI3Ni5lY2U",
+   "date": "2026-11-12",
+   "title": "Megaspeed to cooperate with U.S. probe into Nvidia CEO Jensen Huang scandal",
+   "summary": "Megaspeed, in a statement on November 12, said that it takes its obligation to comply with U.S. export control laws “extremely seriously",
+   "link": "https://www.thehindu.com/news/international/megaspeed-to-cooperate-with-us-probe-into-nvidia-ceo-jensen-huang-scandal/article71693276.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY5MjYzNS5lY2U",
+   "date": "2026-11-12",
+   "title": "Chinese AI firms rush to secure Nvidia chip capacity as spy scandal stirs fear of U.S. curbs",
+   "summary": "A major Chinese ‌cloud provider has discussed internally whether to lock in overseas Nvidia chip capacity, while some companies have ‌contacted ⁠data-centre operators about reserving it, per sources",
+   "link": "https://www.thehindu.com/sci-tech/technology/chinese-ai-firms-rush-to-secure-nvidia-chip-capacity-as-spy-scandal-stirs-fear-of-us-curbs/article71692635.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTI0MjEuZWNl",
+   "date": "2026-11-12",
+   "title": "U.S. Defence Secretary Hegseth, staff reprimanded by guard at Tomb of the Unknown Soldier",
+   "summary": "As the group broke from taking photos, a loud laugh could be heard, and the soldier guarding the tomb shouted that “all visitors will maintain an atmosphere of silence and respect at all times”",
+   "link": "https://www.thehindu.com/news/international/us-defence-secretary-hegseth-staff-reprimanded-by-guard-at-tomb-of-the-unknown-soldier/article71692421.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY4OTUzOS5lY2U",
+   "date": "2026-11-12",
+   "title": "What the Punjab and Haryana High Court said about protecting LGBTQIA+ students in schools? | Explained",
+   "summary": "The Punjab and Haryana High Court asked schools to ensure that Sukdeb Saha guidelines are followed while dealing with a petition filed by the mother of a 16-year-old student who died by suicide in 2022 after allegations of prolonged bullying, harassment and sexual assault at school",
+   "link": "https://www.thehindu.com/news/national/what-the-punjab-and-haryana-hc-said-about-protecting-lgbtqia-students-in-schools-explained/article71689539.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
    ],
    "score": 2,
    "important": false
