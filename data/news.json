@@ -1,6 +1,154 @@
 {
- "updated": "2026-11-13T16:20:20.579Z",
+ "updated": "2026-11-13T22:37:00.023Z",
  "items": [
+  {
+   "id": "cnRpY2xlNzE2OTk1MjAuZWNl",
+   "date": "2026-11-14",
+   "title": "Urgent climate finance pleas at COP31 face a non-urgent response",
+   "summary": "Climate action has slipped down the political agenda for Western governments as U.S. President Donald Trump has withdrawn international funding, while wars in Ukraine and West Asia have added to inflationary ‌pressures and the need to spend on security",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/urgent-climate-finance-pleas-at-cop31-face-a-non-urgent-response/article71699520.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "ydGljbGU3MTY5OTQ1Ni5lY2U",
+   "date": "2026-11-14",
+   "title": "NHRC seeks Education Ministry’s response over alleged neglect of Veer Baal Diwas in schools",
+   "summary": "The NHRC acted on a complaint submitted by Sanjeev Newar of the Seva Nyay Utthan Foundation, which raised concerns about the limited awareness among school students regarding the courage and supreme sacrifice of the four Sahibzadas of Guru Gobind Singh",
+   "link": "https://www.thehindu.com/news/national/nhrc-seeks-education-ministrys-response-over-alleged-neglect-of-veer-baal-diwas-in-schools/article71699456.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY5ODA5Mi5lY2U",
+   "date": "2026-11-14",
+   "title": "The challenge of holding the Quad together",
+   "summary": "The big ticket question confronting the Quad, however, is how Donald Trump engages with the group and the broader Indo-Pacific geography",
+   "link": "https://www.thehindu.com/opinion/op-ed/the-challenge-of-holding-the-quad-together/article71698092.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjk5MDI5LmVjZQ",
+   "date": "2026-11-14",
+   "title": "Andhra Pradesh secures ₹9.88 lakh crore investment commitments at CII Partnership Summit in Vizag",
+   "summary": "A.P. government will implement Investment Protection Act with retrospective effect from 2024, says Chief Minister Naidu",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-secures-988-lakh-crore-investment-commitments-at-cii-partnership-summit-in-vizag/article71699029.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjk3NTczLmVjZQ",
+   "date": "2026-11-14",
+   "title": "Manipur probe panel gets sixth extension; no sign of report yet",
+   "summary": "The report is awaited even as the ethnic conflict has now spread to Kuki and Naga communities",
+   "link": "https://www.thehindu.com/news/national/manipur/centre-gives-another-extension-to-panel-probing-2023-manipur-violence/article71697573.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Internal Security & Defence",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjk4MDg1LmVjZQ",
+   "date": "2026-11-14",
+   "title": "BIM, Texas university to offer course on AI in Business from next year",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/bim-texas-university-to-offer-course-on-ai-in-business-from-next-year/article71698085.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTgxMTAuZWNl",
+   "date": "2026-11-14",
+   "title": "Rajya Sabha panel visits ISRO, HAL facilities in Bengaluru",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/karnataka/rajya-sabha-panel-visits-isro-hal-facilities-in-bengaluru/article71698110.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY5OTM4OS5lY2U",
+   "date": "2026-11-14",
+   "title": "Critical ban: On recycling of lithium-ion batteries",
+   "summary": "India needs to create an entire ecosystem for recycling of lithium-ion batteries",
+   "link": "https://www.thehindu.com/opinion/editorial/critical-ban-on-recycling-of-lithium-ion-batteries/article71699389.ece",
+   "source": "The Hindu",
+   "section": "Editorial",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
   {
    "id": "cnRpY2xlNzE2OTY4NzAuZWNl",
    "date": "2026-11-13",
@@ -34,6 +182,25 @@
     "International Relations",
     "Internal Security & Defence",
     "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "ydGljbGU3MTY5OTI5MC5lY2U",
+   "date": "2026-11-13",
+   "title": "Ukraine fires nearly 1,200 drones at Russia as U.S.-led talks consider wider European security",
+   "summary": "Kyiv's forces are using drones and ground robots to help defend against Russia's army along the about 1,200-km front line snaking down eastern and southeastern Ukraine",
+   "link": "https://www.thehindu.com/news/international/ukraine-fires-nearly-1200-drones-at-russia-as-us-led-talks-consider-wider-european-security/article71699290.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
    ],
    "gs": [
     "GS-2",
@@ -155,6 +322,25 @@
     "GS-1",
     "GS-3",
     "Prelims"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY5OTA4NC5lY2U",
+   "date": "2026-11-13",
+   "title": "TAS conference urges BRICS countries to join hands to tackle mental health stigma",
+   "summary": "Panelists at the conference identified youth participation, school-based interventions, community mental healthcare and evidence-based policy reforms as key priorities",
+   "link": "https://www.thehindu.com/news/national/tas-conference-urges-brics-countries-to-join-hands-to-tackle-mental-health-stigma/article71699084.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Polity & Governance",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
    ],
    "score": 4,
    "important": false
@@ -376,6 +562,62 @@
    ],
    "gs": [
     "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjk4NjQ4LmVjZQ",
+   "date": "2026-11-13",
+   "title": "Technical resignation is a bridge, not a guillotine, says Karnataka High Court",
+   "summary": "Pulls up State government for not paying pension to retired university professor for two years over erroneous interpretation of norms",
+   "link": "https://www.thehindu.com/news/national/karnataka/technical-resignation-is-a-bridge-not-a-guillotine-says-karnataka-high-court/article71698648.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjk5Mjg1LmVjZQ",
+   "date": "2026-11-13",
+   "title": "Syria removes visa restrictions on U.S. travellers after backlash",
+   "summary": "The current Syrian government, in place since Islamist-led fighters overthrew Bashar al-Assad in December 2024, has allowed Westerners to obtain entry visas at Damascus airport or border crossings",
+   "link": "https://www.thehindu.com/news/international/syria-removes-visa-restrictions-on-us-travellers-after-backlash/article71699285.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjk5Mjc0LmVjZQ",
+   "date": "2026-11-13",
+   "title": "Eisenkot urges respect for Israel's Arab minority after Netanyahu attacks",
+   "summary": "Two Arab-majority parties, Raam and the Joint List, secured a combined 19 seats in last month's election, winning nearly a sixth of the 120-seat parliament and potentially emerging as kingmakers in efforts by Eisenkot to form a government",
+   "link": "https://www.thehindu.com/news/international/eisenkot-urges-respect-for-israels-arab-minority-after-netanyahu-attacks/article71699274.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Polity & Governance",
+    "International Relations",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
    ],
    "score": 3,
    "important": false
@@ -992,6 +1234,59 @@
    "gs": [
     "GS-2",
     "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjk5MDA4LmVjZQ",
+   "date": "2026-11-13",
+   "title": "Navy, security agencies hold coastal defence drills off Visakhapatnam",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/navy-security-agencies-hold-coastal-defence-drills-off-visakhapatnam/article71699008.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjk5MzU1LmVjZQ",
+   "date": "2026-11-13",
+   "title": "Eight Army personnel injured as military truck overturns near Chevella",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/telangana/eight-army-personnel-injured-as-military-truck-overturns-near-chevella/article71699355.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY5OTIzOS5lY2U",
+   "date": "2026-11-13",
+   "title": "Satavahana University students launch signature campaign to protect greenery in campus",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/telangana/satavahana-university-students-launch-signature-campaign-to-protect-greenery-in-campus/article71699239.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
    ],
    "score": 2,
    "important": false
