@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T07:55:35.027Z",
+ "updated": "2026-11-13T16:20:20.579Z",
  "items": [
   {
    "id": "cnRpY2xlNzE2OTY4NzAuZWNl",
@@ -76,6 +76,85 @@
    "gs": [
     "GS-3",
     "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTg2NjcuZWNl",
+   "date": "2026-11-13",
+   "title": "KIIFB accounts should have been audited by CAG, says Kerala High Court",
+   "summary": "In a public interest litigation, petitioner argues that the guarantees furnished by the State government to KIIFB against borrowings bypassed the limits set by the Centre and created 'off-Budget borrowings' that threatened the State’s fiscal stability and required mandatory CAG oversight",
+   "link": "https://www.thehindu.com/news/national/kerala/kiifb-accounts-should-have-been-audited-by-cag-says-kerala-high-court/article71698667.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY5NzU4NS5lY2U",
+   "date": "2026-11-13",
+   "title": "UN nuclear watchdog urges Iran to take 'steps' towards inspections",
+   "summary": "The International Atomic Energy Agency has not had access to key nuclear facilities in Iran since Israel and the U.S. launched a 12-day conflict in June 2025 that included strikes on nuclear sites",
+   "link": "https://www.thehindu.com/news/international/un-nuclear-watchdog-urges-iran-to-take-steps-towards-inspections/article71697585.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTcwNjcuZWNl",
+   "date": "2026-11-13",
+   "title": "China's Defence Ministry says it maintains dialogue with the U.S.",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/international/chinas-defence-ministry-says-it-maintains-dialogue-with-the-us/article71697067.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Polity & Governance",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNjgzMDc2MDQuZWNl",
+   "date": "2026-11-13",
+   "title": "What are the findings of the 2024 Hindu Kush Himalayas snow update? | Explained",
+   "summary": "What does the report by the International Centre for Integrated Mountain Development highlight? How important is snow persistence? How much of a role does climate change play in river basins receiving low levels of snowmelt this year?",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/hindu-kush-himalayas-snow-update-2024-findings/article68307604.ece",
+   "source": "The Hindu",
+   "section": "Environment",
+   "topics": [
+    "Geography & Disasters",
+    "Environment & Ecology",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-1",
+    "GS-3",
+    "Prelims"
    ],
    "score": 4,
    "important": false
@@ -207,6 +286,96 @@
    ],
    "gs": [
     "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY5ODc1MS5lY2U",
+   "date": "2026-11-13",
+   "title": "CII Summit in Vizag: World-class roads crucial for India’s economic progress, says Gadkari",
+   "summary": "Proposed at a cost of ₹32,000 crore, the 195-km Amaravati Outer Ring Road project will soon get the Cabinet’s approval, says the Union Minister",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/cii-summit-in-vizag-world-class-roads-crucial-for-indias-economic-progress-says-gadkari/article71698751.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjk4NTg0LmVjZQ",
+   "date": "2026-11-13",
+   "title": "Keralam Electricity Minister’s statements on GNA deal disprove CM’s claims, says Pinarayi Vijayan",
+   "summary": "Keralam Leader of the Opposition reiterates his demand for a judicial inquiry headed by a High Court judge into the controversy surrounding the cancellation of the power purchase deal; he asks CM Satheesan to apologise to people for ‘manufacturing a non-existent power crisis’",
+   "link": "https://www.thehindu.com/news/national/kerala/keralam-electricity-ministers-statements-on-gna-deal-disprove-cms-claims-says-pinarayi-vijayan/article71698584.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTc1MzIuZWNl",
+   "date": "2026-11-13",
+   "title": "India's exports up 29.9% in October; trade deficit narrows to $20.09 billion",
+   "summary": "The growth in India’s merchandise exports in October, the fastest in five years and faster than import growth, indicates that volumes of exports are growing along with prices",
+   "link": "https://www.thehindu.com/business/Economy/india-exports-october-26-trade-deficit-numbers/article71697532.ece",
+   "source": "The Hindu",
+   "section": "Economy",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "b3pRWFJEVFhjdGVGRT9vYz01",
+   "date": "2026-11-13",
+   "title": "Paytm wallet to be back? What RBI’s initial nod means, and why it restricted Paytm Payments Bank",
+   "summary": "Paytm wallet to be back? What RBI’s initial nod means, and why it restricted Paytm Payments Bank The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWWJwaTBOSHd1TXVrYkhmR0dWNEpzZ1RQSFVCdGlsX2RrQnNrYzFlSEExTnpoam9pd1JiS0J3b2dDZEp2bmlfcHVWNHA3TzN5cWNFLUtRbkdCNUVqLUp5RzNoYXFKYUxmdENzQXdOMEVpZmJmX2M5ck1MRUt1UTE4ME1NcmhaWnpDbUg2MjgxWHNBY1h0MjFwYjhiMGktVTBaa25HZUkwZlY3aTFIRjF5SzVMenN4RUF2Uk0xTndQNk9XZmNxMUlHctIBzwFBVV95cUxOajVUdzI1RzZUQ1UwdmdrTXFnSVhzR1pSLVQ1d2ZfREhDWk1fS2t5SVR3bVhQcU82MHZOTFUyVXYyUVlnSGVLR1ZjdW9yZUpCLXVnTUx0RnUtRmVObnlsYkRCdkNaelFmMXo4X2l0TVN3blpZT0FRRHRZa2g2N2JJVi1OSnY2RHBFV0JQRHNRbk9mMFE2S0pWXy0zSGllb3JMMDhrZHpYOWdaekFYZEtmUXN3TmNaQlVXaWpsYjJ5Nl81SGVZWXozQXRDTXcteFE?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "xNzk0NTY2OTY2MTAxLmh0bWw",
+   "date": "2026-11-13",
+   "title": "Trade deficit widens to 1-year high of $39.88 billion in October on record imports",
+   "summary": "Exports and imports both recorded strong growth during the month, although the increase in imports outpaced export growth in absolute terms",
+   "link": "https://www.livemint.com/economy/trade-deficit-widens-to-1-year-high-of-39-88-billion-in-october-on-record-imports-11794566966101.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
    ],
    "score": 3,
    "important": false
@@ -565,6 +734,264 @@
    ],
    "gs": [
     "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY5ODgzMC5lY2U",
+   "date": "2026-11-13",
+   "title": "Copper prices slid to near four-month low amid fears of hike in U.S. interest rates, lower demand, especially from AI",
+   "summary": "According to the industry body FIMI, prices are expected to remain volatile in the short-term though they may elevate in the long-term fuelled by increased demand.",
+   "link": "https://www.thehindu.com/business/Industry/copper-prices-slid-to-near-four-month-low-amid-fears-of-hike-in-us-interest-rates-lower-demand-especially-from-ai/article71698830.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTgyMTIuZWNl",
+   "date": "2026-11-13",
+   "title": "Bharat Summit 2026: Drone flying banned in Madhapur ahead of Rahul Gandhi, Rajnath Singh visits",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/telangana/bharat-summit-2026-drone-flying-banned-in-madhapur-ahead-of-rahul-gandhi-rajnath-singh-visits/article71698212.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY5ODkwOS5lY2U",
+   "date": "2026-11-13",
+   "title": "India has no coherent foreign policy, Centre follows ad hoc approach: Salman Khurshid",
+   "summary": "Former External Affairs Minister bats for Hyderabad as global policy discussion hub",
+   "link": "https://www.thehindu.com/news/national/telangana/india-has-no-coherent-foreign-policy-centre-follows-ad-hoc-approach-salman-khurshid/article71698909.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTc5OTUuZWNl",
+   "date": "2026-11-13",
+   "title": "As external funding to combat TB falls, domestic spending accounts for 86%: WHO report",
+   "summary": "TB cases remain one of the leading causes of death from a single infectious agent, with a quarter of all cases concentrated in India in 2025",
+   "link": "https://www.thehindu.com/sci-tech/health/as-external-funding-to-combat-tb-falls-domestic-spending-accounts-for-86-who-report/article71697995.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjk4OTE2LmVjZQ",
+   "date": "2026-11-13",
+   "title": "Germany open to discuss critical mineral partnerships with India, says Ambassador",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/cities/Coimbatore/germany-open-to-discuss-critical-mineral-partnerships-with-india-says-ambassador/article71698916.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTg4OTkuZWNl",
+   "date": "2026-11-13",
+   "title": "HC directs State Police Chief to ensure that Patriarch of Antioch does not violate court orders or visa conditions on Keralam visit",
+   "summary": "Orthodox Syrian Church members petition HC that the Patriarch may violate previous Supreme Court orders and indulge in religious activities during his visit to Keralam",
+   "link": "https://www.thehindu.com/news/national/kerala/kerala-hc-directs-state-police-chief-to-ensure-that-patriarch-of-antioch-does-not-violate-court-orders-or-visa-conditions-on-keralam-visit/article71698899.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjk5MjEyLmVjZQ",
+   "date": "2026-11-13",
+   "title": "Pakistan calls for 'immediate' end to Houthi attacks on Saudi Arabia at UN",
+   "summary": "UN Security Council renewed targeted sanctions under its Yemen sanctions regime for another year",
+   "link": "https://www.thehindu.com/news/international/pakistan-calls-for-immediate-end-to-houthi-attacks-on-saudi-arabia-at-un/article71699212.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY5NzgzNy5lY2U",
+   "date": "2026-11-13",
+   "title": "Europe warned against falling for Russia's 'traps' on Ukraine talks",
+   "summary": "The hawkish former Prime Minister of Estonia Kaja Kallas said it was not up to Russia to decide who would represent Europe",
+   "link": "https://www.thehindu.com/news/international/europe-warned-against-falling-for-russias-traps-on-ukraine-talks/article71697837.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY5NzYwNi5lY2U",
+   "date": "2026-11-13",
+   "title": "Chinese company linked to Alice Huang obtained banned Nvidia chips: report",
+   "summary": "Alice Huang, mainly known as a former top executive at Megaspeed International, also founded Shanghai Longteng Intelligent Computing, a company based in the eastern Chinese economic hub",
+   "link": "https://www.thehindu.com/news/international/chinese-company-linked-to-alice-huang-shanghai-longteng-intelligent-computing-obtained-banned-nvidia-chips/article71697606.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Economy",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY5NzMzMC5lY2U",
+   "date": "2026-11-13",
+   "title": "Second car bomb to hit Russia in two days targets exiled Ukrainian political aide, media report",
+   "summary": "Russian ⁠media reported the car belonged to Sergei Zavorotniy, a ​onetime ‌spokesman for former Ukrainian Prime Minister Mykola Azarov",
+   "link": "https://www.thehindu.com/news/international/second-car-bomb-to-hit-russia-in-two-days-targets-exiled-ukrainian-political-aide-media-report/article71697330.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTgyMDQuZWNl",
+   "date": "2026-11-13",
+   "title": "Aaditya Thackeray calls for Climate Change Councils at Centre, State levels to tackle pollution",
+   "summary": "At the State level, he proposed similar councils chaired by the respective Chief Ministers, with participation from relevant departments to monitor the implementation of climate action plans",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/aaditya-thackeray-calls-for-climate-change-councils-at-centre-state-levels-to-tackle-pollution/article71698204.ece",
+   "source": "The Hindu",
+   "section": "Environment",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjkwMjI0LmVjZQ",
+   "date": "2026-11-13",
+   "title": "Why climate finance remains a recurring flashpoint at UN summits",
+   "summary": "As climate negotiators meet in Türkiye, the familiar battle over climate finance exposes a deeper divide. While wealthy nations count the money they mobilise, developing countries question how much actually reaches them",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/why-the-same-climate-finance-dispute-returns-at-every-un-climate-summit/article71690224.ece",
+   "source": "The Hindu",
+   "section": "Environment",
+   "topics": [
+    "International Relations",
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjk2NTY0LmVjZQ",
+   "date": "2026-11-13",
+   "title": "Daily Quiz: On Climate Change summit",
+   "summary": "As the COP 31 kicked off in Turkiye on Monday (November 9, 2026), a quiz on the annual gatherings which have delivered some landmark treaties to address the climate crisis",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/daily-quiz-on-climate-change-summit/article71696564.ece",
+   "source": "The Hindu",
+   "section": "Environment",
+   "topics": [
+    "International Relations",
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTgyNjAuZWNl",
+   "date": "2026-11-13",
+   "title": "Trump administration will fund new research on controversial psychedelic drug ibogaine",
+   "summary": "Federal officials say there’s new funding to study the medical potential of a powerful psychedelic",
+   "link": "https://www.thehindu.com/sci-tech/health/trump-administration-will-fund-new-research-on-controversial-psychedelic-drug-ibogaine/article71698260.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "International Relations",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
    ],
    "score": 2,
    "important": false
