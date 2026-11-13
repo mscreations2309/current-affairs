@@ -1,6 +1,216 @@
 {
- "updated": "2026-11-13T00:21:02.207Z",
+ "updated": "2026-11-13T07:55:35.027Z",
  "items": [
+  {
+   "id": "cnRpY2xlNzE2OTY4NzAuZWNl",
+   "date": "2026-11-13",
+   "title": "COP31: Himalayan flash floods should push all to act ‘faster and fairer’ on climate change: UN climate chief",
+   "summary": "“The glacial collapse and flash floods in the Himalayas this year are a devastating reminder of how fragile these mountain environments can be, particularly the Hindu Kush Himalayas,” UNFCCC Executive Secretary Simon Stiell said",
+   "link": "https://www.thehindu.com/news/international/cop31-himalayan-flash-floods-should-push-all-to-act-faster-and-fairer-on-climate-change-un-climate-chief/article71696870.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Environment & Ecology",
+    "Geography & Disasters",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-1",
+    "GS-2"
+   ],
+   "score": 7,
+   "important": true
+  },
+  {
+   "id": "J0aWNsZTcxNjk2NTM3LmVjZQ",
+   "date": "2026-11-13",
+   "title": "Iran says it struck U.S. military radar in Bahrain",
+   "summary": "The IRGC says the strait is closed, while the U.S. Navy claims that it has opened a southern route for commercial vessels to exit and enter the critical waterway, while maintaining its “ironclad blockade” of Iranian ports",
+   "link": "https://www.thehindu.com/news/international/iran-says-it-struck-us-military-radar-in-bahrain/article71696537.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "J0aWNsZTcxNjk2NDk5LmVjZQ",
+   "date": "2026-11-13",
+   "title": "Delhi reels under ‘severe’ level air pollution",
+   "summary": "The 24-hour average overall Air Quality Index (AQI) of Delhi was 403 (severe) at 9 a.m. on November 13, as per Central Pollution Control Board (CPCB) data",
+   "link": "https://www.thehindu.com/news/cities/Delhi/delhi-reel-under-severe-level-air-pollution/article71696499.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjkyNzU2LmVjZQ",
+   "date": "2026-11-13",
+   "title": "Now agentic AI can perform complex lab research, and maybe cheaper too",
+   "summary": "On November 4, 2026, in the journal Nature, researchers from Shanghai Jiao Tong University presented their findings on an Agentic laboratory platform, “AutoDNA”. It is an artificial intelligence system with agents performing the function of humans who usually perform complex experiments",
+   "link": "https://www.thehindu.com/education/now-agentic-ai-can-perform-complex-lab-research-and-maybe-cheaper-too/article71692756.ece",
+   "source": "The Hindu",
+   "section": "Science",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY5Mzc0Mi5lY2U",
+   "date": "2026-11-13",
+   "title": "Andhra to bring in Investment Protection Act to ease doing business, says Naidu",
+   "summary": "303 MoUs worth ₹9.89 lakh crore will be signed at the CII Partnership Summit, the Chief Minister says",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-to-bring-in-investment-protection-act-to-ease-doing-business-says-naidu/article71693742.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY5NjYwNi5lY2U",
+   "date": "2026-11-13",
+   "title": "Delhi overtakes Lahore as world's most polluted city as air quality drops",
+   "summary": "Air quality index (AQI) in Delhi was “hazardous” at 334, making ‌it the most polluted ‌major city, according to Swiss ⁠group IQAir, which measures air quality levels based on the concentration of toxins",
+   "link": "https://www.thehindu.com/news/national/delhi-overtakes-lahore-as-worlds-most-polluted-city-as-air-quality-drops/article71696606.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY5NjQyNS5lY2U",
+   "date": "2026-11-13",
+   "title": "India needs to create high-quality jobs, increase productivity growth: IMF",
+   "summary": "In its October World Economic Outlook, the IMF had upgraded India’s medium-term potential growth to 6.8% from its earlier estimate of 6.5%",
+   "link": "https://www.thehindu.com/news/national/india-needs-to-create-high-quality-jobs-increase-productivity-growth-imf/article71696425.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Economy",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY5NjYzNy5lY2U",
+   "date": "2026-11-13",
+   "title": "Turkiye's President calls genocide in Gaza ‘ecocide’ at UN climate summit",
+   "summary": "“Centuries old olive trees have been cut down. The soil and water have been polluted in Gaza, and cities in Gaza have been turned into enormous piles of rubble,” the Turkish President said",
+   "link": "https://www.thehindu.com/news/international/turkiyes-president-calls-genocide-in-gaza-ecocide-at-un-climate-summit/article71696637.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjk2NTQ2LmVjZQ",
+   "date": "2026-11-13",
+   "title": "U.S. Commerce Secretary Lutnick to testify before Congress on Nvidia: US media",
+   "summary": "U.S. lawmakers have called for clarity on what the administration of President Donald Trump knew about Nvidia chief Jensen Huang's extramarital affair with a woman suspected of spying for China",
+   "link": "https://www.thehindu.com/news/international/us-commerce-secretary-lutnick-to-testify-before-congress-on-nvidia-us-media/article71696546.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjk2NDI2LmVjZQ",
+   "date": "2026-11-13",
+   "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+   "summary": "The two women so far are Alice Huang, who U.S. ‌intelligence suspects of being a Chinese spy, and Kimberly Powell, Nvidia’s vice president of health ‌care",
+   "link": "https://www.thehindu.com/sci-tech/technology/former-nvidia-ceo-huang-had-a-relationship-with-a-second-employee-sources-say/article71696426.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Health & Social Issues",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTYzOTUuZWNl",
+   "date": "2026-11-13",
+   "title": "U.S., Ukraine say Europe to join Russia talks as Putin sticks to hardline stance",
+   "summary": "U.S. envoys Jared Kushner and Steve Witkoff held over four hours of talks with Vladimir Putin in the Kremlin before jetting to debrief Volodymyr Zelenskyy in Dublin",
+   "link": "https://www.thehindu.com/news/international/us-ukraine-say-europe-to-join-russia-talks-as-putin-sticks-to-hardline-stance/article71696395.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
   {
    "id": "ydGljbGU3MTY5NTQwNC5lY2U",
    "date": "2026-11-13",
@@ -47,6 +257,311 @@
    "section": "Editorial",
    "topics": [
     "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjk1MTk2LmVjZQ",
+   "date": "2026-11-13",
+   "title": "The SIR exercise is also a technology failure",
+   "summary": "When code changes but the user manuals have not yet been updated, the software becomes the rulebook",
+   "link": "https://www.thehindu.com/opinion/lead/the-sir-exercise-is-also-a-technology-failure/article71695196.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjk0Nzk2LmVjZQ",
+   "date": "2026-11-13",
+   "title": "Bharat Summit takes off in Hyderabad today; Rahul Gandhi to participate in valedictory",
+   "summary": "The gathering assumes significance as the first major international meeting of progressive leaders following electoral outcomes in Brazil, Hungary and Serbia, and comes soon after the United States mid-term elections",
+   "link": "https://www.thehindu.com/news/national/telangana/bharat-summit-takes-off-in-hyderabad-today-rahul-gandhi-to-participate-in-valedictory/article71694796.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2ODUzMDguZWNl",
+   "date": "2026-11-13",
+   "title": "Hampi’s Islamic heritage: An overlooked chapter in Vijayanagara history",
+   "summary": "Scattered among Hampi’s ruins, several Islamic monuments point to a cosmopolitan Vijayanagara kingdom, shaped by centuries of cultural exchange.",
+   "link": "https://www.thehindu.com/society/history-and-culture/beyond-binaries-tracing-hampis-islamic-heritage/article71685308.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY5MDU2MC5lY2U",
+   "date": "2026-11-13",
+   "title": "Trees misidentified, misjudged, wrongly marked and felled to facilitate civil projects in Hyderabad",
+   "summary": "Over 1800 trees are being felled for an access road to the Cherlapally Railway Station, most of them not the species identified in permission copy; field inspection reveals serious irregularities",
+   "link": "https://www.thehindu.com/news/cities/Hyderabad/trees-misidentified-misjudged-wrongly-marked-and-felled-to-facilitate-civil-projects-in-hyderabad/article71690560.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTY3MDUuZWNl",
+   "date": "2026-11-13",
+   "title": "Let him give list of judges with the BJP and who aren't: Calcutta High Court takes exception to Abhishek Banerjee's remarks on judiciary",
+   "summary": "Following an alleged attack on his residence in Kalighat in south Kolkata on November 7, a visibly agitated Mr. Banerjee had accused a section of the judiciary, among others, of turning a blind eye to threats to his security.",
+   "link": "https://www.thehindu.com/news/national/west-bengal/let-him-give-list-of-judges-with-the-bjp-and-who-arent-calcutta-high-court-takes-exception-to-abhishek-banerjees-remarks-on-judiciary/article71696705.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY5NjYyMy5lY2U",
+   "date": "2026-11-13",
+   "title": "Normal life hit partially due to bandh in Manipur’s Kangpokpi district over killing of woman",
+   "summary": "Kangpokpi-based Committee on Tribal Unity called the 48-hour shutdown from November 12 midnight, following the gunfight in the vicinity of Taphou Kuki village",
+   "link": "https://www.thehindu.com/news/national/manipur/normal-life-hit-partially-due-to-bandh-in-manipurs-kangpokpi-district-over-killing-of-woman/article71696623.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY5NDQ4OS5lY2U",
+   "date": "2026-11-13",
+   "title": "IMD forecasts 2°C to 3°C dip in temperatures across Telangana for next two days",
+   "summary": "Health department issues flu advisory",
+   "link": "https://www.thehindu.com/news/national/telangana/imd-forecasts-2c-to-3c-dip-in-temperatures-across-telangana-for-next-two-days/article71694489.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY5NDMzNi5lY2U",
+   "date": "2026-11-13",
+   "title": "Messi visit case: Keralam Governor gives approval to prosecute former Sports Minister Abdurahiman over alleged irregularities",
+   "summary": "Lok Bhavan’s decision is based on a request of Chief Minister. The SIT led by Additional Director General of Police P. Vijayan had earlier submitted a preliminary report to the government",
+   "link": "https://www.thehindu.com/news/national/kerala/keralam-governor-gives-nod-to-prosecute-v-abdurahiman-over-alleged-irregularities-in-messi-event-case/article71694336.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY5Njc4MC5lY2U",
+   "date": "2026-11-13",
+   "title": "U.S. lawmakers summon Nvidia former CEO after affair with suspected spy",
+   "summary": "U.S. Commerce Secretary Howard Lutnick was also called to testify before Senate Banking Committee",
+   "link": "https://www.thehindu.com/news/international/nvidias-former-ceo-jensen-huang-summoned-to-testify-before-us-lawmakers-senator/article71696780.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjk2OTExLmVjZQ",
+   "date": "2026-11-13",
+   "title": "Europe pushes for seat at Ukraine peace talks but lacks unified voice",
+   "summary": "Ukraine is eager for backup from its European allies, as it's reluctant to leave the talks solely in the hands of a U.S. administration that has often seemed to lean toward Moscow's views",
+   "link": "https://www.thehindu.com/news/international/europe-pushes-for-seat-at-ukraine-peace-talks-but-lacks-unified-voice/article71696911.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY5NjUzMC5lY2U",
+   "date": "2026-11-13",
+   "title": "Who is Colette Kress? Nvidia's new interim CEO following Jensen Huang’s exit",
+   "summary": "A 13-year Nvidia veteran, Colette Kress will lead the chipmaker whose processors power cutting-edge AI data centers and supercomputers, as the board weighs a longer-term successor.",
+   "link": "https://www.thehindu.com/news/international/who-is-nvidia-new-interim-ceo-colette-kress-after-jensen-huang-exit/article71696530.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTY2ODMuZWNl",
+   "date": "2026-11-13",
+   "title": "Passenger van plunges into river in northern Pakistan, killing 11 people",
+   "summary": "Officials say a passenger van veered off a mountainous road and plunged into a river in northern Pakistan, killing 11 people and injuring three others",
+   "link": "https://www.thehindu.com/news/international/passenger-van-plunges-into-river-in-northern-pakistan-killing-11-people/article71696683.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTY0OTMuZWNl",
+   "date": "2026-11-13",
+   "title": "How did a tax proposal lead the Dutch government to the verge of collapse? | Explained",
+   "summary": "The Netherlands currently has a minority government by a coalition of three parties holding 66 seats in the 150-member Tweede Kamer, the lower house",
+   "link": "https://www.thehindu.com/business/Economy/how-did-a-tax-proposal-led-the-dutch-government-to-the-verge-of-collapse-explained/article71696493.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Economy",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTY1ODkuZWNl",
+   "date": "2026-11-13",
+   "title": "China stages unannounced Pacific drills in ‘silent intimidation’ of Taiwan, officials say",
+   "summary": "A senior Taiwan security official said China’s military and coast guard had, at one point, amassed more than 100 vessels in the region early this month",
+   "link": "https://www.thehindu.com/news/international/china-stages-unannounced-pacific-drills-in-silent-intimidation-of-taiwan-officials-say/article71696589.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "MU5iV3RxZEdJdFZUZz9vYz01",
+   "date": "2026-11-13",
+   "title": "Flight tickets, food and more: 5 charts that explain what’s driving inflation higher, wider",
+   "summary": "Flight tickets, food and more: 5 charts that explain what’s driving inflation higher, wider The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMlB5cm1QUHVQRWs0M0twNEx2U3N6VzBUZWVSMFNvNllwTlpIOExYSDNvQ3oySTU0X3E5ellRWHVONXNLdU9TQzFySTRhdV8za3JJWEJYX08xel82bm1SdXd1UkxZV1RWUnU0SHNRVzAweDZSdTVnVzBPdF9IZ19RbmpFV1ZlZHNvdDhjbmpWMHIxdHJITlpIckVCYUpzTVFzTEhJNnlZOWtqU2NFZTc0SDFmQUthbkE4WWdjS1BaanhUVk5YQi1SUdIBzwFBVV95cUxQYnJ1dzQyTlBFbEtYaEFmRUFsbFhvT3A0aXVvaVBuM2dzZm1PbEJpZGluTzB4Zl9nUGpJaFo2SVpGUFZXRzhtMGRiQ1E2NGI5QlhVcnB3bEtGZ0k2Y0pZZGpaRkotNVVrdk5lMWdwcFdveEVsMXJ4dENqbFdoVTRUTjlpT2Z1d3RqMzZnaGRBeVVsYVJlWVNhcDFBbTVrTGxGNG1UZkpzZzd3aElMZ1F1S3F0bkdJblJZNkZ2a2l4dGUxUzU4UW1NbWtqdGItVTg?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "PZDFKa2JEUklOM2xGP29jPTU",
+   "date": "2026-11-13",
+   "title": "From Jensen Huang to India-Pakistan and beyond, the bittersweet history of honeytrapping",
+   "summary": "From Jensen Huang to India-Pakistan and beyond, the bittersweet history of honeytrapping The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUVVCRWd0RDRtYTlYQXFDQllKbWpOYjZld1I1TmZyeU9TUXl5SktwMWNxX3pEZVltNHlFVXdnSVlRS25lTUVmUGNzMi1vMjJwZ2JhTXV6U3VDSG56d1dGWXdOUG5KOEJTejdOUjVldlRsamt1ZEl0cXFURUxxLUdkUzR4SG5Qb0pnWlFXeWtJa0thTE9ROWFFUllWZ0V4a2tkMi1uQkNiVmFPNzRuc1dTSXhLZTI0dmQ00gG_AUFVX3lxTE95VWYwbWx0VmxCVUh5a2VhaGtYRFBmanFURUZ0UEVQRmVYZlVXUEVNV1NHekZPZ0R1WDVLMTVCUUdrVzBlNTVNNVRFVUhCWjhZTTlIOEYxSl9kVzZQazFLNDVkb3pwLU1kVEtFYlZMaEVySWlHUzB6QmxUTzdLQkJ1TlE4VDhMaHk3U2JycmM4RkZpeHpPTmVpX2l2UnF5TER4aEhRYXJlem1CWE1vUV9FWlJ6LTdOd1JkbDRIN3lF?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "YzBMVXQzT1daa2FuTT9vYz01",
+   "date": "2026-11-13",
+   "title": "How does Parliament convene special sessions, and what sets them apart?",
+   "summary": "How does Parliament convene special sessions, and what sets them apart? The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ2t5TjJnVy0zSjdWdW13d0g1ZERqQ0JLVEsyQWg0UUJiT0RIWWpoRk5KY3BKV3c2ZFBHS3FHMzBQbmdscGhMSE45Um05NTMyck4xVlBMdUNRMFZQNmdRclhoeEhyeVQ1R0RTOTI1bVZ1aG51S2hVa25UZUR0VWlscUktNF84eDRWaEJYZ0tLY0liUWQzcE55dEJib1dFUjRna3dGTEZjcEFOTE1HRW5EcWs4V0FjZlVFVTU3M2tFY3lxM2dLSE55MdIBzwFBVV95cUxQbGNpZUZ1RFUtcXdvdUwxR3NGc2xWODRxVGlqR09MN3BZZWZNck5VQ2xmMWpkbXgzM1JBNnFtenowNDl6VGt3OXdGaklhUDhkMDNFdjdjbWZjSVhuN0xRdDNtUC1WS2E1VGtCeGphUVNVbWk4M2w4VUJMQXhoU05CTHlqMmYyZjZWbVhUWDI3R1N2MTdVcE5rQ0c4dC1uRGVuZmhZNHNlMWtqaDhnMnhyZlpaUTlWenpiQ0h1VnF6bDljbDRnVTc0LUt3OWZkanM?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Polity & Governance"
    ],
    "gs": [
     "GS-2"
@@ -2511,6 +3026,26 @@
     "Polity & Governance"
    ],
    "gs": [
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2ODcyMjkuZWNl",
+   "date": "2026-11-10",
+   "title": "Potent perovskites demand India make domestic manufacturing push",
+   "summary": "As China tightens export controls on this next-generation photovoltaic technology, local enterprises are racing to establish independent supply chains; government backing and national testing facilities are now vital to ensure these lightweight modules become commercially viable",
+   "link": "https://www.thehindu.com/sci-tech/science/potent-perovskites-demand-india-make-domestic-manufacturing-push/article71687229.ece",
+   "source": "The Hindu",
+   "section": "Science",
+   "topics": [
+    "Economy",
+    "International Relations",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3",
     "GS-2"
    ],
    "score": 4,
