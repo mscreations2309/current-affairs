@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-13T22:37:00.023Z",
+ "updated": "2026-11-14T03:13:34.596Z",
  "items": [
+  {
+   "id": "MTc5NDU2NjIwNDA0My5odG1s",
+   "date": "2026-11-14",
+   "title": "Indian solar manufacturers look to Germany as China proposes curbs on technology exports",
+   "summary": "The proposed curbs may hurt India’s ambitious plan to build a domestic solar manufacturing ecosystem, including the projected 100 gigawatts of capacity for wafers, ingots and polysilicon by the end of this decade",
+   "link": "https://www.livemint.com/economy/indian-solar-manufacturers-look-to-germany-as-china-proposes-curbs-on-technology-exports-11794566204043.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy",
+    "Environment & Ecology",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 6,
+   "important": true
+  },
   {
    "id": "cnRpY2xlNzE2OTk1MjAuZWNl",
    "date": "2026-11-14",
@@ -19,6 +39,25 @@
    ],
    "score": 5,
    "important": true
+  },
+  {
+   "id": "J0aWNsZTcxNjQxMDA3LmVjZQ",
+   "date": "2026-11-14",
+   "title": "Kerala High Court seeks State’s response to PIL seeking mechanism to implement cyber laws",
+   "summary": "Cyber laws under Information Technology Act and Bharatiya Nyaya Sanhita focus primarily on ensuring punishment after commission of crime, says petitioner",
+   "link": "https://www.thehindu.com/news/national/kerala/kerala-high-court-seeks-states-response-to-pil-seeking-mechanism-to-implement-cyber-laws/article71641007.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
   },
   {
    "id": "ydGljbGU3MTY5OTQ1Ni5lY2U",
@@ -71,6 +110,62 @@
    "gs": [
     "GS-2",
     "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTk0OTEuZWNl",
+   "date": "2026-11-14",
+   "title": "Petition moved in Kerala High Court challenging clean chit to Chief Minister in Punarjani flood rehabilitation scheme",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/kerala/petition-moved-in-kerala-high-court-challenging-clean-chit-to-chief-minister-in-punarjani-flood-rehabilitation-scheme/article71699491.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTY4NTQuZWNl",
+   "date": "2026-11-14",
+   "title": "Concern mounts over poor air quality in Kochi; Corpn. to set up monitoring stations",
+   "summary": "Experts flag vehicular emissions, open construction sites, and post-monsoon weather changes; PCB awaits govt. nod for repair and maintenance of two of its three monitoring stations, which have remained dysfunctional for over six months",
+   "link": "https://www.thehindu.com/news/national/kerala/concern-mounts-over-poor-air-quality-in-kochi-corpn-to-set-up-monitoring-stations/article71696854.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzAwNjk5LmVjZQ",
+   "date": "2026-11-14",
+   "title": "Trump, Xi and Putin plan unprecedented joint meeting on sidelines of APEC in China: officials",
+   "summary": "For the Kremlin, the planned trilateral meeting is a coveted chance to posture as a superpower on par with Washington and Beijing",
+   "link": "https://www.thehindu.com/news/international/trump-xi-and-putin-plan-an-unprecedented-joint-meeting-apec-summit-china/article71700699.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
    ],
    "score": 3,
    "important": false
@@ -142,6 +237,111 @@
    "section": "Editorial",
    "topics": [
     "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjk3MjU2LmVjZQ",
+   "date": "2026-11-14",
+   "title": "Algae-based artificial tree to help check air pollution in Guntur",
+   "summary": "In a first-of-its-kind initiative in Andhra Pradesh, ‘Algae Tree’ draws in polluted air, absorbs carbon dioxide, and releases oxygen through natural photosynthesis",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/algae-based-artificial-tree-to-help-check-air-pollution-in-guntur/article71697256.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY5ODUyMy5lY2U",
+   "date": "2026-11-14",
+   "title": "Himachal approves ₹1,500 monthly financial assistance for women",
+   "summary": "Under the scheme, eligible beneficiary families will also receive 300 units of free electricity",
+   "link": "https://www.thehindu.com/news/national/himachal-pradesh/himachal-approves-1500-monthly-financial-assistance-for-women/article71698523.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY5Mjc5Mi5lY2U",
+   "date": "2026-11-14",
+   "title": "Child sexual abuse: When boys’ voices break",
+   "summary": "Child sexual abuse of boys often goes unreported due to fear, shame, and stigma. Abhinay Deshpande reports from Telangana on families struggling to help their children recover and seek delayed justice",
+   "link": "https://www.thehindu.com/news/national/telangana/child-sexual-abuse-when-boys-voices-break/article71692792.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTg5MjIuZWNl",
+   "date": "2026-11-14",
+   "title": "Two Wayanad farmers win national plant genome saviour awards",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/kerala/two-wayanad-farmers-win-national-plant-genome-saviour-awards/article71698922.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ZFpXVkl4V1dzMFoyYz9vYz01",
+   "date": "2026-11-14",
+   "title": "US backing for Israel has long been bipartisan. Will a Democrat-held Congress change that?",
+   "summary": "US backing for Israel has long been bipartisan. Will a Democrat-held Congress change that? The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbEp6XzVWU09mcDB3c0oxV3YwRHZyU0ZFc3FyLXd2NEpGOVdreUFram5vUFdBMzZwa3hSNHpMZS1iaDA1NmRvMTB2N0diTXplSXN5SEQ5cmhYYU5nNDRrcFRlamVDLTBqdktpMTVHRzVKTm1iSm4wcGUyR2RUUjgwQlZqcWx3SGJPbDVWVnRfbkowdXFIZGRKd0hIeVJnejNFcmNaMTdmVS02bTJCaURSNzY2UkluLXU5NVRPb1J4ZzIxcUdFeEtIQtIBzwFBVV95cUxNN0lPZUZ6TFRuY3lPNTZxRnlYTjhqYUtDTk52V1VnM21SUVJtdDFGMTJsZ0R3a09jaVQ4UVhPbGVzcFZYVnpWY1VWbjFFZkhPV3dKV1pvOEJBdnhpdUtuLVNUUHYwWGNCT1RpZWg1eXc2YkctMGZPSjRjemFXZ0tCTEY1Z19KSEg4RlRIWllMM2xSV2JmVFNJX3lsaHR5X1d3cWNhWk0tTTdaVFJ6QWd3cUZTeGpFRTBYSWdlMWp2VjN4MGZySkdZWVIxWWs0Z2c?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "pWV2RqYlMwMlUzbHY_b2M9NQ",
+   "date": "2026-11-14",
+   "title": "ExplainSpeaking | India’s corporate investments have risen, but their future depends on an old worry",
+   "summary": "ExplainSpeaking | India’s corporate investments have risen, but their future depends on an old worry The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZWNFVFIyeWxVWFZEOVZwcFVVbDlhcVJXZmZWbTRzaWx2Z3djMlJ4UlVmdHhEdjNqNnpvSm0tWUNvRFhtRW9hd2JsWHdnSzhQS1lUVDFmRjZCY3M1ZFI0R1BYaW1yY3NaVVFzTTJKWktxYlFOdHFTc1V1SWoyZ290cVIwQlhxNmZpZnlMRzNObXZUU215dU82eFFvak5KeWt2dnRRcW5JTi1wa1FVRE1BWXNVRkxWVjBNd2dLb0VLR0dPb3NVNnVFMThGYjVwYzVSNkHSAdgBQVVfeXFMT3doS2FaR0NibU8taTVjRlVTa1R0TFBwVmRGbzkxeDlyUWJ1U0Q1ZnJFVWR3ZVh0Z2JKdks3NWRkUWhVenBxQ1NDVUZtTFNYaXY3V1BjVFpPWmNuVDc0bjd2Y3lGbDNBQ05HWHdUaWtqYU9pMHlqa1JBLXZhcFgxbzB1NWJFbkdqNTd3bGdiTEFUSHNBSGdqcGZUY3NoakNsVi03Qkd4V3E5VEt5cHcyY3A5aWFOQ21KVXo2c0xEREhfZURLWVZXTnkzYm4wRGMzVWdjbS02U3lv?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Economy"
    ],
    "gs": [
     "GS-3"
@@ -1287,6 +1487,25 @@
    "gs": [
     "GS-3",
     "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTc1NzcuZWNl",
+   "date": "2026-11-13",
+   "title": "Wider access to diabetes technology needs policy support, experts say",
+   "summary": "Continuous glucose monitors and automated insulin delivery systems drastically improve glycaemic control and cut hospitalisations, yet steep out-of-pocket costs and socioeconomic disparities leave a massive adoption gap",
+   "link": "https://www.thehindu.com/sci-tech/health/wider-access-to-diabetes-technology-needs-policy-support-experts-say/article71697577.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Polity & Governance",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
    ],
    "score": 2,
    "important": false
