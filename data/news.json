@@ -1,6 +1,25 @@
 {
- "updated": "2026-11-14T17:05:44.615Z",
+ "updated": "2026-11-14T21:28:32.217Z",
  "items": [
+  {
+   "id": "ydGljbGU3MTcwMjI3Ny5lY2U",
+   "date": "2026-11-15",
+   "title": "Investment promotion panel holds first meeting, targets $72 billion in exports",
+   "summary": "Discussions also focused on the proposed new industrial policy, single-window clearances, and MoUs inked since the TVK-led government came to power",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/investment-promotion-panel-holds-first-meeting-targets-72-billion-in-exports/article71702277.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
   {
    "id": "MTc5NDU2NjIwNDA0My5odG1s",
    "date": "2026-11-14",
@@ -482,6 +501,25 @@
    "topics": [
     "Economy",
     "Polity & Governance"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MDE5MTkuZWNl",
+   "date": "2026-11-14",
+   "title": "SCoR, Central Bank of India ink pact to extend welfare facilities for railway staff",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/scor-central-bank-of-india-ink-pact-to-extend-welfare-facilities-for-railway-staff/article71701919.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Health & Social Issues"
    ],
    "gs": [
     "GS-3",
@@ -1016,6 +1054,42 @@
    ],
    "gs": [
     "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzAyMzIzLmVjZQ",
+   "date": "2026-11-14",
+   "title": "After Arnab and Murasu, Andhra Pradesh braces for another cyclonic storm",
+   "summary": "Cyclone may make landfall along the North Coastal Andhra Pradesh either on the night of November 19 or in the early hours of November 20, says IMD",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/after-arnab-and-murasu-andhra-pradesh-braces-for-another-cyclonic-storm/article71702323.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MDI3NDYuZWNl",
+   "date": "2026-11-14",
+   "title": "Rubio acknowledges ’people are struggling’ economically in speech after GOP midterm wipeout",
+   "summary": "Marco Rubio’s comments to the conservative Federalist Society touched on a core issue of the midterm elections — economic pain — that U.S. voters cited in delivering massive losses to Republican Party",
+   "link": "https://www.thehindu.com/news/international/rubio-acknowledges-people-are-struggling-economically-in-speech-after-gop-midterm-wipeout/article71702746.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
    ],
    "score": 2,
    "important": false
