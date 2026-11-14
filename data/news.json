@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T03:13:34.596Z",
+ "updated": "2026-11-14T10:31:36.064Z",
  "items": [
   {
    "id": "MTc5NDU2NjIwNDA0My5odG1s",
@@ -36,6 +36,45 @@
    "gs": [
     "GS-2",
     "GS-3"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "cnRpY2xlNzE3MDA3NjUuZWNl",
+   "date": "2026-11-14",
+   "title": "Democratic U.S. senators order Musk to preserve records on Ukraine Starlink access",
+   "summary": "Ukrainian forces say Starshield, the military-grade version of Starlink, is vital for frontline communications and ‌drone operations in their defense against Russian drone and missile attacks",
+   "link": "https://www.thehindu.com/news/international/democratic-us-senators-order-musk-to-preserve-records-on-ukraine-starlink-access/article71700765.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Internal Security & Defence",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "ydGljbGU3MTcwMDc2MC5lY2U",
+   "date": "2026-11-14",
+   "title": "U.S. loses measles-free status after continued spread of the disease: report",
+   "summary": "The reported decision by the Americas branch of the ‌World Health Organization comes as the U.S. battles ‌the ⁠highest number of measles cases it has seen ⁠in more than three decades",
+   "link": "https://www.thehindu.com/news/international/us-loses-measles-free-status-after-continued-spread-of-the-disease-report/article71700760.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Health & Social Issues",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
    ],
    "score": 5,
    "important": true
@@ -166,6 +205,122 @@
    ],
    "gs": [
     "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MDEzMzguZWNl",
+   "date": "2026-11-14",
+   "title": "KVASU signs MoU with UAE university for veterinary education, research",
+   "summary": "The MoU provides for faculty exchanges for teaching, research and healthcare management, besides joint continuing veterinary education programmes, workshops and conferences in areas of mutual interest",
+   "link": "https://www.thehindu.com/news/national/kerala/kvasu-signs-mou-with-uae-university-for-veterinary-education-research/article71701338.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjg2NTMyLmVjZQ",
+   "date": "2026-11-14",
+   "title": "Twenty-four hours in Ahmedabad: A quick guide to India’s first UNESCO World Heritage City",
+   "summary": "A delayed flight and a failed alarm cost me a heritage walk. Undeterred, I set out to explore Ahmedabad’s contemporary art spaces, historic architecture and Sabarmati Ashram. How much can I cover in 24 hours?",
+   "link": "https://www.thehindu.com/life-and-style/travel/twenty-four-hours-in-ahmedabad-a-quick-guide-to-indias-first-unesco-world-heritage-city/article71686532.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "History, Art & Culture",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-1",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MDA3ODIuZWNl",
+   "date": "2026-11-14",
+   "title": "Why has Centre sanctioned fresh infrastructure along the China border in Arunachal Pradesh? | Explained",
+   "summary": "The tension in Arunachal Pradesh has persisted even though India and China held three high-level border talks since July 2026",
+   "link": "https://www.thehindu.com/news/national/why-has-centre-sanctioned-fresh-infrastructure-along-the-china-border-in-arunachal-pradesh-explained/article71700782.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Economy",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjkyODA1LmVjZQ",
+   "date": "2026-11-14",
+   "title": "From policy to talent: Amaravati Quantum Valley’s innovation blueprint",
+   "summary": "To put Amaravati among the top five global quantum hubs by 2030, competing alongside established centres in Chicago, Munich, Singapore, and Australia, Andhra Pradesh started with regulation",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/from-policy-to-talent-amaravati-quantum-valleys-innovation-blueprint/article71692805.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzAwNjkzLmVjZQ",
+   "date": "2026-11-14",
+   "title": "U.S. FAA ground stop updates: Flights resume as hours-long halt lifted; Trump admin. blames 'overloaded' systems",
+   "summary": "Trump administration rules out foul play, Transportation Secretary says major communications outage caused by decades old technology",
+   "link": "https://www.thehindu.com/news/international/us-flights-grounded-faa-nationwide-stop-usa-flights-live-updates-november-14-2026/article71700693.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcwMDc3My5lY2U",
+   "date": "2026-11-14",
+   "title": "Donald Trump to raise nuclear-arms cuts with Putin, Xi on November 19, White House says",
+   "summary": "Vladimir Putin, Xi Jinping and Donald Trump are expected to meet on the sidelines of the Asia-Pacific Economic Cooperation forum in Shenzhen",
+   "link": "https://www.thehindu.com/news/international/donald-trump-to-raise-nuclear-arms-cuts-with-putin-xi-on-november-19-white-house-says/article71700773.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Economy",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
    ],
    "score": 3,
    "important": false
@@ -345,6 +500,147 @@
    ],
    "gs": [
     "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzAxMDc0LmVjZQ",
+   "date": "2026-11-14",
+   "title": "India supports UNGA resolution on permanent sovereignty of Palestinian people",
+   "summary": "It demanded that Israel “cease the exploitation, damage, cause of loss or depletion and endangerment of the natural resources in the Occupied Palestinian Territory, including East Jerusalem, and in the occupied Syrian Golan",
+   "link": "https://www.thehindu.com/news/national/india-supports-unga-resolution-on-permanent-sovereignty-of-palestinian-people/article71701074.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcwMTAzMy5lY2U",
+   "date": "2026-11-14",
+   "title": "Media access order puts MG University on collision course with Minister",
+   "summary": "Calling the order undemocratic, Higher Education Minister Roji M. John said that restricting media access to a public institution would undermine transparency and the public’s right to know",
+   "link": "https://www.thehindu.com/news/national/kerala/media-access-order-puts-mg-university-on-collision-course-with-minister/article71701033.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcwMTExOC5lY2U",
+   "date": "2026-11-14",
+   "title": "PWD gets ₹2.68 crore to fortify three rehabilitation sites for Vallarpadam project evictees",
+   "summary": "The amount has been credited to the official bank account of the PWD Executive Engineer from the funds deposited by the Cochin Port Authority (CoPA) in the district collector’s account for the rehabilitation of the evicted families",
+   "link": "https://www.thehindu.com/news/national/kerala/pwd-gets-268-crore-to-fortify-three-rehabilitation-sites-for-vallarpadam-project-evictees/article71701118.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTc1NjAuZWNl",
+   "date": "2026-11-14",
+   "title": "Children’s Day 2026: Tamil Nadu CM Vijay launches distribution of cakes, greeting cards and sweet pongal to school students",
+   "summary": "It is a first-of-its-kind initiative in Tamil Nadu",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-cm-vijay-launches-distribution-of-cakes-greeting-cards-sweet-pongal-to-school-students-for-childrens-day/article71697560.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcwMTA1NS5lY2U",
+   "date": "2026-11-14",
+   "title": "Piyush Goyal in Egypt: Both sides to discuss increasing cooperation in infra, manufacturing, logistics",
+   "summary": "Egypt's strategic geographical location offers significant opportunities for Indian businesses to strengthen their presence in the country and access markets across Africa, the Middle East and Europe",
+   "link": "https://www.thehindu.com/news/national/piyush-goyal-in-egypt-both-sides-to-discuss-increasing-cooperation-in-infra-manufacturing-logistics/article71701055.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTk2MDEuZWNl",
+   "date": "2026-11-14",
+   "title": "Kerala HC directs Excise Commissioner to disclose steps taken to implement prohibitory measures to curb underage alcohol consumption",
+   "summary": "It was high time that the legislature considered appropriate amendments to the law to reduce the age of minority for juveniles and children in conflict with the law (CCL) to 16 years, the court opined",
+   "link": "https://www.thehindu.com/news/national/kerala/kerala-hc-directs-excise-commissioner-to-disclose-steps-taken-to-implement-prohibitory-measures-to-curb-underage-alcohol-consumption/article71699601.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2OTc2ODEuZWNl",
+   "date": "2026-11-14",
+   "title": "Chief Minister D.K. Shivakumar places Karnataka’s demands on stage with Prime Minister",
+   "summary": "Demands included a fairer financial partnership over Bengaluru’s Namma Metro, clearance for Mekedatu project, scrapping Kasturirangan Report and immediate drought relief",
+   "link": "https://www.thehindu.com/news/national/karnataka/dk-shivakumar-seeks-fairer-centre-state-cost-sharing-for-bengaluru-metro-faster-clearances/article71697681.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-1",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTY5Nzg1Ny5lY2U",
+   "date": "2026-11-14",
+   "title": "Justice Karnan’s incident brought judicial misconduct to the forefront",
+   "summary": "Two problems were raised in the aftermath — The need to revisit the process of selection/appointment of judges to constitutional courts, the need for an alternative to removal process to tackle judicial misconduct.",
+   "link": "https://www.thehindu.com/news/national/justice-karnans-incident-brought-judicial-misconduct-to-the-forefront/article71697857.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
    ],
    "score": 2,
    "important": false
