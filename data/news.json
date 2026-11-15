@@ -1,6 +1,47 @@
 {
- "updated": "2026-11-14T21:28:32.217Z",
+ "updated": "2026-11-15T01:53:58.523Z",
  "items": [
+  {
+   "id": "cnRpY2xlNzE3MDM5ODIuZWNl",
+   "date": "2026-11-15",
+   "title": "China border has become 'more alive,' India enhancing frontier infrastructure: Jaishankar",
+   "summary": "The External Affairs Minister said India's capability to \"deploy\" its troops on that border has seen \"a very marked\" improvement",
+   "link": "https://www.thehindu.com/news/national/china-border-has-become-more-alive-india-enhancing-frontier-infrastructure-jaishankar/article71703982.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Economy",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "cnRpY2xlNzE2ODk4MzcuZWNl",
+   "date": "2026-11-15",
+   "title": "Drought-stricken Beed: Land of parched fields and broken promises",
+   "summary": "Drought has devastated Maharashtra’s Beed district, pushing women farmers and labourers towards distress migration. Despite repeated pleas for employment, villagers say government job guarantees have failed them, even as the State announces a ₹6,728-crore package",
+   "link": "https://www.thehindu.com/news/national/maharashtra/drought-stricken-beed-land-of-parched-fields-and-broken-promises/article71689837.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Health & Social Issues",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 4,
+   "important": false
+  },
   {
    "id": "ydGljbGU3MTcwMjI3Ny5lY2U",
    "date": "2026-11-15",
@@ -18,6 +59,97 @@
     "GS-2"
    ],
    "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MDM5ODQuZWNl",
+   "date": "2026-11-15",
+   "title": "U.S. must respect India’s right to defend itself, maintain zero tolerance towards terrorism: Blinken",
+   "summary": "“India is a global force,” Mr. Blinken said, adding that the relationship and shared interests between Washington and New Delhi were “really global in nature”",
+   "link": "https://www.thehindu.com/news/international/us-must-respect-indias-right-to-defend-itself-maintain-zero-tolerance-towards-terrorism-blinken/article71703984.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MDI4NDguZWNl",
+   "date": "2026-11-15",
+   "title": "Maritime security in focus at India-Belgium naval talks",
+   "summary": "The bilateral talk was aimed at strengthening maritime cooperation and further deepening navy-to-navy engagements between the two countries",
+   "link": "https://www.thehindu.com/news/national/maritime-security-in-focus-at-india-belgium-naval-talks/article71702848.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzAxODkwLmVjZQ",
+   "date": "2026-11-15",
+   "title": "YMCA Madras launches IAS Academy for persons with hearing and speech disabilities",
+   "summary": "Irai Anbu, former Chief Secretary of Tamil Nadu, offered tips to the students for the UPSC examinations",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/ymca-madras-launches-ias-academy-for-persons-with-hearing-and-speech-disabilities/article71701890.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MDIxOTYuZWNl",
+   "date": "2026-11-15",
+   "title": "Residents seek exemption of taxes for non-commercial vehicles at Pallikonda toll plaza",
+   "summary": "Residents said complete exemption of toll fee will help them cut travel cost and boost agriculture in the area",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/residents-seek-exemption-of-taxes-for-non-commercial-vehicles-at-pallikonda-toll-plaza/article71702196.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzAzMDQ2LmVjZQ",
+   "date": "2026-11-15",
+   "title": "SpaceX’s Starship returns from orbit and is captured by launch pad arms in a dramatic first",
+   "summary": "SpaceX expects to begin launching Starships from Florida’s Kennedy Space Center within the next few months",
+   "link": "https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
    "important": false
   },
   {
@@ -2251,6 +2383,23 @@
    "gs": [
     "GS-2",
     "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "VFNYaExaVEkwZG1RMD9vYz01",
+   "date": "2026-11-13",
+   "title": "From Jensen Huang to India-Pakistan and beyond, the long history of honeytrapping",
+   "summary": "From Jensen Huang to India-Pakistan and beyond, the long history of honeytrapping The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUVVCRWd0RDRtYTlYQXFDQllKbWpOYjZld1I1TmZyeU9TUXl5SktwMWNxX3pEZVltNHlFVXdnSVlRS25lTUVmUGNzMi1vMjJwZ2JhTXV6U3VDSG56d1dGWXdOUG5KOEJTejdOUjVldlRsamt1ZEl0cXFURUxxLUdkUzR4SG5Qb0pnWlFXeWtJa0thTE9ROWFFUllWZ0V4a2tkMi1uQkNiVmFPNzRuc1dTSXhLZTI0dmQ0?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
    ],
    "score": 2,
    "important": false
