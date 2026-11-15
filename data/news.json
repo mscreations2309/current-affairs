@@ -1,6 +1,44 @@
 {
- "updated": "2026-11-15T17:08:28.708Z",
+ "updated": "2026-11-15T21:47:22.670Z",
  "items": [
+  {
+   "id": "ydGljbGU3MTcwNTU2Ni5lY2U",
+   "date": "2026-11-16",
+   "title": "As diabetes spikes in Kashmir, the health lens turns to the fabled wazwan",
+   "summary": "Subsistence agriculture and labour-intensive living has been replaced by urbanisation and declining physical activity, while traditional dietary patterns persist largely unchanged, the doctor-authors of Diabetes Simplified for Kashmir say",
+   "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/as-diabetes-spikes-in-kashmir-the-health-lens-turns-to-the-fabled-wazwan/article71705566.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcwNTIwNy5lY2U",
+   "date": "2026-11-16",
+   "title": "M.P. CM announces crop loss survey, financial aid for farmers in rain deficit Alirajpur district",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/madhya-pradesh/mp-cm-announces-crop-loss-survey-financial-aid-for-farmers-in-rain-deficit-alirajpur-district/article71705207.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
   {
    "id": "cnRpY2xlNzE3MDM5ODIuZWNl",
    "date": "2026-11-15",
@@ -313,6 +351,42 @@
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONldKTldFemFUVnl2WTJ2ZjVwN21SdVFMQ294VU5xRzFDbERBaDBiNWt4UjBDb2tzeWxSeGRfUkJXVWZmZVp4cUFmX013R0syQmtpaUtla3RXSlg5SE5FU1kzWmp4TG5NVm9xUDNwYmJTemh5dXNmZ3pPc2NzT0RyVmc4UmE5dHJJSEVPa014dkM0Q21TT3ZGNnZDTFpLVEVqcjRtNWc4Y2l3MDJaSU9UbW9ZNEFsUdIBvAFBVV95cUxPUHpzajJNNGItd1NFTWhoQVBCdG9IVzRrbFkzQ0E3aWZiSGpUMEJDRkRTekpxSm9yaEMtQUo1ZUpCXzNTcHdaOFpONGNOZ0JzdWZmWXBiY0pZdDhxN1NuYUhfSzZiNWJ3T25JZ0UxN1E5RF95RWFPeU1KRUxCbFdjTFNuMi02cE5oTjdxTU5VaXRNbmJvZk1DTHlVSFZPOUFnekRibmNMZTFtVGpnZjM4cHYwdzA4MllmUVJUVw?oc=5",
    "source": "Indian Express",
    "section": "Explained",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MDU3MzMuZWNl",
+   "date": "2026-11-15",
+   "title": "Southeast Asian leaders denounce violence in Myanmar, extend ban on its leader",
+   "summary": "ASEAN leaders proposed the plan in April 2021 to try to ease the violence that erupted after the army seized power from the elected government of Aung San Suu Kyi",
+   "link": "https://www.thehindu.com/news/international/southeast-asian-leaders-denounce-violence-in-myanmar-extend-ban-on-its-leader/article71705733.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzA0NzUyLmVjZQ",
+   "date": "2026-11-15",
+   "title": "A step back: On Trump’s no-war, no-deal approach against Iran",
+   "summary": "Trump must accept the realities of the war if he wants a deal",
+   "link": "https://www.thehindu.com/opinion/editorial/a-step-back-on-trumps-no-war-no-deal-approach-against-iran/article71704752.ece",
+   "source": "The Hindu",
+   "section": "Editorial",
    "topics": [
     "International Relations"
    ],
@@ -717,6 +791,62 @@
    ],
    "gs": [
     "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MDU3MDIuZWNl",
+   "date": "2026-11-15",
+   "title": "Nearly 2,200 migrants reach Canary Islands in two days, Spain says",
+   "summary": "Spain declared a migration emergency on the islands on November 11 following a rise in arrivals in recent weeks, particularly from sub-Saharan Africa",
+   "link": "https://www.thehindu.com/news/national/nearly-2200-migrants-reach-canary-islands-in-two-days-spain-says/article71705702.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MDU1MjYuZWNl",
+   "date": "2026-11-15",
+   "title": "India, U.S. agreed on preferential market access for Indian goods in America: Goyal",
+   "summary": "The deal was to be signed earlier, but changes in U.S. tariff landscape led to further negotiations on the agreement",
+   "link": "https://www.thehindu.com/news/national/india-us-agreed-on-preferential-market-access-for-indian-goods-in-america-goyal/article71705526.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzA1Njc1LmVjZQ",
+   "date": "2026-11-15",
+   "title": "Inspector, constable suspended for filing fake case under POCSO Act in Chennai",
+   "summary": "The two police personnel allegedly registered a case against a man at the behest of a Telangana resident, who claimed he had paid ₹5 lakh to the Thirumangalam All Women Police Station",
+   "link": "https://www.thehindu.com/news/cities/chennai/inspector-constable-suspended-for-filing-fake-case-under-pocso-act-in-chennai/article71705675.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
    ],
    "score": 2,
    "important": false
