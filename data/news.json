@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T02:04:15.649Z",
+ "updated": "2026-11-16T09:40:35.862Z",
  "items": [
   {
    "id": "ydGljbGU3MTcwNDYwMC5lY2U",
@@ -23,6 +23,26 @@
    "important": true
   },
   {
+   "id": "ydGljbGU3MTcwNzEwMi5lY2U",
+   "date": "2026-11-16",
+   "title": "Pakistan’s participation in SCO Civilisational Forum | Explained",
+   "summary": "The Ministry of Culture, in collaboration with the Ministry of External Affairs, will organise the first SCO Civilisational Dialogue Forum from November 20-22 at the Purana Qila (Old Fort) in New Delhi",
+   "link": "https://www.thehindu.com/news/international/pakistans-participation-in-sco-civilisational-forum-explained/article71707102.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Polity & Governance",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
    "id": "J0aWNsZTcxNzA2NjI1LmVjZQ",
    "date": "2026-11-16",
    "title": "China confirms first Xi-Trump-Putin summit on November 19",
@@ -36,6 +56,64 @@
    ],
    "gs": [
     "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzA2ODQ1LmVjZQ",
+   "date": "2026-11-16",
+   "title": "India, Egypt discuss steps to boost trade, address non-tariff barriers",
+   "summary": "The two countries have decided to set up a Joint Working Group to explore the Terms of Reference for a PTA or FTA to facilitate stronger bilateral trade, improve access to both markets and promote investment linkages between the two countries",
+   "link": "https://www.thehindu.com/news/national/piyush-goyal-in-egypt-for-india-egypt-joint-trade-committee-jtc-meet/article71706845.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcwNjgzMS5lY2U",
+   "date": "2026-11-16",
+   "title": "Estonia to close Russian border crossings after attempted arson attack",
+   "summary": "Estonian authorities detained ‌eight people overnight on suspicion of an attempted arson attack on ‌drone maker Threod Systems that they ‌said ⁠had been ordered by Russia’s ⁠GRU military intelligence service",
+   "link": "https://www.thehindu.com/news/international/estonia-to-close-russian-border-crossings-after-attempted-arson-attack/article71706831.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Internal Security & Defence",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "5ZlUyeDZWMHBWTkZRP29jPTU",
+   "date": "2026-11-16",
+   "title": "Did China use export-banned Nvidia chips to train its most advanced AI models?",
+   "summary": "Did China use export-banned Nvidia chips to train its most advanced AI models? The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONzYzemlScDdHdUFyTnV6R0s0eEplSlhVYW1mQkstX1JZZWtRb1BKYlhDdERyWm4yUms0UzktWU93c0dGSFZzMjQ5dThMNmtjTHM1Tl9rNks3OHN0bThkZHdUQzVDUVgtNnljdUJ3MmJHYUxLZ1h0VXd3VDI1cmQ4a0QycGtja0c1ZlNnU1hHSE9jRXQxd2l1Qk5IWmpDb0ZDek9BVFU4Z2R3eTBKeTVNN0hkU29mb281U3VuYXlR0gHEAUFVX3lxTE9ZOXd2WkhwdFRyN1pPVVkzZVJ6Wm92azkxeXNESkZ1ZU5fYU54UVVuZEdjU002MUhrTjhfS21ZbjBZYWplNG1BdjYtYVJtcFNkVU51TF9WTnNJZVhBblkteTFVOHFyRGhLR21Md1lhTUVOVEZLajRVTEZGN2tWZnc5VWNvZjBTOTQxM0lhWmEzVWxpcDVSSGV2WWpUWTFYdmtvazlVWGRQeFRGMElKZ21FdUJKa2UyS2NmRU9fU2x6V0pVNFQ?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations",
+    "Economy",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
    ],
    "score": 4,
    "important": false
@@ -92,6 +170,160 @@
     "Economy"
    ],
    "gs": [
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MDczMTQuZWNl",
+   "date": "2026-11-16",
+   "title": "Encounter breaks out in Kulgam during anti-terror operation",
+   "summary": "Initial reports suggested that those involved in the November 11 attack on CRPF may be trapped at the encounter site",
+   "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/kulgam-encounter-security-terrorists-operation-nov-16-2026/article71707314.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Internal Security & Defence",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcwNzE3OC5lY2U",
+   "date": "2026-11-16",
+   "title": "AQI ‘poor’ in parts of Kolkata, outskirts amid Chhath celebrations",
+   "summary": "Barrackpore on the northern fringes of Kolkata recorded an Air Quality Index (AQI) of 230, placing it in the 'poor' category, according to air monitoring data",
+   "link": "https://www.thehindu.com/news/cities/kolkata/aqi-poor-in-parts-of-kolkata-outskirts-amid-chhath-celebrations/article71707178.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzA3MDUyLmVjZQ",
+   "date": "2026-11-16",
+   "title": "Supreme Court asks Centre, States to file status reports on setting up of special courts to hear NDPS Act cases",
+   "summary": "Supreme Court took note of the submissions of Additional Solicitor General Aishwarya Bhati, appearing for the Centre, that not much progress has been made in pursuance of the orders passed by the apex court recently on setting up of special courts",
+   "link": "https://www.thehindu.com/news/national/supreme-court-asks-centre-states-to-file-status-reports-on-setting-up-of-special-courts-to-hear-ndps-act-cases/article71707052.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcwNjcxMS5lY2U",
+   "date": "2026-11-16",
+   "title": "Army opens fire after suspicious movement near LoC in J&K’s Poonch",
+   "summary": "A search operation was launched with the first light of the day and it was underway when last reports were received, the officials said",
+   "link": "https://www.thehindu.com/news/national/indian-army-loc-poonch-suspicious-movement-firing-search-operation/article71706711.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Internal Security & Defence",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MDcyNTEuZWNl",
+   "date": "2026-11-16",
+   "title": "Ukraine hits Russia's Crimea bridge in 1,300-drone barrage",
+   "summary": "The strike on the bridge appeared to inflict only minor damage, though drew an angry response from Russian-installed officials",
+   "link": "https://www.thehindu.com/news/international/ukraine-hits-russias-crimea-bridge-in-1300-drone-barrage/article71707251.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MDcwODAuZWNl",
+   "date": "2026-11-16",
+   "title": "Europe hunts for Palantir alternatives as Militaries seek to limit U.S. dependence",
+   "summary": "Last week, Germany’s Helsing unveiled ​military intelligence software called Clarity, which is a part of a broader market for AI-powered systems designed to accelerate military decision-making",
+   "link": "https://www.thehindu.com/news/international/europe-hunts-for-palantir-alternatives-as-militaries-seek-to-limit-us-dependence/article71707080.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Science & Technology",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MDY3MDMuZWNl",
+   "date": "2026-11-16",
+   "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail",
+   "summary": "Mr. Carney said any Chinese investment would have to involve substantial manufacturing in Canada rather than simply assembling imported parts",
+   "link": "https://www.thehindu.com/news/international/carney-says-canada-could-turn-to-chinese-automakers-if-trump-trade-talks-fail/article71706703.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Economy",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "MTc5NDgwNDk3MTM0My5odG1s",
+   "date": "2026-11-16",
+   "title": "For India to be Viksit Bharat in 2047, private sector has to be ambitious, says former RBI Governor Raghuram Rajan",
+   "summary": "Former RBI Governor Raghuram Rajan says Indian businesses lack ambition beyond domestic markets and must expand globally to help achieve Viksit Bharat 2047. He points to missed opportunities attributing weak innovation partly to insufficient research by companies and universities.",
+   "link": "https://www.livemint.com/economy/for-india-to-be-viksit-bharat-in-2047-private-sector-has-to-be-ambitious-says-former-rbi-governor-raghuram-rajan-11794804971343.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Polity & Governance",
+    "Economy",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
     "GS-3"
    ],
    "score": 3,
@@ -184,6 +416,240 @@
    ],
    "gs": [
     "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzA3MzAzLmVjZQ",
+   "date": "2026-11-16",
+   "title": "Noted agricultural scientist K. Prabhakaran Nair dies",
+   "summary": "He made immense contributions to sustainable agriculture, soil science and agronomy, having spent decades conducting research in the field",
+   "link": "https://www.thehindu.com/news/national/kerala/noted-agricultural-scientist-k-prabhakaran-nair-dies/article71707303.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcwMTI5Mi5lY2U",
+   "date": "2026-11-16",
+   "title": "Cyclone may bring isolated heavy rain to Andhra Pradesh from November 18 to 20",
+   "summary": "According to the IMD’s afternoon bulletin, heavy rain is likely at one or two places in coastal Andhra Pradesh and gusty winds, with speed reaching 40-50 kmph, on November 18, 19 and 20.",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-may-bring-isolated-heavy-rain-to-andhra-pradesh-from-november-18-to-20/article71701292.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzA2Nzg1LmVjZQ",
+   "date": "2026-11-16",
+   "title": "Cyclone Akvan to cross Andhra coast between Nellore and Tuni by November 20 noon, says IMD",
+   "summary": "Andhra fishermen still awaiting compensation for Cyclone Arnab’s losses are told to stay ashore till November 20 ahead of Akvan",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-to-cross-andhra-coast-between-nellore-and-tuni-by-november-20-noon-says-imd/article71706785.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzA0ODEzLmVjZQ",
+   "date": "2026-11-16",
+   "title": "Keralam’s orchids endure from highway trees to salt-sprayed shores",
+   "summary": "A rescue-and-relocation project has saved over 27,000 native orchids from roadside trees felled in Keralam, and more than 71% were still alive, ​5,224 had flowered, and 1,934 had produced capsules after one to two years, offering a low-cost model for conservation",
+   "link": "https://www.thehindu.com/sci-tech/science/keralams-orchids-endure-from-highway-trees-to-salt-sprayed-shores/article71704813.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcwNTA4MS5lY2U",
+   "date": "2026-11-16",
+   "title": "Seminar at MCEME-Secunderabad explores indigenous space capabilities for military applications",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/cities/Hyderabad/seminar-at-mceme-secunderabad-explores-indigenous-space-capabilities-for-military-applications/article71705081.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcwNjk0Mi5lY2U",
+   "date": "2026-11-16",
+   "title": "Voting underway for final phase of panchayat polls in Rajasthan",
+   "summary": "More than 1.05 crore voters are eligible to exercise their franchise at 11,905 polling stations. Long queues of voters were seen at several polling stations since morning",
+   "link": "https://www.thehindu.com/news/national/rajasthan/rajasthan-panchayat-polls-final-phase-across-3747-gram-panchayats/article71706942.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzA0ODExLmVjZQ",
+   "date": "2026-11-16",
+   "title": "BMLTA Amendment notified: Tunnel Roads, Elevated Corridors to evade institutional scrutiny",
+   "summary": "The provision of the Section retrospectively validates decisions and actions relating to projects initiated between the adoption of the BMLTA Act in 2022 and the notification of the 2026 Rules, deeming them to have been undertaken under the Act",
+   "link": "https://www.thehindu.com/news/national/karnataka/bmlta-amendment-notified-tunnel-roads-elevated-corridors-to-evade-institutional-scrutiny/article71704811.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjkyNjA1LmVjZQ",
+   "date": "2026-11-16",
+   "title": "The inaugural edition of the Moto Summit Kochi 2026 will take place on November 21 and 22",
+   "summary": "Touted as Keralam’s first ultimate motorsports and lifestyle festival, Moto Summit Kochi, will be held at Chakola Mill, Kalamassery",
+   "link": "https://www.thehindu.com/society/the-inaugural-edition-of-the-moto-summit-kochi-2026-will-take-place-on-november-21-and-22/article71692605.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MDczMTUuZWNl",
+   "date": "2026-11-16",
+   "title": "Pakistan human rights body warns of escalating threats to democracy and fundamental freedoms",
+   "summary": "According to a press release issued by HRCP, the commission's General Body expressed alarm over the systematic erosion of freedom of expression through censorship, surveillance, restrictive regulations and the misuse of criminal laws",
+   "link": "https://www.thehindu.com/news/international/pakistan-human-rights-body-warns-of-escalating-threats-to-democracy-and-fundamental-freedoms/article71707315.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Polity & Governance",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcwNjk4OC5lY2U",
+   "date": "2026-11-16",
+   "title": "European Union nations to unveil Rwanda deal for migrant return hub",
+   "summary": "The group, also comprising Austria, Greece and the Netherlands, has been gunning to open a so-called \"return-hub\" despite rights groups' concerns, after the EU cleared the way with a recent toughening of migration rules",
+   "link": "https://www.thehindu.com/news/international/european-union-nations-to-unveil-rwanda-deal-for-migrant-return-hub/article71706988.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcwNjk1MS5lY2U",
+   "date": "2026-11-16",
+   "title": "In reversal, U.S. to fund UN military support in Somalia for another year",
+   "summary": "The Al-Qaeda-linked Al-Shabaab has been fighting the Somali government for two decades and continues to control large swathes of central Somalia despite the African Union military campaign, which was unlikely to be able to continue without UNSOS support.",
+   "link": "https://www.thehindu.com/news/international/in-reversal-us-to-fund-un-military-support-in-somalia-for-another-year/article71706951.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MDcwNDYuZWNl",
+   "date": "2026-11-16",
+   "title": "Wholesale inflation surges to 12.29% in October, fuel and power prices lead rise",
+   "summary": "According to provisional government data, inflation in the fuel and power category climbed to 32.84%, while primary articles recorded inflation of 9.24%. Inflation in manufactured products, meanwhile, eased marginally to 9.54%",
+   "link": "https://www.thehindu.com/business/Economy/wholesale-price-inflation-october-government-data/article71707046.ece",
+   "source": "The Hindu",
+   "section": "Economy",
+   "topics": [
+    "Polity & Governance",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "E3OTQ4MDA0MjU4MDAuaHRtbA",
+   "date": "2026-11-16",
+   "title": "Gen Z, UPI, and blockchain: What the future of gold investing could look like in India",
+   "summary": "India’s gold market is going digital. With young investors flocking to apps, regulated EGRs gaining traction, and RBI exploring tokenization, gold is rapidly becoming a modern financial asset.",
+   "link": "https://www.livemint.com/economy/digital-gold-investment-india-etf-egr-tokenisation-11794800425800.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
    ],
    "score": 2,
    "important": false
