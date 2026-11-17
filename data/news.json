@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T20:27:38.423Z",
+ "updated": "2026-11-17T03:52:09.594Z",
  "items": [
   {
    "id": "J0aWNsZTcxNzA4NzU2LmVjZQ",
@@ -36,6 +36,43 @@
    "important": false
   },
   {
+   "id": "ydGljbGU3MTcxMDI5My5lY2U",
+   "date": "2026-11-17",
+   "title": "What to know about the online banking delays affecting major U.S. banks",
+   "summary": "Chase said that the technical problem was not the result of a cyberattack, stressing that it was an isolated incident and not related to anything other than a bug.",
+   "link": "https://www.thehindu.com/sci-tech/technology/what-to-know-about-the-online-banking-delays-affecting-major-us-banks/article71710293.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Economy",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MTAyMjguZWNl",
+   "date": "2026-11-17",
+   "title": "U.S. federal court strikes down fixed terms for student, exchange visas",
+   "summary": "In July, the U.S. Department of Homeland Security (DHS) proposed a policy aimed at preventing international students from staying in the country for more than four years unless they obtained federal approval",
+   "link": "https://www.thehindu.com/news/international/us-federal-court-strikes-down-fixed-terms-for-student-exchange-visas/article71710228.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
    "id": "J0aWNsZTcxNzA3NTcyLmVjZQ",
    "date": "2026-11-17",
    "title": "Cyclone Akvan to bring light rainfall to parts of coastal T.N. on November 17",
@@ -48,6 +85,94 @@
    ],
    "gs": [
     "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzA4NzYwLmVjZQ",
+   "date": "2026-11-17",
+   "title": "Keralam mulls railway tunnel carrying double-stack containers to Vizhinjam port",
+   "summary": "As part of this move, the tender floated a few months ago for constructing a conventional railway tunnel designed to carry single-stack containers has been cancelled",
+   "link": "https://www.thehindu.com/news/national/kerala/keralam-mulls-railway-tunnel-carrying-double-stack-containers-to-vizhinjam-port/article71708760.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MTAyODUuZWNl",
+   "date": "2026-11-17",
+   "title": "Singapore seeks ‘trusted access’ to AI chips after new US curbs",
+   "summary": "Singapore is finding itself at the centre of the controversy as cloud computing firm Megaspeed, suspected of helping Chinese firms get around US export controls, is based there",
+   "link": "https://www.thehindu.com/sci-tech/technology/singapore-seeks-trusted-access-to-ai-chips-after-new-us-curbs/article71710285.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Economy",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MDk1NTYuZWNl",
+   "date": "2026-11-17",
+   "title": "Customers at some of the U.S.’ largest banks are reporting difficulty accessing accounts online",
+   "summary": "Bank of America, Chase, J.P. Morgan, U.S. Bank, Wells Fargo and Zelle were listed by users as down or experiencing issues, according to the website downdetector.com",
+   "link": "https://www.thehindu.com/news/international/customers-at-some-of-the-us-largest-banks-are-reporting-difficulty-accessing-accounts-online/article71709556.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ZlYWwtZG1rLTEwOTY1MzY0Lw",
+   "date": "2026-11-17",
+   "title": "Fake authors, real payments, and AI — what Tamil Nadu’s library scandal reveals",
+   "summary": "",
+   "link": "https://indianexpress.com/article/explained/tamil-nadu-library-scandal-reveal-dmk-10965364/",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "E3OTQ4ODUxNzU2MDcuaHRtbA",
+   "date": "2026-11-17",
+   "title": "Centre hikes windfall tax on diesel, ATF exports; petrol levy unchanged — Check details",
+   "summary": "This follows the previous revision on October 31, when the government raised the diesel export levy from ₹8.5 to ₹11.5 per litre and the ATF duty from ₹10.5 to ₹11 per litre, while completely scrapping a ₹2.5 per litre levy on petrol exports.",
+   "link": "https://www.livemint.com/economy/centre-hikes-windfall-tax-on-diesel-atf-exports-petrol-levy-unchanged-check-details-11794885175607.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
    ],
    "score": 2,
    "important": false
@@ -582,6 +707,23 @@
    "gs": [
     "GS-2",
     "Prelims"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcwNzMyOS5lY2U",
+   "date": "2026-11-16",
+   "title": "Orbital computing could let scientists rent ‘brainpower’ in space",
+   "summary": "To bridge the gap between data being recorded by satellites and data being available to users on the ground, operators are pursuing a solution called in-orbit computing: the basic idea is to analyse some data onboard the satellite and only send back the most relevant information",
+   "link": "https://www.thehindu.com/sci-tech/science/orbital-computing-could-let-scientists-rent-brainpower-in-space/article71707329.ece",
+   "source": "The Hindu",
+   "section": "Science",
+   "topics": [
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
    ],
    "score": 3,
    "important": false
@@ -3034,6 +3176,23 @@
    "important": false
   },
   {
+   "id": "9rLXdvcnJ5LTEwOTYyMDEyLw",
+   "date": "2026-11-14",
+   "title": "ExplainSpeaking | Corporate investments are up, but their future depends on an old worry",
+   "summary": "",
+   "link": "https://indianexpress.com/article/explained/explained-economics/explainspeaking-india-corporate-investments-rise-outlook-worry-10962012/",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
    "id": "cnRpY2xlNzE2OTY4NzAuZWNl",
    "date": "2026-11-13",
    "title": "COP31: Himalayan flash floods should push all to act ‘faster and fairer’ on climate change: UN climate chief",
@@ -4752,6 +4911,25 @@
    "gs": [
     "GS-3",
     "Prelims"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "eHBsYWluZWQtMTA5NjAzOTYv",
+   "date": "2026-11-12",
+   "title": "Why New York schools are pushing back against Google’s AI",
+   "summary": "",
+   "link": "https://indianexpress.com/article/explained/explained-ai/google-ai-search-schools-new-york-ban-explained-10960396/",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
    ],
    "score": 3,
    "important": false
@@ -10279,6 +10457,23 @@
    "important": false
   },
   {
+   "id": "5kaWRhdGVzLTEwOTU0MDI2Lw",
+   "date": "2026-11-07",
+   "title": "OBC creamy layer: How SC ruling clears path for 2025 CSE batch, and around 100 candidates",
+   "summary": "",
+   "link": "https://indianexpress.com/article/explained/obc-certificates-creamy-layer-supreme-court-ruling-rejected-candidates-10954026/",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
    "id": "cnRpY2xlNzE2NzEzNjkuZWNl",
    "date": "2026-11-06",
    "title": "Visa must for undocumented six non-Muslim communities who entered India before December 31, 2024: Home Ministry",
@@ -11333,6 +11528,23 @@
    "section": "Editorial",
    "topics": [
     "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "NlbmFyaW9zLTEwOTUzMTE5Lw",
+   "date": "2026-11-06",
+   "title": "Eisenkot gets mandate to form Israel’s government: 3 scenarios, and Netanyahu’s options",
+   "summary": "",
+   "link": "https://indianexpress.com/article/explained/explained-global/israel-government-formation-gadi-eisenkot-netanyahu-coalition-scenarios-10953119/",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations"
    ],
    "gs": [
     "GS-2"
