@@ -1,6 +1,78 @@
 {
- "updated": "2026-11-17T13:22:53.621Z",
+ "updated": "2026-11-17T22:21:21.153Z",
  "items": [
+  {
+   "id": "ydGljbGU3MTcxMzYwNy5lY2U",
+   "date": "2026-11-18",
+   "title": "Construction activities on Kaziranga wildlife corridors flagged",
+   "summary": "An Eastern Assam-based environment activist writes to the Supreme Court-constituted Central Empowered Committee, highlighting the concerns",
+   "link": "https://www.thehindu.com/news/national/assam/construction-activities-on-kaziranga-wildlife-corridors-flagged/article71713607.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzEzNDA2LmVjZQ",
+   "date": "2026-11-18",
+   "title": "Earthshot Prize: Climate action needs innovation, global cooperation, say leaders on green carpet in Mumbai",
+   "summary": "Maharashtra Environment and Climate Change Minister Pankaja Munde called for global cooperation to protect the planet for future generations",
+   "link": "https://www.thehindu.com/news/national/earthshot-prize-climate-action-needs-innovation-global-cooperation-say-leaders-on-green-carpet-in-mumbai/article71713406.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcxMjczOC5lY2U",
+   "date": "2026-11-18",
+   "title": "Kochi Corporation to seek govt. relief for building tax defaulters",
+   "summary": "A resolution to this effect was moved by Vaduthala West councillor Jismy Jerald, highlighting a similar issue faced by around 160 families who were assigned title deeds for river puramboke land",
+   "link": "https://www.thehindu.com/news/national/kerala/kochi-corporation-to-seek-govt-relief-for-building-tax-defaulters/article71712738.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzEzMjUxLmVjZQ",
+   "date": "2026-11-18",
+   "title": "Elusive peace: On Kashmir terror attack",
+   "summary": "Restoration of Statehood is essential for peace in Jammu and Kashmir",
+   "link": "https://www.thehindu.com/opinion/editorial/the-hindu-editoral-on-kashmir-terror-attack/article71713251.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
   {
    "id": "ydGljbGU3MTcxMTI0Mi5lY2U",
    "date": "2026-11-17",
@@ -19,6 +91,25 @@
     "GS-3"
    ],
    "score": 6,
+   "important": true
+  },
+  {
+   "id": "ydGljbGU3MTcxMzE3OC5lY2U",
+   "date": "2026-11-17",
+   "title": "Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate",
+   "summary": "The Kerch Bridge is a crucial link in moving military and civilian supplies from Russia to Crimea and to support troops on the front line",
+   "link": "https://www.thehindu.com/news/international/ukraine-strikes-major-russian-bridge-with-drones-and-missiles-as-aerial-attacks-escalate/article71713178.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Internal Security & Defence",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 5,
    "important": true
   },
   {
@@ -55,6 +146,24 @@
    "gs": [
     "GS-2",
     "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNjg1MzkwLmVjZQ",
+   "date": "2026-11-17",
+   "title": "Rights beyond the pad: making menstrual health services work in every school",
+   "summary": "The Supreme Court has recognised menstrual health as a constitutional right and laid down obligations for schools and governments. The real challenge now is making these services function reliably, every month, in every school",
+   "link": "https://www.thehindu.com/sci-tech/health/rights-beyond-the-pad-making-menstrual-health-services-work-in-every-school/article71685390.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
    ],
    "score": 4,
    "important": false
@@ -309,6 +418,157 @@
    ],
    "gs": [
     "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcxMzE5NS5lY2U",
+   "date": "2026-11-17",
+   "title": "SC pulls up MP Sanjay Raut over remarks on CJI, says ‘seasoned politician’ should know restraint",
+   "summary": "Court was hearing criminal contempt petition filed by the Supreme Court Bar Association against Raut and journalist Nikhil Wagle over ‘objectionable’ social media posts about the CJI and the judiciary",
+   "link": "https://www.thehindu.com/news/national/sc-pulls-up-mp-sanjay-raut-over-remarks-on-cji-says-seasoned-politician-should-know-restraint/article71713195.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcxMjk0NS5lY2U",
+   "date": "2026-11-17",
+   "title": "ASHA workers launch indefinite protest; refuse to withdraw despite Health Minister’s assurance",
+   "summary": "Mr. Khader said he would take up the demand for an increase in the monthly honorarium to ₹15,000 with the Chief Minister at the Cabinet meeting scheduled for November 19.",
+   "link": "https://www.thehindu.com/news/national/karnataka/asha-workers-launch-indefinite-protest-refuse-to-withdraw-despite-health-ministers-assurance/article71712945.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcxMjUyMy5lY2U",
+   "date": "2026-11-17",
+   "title": "‘Record horticultural production’ shows increase of 4.36% from 2024-25: Agriculture Ministry",
+   "summary": "Significant increase in horticultural production reflects the hard work of India’s farmers and the impact of the Centre’s farmer-friendly policies, Agriculture Minister Shivraj Singh Chouhan says",
+   "link": "https://www.thehindu.com/news/national/record-horticultural-production-shows-increase-of-436-from-2024-25-agriculture-ministry/article71712523.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcxMzE4NC5lY2U",
+   "date": "2026-11-17",
+   "title": "NATO allies to discuss U.S. troop levels with Pentagon strategy chief",
+   "summary": "U.S. Defense Secretary Pete Hegseth unveiled the six-month review in June and threatened to withhold some ‌U.S. dues to NATO if “free riding” allies fell short of defence spending commitments",
+   "link": "https://www.thehindu.com/news/international/nato-allies-to-discuss-us-troop-levels-with-pentagon-strategy-chief/article71713184.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzEyNTAzLmVjZQ",
+   "date": "2026-11-17",
+   "title": "Rising prices reflect government’s economic mismanagement: Congress",
+   "summary": "Monthly costs up by over 20% for 61% of families, according to a survey cited by Congress leader Jairam Ramesh; claims PM is more pre-occupied with politics than tackling the inflation crisis",
+   "link": "https://www.thehindu.com/news/national/rising-prices-reflect-governments-economic-mismanagement-congress/article71712503.ece",
+   "source": "The Hindu",
+   "section": "Economy",
+   "topics": [
+    "Economy",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzEyNjE1LmVjZQ",
+   "date": "2026-11-17",
+   "title": "Chinese scientist fired after child death in gene-editing trial: state media",
+   "summary": "The child who died had a rare neurodevelopmental condition called Snijders Blok-Campeau syndrome, according to the report",
+   "link": "https://www.thehindu.com/sci-tech/health/chinese-scientist-fired-after-child-death-in-gene-editing-trial-state-media/article71712615.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "pMTNkV05QTTBSVmR3P29jPTU",
+   "date": "2026-11-17",
+   "title": "Why US is tightening AI chip restrictions amid the Nvidia-China controversy",
+   "summary": "Why US is tightening AI chip restrictions amid the Nvidia-China controversy The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNjJmdnNlQVphZ1RSWG10WjZieUlmNGhXZ3lPbWRudkJyckNpaThpME5wRkVHMVJHdEFnc1N1X0ttejJzSlpNVVlGcXFtUTNNRUhTU0F2WEJ0OFpDemVXRkVqQ2t1TkdTa3pvRFVReWdSN3NUN19xbVRMd3RqclcyZ1dXYmRDRFFHbXZEOGYyWWRCRDktTVNyeXJVcDNuU2FwQ1ZYek8zZHo0TFVsZ010dW5tV1M5VWpFb0o2OXBtdEJBUVXSAcoBQVVfeXFMTVo2QTAyWklHYjhyNXhZVWNUQmdtRGFmQUFNYm5vYVRTeGZmRHNPdkJjSjg2YkdKQ1E0MzZzUFhDdW1ETGlQUVRWcU9BaWp6VFhwZ2ljSG5TSFdXdDdMaTVhb2kyTjhndnFZN0V2a3Y4R3lJSjBCdEpKa0tGTHVIRG55bml3V1ZmeXExR1JCYUhveEJ0SGJZUkxnbzhrYzBzYmc0WWhmWHkzOUtxTWJQaGdxclpoMzNpR05QQ2V5c051Ni13dWNPM0RVdw?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "FMVFl4U21nMFJHNUw_b2M9NQ",
+   "date": "2026-11-17",
+   "title": "Quad leaders meet in Manila today: Why the grouping matters amid tensions in the Indo-Pacific",
+   "summary": "Quad leaders meet in Manila today: Why the grouping matters amid tensions in the Indo-Pacific The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNXFnOVRSbEdHMmU0UGtjZmxPUVhhdFhfM25oeU13SzJRUXh3S0psdUNEVlFYN2NQRnZMSW1jLXJ3VHZxT0hOblRtVGdGV3RtM3Q4RU1LWGZMc1dmd0J5a1NhNkppWGNPOGRNeGo5MDNsTG5YZnpucC11djhkYzB5RGVnVzZpcWxsY1NHbVA4NnozTXZkMWxaSTNQRnhBSXh6bzRDU2lOZEQwVjBPTVd3LW5BMlFyVm55SXMtTUVXMVJtX1otNjFKaDREbkvSAcwBQVVfeXFMUDVxZzlUUmxHRzJlNFBrY2ZsT1FYYXRYXzNuaHlNd0syUVF4d0tKbHVDRFZRWDdjUEZ2TEltYy1yd1R2cU9ITm5UbVRnRld0bTN0OEVNS1hmTHNXZndCeWtTYTZKaVhjTzhkTXhqOTAzbExuWGZ6bnAtdXY4ZGMweURlZ1c2aXFsbGNTR21QODZ6M012ZDFsWkkzUEZ4QUl4em80Q1NpTmREMFYwT01Xdy1uQTJRclZueUlzLU1FVzFSbV9aLTYxSmg0RG5L?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
    ],
    "score": 3,
    "important": false
@@ -661,6 +921,151 @@
    ],
    "gs": [
     "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzEzMTcyLmVjZQ",
+   "date": "2026-11-17",
+   "title": "A period of good governance, says CM; a betrayal of people says Pinarayi",
+   "summary": "While Satheesan sought to paint a rosy picture of good governance, development, welfare, and fulfilled promises, Pinarayi Vijayan was scathingly critical of the UDF government",
+   "link": "https://www.thehindu.com/news/national/kerala/a-period-of-good-governance-says-cm-a-betrayal-of-people-says-pinarayi/article71713172.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcxMzIxNy5lY2U",
+   "date": "2026-11-17",
+   "title": "Stage set for launch of Indiramma Bima by Chief Minister at Siddipet on Thursday",
+   "summary": "CM to release application for enrolment into the scheme",
+   "link": "https://www.thehindu.com/news/national/telangana/stage-set-for-launch-of-indiramma-bima-by-chief-minister-at-siddipet-on-thursday/article71713217.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MTI4MDQuZWNl",
+   "date": "2026-11-17",
+   "title": "Cyclone Akvan: RMC forecasts moderate rainfall for Chennai on Wednesday",
+   "summary": "The RMC has forecast moderate rainfall at isolated places in Chennai, Tiruvallur and Chengalpattu districts on Wednesday",
+   "link": "https://www.thehindu.com/news/cities/chennai/cyclone-akvan-rmc-forecasts-moderate-rainfall-for-chennai-on-wednesday/article71712804.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcxMzE4Ni5lY2U",
+   "date": "2026-11-17",
+   "title": "U.K. sanctions Israeli companies building West Bank settlements",
+   "summary": "The long-discussed E1 project would effectively cut off eastern Jerusalem from Palestinian population centres in the occupied West Bank, harming the prospects for a viable independent Palestinian state, Britain says",
+   "link": "https://www.thehindu.com/news/international/uk-sanctions-israeli-companies-building-west-bank-settlements/article71713186.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcxMzE3Ny5lY2U",
+   "date": "2026-11-17",
+   "title": "Iran targets Bahrain, slams 'fabricated' dirty-bomb report",
+   "summary": "Mediator Qatar urged \"all parties\" to show restraint following an uptick in hostilities, with Bahrain targeted three times in five days after a lull in Iranian attacks on Gulf countries since September",
+   "link": "https://www.thehindu.com/news/international/iran-targets-bahrain-slams-fabricated-dirty-bomb-report/article71713177.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MTMxNzEuZWNl",
+   "date": "2026-11-17",
+   "title": "Bangladesh connects first nuclear power plant to national grid",
+   "summary": "The development comes as the South Asian nation of 170 million people grapples with a fuel crisis triggered by the conflict in West Asia",
+   "link": "https://www.thehindu.com/news/international/bangladesh-connects-first-nuclear-power-plant-to-national-grid/article71713171.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MTE5NTUuZWNl",
+   "date": "2026-11-17",
+   "title": "Assam elephant rescue operation turns violent, eight people arrested",
+   "summary": "The incident occurred when Forest personnel tried to guide a female elephant, separated from a herd, back to the jungle it came from",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/assam-elephant-rescue-operation-turns-violent-eight-people-arrested/article71711955.ece",
+   "source": "The Hindu",
+   "section": "Environment",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcxMjI4Ni5lY2U",
+   "date": "2026-11-17",
+   "title": "Hospital in Chennai performs complex aortic surgery on 10-year-old boy with rare vascular disease",
+   "summary": "The child recovered and was discharged on the ninth day after surgery",
+   "link": "https://www.thehindu.com/sci-tech/health/hospital-in-chennai-performs-complex-aortic-surgery-on-10-year-old-boy-with-rare-vascular-disease/article71712286.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
    ],
    "score": 2,
    "important": false
