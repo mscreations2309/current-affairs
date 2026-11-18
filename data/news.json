@@ -1,6 +1,181 @@
 {
- "updated": "2026-11-18T13:56:40.905Z",
+ "updated": "2026-11-18T21:55:21.522Z",
  "items": [
+  {
+   "id": "ydGljbGU3MTcxNjgyNy5lY2U",
+   "date": "2026-11-19",
+   "title": "India’s CSR spending leaves gaps in health, water security, innovation: Report",
+   "summary": "Non-communicable diseases (NCDs), for instance, account for 60% of deaths in India, up from 45% in 2004-06. Yet, nearly 62% of identifiable NCD funding goes towards cancer, while cardiovascular diseases receive around 12%, despite accounting for over half of NCD deaths, says a study by a City-based global impact consulting firm",
+   "link": "https://www.thehindu.com/news/national/karnataka/indias-csr-spending-leaves-gaps-in-health-water-security-innovation-report/article71716827.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MTcxODcuZWNl",
+   "date": "2026-11-19",
+   "title": "Bengaluru is India’s AI, start-up capital; city captures 47% of national venture funding: Report",
+   "summary": "The city is now the world’s fifth-largest unicorn hub, the largest outside the U.S., Europe, China, and London,with 57 unicorns valued at $211 billion, representing 55.3% of the combined value of all Indian unicorns",
+   "link": "https://www.thehindu.com/news/national/karnataka/bengaluru-is-indias-ai-start-up-capital-city-captures-47-of-national-venture-funding/article71717187.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Science & Technology",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcxNzE3Ny5lY2U",
+   "date": "2026-11-19",
+   "title": "COP31 must not leave the next generation with a climate bill",
+   "summary": "As the climate summit enters its final week in Antalya, developing countries are still fighting for the finance they were promised",
+   "link": "https://www.thehindu.com/opinion/op-ed/cop31-must-not-leave-the-next-generation-with-a-climate-bill/article71717177.ece",
+   "source": "The Hindu",
+   "section": "Environment",
+   "topics": [
+    "Environment & Ecology",
+    "Polity & Governance",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcxNTk3Ni5lY2U",
+   "date": "2026-11-19",
+   "title": "NIA arrests Khalistan Zindabad Force ‘supporter’ deported from U.S. in Rajpura-Shambhu blast case",
+   "summary": "Surinder Singh was arrested in connection with the blast on the railway line of the Dedicated Freight Corridor Corporation of India Limited (DFCCIL), between Shambhu and Rajpura stations, on April 27",
+   "link": "https://www.thehindu.com/news/national/nia-arrests-khalistan-zindabad-force-supporter-deported-from-us-in-rajpura-shambhu-blast-case/article71715976.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Economy",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcxNjE0OC5lY2U",
+   "date": "2026-11-19",
+   "title": "Declare Parandur airport abandonment decision unconstitutional, insists a PIL plea before Madras High Court",
+   "summary": "Litigant claims the project had been abandoned without any technical data, expert committee report or comparative economic study in support of the decision",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/declare-parandur-airport-abandonment-decision-unconstitutional-insists-a-pil-plea-before-madras-high-court/article71716148.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Economy",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzE3NTA2LmVjZQ",
+   "date": "2026-11-19",
+   "title": "U.S., Venezuela sign deal to re-establish military ties: Hegseth",
+   "summary": "The U.S. Defence Secretary said that following the January capture of Nicolas Maduro by the U.S. military, the country “has gone from our most aggressive regional threat to a compliant security partner”",
+   "link": "https://www.thehindu.com/news/international/us-venezuela-sign-deal-to-re-establish-military-ties-hegseth/article71717506.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Internal Security & Defence",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcxNjE2NS5lY2U",
+   "date": "2026-11-19",
+   "title": "A regulatory fix for India’s campuses",
+   "summary": "The Ministry must act without delay and issue a statutory notification, consistent with the court’s judgment, for eligible educational campuses",
+   "link": "https://www.thehindu.com/opinion/op-ed/a-regulatory-fix-for-indias-campuses/article71716165.ece",
+   "source": "The Hindu",
+   "section": "Environment",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MTYzNjAuZWNl",
+   "date": "2026-11-19",
+   "title": "SRFTI violence fact-finding report on November 27",
+   "summary": "SRFTI vice-chancellor Santosh Ajmera said the institute takes these incidents seriously and is committed to a safe, responsible, and conducive academic environment for all members of the community",
+   "link": "https://www.thehindu.com/news/national/west-bengal/srfti-violence-fact-finding-report-on-november-27/article71716360.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MTczMzYuZWNl",
+   "date": "2026-11-19",
+   "title": "COVID-19 lessons should inform response to air pollution",
+   "summary": "Tackling air pollution already attracts considerable expenditure, but allocations do not consistently reflect the greatest health risks",
+   "link": "https://www.thehindu.com/opinion/lead/covid-19-lessons-should-inform-response-to-air-pollution/article71717336.ece",
+   "source": "The Hindu",
+   "section": "Environment",
+   "topics": [
+    "Environment & Ecology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
   {
    "id": "J0aWNsZTcxNzEyOTQyLmVjZQ",
    "date": "2026-11-18",
@@ -182,6 +357,23 @@
    "title": "Trump-Xi-Putin historic trilateral summit: What to expect, significance, and more",
    "summary": "Xi-Trump-Putin meet comes on the sidelines of the APEC Summit and amidst a long ongoing Russia-Ukraine war.",
    "link": "https://www.thehindu.com/news/international/trump-xi-putin-shenzhen-meeting-2026-agenda-significance-us-russia-china/article71711602.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzE3MjMxLmVjZQ",
+   "date": "2026-11-18",
+   "title": "Trump's Board of Peace faults Israel, Hamas for failure to end Gaza war",
+   "summary": "While the ceasefire has halted major fighting, the wider plan, which calls for Hamas ⁠to disarm, Israeli troops to withdraw and reconstruction to begin, has effectively stalled since soon after it came into effect last year",
+   "link": "https://www.thehindu.com/news/international/trumps-board-of-peace-faults-israel-hamas-for-failure-to-end-gaza-war/article71717231.ece",
    "source": "The Hindu",
    "section": "International",
    "topics": [
@@ -395,6 +587,115 @@
    ],
    "gs": [
     "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzE3MDIzLmVjZQ",
+   "date": "2026-11-18",
+   "title": "Japanese agency NEDO explores quantum research collaboration with SRM University-A.P.",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/japanese-agency-nedo-explores-quantum-research-collaboration-with-srm-university-ap/article71717023.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MTcyMzkuZWNl",
+   "date": "2026-11-18",
+   "title": "India imposes 162.5% duty and tax on bulk Scotch imports amid UK trade pact dispute",
+   "summary": "More than 80 containers belonging to Pernod Ricard, Diageo and Bacardi remain stuck at Indian ports as the dispute over customs classification threatens to disrupt the liquor industry.",
+   "link": "https://www.thehindu.com/business/india-imposes-1625-duty-and-tax-on-bulk-scotch-imports-amid-uk-trade-pact-dispute/article71717239.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MTcwMjQuZWNl",
+   "date": "2026-11-18",
+   "title": "Introduce age-appropriate awareness programmes for school students in academics over trafficking, commercial sexual exploitation: HC to government",
+   "summary": "High Court bench says that there should not be any delay in referring complaints relating to online sexual exploitation, intimate images or suspected child sexual abuse material to the competent police officer or cybercrime official",
+   "link": "https://www.thehindu.com/news/national/telangana/introduce-age-appropriate-awareness-programmes-for-school-students-in-academics-over-trafficking-commercial-sexual-exploitation-hc-to-government/article71717024.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzE3MDUzLmVjZQ",
+   "date": "2026-11-18",
+   "title": "SP leader Azam Khan released from Ghaziabad prison",
+   "summary": "Earlier, the SP leader’s advocates moved an application before the special Prevention of Money Laundering Act (PMLA) court in Ghaziabad, seeking his release in compliance with the High Court’s order",
+   "link": "https://www.thehindu.com/news/national/sp-leader-azam-khan-released-from-ghaziabad-prison/article71717053.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzE2NjUyLmVjZQ",
+   "date": "2026-11-18",
+   "title": "India’s Oct. crude import bill soars 87.5% to $19.5-bn amid West Asia tensions, volumes up 11%",
+   "summary": "While higher petroleum product exports offer a partial natural hedge, sustained increases in crude and gas prices could intensify pressure on the country’s import bill.",
+   "link": "https://www.thehindu.com/business/Economy/indias-oct-crude-import-bill-soars-875-to-195-bn-amid-west-asia-tensions-volumes-up-11/article71716652.ece",
+   "source": "The Hindu",
+   "section": "Economy",
+   "topics": [
+    "Economy",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "MTc5NTAyNDkxMDM5Ny5odG1s",
+   "date": "2026-11-18",
+   "title": "UK inflation hits one-year high of 3.6%: Why are markets less convinced of another rate hike? | Explained",
+   "summary": "UK inflation rose to a one-year high of 3.6% in October, driven by higher fuel prices and tobacco taxes. However, unchanged core and services inflation eased market expectations of a Bank of England rate hike in December, despite concerns over rising energy costs and future price pressures.",
+   "link": "https://www.livemint.com/economy/uk-inflation-hits-one-year-high-of-3-6-why-are-markets-less-convinced-of-another-rate-hike-explained-11795024910397.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
     "GS-3"
    ],
    "score": 3,
@@ -1003,6 +1304,42 @@
    ],
    "gs": [
     "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcxNzMwOC5lY2U",
+   "date": "2026-11-18",
+   "title": "Studies show trust in NDA government declining gradually, says Malcolm Adiseshiah awardee",
+   "summary": "Raghav Gaiha, research affiliate, Population Aging Research Centre, University of Pennsylvania, and Kanika Mahajan, associate professor, Ashoka University, were presented the Malcolm Adiseshiah and Elizabeth Adiseshiah Awards, respectively",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/studies-show-trust-in-nda-government-declining-gradually-says-malcolm-adiseshiah-awardee/article71717308.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzE2MjMwLmVjZQ",
+   "date": "2026-11-18",
+   "title": "West Bengal CM to take action in the missionary school dress code row, says State BJP head",
+   "summary": "The State BJP president claimed that religious conversions by Christian groups are increasing in certain tribal areas of the State including Purba Bardhaman, Asansol and Kalimpong",
+   "link": "https://www.thehindu.com/news/national/west-bengal/west-bengal-cm-to-take-action-in-the-missionary-school-dress-code-row-says-state-bjp-head/article71716230.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
    ],
    "score": 2,
    "important": false
