@@ -1,6 +1,64 @@
 {
- "updated": "2026-11-17T22:21:21.153Z",
+ "updated": "2026-11-18T04:18:06.349Z",
  "items": [
+  {
+   "id": "J0aWNsZTcxNzEyOTQyLmVjZQ",
+   "date": "2026-11-18",
+   "title": "Maharashtra Cabinet clears university law amendments, textile policy changes and new courts in Palghar",
+   "summary": "The Cabinet approved a draft ordinance to amend Sections 13(12) and 100(5)(a) of the Maharashtra Public Universities Act, 2016, in view of changes in higher education and the implementation of the National Education Policy, 2020",
+   "link": "https://www.thehindu.com/news/national/maharashtra/maharashtra-cabinet-clears-university-law-amendments-textile-policy-changes-and-new-courts-in-palghar/article71712942.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 7,
+   "important": true
+  },
+  {
+   "id": "cnRpY2xlNzE3MTQ0MzcuZWNl",
+   "date": "2026-11-18",
+   "title": "India sitting on 'economic disaster': Rahul Gandhi at Columbia University",
+   "summary": "Arguing that small and medium businesses and agriculture form the backbone of India's economy and are crucial for job creation, Rahul Gandhi said the country's manufacturing sector needed to be rebuilt",
+   "link": "https://www.thehindu.com/news/national/india-sitting-on-economic-disaster-rahul-gandhi-at-columbia-university/article71714437.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Health & Social Issues",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 6,
+   "important": true
+  },
+  {
+   "id": "cnRpY2xlNzE3MTM2MTkuZWNl",
+   "date": "2026-11-18",
+   "title": "U.K. hands NATO-assigned American soldier accused of Russia spying to U.S.",
+   "summary": "A U.S. Army official has named the detained soldier as 41-year-old Lieutenant Colonel Brandon Tyner",
+   "link": "https://www.thehindu.com/news/international/american-soldier-accused-of-russia-spying/article71713619.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
   {
    "id": "ydGljbGU3MTcxMzYwNy5lY2U",
    "date": "2026-11-18",
@@ -15,6 +73,62 @@
    ],
    "gs": [
     "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcxMTk5OS5lY2U",
+   "date": "2026-11-18",
+   "title": "Cyberabad civic body launches initiative to make urban planning child-inclusive",
+   "summary": "The initiative is based on Article 12 of UNCRC, which recognises every child’s right to express their views on matters affecting them and requires that their opinions be given due consideration",
+   "link": "https://www.thehindu.com/news/cities/Hyderabad/cyberabad-civic-body-launches-initiative-to-make-urban-planning-child-inclusive/article71711999.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcxMzYyNi5lY2U",
+   "date": "2026-11-18",
+   "title": "Russian military transport plane crashes in Siberia, killing 19: Defence Ministry",
+   "summary": "The An-12 aircraft went down in an unpopulated area near the city of Kemerovo, about 3,000 kilometres (about 1,860 miles) east of Moscow",
+   "link": "https://www.thehindu.com/news/international/several-dead-after-russian-military-transport-plane-crashes-in-siberia/article71713626.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Internal Security & Defence",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcxMTA2Ny5lY2U",
+   "date": "2026-11-18",
+   "title": "Who pays for healthcare in India?",
+   "summary": "On rising public health spending, household medical costs, access to treatment, infectious disease outbreaks and more",
+   "link": "https://www.thehindu.com/sci-tech/health/health-matters-newsletter-who-pays-for-healthcare-in-india/article71711067.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
     "GS-2"
    ],
    "score": 3,
@@ -66,6 +180,76 @@
    "section": "National",
    "topics": [
     "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcxNDQzMi5lY2U",
+   "date": "2026-11-18",
+   "title": "Delhi’s air pollution: What can an air purifier really do? | Explained",
+   "summary": "With sales surging amid worsening air quality across Delhi-NCR, pulmonologists explain what air purifiers can filter, what they cannot remove and how much protection they offer against pollution",
+   "link": "https://www.thehindu.com/news/cities/Delhi/delhis-air-pollution-what-can-an-air-purifier-really-do-explained/article71714432.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzExNjA0LmVjZQ",
+   "date": "2026-11-18",
+   "title": "Why frontline experience and operational research need to come together in the health sector",
+   "summary": "The field worker knows which question matters; the researcher brings the systematic approach and methodological rigour needed to investigate it",
+   "link": "https://www.thehindu.com/opinion/op-ed/why-frontline-experience-and-operational-research-need-to-come-together-in-the-health-sector/article71711604.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ZNTUY5TmRVNVJjbWM_b2M9NQ",
+   "date": "2026-11-18",
+   "title": "An expert explains why fixing India’s air pollution crisis needs more than technical solutions",
+   "summary": "An expert explains why fixing India’s air pollution crisis needs more than technical solutions The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORlRrUWpaNmlBWXlpdGhPNXoxX05zNmR0SEpPQk1DTEZYdWN4eGJmQTIyMXBVMWU5ZDJmVzN3dVE2clJ2bmV6dG5uZjhBZHlwSVFXSUpOZDhuOU83UlZ1LWpzWHlnaE8yZXVRZS1xcVo3dXlKUE43MUtUV2w3aEF2R1hLT2pKNXhTSURKa2dNQmRaTlF6YkZsUzdnYXlBS2V6OTFQcUtKMDB2U2hwNHN1QUVta9IBugFBVV95cUxNRGlOMWtudnA1Y1NudXRRWEZBRUtRSHo4SktyVVB1VzNxa0dxb3dfalJJTW9VVVRXaXhDVFZlQmhBdnBjZzZqRTF0UnFFQ2psRVYyY0lRcFBxcFRybG5YZkF2X3hQeld2aTNaUm9vOXdPbzl6XzJjMFVCc0RFLUtNaEhhZWtDbU5HUTNROUotZTFuOFNDcmE5eEQwU2JqdUdHRmtkZ1A1OVZxbnpkQUhIUTVMMF9NdU5Rcmc?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "5SZFdWR1pXVXphelk_b2M9NQ",
+   "date": "2026-11-18",
+   "title": "After half a century in space, one light-day milestone in sight: What makes Voyager 1’s journey a feat of humankind",
+   "summary": "After half a century in space, one light-day milestone in sight: What makes Voyager 1’s journey a feat of humankind The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSU5KeFJuRHlxdVQtRmVoZEgyVHVYNFpJb1ROdXBETnFjMzZSYnZnQmplTXBwd2c0cW04R1lNZ3NoSV8zaEZ6V3oyNnJlaTVYdlhWQjI2cmtuQXJuUER1Wnk2cVktYzZFT0JJSEd4ODFvM2Q3cVJYVEZycWk0enAySnJtWU5YbEdDMXZPMGFtakQ2bjA0c1FXaFViTkFiVWk1bHlFcTB4ZVl3ZE5kRGdzZHhoLUhxVWV4aklULWNlQ2YxRTVtbnRfTDJB0gHQAUFVX3lxTE5OWmFuS2V0eEg0MGtqTEpNYktRWFFpcmZyNEp0Q0pRZXUycW1mRUFXQVdQTkVtM0s1bWs2Vk9YWV9SbEdCRU5uY2oya2N6dGR1aUt5OFBSX0hqUi1kV2RqWjRHZ0R4QzRaN25kUnQzdlB3TERHekc3RzE3alRVOWZUeV9Vb2ZkeXpBbE9fMFZyclJZdExWRGlUMDkwdTFMM1h0U19hcHB1dU1JRUdPWS16T3h6cjFtWnhZaUhfcVYwNjA1NldlSTNRdWVGZWUzazY?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Science & Technology"
    ],
    "gs": [
     "GS-3"
@@ -574,6 +758,26 @@
    "important": false
   },
   {
+   "id": "cnRpY2xlNzE3MTE0ODUuZWNl",
+   "date": "2026-11-17",
+   "title": "India’s sole island-dwelling cobra faces conservation challenges",
+   "summary": "The Andaman cobra is highly venomous, and on top of that is capable of spitting venom as a defence mechanism, raising the probability of people killing it out of fear",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/india-sole-island-dwelling-andaman-cobra-faces-conservation-challenges/article71711485.ece",
+   "source": "The Hindu",
+   "section": "Science",
+   "topics": [
+    "Environment & Ecology",
+    "Internal Security & Defence",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
    "id": "J0aWNsZTcxNzA3NTcyLmVjZQ",
    "date": "2026-11-17",
    "title": "Cyclone Akvan to bring light rainfall to parts of coastal T.N. on November 17",
@@ -1066,6 +1270,24 @@
    ],
    "gs": [
     "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcxMzI0NS5lY2U",
+   "date": "2026-11-17",
+   "title": "Balancing AI-driven estimates and ground-level evidence in official statistics",
+   "summary": "While AI and Machine Learning promise to make India’s official statistics faster and comprehensive, they cannot automatically replace ground-level evidence; synthetic data with inherited limitations may lead to misallocation of public resources and distortion of economic indicators",
+   "link": "https://www.thehindu.com/business/Economy/balancing-ai-driven-estimates-and-ground-level-evidence-in-official-statistics/article71713245.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
    ],
    "score": 2,
    "important": false
