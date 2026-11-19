@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T21:55:21.522Z",
+ "updated": "2026-11-19T03:25:18.960Z",
  "items": [
   {
    "id": "ydGljbGU3MTcxNjgyNy5lY2U",
@@ -139,6 +139,59 @@
    "important": false
   },
   {
+   "id": "J0aWNsZTcxNzE4NTI1LmVjZQ",
+   "date": "2026-11-19",
+   "title": "Xi-Trump-Putin trilateral meeting LIVE: Leaders meet with nuclear arms and two wars on table",
+   "summary": "The Chinese President opened the two-day APEC gathering with an address to a CEO Summit, where he made a pitch for openness and stable supply chains",
+   "link": "https://www.thehindu.com/news/international/donald-trump-xi-jinping-vladimir-putin-trilateral-meeting-in-shenzhen-live-updates-november-19-2026/article71718525.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MTg0OTAuZWNl",
+   "date": "2026-11-19",
+   "title": "Xi, Trump, Putin exchange greetings before historic China summit",
+   "summary": "The agenda for the November 19 meeting between Presidents Xi Jinping, Donald Trump and Vladimir Putin -- which has raised fears of a carve-up into new \"spheres of influence\" -- was unclear",
+   "link": "https://www.thehindu.com/news/international/xi-trump-putin-exchange-greetings-before-historic-china-summit/article71718490.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "MTc5NDk5NDAxOTYyNy5odG1s",
+   "date": "2026-11-19",
+   "title": "More economic red signals in October—but not everywhere, shows Mint tracker",
+   "summary": "Warning lights are blinking across the Indian economy, but producer and industrial segments hold their ground. The second half of the year, however, looks tougher as the benefits of GST rate cuts and interest rates fade.",
+   "link": "https://www.livemint.com/economy/indian-economy-red-signals-october-price-index-gst-auto-sales-11794994019627.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
    "id": "cnRpY2xlNzE3MTYzNjAuZWNl",
    "date": "2026-11-19",
    "title": "SRFTI violence fact-finding report on November 27",
@@ -171,6 +224,129 @@
    ],
    "gs": [
     "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcxNzUwNC5lY2U",
+   "date": "2026-11-19",
+   "title": "BJP turns to Mathura temple issue amid cadre unease, allies’ pressure",
+   "summary": "Political observers say the renewed focus on Krishna Janmabhoomi serves as a “smokescreen” to mask simmering discontent among the party cadre over the UGC’s equity rules, SIR drive and seat sharing with alliance partners",
+   "link": "https://www.thehindu.com/news/national/uttar-pradesh/bjp-turns-to-mathura-temple-issue-amid-cadre-unease-allies-pressure/article71717504.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MTcwOTIuZWNl",
+   "date": "2026-11-19",
+   "title": "T1, T2 sections contain sensitive information that needs protection from purview of RTI, VACB informs Kerala High Court",
+   "summary": "The VACB’s affidavit pointed out that the disclosure of an intelligence input against a public servant would forewarn him, and that he might conceal evidence to defeat the investigation",
+   "link": "https://www.thehindu.com/news/national/kerala/t1-t2-sections-contain-sensitive-information-that-needs-protection-from-purview-of-rti-vacb-informs-kerala-high-court/article71717092.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzEzMTgzLmVjZQ",
+   "date": "2026-11-19",
+   "title": "T.N. polytechnic curriculum to include more industry-oriented skills, focus on outcomes",
+   "summary": "The revamp exercise began following a nudge from the industry during a meeting with the officials of the Directorate of Technical Education about four months ago",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-polytechnic-curriculum-to-include-more-industry-oriented-skills-focus-on-outcomes/article71713183.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzE2MDc4LmVjZQ",
+   "date": "2026-11-19",
+   "title": "Xi-Putin-Trump trilateral: Why is it being compared to 1945 Yalta Conference?",
+   "summary": "The Xi-Putin-Jinping meet is being compared with the Yalta Conference of 1945, which led to the establishment of four quarters of post-Nazi Germany and laid the foundations of the United Nations.",
+   "link": "https://www.thehindu.com/news/international/us-china-russia-trump-xi-jinping-putin-meet-2026-yalta-conference-explained/article71716078.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "MnRwV0ZkRFZFVmlMUT9vYz01",
+   "date": "2026-11-19",
+   "title": "Trilateral talks today: China pushes Shenzhen system to co-direct global order",
+   "summary": "Trilateral talks today: China pushes Shenzhen system to co-direct global order The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMTMxX3lRcWJXblV0QUZmSGVrTEJ4SzlPLXFPTGpfRU9Jb1VYazJwYVNrcjVab2NVbVVSbkdFZTNzRVJKSzhzSldxY1lrNXQ2YlJOXzRCUEkzenNmN2dabVNmWTZTRHpIQVVLU0dnN3FsX3E1TkpGWVpJTmtJVHkwMjUydUNoVTE5b0FKdklUdVZmS3R4UjFaZHh3RUg0UVZRNzVlczR6eFdhMTF3M2pCdzJoR3pXNnFmYnlIMlJBd0ZZYWRXS01ZNmFRcno0Z9IB1AFBVV95cUxQVlFrM1dQOGFZMGlYZ28tTEd0VjVsUWRwZHFuMDV6TTdJVlVMNHZjUTZfRDY3ZTdNVHl0MVp4U3lkWTRkNy13VlFzTWtDTTBGNnpmV2hqTUhIVnlUOEZuTlYtRkwtRUJsWVExNVpZQVZhT3cwQ0VETUxuSHNzYmJXOTZraVlGcXIzdmpVTlZYb1dmSDM3Nnl3dEZiMW9jbko3M1JEeXJJeWw2Ml9EWVdvVllXeVBCVldOZWFLQ1BXbE5uTDk4N0VnUl9SU2tpWFdDVEViLQ?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "1Q2RtMXlOVjh5VUc4P29jPTU",
+   "date": "2026-11-19",
+   "title": "Yalta 2.0? Amid Shenzhen summit, revisiting the historic 1945 conference",
+   "summary": "Yalta 2.0? Amid Shenzhen summit, revisiting the historic 1945 conference The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQko0TEswcDV6WnFwcTNYY1BZa1M0QlJpeUpGanFmWUp0VENqYVd2d25HSDFwUFFpWW5nNV9vZVc2Y0NDM1EydGlFVUxZX2NVcUZUMDJOQWJxMFhpSXpDSkFzZEd5MmEtd3dVdi1abDRVN0UxNzlueG5fNlprLXIzS3Jka2JyUVBhNHdTdHRwY2J2UmpoeHNTTm5uS044eVNVX0taclJ6eFZJOUxoVTBqODk2dGJXOUNxWGYzVjdodjNtc0Q2NldmNFdsWC1LSWZTSEQtbdIB2wFBVV95cUxPeGlvVTlkN1prMHlIcnI5a3puSHZEU0k0RzlnOExwOHd6T0NYRENZRFpGbTNnSU93bEM2cVpSNnVmLWstNVhBdnQ3UGlEU1MyZks1OHl1MmdXT3d5M3RkRHNKN01lUXZoQkJ5bnd5TzhRVUdnTFFVdktSdzRidkNHVjZQd0VuMEU1bzZ2alU2LS1kS3dDS05DZTMyTUNuZjg5b3REdGFJVHpxWHplSWdVbm1iSGl2cUxhYzhnc3FIdXh3a2NTUEwwbDB0Y0dWUEh1U25Cdm1yNV8yUG8?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "o0WjFrNGQzaGFRMmM_b2M9NQ",
+   "date": "2026-11-19",
+   "title": "Why the world is closely watching the Trump-Xi-Putin meet in Shenzhen",
+   "summary": "Why the world is closely watching the Trump-Xi-Putin meet in Shenzhen The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVGpzQUlnLU1lREVGSEhzOW1Nc0U0NzFWYnUwVDhPRkFGbmxrS0h1Wjh0UEd5SlQzMzVnNFEteE45emt0WnBkalZWb09MMTZlUUNHN2d5UUxYbVE4S1dtdl9xVnotVGZzbGNaQWJRTGloVWxZU1VxeXJBZGJWaFJnX1hiVVBVVjN5NF9MUTZ1SGQtR0Jva0trdzJMcDR1Vk5IOUNaMk1vcmt4TDZtS0MxYnBUNk1YRlBGRWc3Q2szYjhObjNjZWlySzh3TFFhUVVTWGhobUU5SdIB3gFBVV95cUxObmF4M0Y0aG4tR3QtRkRiVktTdHFzU05XOGFKb1R0cHZfNlF2a1NLbTNRYk9hWnJPSVVteEpaQ3hRMnJGZ0FnTFM1b1B0ZTJJcUxhMDFqeDNURTFnV1J0MGlSdUxCb1E0bk5sYkZKYWRCZktNcXd3dWxWRWVXZVV1a294UEZzdmRUTWpMeHpLcFAtdVljOFFVS1RyMERQOXVOTnQ0enhXTUEwWDFnX19BYmhuR1hvaWYxYnc5N1RsVkZ4cW5DU2xpNGJ5WDBVNEZsM0Zua1Z4Z1k4d3haQ2c?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
     "GS-2"
    ],
    "score": 2,
@@ -380,6 +556,25 @@
     "International Relations"
    ],
    "gs": [
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MDc3NDMuZWNl",
+   "date": "2026-11-18",
+   "title": "How did ISRO pick astronaut candidates for the Gaganyaan mission?",
+   "summary": "As India embarks on its first manned space mission, developing indigenous capabilities in crew selection and training not only lays the foundation for sustained space activities but also gives an impetus to bioastronautics — the study of behavioural, and medical aspects of humans living in space",
+   "link": "https://www.thehindu.com/sci-tech/science/how-did-isro-pick-astronaut-candidates-for-the-gaganyaan-mission/article71707743.ece",
+   "source": "The Hindu",
+   "section": "Science",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
     "GS-2"
    ],
    "score": 4,
@@ -1340,6 +1535,24 @@
    ],
    "gs": [
     "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcxNzM1Ni5lY2U",
+   "date": "2026-11-18",
+   "title": "How AI could reshape global growth and productivity",
+   "summary": "A key expected impact of AI is an unprecedented rise in labour productivity, as its success as a technological revolution is premised on such an increase; what remains to be seen is how pervasive its impact will be across different sectors of the economy",
+   "link": "https://www.thehindu.com/business/Economy/how-ai-could-reshape-global-growth-and-productivity/article71717356.ece",
+   "source": "The Hindu",
+   "section": "Economy",
+   "topics": [
+    "Economy",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
    ],
    "score": 2,
    "important": false
