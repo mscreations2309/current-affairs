@@ -1,6 +1,97 @@
 {
- "updated": "2026-11-19T13:01:53.560Z",
+ "updated": "2026-11-19T21:30:36.850Z",
  "items": [
+  {
+   "id": "ydGljbGU3MTcyMTI0MC5lY2U",
+   "date": "2026-11-20",
+   "title": "Draft of COP31 cover text drops references to fossil fuel phase-out, net zero dates",
+   "summary": "A major concern raised by developing countries, of phasing out unilateral trade measures such as the CBAM (Carbon Border Adjustment Mechanism) by 2027, that was present in the earlier draft has also been eliminated",
+   "link": "https://www.thehindu.com/news/international/cop31-negotiators-publish-revised-deal-draft-with-no-mention-of-fossil-fuels/article71721240.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Environment & Ecology",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyMDIzNS5lY2U",
+   "date": "2026-11-20",
+   "title": "Repository to catalogue research occurring at institutions in T.N. to be set up, says Higher Education Secretary",
+   "summary": "He announces that Anna University has been asked to take the lead in developing this digital platform",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/repository-to-catalogue-research-occurring-at-institutions-in-tn-to-be-set-up-says-higher-education-secretary/article71720235.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MjExMTcuZWNl",
+   "date": "2026-11-20",
+   "title": "10 patented technologies handed over to various firms at T.N. Tech Transfer Summit",
+   "summary": "Inaugurating the Summit, P. Viswanathan, Higher Education Minister, says it will be made into an annual affair and will be taken to other major cities in Tamil Nadu as well",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/10-patented-technologies-handed-over-to-various-firms-at-tn-tech-transfer-summit/article71721117.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzIxMDAwLmVjZQ",
+   "date": "2026-11-20",
+   "title": "Akvan may spare most of Andhra Pradesh; red alert issued for Srikakulam, Vizianagaram",
+   "summary": "Parvathipuram-Manyam, Visakhapatnam, Alluri Sitharama Raju and Anakapalli districts may record isolated very heavy rainfall till Friday evening, says IMD",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/akvan-may-spare-most-of-andhra-pradesh/article71721000.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyMTUxNy5lY2U",
+   "date": "2026-11-20",
+   "title": "CM launches Indiramma family life insurance scheme",
+   "summary": "Siddipet Govt medical college to be named after late Congress stalwart Madan Mohan",
+   "link": "https://www.thehindu.com/news/national/telangana/cm-launches-indiramma-family-life-insurance-scheme/article71721517.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
   {
    "id": "J0aWNsZTcxNzE5ODc0LmVjZQ",
    "date": "2026-11-19",
@@ -50,6 +141,44 @@
     "International Relations",
     "Economy",
     "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "cnRpY2xlNzE3MjE1NTQuZWNl",
+   "date": "2026-11-19",
+   "title": "Israel army says it completed ground operation in central Gaza",
+   "summary": "Hamas denounced a \"blatant ceasefire violation,\" while the military said the rare ground incursion was a response to Hamas ceasefire violations in the area",
+   "link": "https://www.thehindu.com/news/international/israel-army-says-it-completed-ground-operation-in-central-gaza/article71721554.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "cnRpY2xlNzE3MjExMzMuZWNl",
+   "date": "2026-11-19",
+   "title": "How U.S. controls flow of advanced tech, chip, and compute to China | Explained",
+   "summary": "The U.S. Commerce Department, on November 16, 2026, issued an interim final rule barring data centre operators outside of the U.S., equipped with advanced American AI chips, from providing cloud service to businesses in two dozen countries, including China, Iran and Russia",
+   "link": "https://www.thehindu.com/sci-tech/technology/how-us-controls-flow-of-advanced-tech-chip-and-compute-to-china-explained/article71721133.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Science & Technology"
    ],
    "gs": [
     "GS-2",
@@ -150,6 +279,67 @@
    ],
    "gs": [
     "GS-2",
+    "Prelims"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzIwMjY2LmVjZQ",
+   "date": "2026-11-19",
+   "title": "Green India Mission a total failure, says PAC",
+   "summary": "In February 2014, the Cabinet approved work on 2.8 million hectares by 2018. However, a CAG report says only 0.148 million hectares was brought under green cover",
+   "link": "https://www.thehindu.com/news/national/green-india-mission-a-total-failure-says-pac/article71720266.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzIxMjczLmVjZQ",
+   "date": "2026-11-19",
+   "title": "Women in high public office doesn’t mean equality throughout society: Justice Nagarathna",
+   "summary": "The Supreme Court judge says a woman may hold a senior position while other women remain excluded from education, employment, property, or effective legal remedies",
+   "link": "https://www.thehindu.com/news/national/women-in-high-public-office-doesnt-mean-equality-throughout-society-justice-nagarathna/article71721273.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Polity & Governance",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MjE0NDguZWNl",
+   "date": "2026-11-19",
+   "title": "Riyadh's tallest building damaged as Saudi reports new Houthi attacks",
+   "summary": "The Iran-backed Houthis have stepped up their attacks against Saudi Arabia in recent weeks, striking targets including airports, energy infrastructure, military sites and Riyadh's financial district",
+   "link": "https://www.thehindu.com/news/international/riyadhs-tallest-building-damaged-as-saudi-reports-new-houthi-attacks/article71721448.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Economy",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3",
     "Prelims"
    ],
    "score": 4,
@@ -335,6 +525,80 @@
    ],
    "gs": [
     "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MjA0NDAuZWNl",
+   "date": "2026-11-19",
+   "title": "IAF’s ‘active Rafale count cut to 32’ by FlightGlobal; Defence Ministry disputes claim",
+   "summary": "36 Rafale fighters were purchased from France; FlightGlobal in late 2025 listed 35 aircraft as active, while the latest edition has reduced the number to 32",
+   "link": "https://www.thehindu.com/news/national/iafs-active-rafale-count-cut-to-32-by-flightglobal-defence-ministry-disputes-claim/article71720440.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Internal Security & Defence",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzIxNjA3LmVjZQ",
+   "date": "2026-11-19",
+   "title": "Pakistan military says it killed 22 militants in raids on hideouts",
+   "summary": "Pakistan’s military says security forces have raided militant hideouts in the northwest near the Afghan border, setting off gunbattles that killed 22 militants",
+   "link": "https://www.thehindu.com/news/international/pakistan-military-says-it-killed-22-militants-in-raids-on-hideouts/article71721607.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Internal Security & Defence",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyMTUxMS5lY2U",
+   "date": "2026-11-19",
+   "title": "Third Ukrainian strike in 4 days halts rail traffic on Russia's Kerch Bridge to Crimea",
+   "summary": "The attack came hours before the start of talks in Berlin between U.S. envoys Jared Kushner and Steve Witkoff and Ukrainian President Volodymyr Zelenskyy alongside more than 40 European leaders who are supporting Ukraine's war effort",
+   "link": "https://www.thehindu.com/news/international/third-ukrainian-strike-in-4-days-halts-rail-traffic-on-russias-kerch-bridge-to-crimea/article71721511.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyMTU4Mi5lY2U",
+   "date": "2026-11-19",
+   "title": "Japanese PM Takaichi says Russia, Japan will keep talking as ties remain chilled",
+   "summary": "The last bilateral in-person talks between Japanese and Russian leaders were held between then-Prime Minister Shinzo Abe and Putin in September 2019, during the Eastern Economic Forum in the Russian city of Vladivostok.",
+   "link": "https://www.thehindu.com/news/international/japanese-pm-takaichi-says-russia-japan-will-keep-talking-as-ties-remain-chilled/article71721582.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
    ],
    "score": 3,
    "important": false
@@ -728,6 +992,135 @@
    "source": "The Hindu",
    "section": "Health",
    "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyMTI2OS5lY2U",
+   "date": "2026-11-19",
+   "title": "Keralam CM’s claims incorrect, judicial probe needed into power purchase deals, says Pinarayi Vijayan",
+   "summary": "Pinarayi says that Chief Minister V.D. Satheesan’s justification that electricity was procured from VEH Global via a bilateral arrangement as there were no takers for tenders floated by the Kerala State Electricity Board (KSEB) was incorrect",
+   "link": "https://www.thehindu.com/news/national/kerala/keralam-cms-claims-incorrect-judicial-probe-needed-into-power-purchase-deals-says-pinarayi-vijayan/article71721269.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzIxMTc3LmVjZQ",
+   "date": "2026-11-19",
+   "title": "Google presents AI tools for health services to Visakhapatnam Collector",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/google-presents-ai-tools-for-health-services-to-visakhapatnam-collector/article71721177.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MjE1NzEuZWNl",
+   "date": "2026-11-19",
+   "title": "Karnataka Cabinet clears projects worth ₹4,000 crore for Bengaluru city, approves ₹10,250 crore for development of nine State Highways",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/karnataka/karnataka-cabinet-clears-projects-worth-4000-crore-for-bengaluru-city-approves-10250-crore-for-development-of-nine-state-highways/article71721571.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzIxMzg5LmVjZQ",
+   "date": "2026-11-19",
+   "title": "Emerging radicalisation hotspots now under purview of Multi-Agency Centre: Amit Shah",
+   "summary": "Union Home Minister calls on anti-terrorism squads of every State to strengthen their cyber-expert units",
+   "link": "https://www.thehindu.com/news/national/emerging-radicalisation-hotspots-now-under-purview-of-multi-agency-centre-amit-shah/article71721389.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcxOTk5Mi5lY2U",
+   "date": "2026-11-19",
+   "title": "Bar Council asks law students to verify college approval, affiliation before admission",
+   "summary": "The advisory, issued on Supreme Court order, also warns institutions against making misleading claims about their approval status, sanctioned student intake, and eligibility to impart professional legal education",
+   "link": "https://www.thehindu.com/education/bar-council-asks-law-students-to-verify-college-approval-affiliation-before-admission/article71719992.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyMTIzNC5lY2U",
+   "date": "2026-11-19",
+   "title": "Karnataka HC directs government to conduct State-wide scientific survey to identify non-notified, non-recognised, or classified forests and forest-like areas",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/karnataka/karnataka-hc-directs-government-to-conduct-state-wide-scientific-survey-to-identify-non-notified-non-recognised-or-classified-forests-and-forest-like-areas/article71721234.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyMDYzMS5lY2U",
+   "date": "2026-11-19",
+   "title": "Rohingya a ‘distinct lineage’ close to Bangladeshis and Burmese: Study",
+   "summary": "The International Court of Justice held that Myanmar had committed genocide against the Muslim minority Rohingya in the north Rakhine State",
+   "link": "https://www.thehindu.com/news/international/rohingya-a-distinct-lineage-close-to-bangladeshis-and-burmese-study/article71720631.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
     "Health & Social Issues"
    ],
    "gs": [
