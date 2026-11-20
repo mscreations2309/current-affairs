@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T03:12:07.370Z",
+ "updated": "2026-11-20T11:42:04.727Z",
  "items": [
   {
    "id": "ydGljbGU3MTcyMjk1MS5lY2U",
@@ -36,6 +36,42 @@
    ],
    "gs": [
     "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyMjk5NC5lY2U",
+   "date": "2026-11-20",
+   "title": "Indonesian fire emissions third highest on record this year, says EU’s Copernicus",
+   "summary": "This year’s fires in Indonesia produced nearly 200 million metric tonnes of carbon emissions ​by November 15, the European Union’s climate monitoring service ‌said",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/indonesian-fire-emissions-third-highest-on-record-this-year-sayseus-copernicus/article71722994.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Environment & Ecology",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzIxNTQ2LmVjZQ",
+   "date": "2026-11-20",
+   "title": "Talks without peace: On Russia, Ukraine, U.S. talks",
+   "summary": "Europe must be part of any settlement on the Ukraine war",
+   "link": "https://www.thehindu.com/opinion/editorial/talks-without-peace-on-russia-ukraine-us-talks/article71721546.ece",
+   "source": "The Hindu",
+   "section": "Editorial",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
    ],
    "score": 4,
    "important": false
@@ -160,6 +196,116 @@
    "title": "Oil import bill up 54% in first 7 months of FY27",
    "summary": "Oil import bill up 54% in first 7 months of FY27 The Indian Express",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSmtTaXVuZ2t5ejFMQUp4c0dYbVEtcV8yUE1POWxQNW9nTUphcjhYZm5raklxMGEycGxJdHUyQkgwVHdyRHI4TUVQdTdyZHhNdUt2RS1oWUZ5Z0Exd2ZhWHQwNEVKeENyZlpXa2gwbWhEZDlsWDB0UkVqQ0FmbU9GUHB5dGNrNTNPZlRfMkhZMUR6NkNyT1pNamI0R0xFN0NpYmczWnJ2T21Semhtci1HU21R0gG4AUFVX3lxTE9nTTBLbWtzMHZfSEdvZ3JjVG9kTUN1QUF5UF9MZjQ4WmZvNW11ZEViMHRDTWtZdV9MRm1ENXZGS0MwWmw2S1hqQTgwd2VTZWp2TU1Wa00xXzB5X0NmdUdYekh4LWlFekx6STluNVNjYXMza2NFeXJRcUFHc1l3Wi1VUEx1dTlkMGNsd2RDYjM5WFYtTmdQRTgxZU1XalNVaWhsaTBibmN4YVdsX0tfUVJDN0pvb2hvdkI?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Polity & Governance",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyMzY5MC5lY2U",
+   "date": "2026-11-20",
+   "title": "Class 8 student in Keralam suffers serious head injury as students clash; child rights panel seeks report",
+   "summary": "What began as a minor verbal altercation between students inside the school premises escalated into a physical confrontation outside the school",
+   "link": "https://www.thehindu.com/news/national/kerala/class-8-student-in-keralam-suffers-serious-head-injury-as-students-clash-child-rights-panel-seeks-report/article71723690.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzIzMDI0LmVjZQ",
+   "date": "2026-11-20",
+   "title": "Trump-Xi-Putin trilateral: Compromised PM can never sit at this table, says Rahul Gandhi",
+   "summary": "Rahul Gandhi calls India a “side player” in the Iran war, expresses surprise over Pakistan’s role in negotiator",
+   "link": "https://www.thehindu.com/news/national/congress-leader-rahul-gandhi-on-xi-trump-putin-trilateral-meeting/article71723024.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MjMzNjkuZWNl",
+   "date": "2026-11-20",
+   "title": "Keralam urges Centre to amend Juvenile Justice Act amid rise in violent offences by minors",
+   "summary": "In letters to Union Minister for Home Affairs Amit Shah and Union Minister for Women and Child Development Annpurna Devi, Ramesh Chennithala states existing legislation fails to adequately address plight of crime victims",
+   "link": "https://www.thehindu.com/news/national/kerala/keralam-urges-centre-to-amend-juvenile-justice-act-amid-rise-in-violent-offences-by-minors/article71723369.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyMzQ5NS5lY2U",
+   "date": "2026-11-20",
+   "title": "Rohingya in Bangladesh welcome UN court’s genocide verdict but say they want to go home to Myanmar",
+   "summary": "“The Rohingya have their own distinct culture, their own language, their own land and everything else that defines an ethnic group,” said a Rohingya community leader",
+   "link": "https://www.thehindu.com/news/international/rohingya-in-bangladesh-welcome-un-courts-genocide-verdict-but-say-they-want-to-go-home-to-myanmar/article71723495.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyMTY4Mi5lY2U",
+   "date": "2026-11-20",
+   "title": "Delhi rolls out ‘Ehsaas 2026’ policy to support students’ mental health",
+   "summary": "The policy seeks to raise awareness about mental health and encourage students, teachers and parents to speak openly about the subject, making mental and emotional well-being an integral part of education",
+   "link": "https://www.thehindu.com/news/cities/Delhi/delhi-rolls-out-ehsaas-2026-policy-to-support-students-mental-health/article71721682.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Health & Social Issues",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "Vhci0yMDI3LTEwOTcwNTQ1Lw",
+   "date": "2026-11-20",
+   "title": "Price of war: How India’s oil, gas import bill is soaring amid West Asia crisis",
+   "summary": "",
+   "link": "https://indianexpress.com/article/explained/explained-economics/oil-import-bill-up-financial-year-2027-10970545/",
    "source": "Indian Express",
    "section": "Explained",
    "topics": [
@@ -313,6 +459,202 @@
    ],
    "gs": [
     "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MDUxODY2OC5lY2U",
+   "date": "2026-11-20",
+   "title": "Kakinda will be ‘Green Hydrogen Valley of India’, says Andhra Pradesh Chief Minister Chandrababu Naidu",
+   "summary": "Green ammonia produced in Kakinada will be supplied mostly to Europe, and Germany is the major importer, says the Chief Minister after laying stone for AM Green’s ₹15,600-crore Green Hydrogen and Green Ammonia Production Complex; first drone ambulance will be deployed this year, he adds",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/kakinda-will-be-green-hydrogen-valley-of-india-says-andhra-pradesh-chief-minister-chandrababu-naidu/article70518668.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyMzk3My5lY2U",
+   "date": "2026-11-20",
+   "title": "Supreme Court dismisses Karnataka appeal against bike-taxis",
+   "summary": "A Bench headed by Justice Satish Chandra Sharma said regulation was better than a blanket ban",
+   "link": "https://www.thehindu.com/news/national/karnataka/supreme-court-dismisses-karnataka-appeal-against-bike-taxis/article71723973.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzIzNjc4LmVjZQ",
+   "date": "2026-11-20",
+   "title": "Keralam Forest dept to tranquilise, radio-collar and release wild tusker Chakkakompan in Chinnakkanal",
+   "summary": "According to officials, the department had earlier planned to capture the elephant and translocate it to another forest, but dropped the plan after certain NGOs filed a complaint with the Centre",
+   "link": "https://www.thehindu.com/news/national/kerala/keralam-forest-dept-to-tranquilise-radio-collar-and-release-wild-tusker-chakkakompan-in-chinnakkanal/article71723678.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyMzM4My5lY2U",
+   "date": "2026-11-20",
+   "title": "Tiger ‘Explorer’ reaches Mylavaram forest near Vijayawada; four villages on alert",
+   "summary": "GPS-enabled collar helps forest officials track the movement; no attacks on cattle or human habitations reported so far",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/tiger-explorer-reaches-mylavaram-forest-near-vijayawada-four-villages-on-alert/article71723383.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MjM1NjMuZWNl",
+   "date": "2026-11-20",
+   "title": "Resident doctors at Government Medical College in Srinagar go on indefinite strike",
+   "summary": "AIMSA's key demands include immediate stipend enhancement and parity for postgraduate, senior resident, DNB and MDS doctors across Jammu and Kashmir, besides implementation of maternity leave benefits in accordance with applicable high court directions",
+   "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/resident-doctors-at-government-medical-college-in-srinagar-go-on-indefinite-strike/article71723563.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MjQxNDAuZWNl",
+   "date": "2026-11-20",
+   "title": "Economic losses from Indonesia fires could reach $30 billion, research shows",
+   "summary": "Wildfires have burned through 7.1 million acres so far in 2026, according to the Nusantara Atlas deforestation monitor, an area 18 times the size of London",
+   "link": "https://www.thehindu.com/news/international/economic-losses-from-indonesia-fires-could-reach-30-billion-research-shows/article71724140.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Economy",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyMzkzOS5lY2U",
+   "date": "2026-11-20",
+   "title": "Malaysia plans to resettle 10,000 Rohingya in Turkiye",
+   "summary": "The announcement by Deputy PM Ahmad Zahid Hamidi comes a day after the UN's top court, in a landmark ruling, said that Myanmar committed genocide against the ethnic minority",
+   "link": "https://www.thehindu.com/news/international/malaysia-plans-to-resettle-10000-rohingya-in-turkiye/article71723939.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyMzc4Mi5lY2U",
+   "date": "2026-11-20",
+   "title": "U.K., E.U to announce youth mobility deal, as they discuss closer ties",
+   "summary": "The two sides are expected to announce a scheme for 100,000 18-32 year olds to live and work across each other’s borders",
+   "link": "https://www.thehindu.com/news/international/uk-european-union-summit-meeting-on-november-20-2026/article71723782.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Health & Social Issues",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyMzQ5My5lY2U",
+   "date": "2026-11-20",
+   "title": "Nepal PM Balendra Shah to visit India on November 22–23",
+   "summary": "The two Prime Ministers will inaugurate several energy-related projects; Nepal’s PM will also call on President Murmu during his official visit",
+   "link": "https://www.thehindu.com/news/national/nepal-pm-balendra-shah-to-visit-india-on-november-2223/article71723493.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Polity & Governance",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzIzMjY2LmVjZQ",
+   "date": "2026-11-20",
+   "title": "U.S. Senate approves bill to speed up permitting reviews, Democrats and environmental groups oppose",
+   "summary": "The legislation’s sweeping changes would shorten the timeline to start big energy projects and make sure data centres pay for the energy they use",
+   "link": "https://www.thehindu.com/news/international/us-senate-approves-bill-to-speed-up-permitting-reviews-democrats-and-environmental-groups-oppose/article71723266.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Polity & Governance",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "1yZW5ld2FsLTEwOTcxMzEyLw",
+   "date": "2026-11-20",
+   "title": "Know your PUC certificate validity: What new pollution rules say on renewal frequency",
+   "summary": "",
+   "link": "https://indianexpress.com/article/explained/puc-pollution-certificate-validity-new-rules-on-renewal-10971312/",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
    ],
    "score": 2,
    "important": false
@@ -824,6 +1166,23 @@
    "gs": [
     "GS-2",
     "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "wtc3VtbWl0LTEwOTY4Nzg5Lw",
+   "date": "2026-11-19",
+   "title": "Trump-Putin-Xi Jinping meeting: China pushes Shenzhen system to co-direct global order",
+   "summary": "",
+   "link": "https://indianexpress.com/article/explained/explained-global/shenzhen-international-system-xi-trump-putin-trilateral-summit-10968789/",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
    ],
    "score": 3,
    "important": false
@@ -1347,6 +1706,40 @@
    "topics": [
     "International Relations",
     "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "wtc3ltYm9sLTEwOTY4MjYyLw",
+   "date": "2026-11-19",
+   "title": "On her birth anniversary, recalling how Indira Gandhi turned the saree into a powerful political statement",
+   "summary": "",
+   "link": "https://indianexpress.com/article/explained/explained-culture/indira-gandhi-sarees-political-symbol-10968262/",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "c2hlbnpoZW4tMTA5Njg4NjIv",
+   "date": "2026-11-19",
+   "title": "Yalta 2.0? As Trump, Xi and Putin meet, revisiting the historic 1945 conference",
+   "summary": "",
+   "link": "https://indianexpress.com/article/explained/explained-history/yalta-conference-1945-decisions-consequences-world-war-ii-shenzhen-10968862/",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations"
    ],
    "gs": [
     "GS-2"
