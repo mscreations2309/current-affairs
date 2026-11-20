@@ -1,6 +1,79 @@
 {
- "updated": "2026-11-20T11:42:04.727Z",
+ "updated": "2026-11-20T20:14:30.358Z",
  "items": [
+  {
+   "id": "cnRpY2xlNzE3MjQ1MTEuZWNl",
+   "date": "2026-11-21",
+   "title": "Congress proposes four-point formula for delimitation, says INDIA bloc on board",
+   "summary": "Party proposes retaining 543 Lok Sabha seats, existing State-wise distribution and a 25-year freeze, with one-third reservation for women",
+   "link": "https://www.thehindu.com/news/national/congress-wants-consultation-on-delimitation-issue-accuses-government-of-not-reaching-out/article71724511.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MjQ1MjcuZWNl",
+   "date": "2026-11-21",
+   "title": "Following Cyclone Akvan, monsoon rain to resume over T.N. from tomorrow",
+   "summary": "The RMC has forecast moderate rainfall in coastal districts, including Chennai and Cuddalore, and mild rainfall over adjoining areas; wet weather likely to last till the first week of December",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/following-cyclone-akvan-monsoon-rain-to-resume-over-tn-from-tomorrow/article71724527.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-1"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzI1MDI5LmVjZQ",
+   "date": "2026-11-21",
+   "title": "State govt. should clarify on dismissal of Guidance employees: Anbumani",
+   "summary": "People have a right to know the truth behind these reports after investments worth ₹1,614 crore from three South Korean companies that were expected to come to Tamil Nadu moved to Andhra Pradesh: PMK leader",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/state-govt-should-clarify-on-dismissal-of-guidance-employees-anbumani/article71725029.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyNTg0NS5lY2U",
+   "date": "2026-11-20",
+   "title": "Three to tango: On Trump, Xi, Putin trilateral summit",
+   "summary": "U.S., China, Russia must draw up a roadmap for talks on nuclear weapons",
+   "link": "https://www.thehindu.com/opinion/editorial/three-to-tango-on-trump-xi-putin-trilateral-summit/article71725845.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 6,
+   "important": true
+  },
   {
    "id": "ydGljbGU3MTcyMjk1MS5lY2U",
    "date": "2026-11-20",
@@ -17,6 +90,23 @@
    "gs": [
     "GS-1",
     "GS-2",
+    "GS-3"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "cnRpY2xlNzE3MjU1MTYuZWNl",
+   "date": "2026-11-20",
+   "title": "NIA’s anti-terror conference discusses cross-border terrorism, threat from drones",
+   "summary": "NIA D-G Rakesh Aggarwal says drone smuggling of arms, narcotics, cash and explosives was a key concern, while adding that cheap and easily available drones are increasingly being used in cross-border operations",
+   "link": "https://www.thehindu.com/news/national/nias-anti-terror-conference-discusses-cross-border-terrorism-threat-from-drones/article71725516.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Internal Security & Defence"
+   ],
+   "gs": [
     "GS-3"
    ],
    "score": 5,
@@ -72,6 +162,65 @@
    ],
    "gs": [
     "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyNTc5MS5lY2U",
+   "date": "2026-11-20",
+   "title": "Estonia to close border with Russia, Moscow decries 'new Iron Curtain'",
+   "summary": "NATO and EU member ‌Estonia on November 15 accused Russian security services of staging an attempted ‌arson ⁠attack on an Estonian defence company, in what it said ⁠was the second such incident this year",
+   "link": "https://www.thehindu.com/news/international/estonia-to-close-border-with-russia-moscow-decries-new-iron-curtain/article71725791.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzI1NzUxLmVjZQ",
+   "date": "2026-11-20",
+   "title": "Pakistan Army chief Munir vows to eliminate terrorism from country",
+   "summary": "Pakistan overall witnessed a significant decline in terrorism-related violence during October, with attacks falling by 37%, deaths resulting from these attacks declining by 57%, and injuries decreasing by 71% compared to September, said Dawn newspaper report",
+   "link": "https://www.thehindu.com/news/international/pakistan-army-chief-munir-vows-to-eliminate-terrorism-from-country/article71725751.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Internal Security & Defence",
+    "International Relations",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyNTcxNi5lY2U",
+   "date": "2026-11-20",
+   "title": "U.S. sanctions Myanmar armed group leader over scam links",
+   "summary": "The U.S. Treasury Department said on November 19 it had imposed an asset freeze on General Saw Shwe Wah, commander-in-chief of the Democratic Karen Benevolent Army (DKBA), and one of his top officers, and had banned Americans from dealing with them",
+   "link": "https://www.thehindu.com/news/international/us-sanctions-myanmar-armed-group-leader-over-scam-links/article71725716.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
    ],
    "score": 4,
    "important": false
@@ -314,6 +463,42 @@
    ],
    "gs": [
     "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyNTIyOS5lY2U",
+   "date": "2026-11-20",
+   "title": "CREDAI Chennai to move Supreme Court against 1km construction restriction around Pallikaranai marshland",
+   "summary": "The real estate body has expressed deep disappointment over the order passed by the Madras High Court on the Pallikaranai Ramsar issue",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/credai-chennai-to-move-supreme-court-against-1km-construction-restriction-around-pallikaranai-marshland/article71725229.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "MTc5NTE3Mjk0ODgyNC5odG1s",
+   "date": "2026-11-20",
+   "title": "RBI eases export paperwork for individuals, sets cap for service exporters",
+   "summary": "The clarification is expected to ease compliance for smaller service exporters and provide banks greater clarity on processing overseas payments.",
+   "link": "https://www.livemint.com/economy/rbi-eases-export-paperwork-for-individuals-sets-cap-for-service-exporters-11795172948824.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
     "GS-3"
    ],
    "score": 3,
@@ -652,6 +837,170 @@
    "section": "Explained",
    "topics": [
     "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyNDk2Mi5lY2U",
+   "date": "2026-11-20",
+   "title": "Keralam’s air quality under scrutiny amid discrepancies in air quality data",
+   "summary": "The committee has been constituted against the backdrop of discrepancies in recent Air Quality Index readings for Kochi and Thiruvananthapuram, which have heightened public concern",
+   "link": "https://www.thehindu.com/news/national/kerala/keralams-air-quality-under-scrutiny-amid-discrepencies-in-air-quality-data/article71724962.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MjM3NDIuZWNl",
+   "date": "2026-11-20",
+   "title": "Supreme Court allows lighting of lamp on deepathoon at Thirupparankundram as limited one-time arrangement",
+   "summary": "A Bench headed by Justice Aravind Kumar, however, stayed the conclusive findings of the Madras High Court in a January 6 judgment that upheld the right to light the lamp on the deepathoon as an essential practice",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/supreme-court-allows-lighting-of-lamp-on-the-deepathoon-as-a-limited-one-time-arrangement/article71723742.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyNTQ0MC5lY2U",
+   "date": "2026-11-20",
+   "title": "Cannot charge U.S. citizen Matthew Van Dyke under UAPA now: NIA DG",
+   "summary": "‘Investigators are yet to establish whether the people trained by Van Dyke and others were Indian insurgents’",
+   "link": "https://www.thehindu.com/news/national/cannot-charge-us-citizen-matthew-van-dyke-under-uapa-now-nia-dg/article71725440.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyNTY5Ny5lY2U",
+   "date": "2026-11-20",
+   "title": "Saudi-led coalition says targeted Yemen's Hodeida, other attacks 'ongoing'",
+   "summary": "We targeted operational capabilities at Hodeidah port that were used in smuggling operations and the transport of weapons and ballistic missiles, said spokesman",
+   "link": "https://www.thehindu.com/news/international/saudi-led-coalition-says-targeted-yemens-hodeida-other-attacks-ongoing/article71725697.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzI1Mzk1LmVjZQ",
+   "date": "2026-11-20",
+   "title": "Ruling BJP suffers major setback in Rajasthan Panchayati Raj elections",
+   "summary": "According to political observers, the Congress has consolidated its traditional support among Scheduled Castes and the Jat, Gujjar and Meena communities, besides making inroads into the Rajput vote bank",
+   "link": "https://www.thehindu.com/news/national/other-states/ruling-bjp-suffers-major-setback-in-rajasthan-panchayati-raj-elections/article71725395.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyNTM3OC5lY2U",
+   "date": "2026-11-20",
+   "title": "₹5,000 will reach eligible farmers by December 1: Parameshwara",
+   "summary": "Speaking to the media after reviewing the progress of the Revenue Department with Deputy Commissioners and other officials, he outlined the measures being taken by the State Government to address drought.",
+   "link": "https://www.thehindu.com/news/national/karnataka/5000-will-reach-eligible-farmers-by-december-1-parameshwara/article71725378.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzI1NTM5LmVjZQ",
+   "date": "2026-11-20",
+   "title": "Italian workers, students protest over wages and public services",
+   "summary": "Parliament is examining Meloni's €26 billion ($30 billion) budget for 2027, which CGIL says does not go far enough to support incomes and public services",
+   "link": "https://www.thehindu.com/news/international/italian-workers-students-protest-over-wages-and-public-services/article71725539.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Polity & Governance",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MjQ0NjguZWNl",
+   "date": "2026-11-20",
+   "title": "Russia says role for EU's Kallas in Ukraine talks with Moscow would lead to their collapse",
+   "summary": "Zakharova told a press briefing in Moscow that Kallas was totally unsuitable to take part in such talks and listed ‌a series of statements from Kallas which she ​said showed the EU official was anti-Russian",
+   "link": "https://www.thehindu.com/news/international/russia-says-role-for-eus-kallas-in-ukraine-talks-with-moscow-would-lead-to-their-collapse/article71724468.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzIzOTQ4LmVjZQ",
+   "date": "2026-11-20",
+   "title": "FDA sets up council for post-market review of vaccines, gene therapies",
+   "summary": "The FDA said the council is intended to improve accountability and transparency as biologic products grow increasingly complex, particularly in cell and gene therapy, a sector that has seen rapid regulatory expansion in recent years",
+   "link": "https://www.thehindu.com/sci-tech/health/fda-sets-up-council-for-post-market-review-of-vaccines-gene-therapies/article71723948.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Science & Technology"
    ],
    "gs": [
     "GS-3"
