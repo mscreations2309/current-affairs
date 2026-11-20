@@ -1,6 +1,27 @@
 {
- "updated": "2026-11-19T21:30:36.850Z",
+ "updated": "2026-11-20T03:12:07.370Z",
  "items": [
+  {
+   "id": "ydGljbGU3MTcyMjk1MS5lY2U",
+   "date": "2026-11-20",
+   "title": "COP 31: Nations still seeking deeper fossil fuel cuts as climate summit enters final day",
+   "summary": "The two-week annual summit, which has so far largely failed to advance any big ideas to move away from fossil fuels — mainly coal, oil and gas — which are contributing to more intense and deadly heat waves, droughts, floods and other disasters, ends on Nov. 20",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/cop-31-nations-still-seeking-deeper-fossil-fuel-cuts-as-climate-summit-enters-final-day/article71722951.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Geography & Disasters",
+    "International Relations",
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-1",
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 5,
+   "important": true
+  },
   {
    "id": "ydGljbGU3MTcyMTI0MC5lY2U",
    "date": "2026-11-20",
@@ -30,6 +51,120 @@
    "topics": [
     "Health & Social Issues",
     "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyMDAwMC5lY2U",
+   "date": "2026-11-20",
+   "title": "Tukaram Mundhe withdraws petition after dragging Centre to the court",
+   "summary": "FDA Commissioner Tukaram Mundhe had challenged FSSAI over the constitutional validity of a few regulations. The petition had challenged the creation of a few posts by the Centre, claiming it was against the Food Safety and Standards Act, 2006",
+   "link": "https://www.thehindu.com/news/national/maharashtra/tukaram-mundhe-two-months-after-deciding-to-drag-the-centre-to-court-maharashtra-government-decides-to-withdraw-petition/article71720000.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MjE3NTkuZWNl",
+   "date": "2026-11-20",
+   "title": "Yadadri Thermal Power Plant: The toxic cost of power",
+   "summary": "Fly ash from the 4,000-MW Yadadri thermal plant is polluting a stream that sustains farms and fishing communities, before flowing into the Krishna river. As Telangana powers up, the fallout extends beyond the vicinity of the project, which started operations less than two years ago, with concerns rising over water quality, public health and livelihoods along the river system, reports Swathi Vadlam",
+   "link": "https://www.thehindu.com/news/national/telangana/yadadri-thermal-power-plant-the-toxic-cost-of-power/article71721759.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Geography & Disasters",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1",
+    "Prelims"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyMDk3MC5lY2U",
+   "date": "2026-11-20",
+   "title": "Several Bengal districts under alert as cyclone Akvan likely to bring heavy rainfall",
+   "summary": "Squally winds of 40–50 km/h, gusting to 60 km/h, along and off the West Bengal coast will prevail till Friday noon and ease afterward, with very rough sea conditions, says IMD",
+   "link": "https://www.thehindu.com/news/national/west-bengal/several-bengal-districts-under-alert-as-cyclone-akvan-likely-to-bring-heavy-rainfall/article71720970.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-1"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyMTM2MS5lY2U",
+   "date": "2026-11-20",
+   "title": "Devotees visiting Guruvayur temple must be treated with respect, says Kerala High Court",
+   "summary": "‘Temple employees must act with the highest degree of equanimity and must not lose their temper with any devotee’ court",
+   "link": "https://www.thehindu.com/news/national/kerala/devotees-visiting-guruvayur-temple-must-be-treated-with-respect-says-kerala-high-court/article71721361.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzIxODE0LmVjZQ",
+   "date": "2026-11-20",
+   "title": "Wall Street ends sharply lower as Anthropic’s debut fails to revive AI fervour",
+   "summary": "All three major U.S. stock indexes ended the session ⁠sharply lower, with the benchmark S&P 500 logging its fifth straight session of losses",
+   "link": "https://www.thehindu.com/business/markets/wall-street-ends-sharply-lower-as-anthropics-debut-fails-to-revive-ai-fervour/article71721814.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Science & Technology",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "SkROMHB2YjJodmRrST9vYz01",
+   "date": "2026-11-20",
+   "title": "Oil import bill up 54% in first 7 months of FY27",
+   "summary": "Oil import bill up 54% in first 7 months of FY27 The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSmtTaXVuZ2t5ejFMQUp4c0dYbVEtcV8yUE1POWxQNW9nTUphcjhYZm5raklxMGEycGxJdHUyQkgwVHdyRHI4TUVQdTdyZHhNdUt2RS1oWUZ5Z0Exd2ZhWHQwNEVKeENyZlpXa2gwbWhEZDlsWDB0UkVqQ0FmbU9GUHB5dGNrNTNPZlRfMkhZMUR6NkNyT1pNamI0R0xFN0NpYmczWnJ2T21Semhtci1HU21R0gG4AUFVX3lxTE9nTTBLbWtzMHZfSEdvZ3JjVG9kTUN1QUF5UF9MZjQ4WmZvNW11ZEViMHRDTWtZdV9MRm1ENXZGS0MwWmw2S1hqQTgwd2VTZWp2TU1Wa00xXzB5X0NmdUdYekh4LWlFekx6STluNVNjYXMza2NFeXJRcUFHc1l3Wi1VUEx1dTlkMGNsd2RDYjM5WFYtTmdQRTgxZU1XalNVaWhsaTBibmN4YVdsX0tfUVJDN0pvb2hvdkI?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Polity & Governance",
+    "Economy"
    ],
    "gs": [
     "GS-2",
@@ -87,6 +222,96 @@
    ],
    "gs": [
     "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyMjkwNC5lY2U",
+   "date": "2026-11-20",
+   "title": "Madhya Pradesh scraps two-child policy for Govt employees after 25 years",
+   "summary": "The policy had been introduced in 2001 by the Congress government led by the then Chief Minister Digvijaya Singh as measure to check population rise",
+   "link": "https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-scraps-two-child-policy-for-govt-employees-after-25-years/article71722904.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzE4NzA3LmVjZQ",
+   "date": "2026-11-20",
+   "title": "Kolkata Medical College violence: West Bengal government, Left student’s unions at loggerheads",
+   "summary": "Action must be taken against such “dimagi naxals” who have conducted such activities inside the campus, said State Health Minister Sharadwat Mukherjee",
+   "link": "https://www.thehindu.com/news/national/west-bengal/kolkata-medical-college-tense-as-junior-doctors-gherao-principal-outsiders-attack-protesting-students/article71718707.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyMDc2Ny5lY2U",
+   "date": "2026-11-20",
+   "title": "Karnataka Cabinet okays confiscation of book that ‘insults’ Basavanna and ‘distorts’ his philosophy",
+   "summary": "Basava Samiti has accused U.S.-based author Ravi Hanj of hurting the sentiments of followers of the 12th century social reformer Basavanna in his book ‘Basava Mantapa’",
+   "link": "https://www.thehindu.com/news/national/karnataka/karnataka-cabinet-okays-confiscation-of-book-that-insults-basavanna-and-distorts-his-philosophy/article71720767.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyMjg5NC5lY2U",
+   "date": "2026-11-20",
+   "title": "U.S. religious freedom panel says ‘India targeting minorities in voter roll revisions’",
+   "summary": "USCIRF is a bipartisan body of ⁠the U.S. government that monitors religious freedom around the world and makes policy recommendations, which are not binding",
+   "link": "https://www.thehindu.com/news/international/us-religious-freedom-panel-says-india-is-targeting-minorities-in-voter-roll-revisions/article71722894.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Polity & Governance",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "MVdWemRIYlc5cFZtYz9vYz01",
+   "date": "2026-11-20",
+   "title": "Why flight delays make up most travel claims, yet medical bills take 80% of payouts",
+   "summary": "Why flight delays make up most travel claims, yet medical bills take 80% of payouts The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUUFBRHNHXzVXZl9TbUs5OVNvRmNyREppWjhGOTM5WHI1OXo4dGJzb0haZWlBTWNXT015Qkpva1d5aS1QWXJHS2l0VHpUSm1NRVBSZWt1ZXh4eElRNGlIcUJ1RFdnY3lQazRLa0F0Tm9TS0NUNEJ1RkVIY0JheVRMZThsSHhBOG5hc1NmcENlX05xcDRJUmllUzl6b9IBogFBVV95cUxQVENoaDl1S04yZzgycERlZzZ4anFzZUJ1VUxrWmxITHVVNFBickltSVhqUTlWYkJuZVVvUVVmWWFqekd2VUdVVktZaXpERVYxc1htcUY1N2pTRXJOd0xqUG94VGk1dTJ0eGkzcXh1cEkyQTdQdHR2aTZLTGpLUXRRLUFWMy0zTVdDU21ORkVST3JLUk1nNG5LR21WVzdHbW9pVmc?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
     "GS-2"
    ],
    "score": 2,
