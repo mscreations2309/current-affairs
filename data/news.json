@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T01:34:08.637Z",
+ "updated": "2026-11-21T09:47:57.536Z",
  "items": [
   {
    "id": "ydGljbGU3MTcyMDY0MC5lY2U",
@@ -16,6 +16,41 @@
     "GS-2"
    ],
    "score": 6,
+   "important": true
+  },
+  {
+   "id": "cnRpY2xlNzE3Mjc1MDYuZWNl",
+   "date": "2026-11-21",
+   "title": "PM, HM still searching for ‘supertainted’ two-thirds majority for delimitation bill, says Congress",
+   "summary": "Congress general secretary Jairam Ramesh said it is in the nation's interest to let the current Lok Sabha strength and state-wise configuration continue with one-third reservation for women implemented till the Viksit Bharat objective is achieved",
+   "link": "https://www.thehindu.com/news/national/pm-hm-still-searching-for-supertainted-two-thirds-majority-for-delimitation-bill-says-congress/article71727506.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "J0aWNsZTcxNzI3NTg4LmVjZQ",
+   "date": "2026-11-21",
+   "title": "Russia dusts off its pre-war demands as the U.S. raises discussing European security at Ukraine talks",
+   "summary": "The proposal to discuss broader security arrangements for Europe was floated by Donald Trump’s envoys, and that has worried Ukraine and its Western allies, who fear it will play into Moscow’s hands and weaken NATO",
+   "link": "https://www.thehindu.com/news/international/russia-dusts-off-its-pre-war-demands-as-the-us-raises-discussing-european-security-at-ukraine-talks/article71727588.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 5,
    "important": true
   },
   {
@@ -69,6 +104,45 @@
    ],
    "gs": [
     "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzI0NjM2LmVjZQ",
+   "date": "2026-11-21",
+   "title": "After strong El Niño, La Niña may boost India’s 2027 monsoon, says INCOIS forecast",
+   "summary": "Scientists indicate that the ongoing strong El Niño could persist until March 2027, followed by neutral conditions and a possible transition to La Niña during the Southwest Monsoon. They are also monitoring widespread marine heatwaves across the Indian Ocean",
+   "link": "https://www.thehindu.com/news/national/telangana/after-strong-el-nino-la-nina-may-boost-indias-2027-monsoon-says-incois-forecast/article71724636.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters",
+    "Environment & Ecology",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-1",
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyNzE0MC5lY2U",
+   "date": "2026-11-21",
+   "title": "‘Look at India, they have low interest rates’: Trump says U.S. could achieve 14–15% economic growth",
+   "summary": "“In four days, I met more than 20 world leaders, secured two new trade deals, and about 10 others coming very soon,” Donald Trump told a press conference at the White House in Washington",
+   "link": "https://www.thehindu.com/news/international/look-at-india-they-have-low-interest-rates-trump-says-us-could-achieve-1415-economic-growth/article71727140.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
    ],
    "score": 4,
    "important": false
@@ -146,6 +220,124 @@
    "important": false
   },
   {
+   "id": "ydGljbGU3MTcyNzYzMC5lY2U",
+   "date": "2026-11-21",
+   "title": "Why a shortage of clinical psychologists in Keralam govt hospitals is leaving people with intellectual disabilities waiting for certificates",
+   "summary": "As per the last Kerala Disability Census in 2015, there are about 80,000 persons with various intellectual challenges. However, government hospitals and medical college hospitals in the State currently have only 22 clinical psychologists to conduct IQ assessment tests",
+   "link": "https://www.thehindu.com/news/national/kerala/why-a-shortage-of-clinical-psychologists-in-keralam-govt-hospitals-is-leaving-people-with-intellectual-disabilities-waiting-for-certificates/article71727630.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3Mjc1MDcuZWNl",
+   "date": "2026-11-21",
+   "title": "Over 1 crore HPV vaccines given to 14-year-old girls in nine months: Health Ministry",
+   "summary": "Six States — Gujarat, Uttar Pradesh, Andhra Pradesh, Mizoram, Madhya Pradesh, and Bihar — have achieved 100% coverage of their identified target populations, the Ministry said",
+   "link": "https://www.thehindu.com/sci-tech/health/over-1-crore-hpv-vaccines-given-to-14-year-old-girls-in-nine-months-health-ministry/article71727507.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MjczODEuZWNl",
+   "date": "2026-11-21",
+   "title": "Tear down terror, separatist ecosystem, attaching properties of such elements a top priority: J&K L-G Manoj Sinha",
+   "summary": "The Lieutenant Governor directed the police official that the goal cannot stop at neutralising terrorists. We must tear down the entire terrorist, separatist ecosystem that sustains them, he said",
+   "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/tear-down-terror-separatist-ecosystem-attaching-properties-of-such-elements-a-top-priority-jk-l-g-manoj-sinha/article71727381.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Environment & Ecology",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MjcxOTguZWNl",
+   "date": "2026-11-21",
+   "title": "FBI, U.S. Agriculture Department breached by hackers, reports say",
+   "summary": "The newly uncovered breaches at the FBI and USDA were described as hacks, which are different from outages like the ones that afflicted Microsoft Outlook and the Federal Aviation Administration",
+   "link": "https://www.thehindu.com/news/international/fbis-criminal-information-database-hacked-reports-say/article71727198.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Economy",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyNzM3MC5lY2U",
+   "date": "2026-11-21",
+   "title": "Earthshot Prize finalists offer climate solutions for Mumbai, from wildfire detection to coastal protection and heat resilience",
+   "summary": "María Buhigas, Chief City Architect of Barcelona, said coastal cities such as Mumbai must reconsider traditional infrastructure-led approaches to protecting waterfronts against rising sea levels, intense rainfall and increasingly powerful waves",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/earthshot-prize-finalists-offer-climate-solutions-for-mumbai-from-wildfire-detection-to-coastal-protection-and-heat-resilience/article71727370.ece",
+   "source": "The Hindu",
+   "section": "Environment",
+   "topics": [
+    "Economy",
+    "Environment & Ecology",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "VGJYTTVRMkpOU0VGSj9vYz01",
+   "date": "2026-11-21",
+   "title": "Why Myanmar’s genocide verdict matters, including for Israel’s case",
+   "summary": "Why Myanmar’s genocide verdict matters, including for Israel’s case The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY3A3azA2R3otREVyZzhMXzM5N0tLamZUM0NSOXZGb1lTMlZjbXRFM0VfSVFYbE82eTRWQ3puaWNsdTNIa19FMGMzQXpQM1dvbzRxWXNuVVpQcWdrY0NfRmUwYzlTQkJRUTlNeTd0MjJGMklYbG4wRlJHRXZkX2NZendYTUE5VEJINDFEcmd2XzNDcTdrQzZ5VUZHbHlTQnd6SFdBX1FLbDlscGJzMFcySDZXRk94cWJTcmhXWlZTa0RBQjQ3R3MzR1JHb0lnbHYy0gHXAUFVX3lxTE5wUU9lamJKaUZHYmE2eWtEUmZfeTlGNGFyLWxwT2NxTHZrQk1ZQ1JzRExCb1Z2M0EzNWtUcGFjZGVpQi12a2c1eVBqcV9BX3R5UUVjTk1lRU1EWFlvenVodWNEdzduT2FrWnJidmRaU203dl9mb3hhTDNfc24wUmsyRmF5MlRUYmFnaXJ0S3Y2R2xIWER4RVdXQVJSWDBhNmVVM1FMbVJwQkVoQ1MyakNiRm9ReGZVcWRFLTY4TmR4UEdIeTA1bHpGd3ZjNUJTbXM5Q2JNSEFJ?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
    "id": "J0aWNsZTcxNzI1MDI5LmVjZQ",
    "date": "2026-11-21",
    "title": "State govt. should clarify on dismissal of Guidance employees: Anbumani",
@@ -197,6 +389,164 @@
    "gs": [
     "GS-2",
     "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyNzY0Mi5lY2U",
+   "date": "2026-11-21",
+   "title": "Karnataka Chief Minister to lead delegation to Japan for investment talks and urban-planning study",
+   "summary": "The visit will focus on two areas: attracting fresh investments from Japanese companies and understanding Japan’s approach to urban planning, transport, waste management, and infrastructure development",
+   "link": "https://www.thehindu.com/news/national/karnataka/karnataka-chief-minister-to-lead-delegation-to-japan-for-investment-talks-and-urban-planning-study/article71727642.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MjczMjIuZWNl",
+   "date": "2026-11-21",
+   "title": "Full text of the inaugural Cornelia Sorabji Memorial Lecture delivered by Supreme Court Justice B.V. Nagarathna",
+   "summary": "Only the practice of substantive equality could take care of these differences among women hailing from and living through diverse life experiences, the Judge said.",
+   "link": "https://www.thehindu.com/news/national/full-text-of-the-inaugural-cornelia-sorabji-memorial-lecture-delivered-by-supreme-court-justice-bv-nagarathna/article71727322.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3Mjc1NTIuZWNl",
+   "date": "2026-11-21",
+   "title": "Srikakulam releases 15,440 cusecs as inflows moderate after cyclone floods",
+   "summary": "The district administration heaved a sigh of relief as inflows are moderate compared to inflows of nearly one lakh cusecs one month ago due to the cyclone that caused havoc in Ichchapuram and other places",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/srikakulam-releases-15440-cusecs-as-inflows-moderate-after-cyclone-floods/article71727552.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3Mjc1ODYuZWNl",
+   "date": "2026-11-21",
+   "title": "Remnants of Cyclone Akvan to bring rain in Bengal till November 22: IMD",
+   "summary": "According to the IMD, thunderstorms accompanied by gusty winds reaching speeds of 30-40 kmph are likely over most districts of south Bengal and a few places in north Bengal on Saturday",
+   "link": "https://www.thehindu.com/news/national/west-bengal/remnants-of-cyclone-akvan-to-bring-rain-in-bengal-till-november-22-imd/article71727586.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzI3NDU3LmVjZQ",
+   "date": "2026-11-21",
+   "title": "Kiren Rijiju hits back at Rahul Gandhi’s 'compromised PM' jibe, questions Congress on 1962 war, poverty",
+   "summary": "The Congress leader's remarks triggered a war of words between the BJP and the opposition party, with several BJP leaders accusing Rahul Gandhi of being \"clueless\" about global geopolitics",
+   "link": "https://www.thehindu.com/news/national/kiren-rijiju-hits-back-at-rahul-gandhis-compromised-pm-jibe-questions-congress-on-1962-war-poverty/article71727457.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzI3NDc4LmVjZQ",
+   "date": "2026-11-21",
+   "title": "Polling begins for Municipal, Panchayat elections across Ladakh",
+   "summary": "Polling, which started around 8 a.m., is underway in all 21 wards of the Leh Municipal Council, while representatives in four of the 17 wards of the Kargil Municipal Council have been elected unopposed",
+   "link": "https://www.thehindu.com/news/national/ladakh/ladakh-municipal-and-panchayat-elections/article71727478.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzI3NTAyLmVjZQ",
+   "date": "2026-11-21",
+   "title": "With highest polling station at 15,057 feet, India‘s high-altitude UT of Ladakh to witness panchayat, municipal polls on November 21",
+   "summary": "Officials said in the Leh Municipal Council, elections will be held in all 21 wards, while four out of 17 wards in the Kargil Municipal Council have elected representatives unopposed",
+   "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/with-highest-polling-station-at-15057-feet-indias-high-altitude-ut-of-ladakh-to-witness-panchayat-municipal-polls-on-november-21/article71727502.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyNTY1Ny5lY2U",
+   "date": "2026-11-21",
+   "title": "IRDAI imposes ₹2 cr penalty on Star Health",
+   "summary": "The insurer is advised to ensure all policies are serviced as per the terms and conditions of the policy documents and no arbitrary deductions/denial are made to the claim without proper justification, IRDAI said.",
+   "link": "https://www.thehindu.com/business/Industry/irdai-imposes-2-cr-penalty-on-star-health/article71725657.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "xNzk1MjQwMDYwNzE0Lmh0bWw",
+   "date": "2026-11-21",
+   "title": "Budget expectations 2027: Gratuity hike, enhance social security, gig worker protection on list of trade union demands",
+   "summary": "Budget expectations 2027: Trade unions have pushed the Centre to raise gratuity for retirees, increase minimum wages and expand social security schemes at a pre-Budget meeting chaired by Finance Minister Nirmala Sitharaman.",
+   "link": "https://www.livemint.com/economy/budget-expectations-2027-gratuity-hike-social-security-42000-minimum-wage-gig-worker-protection-list-trade-union-demands-11795240060714.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
    ],
    "score": 2,
    "important": false
@@ -1150,6 +1500,23 @@
    ],
    "gs": [
     "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyNDQzMS5lY2U",
+   "date": "2026-11-20",
+   "title": "Why did the U.S. lose its measles-free status? | In Focus Podcast",
+   "summary": "Dr. Dilip Mathai explains why the United States lost its measles-free status after 26 years, what’s behind the global measles resurgence and where India stands.",
+   "link": "https://www.thehindu.com/podcast/why-did-the-us-lose-its-measles-free-status-in-focus-podcast/article71724431.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
    ],
    "score": 2,
    "important": false
