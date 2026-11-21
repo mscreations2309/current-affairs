@@ -1,6 +1,23 @@
 {
- "updated": "2026-11-20T20:14:30.358Z",
+ "updated": "2026-11-21T01:34:08.637Z",
  "items": [
+  {
+   "id": "ydGljbGU3MTcyMDY0MC5lY2U",
+   "date": "2026-11-21",
+   "title": "In Keralam, the children beyond healthcare",
+   "summary": "Attappady’s recurring infant deaths this year point to a crisis that goes beyond malnutrition and access to timely healthcare. Poverty, land alienation, and the erosion of traditional food systems, are taking a toll on maternal and child health in this predominantly tribal region of Keralam",
+   "link": "https://www.thehindu.com/news/national/kerala/in-keralam-the-children-beyond-healthcare/article71720640.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 6,
+   "important": true
+  },
   {
    "id": "cnRpY2xlNzE3MjQ1MTEuZWNl",
    "date": "2026-11-21",
@@ -12,6 +29,43 @@
    "topics": [
     "Polity & Governance",
     "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MjcxMTYuZWNl",
+   "date": "2026-11-21",
+   "title": "India says no change in its position on Indus Water Treaty as Pakistan minister attends SCO forum in Delhi",
+   "summary": "India suspended the treaty in 2025 as one of the punitive measures against Pakistan after the April 22 Pahalgam terror attack last year that claimed 26 lives",
+   "link": "https://www.thehindu.com/news/national/india-says-no-change-in-its-position-on-indus-water-treaty-as-pakistan-minister-attends-sco-forum-in-delhi/article71727116.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MjQ5OTguZWNl",
+   "date": "2026-11-21",
+   "title": "India ‘takes note’ of Trump-Xi-Putin summit, awaits more details",
+   "summary": "Opposition questions why India not present at 'G-3' global power summit in Shenzhen; Ministry cites ‘concrete outcomes’ of Quad Summit held earlier in the week",
+   "link": "https://www.thehindu.com/news/national/india-takes-note-of-trump-xi-putin-summit-awaits-more-details/article71724998.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Polity & Governance"
    ],
    "gs": [
     "GS-2"
@@ -37,6 +91,61 @@
    "important": false
   },
   {
+   "id": "cnRpY2xlNzE3MjYwNDAuZWNl",
+   "date": "2026-11-21",
+   "title": "Chandel district official issues advisory after spurious liquor kills 11 in Manipur",
+   "summary": "The Chandel district authorities have urged the people to report suspected manufacturing, storage, sale or distribution of adulterated liquor",
+   "link": "https://www.thehindu.com/news/national/manipur/chandel-district-official-issues-advisory-after-spurious-liquor-kills-11-in-manipur/article71726040.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Internal Security & Defence",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzI1MDkwLmVjZQ",
+   "date": "2026-11-21",
+   "title": "Patna High Court quashes dismissal of teachers and staff of Sanskrit Colleges",
+   "summary": "The court has directed the Bihar Education Department to release the grant-in-aid to the university within three months.",
+   "link": "https://www.thehindu.com/news/national/bihar/patna-high-court-quashes-dismissal-of-teachers-and-staff-of-sanskrit-colleges/article71725090.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ZVEdOSFRIQjRaa1JCP29jPTU",
+   "date": "2026-11-21",
+   "title": "Shenzhen pledge: Can US, Russia, China come together to improve global fuel supplies?",
+   "summary": "Shenzhen pledge: Can US, Russia, China come together to improve global fuel supplies? The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNGJQUk5UekFuMGF2aDc4bmdUY0VTZDI5Z0ZOdGFkUmNITHRMdi1qNGlrb0YyWGowTmNrbjh4TVU0RVV3cHlXczQ0Ny11NG1yd2MtZ3ptSVk5N0hHVmpZc2o4VktNQWk1Y0d2N0hEZk9uRXpFVHZLSTdUVS1RbVBhbGsycFRzWjlDWlRlVXo5dHpqOFFaT1VkVXJvNXhRSHF2LVBIRkJkaWNGRzN1dmF4SXVBZUNjOERmTUgxdmpGdEQ3QUhzT214MksyanF0NFBDSE5J0gHaAUFVX3lxTE5FS1dERjM2dGxNdmhsalJvVUtpQjhkY3BpT2QyQ2pYV2JuUk54MGFyQk1GNndtaVdUdmlIRk81TFpBbUZpNlFJZ0tlVjV4aXlDUTk4VWxvc2hYQzVwX0VsMkdzQjFqclMwYWZwNlFBXzZNNDhPRUdYMW04YUkzTHNIODRoRzZDZV9NTXJUOG9zLWRjNkNoODc2bTlRaVFPTTJhSHRNckVPb0FFaFdnd1pwREVtMnFYV2tsdE5WaThRdW1LNDZpUjJCcFJPSGxrTVJYTGNHTHB4ZkRB?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
    "id": "J0aWNsZTcxNzI1MDI5LmVjZQ",
    "date": "2026-11-21",
    "title": "State govt. should clarify on dismissal of Guidance employees: Anbumani",
@@ -51,6 +160,43 @@
    "gs": [
     "GS-3",
     "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzI1MjY3LmVjZQ",
+   "date": "2026-11-21",
+   "title": "Transgender persons to be roped in for tax collection in West Bengal",
+   "summary": "West Bengal Minister Agnimitra Paul launches a programme to provide dignified, alternative livelihoods to trans persons",
+   "link": "https://www.thehindu.com/news/national/west-bengal/transgender-persons-to-be-roped-in-for-tax-collection-in-west-bengal/article71725267.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzI1NjIwLmVjZQ",
+   "date": "2026-11-21",
+   "title": "Cabinet decision to forfeit Basava Mantapa book yet to take effect for want of notification",
+   "summary": "This, even as Chief Minister D.K. Shivakumar on Friday said that his government will “not tolerate derogatory remarks against Basavanna, the cultural leader of the State” and had instructed officials to forfeit all copies of the book.",
+   "link": "https://www.thehindu.com/news/national/karnataka/cabinet-decision-to-forfeit-basava-mantapa-book-yet-to-take-effect-for-want-of-notification/article71725620.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
    ],
    "score": 2,
    "important": false
