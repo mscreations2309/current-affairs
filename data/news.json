@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T09:47:57.536Z",
+ "updated": "2026-11-21T17:30:08.625Z",
  "items": [
   {
    "id": "ydGljbGU3MTcyMDY0MC5lY2U",
@@ -49,6 +49,45 @@
    ],
    "gs": [
     "GS-2"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "cnRpY2xlNzE3MjkyODUuZWNl",
+   "date": "2026-11-21",
+   "title": "Cargo ship bound for Russia's Kaliningrad hit by drones, Finland tightens security",
+   "summary": "Finland's Defence Ministry said the military had reintroduced temporary aviation and maritime restrictions in the eastern Gulf of Finland as a precaution to protect civilians and enable authorities ​to operate if drones needed ‌to be intercepted.",
+   "link": "https://www.thehindu.com/news/international/cargo-ship-bound-for-russias-kaliningrad-hit-by-drones-finland-tightens-security/article71729285.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Internal Security & Defence",
+    "Polity & Governance",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "J0aWNsZTcxNzI4MDg0LmVjZQ",
+   "date": "2026-11-21",
+   "title": "Iran says allies China, Russia oppose change in nuclear doctrine",
+   "summary": "Iran has barred the International Atomic Energy Agency from inspecting its nuclear sites, citing security concerns and blaming the agency for failing to condemn U.S. and Israeli attacks on its nuclear facilities",
+   "link": "https://www.thehindu.com/news/international/iran-says-allies-china-russia-oppose-change-in-nuclear-doctrine/article71728084.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
    ],
    "score": 5,
    "important": true
@@ -143,6 +182,98 @@
    "gs": [
     "GS-2",
     "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzI4NTczLmVjZQ",
+   "date": "2026-11-21",
+   "title": "India’s first AI, Quantum University campus inaugurated in Guntur of Andhra Pradesh",
+   "summary": "National Institute of Electronics & Information Technology transit campus on the premises of Acharya Nagarjuna University to commence training programmes on December 1, 2026",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/indias-first-ai-quantum-university-campus-inagurated-in-guntur-of-andhra-pradesh/article71728573.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzI5MzU3LmVjZQ",
+   "date": "2026-11-21",
+   "title": "Sri Lanka's organised crime bill gets Supreme Court nod",
+   "summary": "In Sri Lanka, citizens can challenge a Bill's constitutionality in the Supreme Court within one week of its introduction in Parliament. The Bill had earlier faced 20 petitions in the Supreme Court challenging its constitutionality",
+   "link": "https://www.thehindu.com/news/international/sri-lankas-organised-crime-bill-gets-supreme-court-nod/article71729357.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Polity & Governance",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzI4NTcyLmVjZQ",
+   "date": "2026-11-21",
+   "title": "Zelenskiy says China summit was ‘very unsuccessful’ for Russia",
+   "summary": "The Ukrainian President said Vladimir Putin had failed to recreate the Yalta conference, and that it is not clear to Kyiv whether it will be able to join NATO",
+   "link": "https://www.thehindu.com/news/international/zelenskiy-says-china-summit-was-very-unsuccessful-for-russia/article71728572.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzI4NTE2LmVjZQ",
+   "date": "2026-11-21",
+   "title": "Finland detects drone attack on Russian cargo ship in Baltic",
+   "summary": "The Finnish Defence Ministry did not specify who was behind the drone strike, but Prime Minister Petteri Orpo said in a message “War is spilling over into our immediate vicinity... Ukraine has the right to fight back against the aggressor”",
+   "link": "https://www.thehindu.com/news/international/finland-detects-drone-attack-on-russian-cargo-ship-in-baltic/article71728516.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Internal Security & Defence",
+    "Polity & Governance",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MjgwMzAuZWNl",
+   "date": "2026-11-21",
+   "title": "Virginia child dies as measles outbreak in U.S. worsens",
+   "summary": "The death adds to a worsening national measles outbreak that this week cost the ⁠United States its measles elimination status after 26 years",
+   "link": "https://www.thehindu.com/sci-tech/health/virginia-child-dies-as-measles-outbreak-in-us-worsens/article71728030.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "International Relations",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
    ],
    "score": 4,
    "important": false
@@ -332,6 +463,102 @@
     "International Relations"
    ],
    "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyODg2NC5lY2U",
+   "date": "2026-11-21",
+   "title": "Keralam faces administrative paralysis under UDF, alleges CPI(M) State secretary M.V. Govindan",
+   "summary": "He cites stalled Wayanad tunnel road, sluggish National Highway work, and KIIFB-funded schemes as evidence of administrative paralysis under the UDF government. He also blames an internal 'power group' for the breakdown in Cabinet unity.",
+   "link": "https://www.thehindu.com/news/national/kerala/keralam-faces-administrative-paralysis-under-udf-alleges-cpim-state-secretary-mv-govindan/article71728864.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Economy",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3Mjg1MTcuZWNl",
+   "date": "2026-11-21",
+   "title": "Illegal hill-cutting threatens Bidar’s heritage, historic karez system and wildlife habitats",
+   "summary": "Team YUVAA, a civil society organisation, studied the impact of illegal mining and submitted a report to Deputy Commissioner recommending immediate action",
+   "link": "https://www.thehindu.com/news/national/karnataka/illegal-hill-cutting-threatens-bidars-heritage-historic-karez-system-and-wildlife-habitats/article71728517.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology",
+    "History, Art & Culture",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-1",
+    "Prelims"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyOTIzNS5lY2U",
+   "date": "2026-11-21",
+   "title": "Ballistic missile attack on Zelenskyy's hometown kills 2",
+   "summary": "The attack added to uncertainty about the prospects for ongoing talks brokered by Washington; It also came hours after two Russian missiles and a suspected drone came down in Poland",
+   "link": "https://www.thehindu.com/news/international/ballistic-missile-attack-on-zelenskyys-hometown-kills-2/article71729235.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Internal Security & Defence",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyOTE3My5lY2U",
+   "date": "2026-11-21",
+   "title": "States agree to UN talks aiming to regulate 'killer robots' by 2028",
+   "summary": "Around 100 ⁠countries backed this position, but big arms-producing nations like the U.S., Russia, and Israel opposed this, resulting in a watered-down agreement that left open the question of whether future ​measures would be legally ‌binding",
+   "link": "https://www.thehindu.com/news/international/states-agree-toun-talks-aiming-to-regulate-killer-robots-by-2028/article71729173.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyODExMS5lY2U",
+   "date": "2026-11-21",
+   "title": "European Union proposes tax on Big Tech to boost budget",
+   "summary": "European Council president Antonio Costa unveiled a new spending proposal that slashes by 204 billion euros a plan initially put forward by the European Commission",
+   "link": "https://www.thehindu.com/news/international/european-union-proposes-tax-on-big-tech-to-boost-budget/article71728111.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Economy",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-3",
     "GS-2"
    ],
    "score": 3,
@@ -546,6 +773,229 @@
    ],
    "gs": [
     "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3Mjg4MjcuZWNl",
+   "date": "2026-11-21",
+   "title": "Indian team reaches Dhaka ahead of Ganga Water Treaty’s expiry",
+   "summary": "A Joint Committee under the Joint River Commission will meet on November 22-23, while it is not clear if the Commission has the mandate to renew the treaty",
+   "link": "https://www.thehindu.com/news/national/indian-team-reaches-dhaka-ahead-of-ganga-water-treatys-expiry/article71728827.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzI4OTM0LmVjZQ",
+   "date": "2026-11-21",
+   "title": "ASHAs reject government’s assurance; decide to continue protest",
+   "summary": "The talks failed after Health Minister U.T. Khader said the demand for an increase in remuneration would be discussed during the preparation of the next State Budget",
+   "link": "https://www.thehindu.com/news/national/karnataka/ashas-reject-governments-assurance-decide-to-continue-protest/article71728934.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MjkwNjUuZWNl",
+   "date": "2026-11-21",
+   "title": "Gold, copper, aluminium dive to at least 7-month lows",
+   "summary": "Hawkish commentary from U.S. Fed and concerns over global economic growth have been among the more prominent concerns.",
+   "link": "https://www.thehindu.com/business/gold-copper-aluminium-dive-to-at-least-7-month-lows/article71729065.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MjkwNTAuZWNl",
+   "date": "2026-11-21",
+   "title": "Mirwaiz Umar Farooq hails Pakistan accepting India’s SCO invite, terms it ‘positive step’",
+   "summary": "Ties between India and Pakistan nosedived after the Pahalgam attack triggered a war between the two neighbours in 2025",
+   "link": "https://www.thehindu.com/news/national/mirwaiz-umar-farooq-hails-pakistan-accepting-indias-sco-invite-terms-it-positive-step/article71729050.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3Mjg5OTAuZWNl",
+   "date": "2026-11-21",
+   "title": "Kozhikode Corporation health wing finds violations at hotels, eateries",
+   "summary": "The inspections revealed several violations, including unhygienic conditions in kitchens and their surroundings; employees working without health cards; and failure to produce drinking water quality test reports",
+   "link": "https://www.thehindu.com/news/national/kerala/kozhikode-corporation-health-wing-finds-violations-at-hotels-eateries/article71728990.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzI3Njg1LmVjZQ",
+   "date": "2026-11-21",
+   "title": "Siang mega dam issue will be addressed through dialogue: Amit Shah",
+   "summary": "Siang Valley communities oppose pre-feasibility report activities for the proposed dam project; Union Home Minister, who is on a three-day visit to Arunachal Pradesh, assures them that the region’s culture, traditions and religious beliefs would not be compromised",
+   "link": "https://www.thehindu.com/news/national/arunachal-pradesh/concerns-of-people-of-siang-valley-over-dam-project-to-be-addressed-through-dialogue-shah/article71727685.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "History, Art & Culture",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-1",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyODI3Ny5lY2U",
+   "date": "2026-11-21",
+   "title": "The Hindu in School Science Festival receives impressive response in Madikeri",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/karnataka/the-hindu-in-school-science-festival-receives-impressive-response-in-madikeri/article71728277.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyODU1OC5lY2U",
+   "date": "2026-11-21",
+   "title": "CEO office rejects RTI query about SIR publicity budget and expenditure",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/telangana/ceo-office-rejects-rti-query-about-sir-publicity-budget-and-expenditure/article71728558.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3Mjg1NjkuZWNl",
+   "date": "2026-11-21",
+   "title": "Andhra Pradesh gets national recognition for its progress in HIV/AIDS control",
+   "summary": "Six districts in the State have achieved ‘Surakshit’ status and another 10 the ‘Saksham’ status, and the rankings are based on a district’s performance on 95-95-95 targets fixed by the Joint United Nations Programme",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-gets-national-recognition-for-its-progress-in-hivaids-control/article71728569.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyOTM1NC5lY2U",
+   "date": "2026-11-21",
+   "title": "Yemen's Houthis launch strikes after Saudi coalition's 'special operation'",
+   "summary": "The strikes came after the Houthis vowed revenge for the coalition's attack on the Red Sea port city of Hodeida and other targets on November 20",
+   "link": "https://www.thehindu.com/news/international/yemens-houthis-launch-strikes-after-saudi-coalitions-special-operation/article71729354.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Economy",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzI3ODI2LmVjZQ",
+   "date": "2026-11-21",
+   "title": "Bangladesh Minister vows action against those behind arson, blames Awami League-linked groups, says reports",
+   "summary": "Humaiun Kobir said law enforcement agencies were working to bring those responsible to justice and alleged that the Awami League’s leadership, including those based abroad, was encouraging the attacks",
+   "link": "https://www.thehindu.com/news/international/bangladesh-minister-vows-action-against-those-behind-arson-blames-awami-league-linked-groups-says-reports/article71727826.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "MXBzVWtOV2RWUkZNdz9vYz01",
+   "date": "2026-11-21",
+   "title": "Why the Supreme Court’s environmental watchdog wants to curb riverbed sand mining, and what it proposes instead",
+   "summary": "Why the Supreme Court’s environmental watchdog wants to curb riverbed sand mining, and what it proposes instead The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLU5NU05HNlhHYlBrdUtLb01zbHo5SmJnNjlaWlh1bkNnRVVjd3htcEpPZFJnYWtmdWZlLUVpVG1XUHRhdGRqLTlFSm1jOHE0T2ZQMFpCYTFWRGxqSVFybm1HT3FiYzR1YXdxQTBXUjc2WG9mbndmUVhfUDd4UWJWeU82Rm42WmJPWmJkVkppSk9TRHo4bU1nWFJPQzdtaC10bXd0dm1HdW85d9IBsAFBVV95cUxONGhHNkFCX3FVdjQ1YTRpMGN3R3ZZM21ReU9NRTBJR251T3BXM3BuamdVa3plSThPMDlNcGZjSWdWTm1SbV9WSTFVYTJydEI3eGxob19jcUFheWRtblFCYTlhNml4MG5SS2tDS0FWZFFCejBNRHRkUmJ0MGI4d0h4MkpxYUlibDVRRXcycFRhMVZnSEpXWmxjREpjWlBwSFhScFZZVHFhc1psUkNWdVRFMw?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
     "GS-2"
    ],
    "score": 2,
