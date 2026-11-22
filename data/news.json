@@ -1,6 +1,43 @@
 {
- "updated": "2026-11-22T03:14:02.878Z",
+ "updated": "2026-11-22T11:31:50.421Z",
  "items": [
+  {
+   "id": "ydGljbGU3MTczMTExNy5lY2U",
+   "date": "2026-11-22",
+   "title": "Simon Commission and SIR exercise are similar: Revanth Reddy",
+   "summary": "Pointing out that Telangana had conducted an OBC caste census for the first time in nearly 100 years, he said the PAC should adopt a resolution urging the Union government to undertake a similar exercise nationally",
+   "link": "https://www.thehindu.com/news/national/telangana/simon-commission-and-sir-exercise-are-similar-revanth-reddy/article71731117.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzMxMDY2LmVjZQ",
+   "date": "2026-11-22",
+   "title": "Farmers suffer during kharif as banks did not achieve targets of agri credit",
+   "summary": "With the government asking farmers to refrain from water-intensive crops in rabi, doubts are being expressed over the lending by banks in view of adverse weather conditions",
+   "link": "https://www.thehindu.com/news/national/telangana/farmers-suffer-during-kharif-as-banks-did-not-achieve-targets-of-agri-credit/article71731066.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
   {
    "id": "ZFJOa3h0VW01Q2FVRT9vYz01",
    "date": "2026-11-22",
@@ -12,6 +49,136 @@
    "topics": [
     "International Relations",
     "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTczMTA2OC5lY2U",
+   "date": "2026-11-22",
+   "title": "Rijiju bats for self-reliant Arunachal, calls for balance between tribal rights, development",
+   "summary": "Kiren Rijiju stressed the need to find a balance between protecting the interests of indigenous communities and creating an environment conducive to investment and development.",
+   "link": "https://www.thehindu.com/news/national/arunachal-pradesh/rijiju-bats-for-self-reliant-arunachal-calls-for-balance-between-tribal-rights-development/article71731068.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Environment & Ecology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MzEwNjUuZWNl",
+   "date": "2026-11-22",
+   "title": "Deepathoon row: Tamil Nadu files a review plea in Supreme Court against Thirupparankundram order",
+   "summary": "The party urging a re-look of the court order must show that the findings were a result of a factual misconception or had ignored binding judicial precedents or violated a statutory mandate",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/deepathoon-row-tamil-nadu-files-a-review-plea-in-supreme-court-against-thirupparankundram-order/article71731065.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTczMDYzOS5lY2U",
+   "date": "2026-11-22",
+   "title": "TGEWIDC invites bids for works worth ₹480 crore at Osmania University",
+   "summary": "Osmania University Vice-Chancellor Kumar Molugaram said the projects would address long-pending infrastructure requirements and improve student welfare and academic facilities",
+   "link": "https://www.thehindu.com/news/national/telangana/tgewidc-invites-bids-for-works-worth-480-crore-at-osmania-university/article71730639.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTczMDcxMy5lY2U",
+   "date": "2026-11-22",
+   "title": "Hemant Soren writes to CJI to urgently appoint Jharkhand HC Chief Justice successor",
+   "summary": "Jharkhand CM asserted that the High Court of Jharkhand has repeatedly experienced short leadership tenures and interim Acting Chief Justice arrangements at the helm.",
+   "link": "https://www.thehindu.com/news/national/jharkhand/hemant-soren-writes-to-cji-to-urgently-appoint-jharkhand-hc-chief-justice-successor/article71730713.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzMxMDM5LmVjZQ",
+   "date": "2026-11-22",
+   "title": "Saudi-led coalition says it intercepted Houthi missile in western region",
+   "summary": "Saudi Arabia's western region contains key energy infrastructure including the Yanbu terminal, a major facility for crude oil exports",
+   "link": "https://www.thehindu.com/news/international/saudi-led-coalition-says-it-intercepted-houthi-missile-in-western-region/article71731039.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Economy",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzMwNjAxLmVjZQ",
+   "date": "2026-11-22",
+   "title": "South Korea Education Minister resigns amid AI cheating scandal",
+   "summary": "The country has been gripped by fears of AI-assisted exam cheating since last Sunday (November 15, 2026), when the top scorer in a national tax accountant exam confessed to using a miniature camera and smartphone to achieve a near-perfect score",
+   "link": "https://www.thehindu.com/news/international/south-korea-education-minister-resigns-amid-ai-cheating-scandal/article71730601.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Economy",
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "BRM1ZTT1RWRGFYTXo_b2M9NQ",
+   "date": "2026-11-22",
+   "title": "Rahul Gandhi on Israel: How defence tech, Kargil war shaped India’s ties",
+   "summary": "Rahul Gandhi on Israel: How defence tech, Kargil war shaped India’s ties The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOHFnWFhpcEdvS1hMN01OcHc4ZmVUaE4wcTRDRVFieVVZRG93NnA2Y2RJLTFTb1MyQlE4dGRlbFZaeTVhZElldlVxUy11UFVwQTdwb003RlR6NXgyTUp0TmxUYjNNZ2ZBWUkzT296U1FWdml4T3Utc0t0SllualFpRlRCMVI0VWxzNnp2SzliMU1ITVhYRTNaWUVKWmZKcl91LUJhQ0VXMnFrR2ZIOUQ5dXdocUYxRUdzMmF0Q3VSOTVDaXMz?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
    ],
    "gs": [
     "GS-2",
@@ -102,6 +269,200 @@
    ],
    "gs": [
     "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTczMDkyNi5lY2U",
+   "date": "2026-11-22",
+   "title": "Naidu asks coalition leaders to promote unanimous panchayat elections in Andhra Pradesh",
+   "summary": "Panchayats elected unanimously will get between ₹15 lakh and ₹50 lakh under the revised incentive scheme",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-asks-coalition-leaders-to-promote-unanimous-panchayat-elections-in-andhra-pradesh/article71730926.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzMxMTE5LmVjZQ",
+   "date": "2026-11-22",
+   "title": "Degrees are qualifications, not identities, says Rajnath Singh, urges students to develop their own paths",
+   "summary": "Addressing the convocation ceremony of Babu Banarasi Das University in Lucknow, Rajnath Singh noted that emerging technologies such as AI would create opportunities and increase demand for new skills",
+   "link": "https://www.thehindu.com/news/national/uttar-pradesh/degrees-are-qualifications-not-identities-says-rajnath-singh-urges-students-to-develop-their-own-paths/article71731119.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTczMDcwNi5lY2U",
+   "date": "2026-11-22",
+   "title": "University of Hyderabad students continue protest, demand termination of faculty member over alleged casteist remarks",
+   "summary": "The email communication between April 14 and 16, 2026, contains references to former students from the Scheduled Castes community as “untouchables”, remarks against students from marginalised backgrounds in Bihar and Jharkhand, and Islamophobic comments",
+   "link": "https://www.thehindu.com/news/national/telangana/university-of-hyderabad-students-continue-protest-demand-termination-of-faculty-member-over-alleged-casteist-remarks/article71730706.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MzA4NjkuZWNl",
+   "date": "2026-11-22",
+   "title": "NHAI’s Telangana Region witnesses drop in fatalities",
+   "summary": "With an investment of ₹2,304 crore to rectify black spots on highways in Telangana, accidents at these locations have declined by 47%",
+   "link": "https://www.thehindu.com/news/national/telangana/nhais-telangana-region-witnesses-drop-in-fatalities/article71730869.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzMwNjczLmVjZQ",
+   "date": "2026-11-22",
+   "title": "Human-centric organisational design key to navigate AI, says INSEAD professor",
+   "summary": "The fourth edition of the ISBs Insights Forum, held on November 20, saw the attendance of researchers, business leaders, policymakers and philanthropists to explore practical solutions to economic and social challenges",
+   "link": "https://www.thehindu.com/news/national/telangana/human-centric-organisational-design-key-to-navigate-ai-says-insead-professor/article71730673.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzMwNzg2LmVjZQ",
+   "date": "2026-11-22",
+   "title": "NHAI yet to act despite 300 complaints of inordinate delay at Chowlagere toll plaza on NH 75 Hassan-Sakleshpur section",
+   "summary": "The Authority says it will raise the issue with Indian Highways Management Company that handles FASTag of vehicles",
+   "link": "https://www.thehindu.com/news/national/karnataka/nhai-yet-to-act-despite-300-complaints-of-inordinate-delay-at-chowlagere-toll-plaza-on-nh-75-hassan-sakleshpur-section/article71730786.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyODA4Ni5lY2U",
+   "date": "2026-11-22",
+   "title": "Police focus on 1,500 panchayats in Chittoor, Annamayya, Sri Sathya Sai districts ahead of polls",
+   "summary": "The State Election Commission has announced three-phase polling on November 26, 29 and December 2",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/police-focus-on-1500-panchayats-in-chittoor-annamayya-sri-sathya-sai-districts-ahead-of-polls/article71728086.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MzA2ODMuZWNl",
+   "date": "2026-11-22",
+   "title": "China slams ‘malicious’ U.S. ban on telecom firms’ phone number access",
+   "summary": "Affected entities include China’s three biggest telecom firms, the state-owned China Unicom, China Telecom and China Mobile",
+   "link": "https://www.thehindu.com/news/international/china-slams-malicious-us-ban-on-telecom-firms-phone-number-access/article71730683.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTczMDY4NS5lY2U",
+   "date": "2026-11-22",
+   "title": "Health Wrap Episode 60 discusses healthcare spending, antimicrobial resistance and more",
+   "summary": "The episode discuss trends in healthcare expenditure in India, concerns over the regulation of fertility services, the growing challenge of antimicrobial resistance, and the impact of environmental and social conditions on public health",
+   "link": "https://www.thehindu.com/sci-tech/health/health-wrap-episode-60-discusses-healthcare-spending-reproductive-health-antimicrobial-resistance-and-more/article71730685.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "3VUdGaWJHMW1UMUJSP29jPTU",
+   "date": "2026-11-22",
+   "title": "Why Telangana is scrapping intermediate colleges and merging them with schools",
+   "summary": "Why Telangana is scrapping intermediate colleges and merging them with schools The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQczFXNnlFUWlua2JqQk5FQmFXaFJzdDZ4Y1pTYjB3OHRpWG1BQ3JZRTVyVkNjNmc4N0tvYWlKWnhPU240S3ZEWEhIeElfY0xIMTBwUEoyd2h3YTNzbHlBSjdINFNydlo2bm02ZVdhMDdUNWk4OHR2NlFWYzRWeEVjbXdOYXotaU5VT0QxaVR4UG01NncwcDdiYUc1V3ZHNWRFT3FZU2sxQzBxUmJtUER30gG2AUFVX3lxTE0yaktpSUtzZkIySkttejhxakpENWxseC1SR0dVYTZ4LWRSeW50SFM5bENBc2lROVF3UXY1TVJuY1lMUFA5Y0JfbDJfaWJfQlBKS2ctQ1VIVUZuZTBPdmtzU1dSa2tic2RCai1oeFp2ZHdGd18wSW9vWk9RenlqbW1VWEt0N1lJb3Ryd0ZTZkJNWm9JbF9TeGtyQ29RTW5DU2dqLThrU2wtT3A0Q29wUGFibG1mT1BR?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "c4dE9YbFlOVlV5Ync_b2M9NQ",
+   "date": "2026-11-22",
+   "title": "Why Cyclone Akvan in Bay of Bengal contributed to early fog in Punjab, Haryana",
+   "summary": "Why Cyclone Akvan in Bay of Bengal contributed to early fog in Punjab, Haryana The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObWYxX2hWTjdESTZ1ZURXRll0Vkd3STZpbkVJNnhydWxkN0hnbDQ4a1R4ejBDY2trdVpUOXJTSnFNeU03b0dBMlFwQXFhOENYTzJvdS1hZkNoTU1RSE9SMEk3cmhhRTBvbVQwU1A4eGV5d3NjUVdxQk9ZZ0pHQ1dFLUNsUVNxbUp3ekR4QTNyNE9ENnlIMnlLekFMRUlHMTNqT29nSThqU0ZXU0NpSEpIN2ZHMDDSAbsBQVVfeXFMTlBDZGVDWmw2anpnWGEyZmg4c1p2QUhDeWxWSV9fYzJyZ0ItUE5tWTdXcnlnVEFzdFFOdVBJMFdIYjZaVUFRWDdfWDBpbTF3ZFdVYXhFYlRIdUxUS1dsekcwRDVDSDRQNi1tLVdBaW5rMTFzSGVMaExyeFZuUkdhcFZrbGpDWjZiMzREc2VYZnN0WW1Uc2stOGpRZnRyYlpnT1pHMnFndzQtWEQyTTJrN1N4SW8tOXlYNVUybw?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-1"
    ],
    "score": 2,
    "important": false
