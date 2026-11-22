@@ -1,6 +1,82 @@
 {
- "updated": "2026-11-22T11:31:50.421Z",
+ "updated": "2026-11-22T19:36:49.286Z",
  "items": [
+  {
+   "id": "ydGljbGU3MTczMTI3MS5lY2U",
+   "date": "2026-11-23",
+   "title": "Paper tiger: On the Green India Mission",
+   "summary": "Climate action has to be timely, with adequate resources and monitoring",
+   "link": "https://www.thehindu.com/opinion/editorial/paper-tiger/article71731271.ece",
+   "source": "The Hindu",
+   "section": "Environment",
+   "topics": [
+    "Environment & Ecology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzMxMjA1LmVjZQ",
+   "date": "2026-11-23",
+   "title": "CM Vijay to hold meeting with MLAs of allies, supporting parties",
+   "summary": "Sources said that the meeting would focus on the implementation of infrastructure and welfare measures in their constituencies",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/cm-vijay-to-hold-meeting-with-mlas-of-allies-supporting-parties/article71731205.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTczMTgxOS5lY2U",
+   "date": "2026-11-23",
+   "title": "India, China hold 10-day talks to ease LAC tensions in Arunachal Pradesh",
+   "summary": "The talks focused on establishing engagement protocols, preventing face-offs and misunderstandings between troops deployed along the frontier, and maintaining open communication channels",
+   "link": "https://www.thehindu.com/news/national/india-china-hold-10-day-talks-to-ease-loac-tensions-in-arunachal-pradesh/article71731819.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "E3OTUzMzkyMzUyMTAuaHRtbA",
+   "date": "2026-11-22",
+   "title": "The El Niño polycrisis: How a severe drought is squeezing Indian farms, ethanol plants and your kitchen budget",
+   "summary": "El Niño is squeezing India’s farm economy as deficit rainfall drains reservoirs and stalls Rabi sowing. With water buffers shrinking and winter acreage trailing last year’s pace, food inflation risks are mounting—threatening household budgets.",
+   "link": "https://www.livemint.com/economy/el-nino-india-agriculture-rabi-crop-water-shortage-food-inflation-11795339235210.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 6,
+   "important": true
+  },
   {
    "id": "ydGljbGU3MTczMTExNy5lY2U",
    "date": "2026-11-22",
@@ -34,6 +110,44 @@
    ],
    "gs": [
     "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MzExMzIuZWNl",
+   "date": "2026-11-22",
+   "title": "Mysuru to host AI Summit on November 25",
+   "summary": "CEOs, CXOs, functional heads, MSME owners, technology professionals, academia and students are expected to attend.",
+   "link": "https://www.thehindu.com/news/national/karnataka/mysuru-to-host-ai-summit-on-november-25/article71731132.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology",
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTczMTM1Ny5lY2U",
+   "date": "2026-11-22",
+   "title": "Myanmar calls ASEAN review of peace plan 'unfair and imbalanced'; questions bloc's treatment",
+   "summary": "Myanmar's Ministry of Foreign Affairs said the review and recommendations adopted at the ASEAN Summit in Manila did not reflect the positive measures undertaken by the country",
+   "link": "https://www.thehindu.com/news/international/myanmar-calls-asean-review-of-peace-plan-unfair-and-imbalanced-questions-blocs-treatment/article71731357.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
    ],
    "score": 4,
    "important": false
@@ -183,6 +297,43 @@
    "gs": [
     "GS-2",
     "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTczMTQwOC5lY2U",
+   "date": "2026-11-22",
+   "title": "HC judge’s reference to ‘harassment’ of Kallakurichi Collector triggers call for action against TVK MLA",
+   "summary": "At a Gender Sensitisation Committee and Internal Complaints Committee (GSICC) - II meeting in Madurai on Saturday, Justice L. Victoria Gowri of the Madras High Court, said “When high ranking officers themselves were insecure, one can imagine the plight of ordinary persons.”",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/hc-judges-reference-to-harassment-of-kallakurichi-collector-triggers-call-for-action-against-tvk-mla/article71731408.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "llRWQwTkhGUFZGVm4_b2M9NQ",
+   "date": "2026-11-22",
+   "title": "China This Week | Trump, Xi and Putin’s, peace declaration, Japan’s snub, and the Shenzhen story",
+   "summary": "China This Week | Trump, Xi and Putin’s, peace declaration, Japan’s snub, and the Shenzhen story The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWm91ZEJILURPa0VLVmM1alBMNjE4NEExZGpWdE9hS0c5RnVOSXh4Zjd1N3RkN2ZkZy14YlZiUFY2MHFIWVgtb0pMcjFyNElDbW9lY0VxX0xwdXNZMzBGY0dsT1lkbURwd19rUzdxM3l5R3RwVVZOYWQ1SEFGUG1oVTZUajlMOFpjVmJ2SEJCYlVFU01ScnptRm5fM2ZOZUtBLTJTMDFfOTJSRm5yMGF0aVZGR25EaWlJVXE40gHCAUFVX3lxTFBlTW1McUZxNHhDM3JqeWg3Q3kwdTRtN09RZEx4eUtDOGxvZXdrbmpMSXZxQU9LQV9mcW5qLXVITElSYlBYRVNrUUw0SDZCVG5LbnUySWV3eTJZdUw2SUlFbEFEUkhMZDdDVFN4ZWxVXzR6SEhvd1liNV9JUWloclZaN2hTUkxKT0pnQmNzQjJqTGNXTE5RZjBKRk5mWlpWbDhia1RGbFhQUE5RT3RzdThEV3VfcEtOaENieEd0NHFPVFVn?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
    ],
    "score": 3,
    "important": false
@@ -463,6 +614,202 @@
    ],
    "gs": [
     "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MzE4MjkuZWNl",
+   "date": "2026-11-22",
+   "title": "Nepal PM Balendra Shah arrives in Delhi for first official visit to India",
+   "summary": "The PMs of India and Nepal are set to hold talks on Monday, with sources saying the discussion will give 'political direction' to bilateral relations for the coming years",
+   "link": "https://www.thehindu.com/news/national/nepal-pm-balendra-shah-arrives-in-delhi-for-first-official-visit-to-india/article71731829.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTczMTA4Ny5lY2U",
+   "date": "2026-11-22",
+   "title": "Centre prioritising border villages, 40 seeing reverse migration: Amit Shah in Arunachal Pradesh",
+   "summary": "Union Home Minister launches development initiatives, including 199 Vibrant Villages projects, worth more than ₹5,610 crore on last day of his three-day visit to the State",
+   "link": "https://www.thehindu.com/news/national/arunachal-pradesh/amit-shah-says-congress-neglected-development-provided-inadequate-funds-during-its-rule-in-arunachal-pradesh/article71731087.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MzE5MzIuZWNl",
+   "date": "2026-11-22",
+   "title": "Bengal BJP MLA Rekha Patra critical after suspected pesticide poisoning",
+   "summary": "The medical report from the private health facility in Kolkata points to an “alleged history of poisoning (agricultural) on the home premises”",
+   "link": "https://www.thehindu.com/news/national/west-bengal/bengal-bjpmla-rekha-patra-critical-after-suspected-pesticide-poisoning/article71731932.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTczMTEzMC5lY2U",
+   "date": "2026-11-22",
+   "title": "From taluk office to museum: Devanahalli’s 140-year-old heritage building to get a new lease of life",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/karnataka/from-taluk-office-to-museum-devanahallis-140-year-old-heritage-building-to-get-a-new-lease-of-life/article71731130.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzMxNTA5LmVjZQ",
+   "date": "2026-11-22",
+   "title": "SCO civilisational forum adopts outcome document recognising culture as a vital bridge",
+   "summary": "The charter recognised that SCO countries have been shaped by centuries of interaction, exchange of ideas, movement of people and sharing of knowledge, all while preserving their distinct identities, cultures, traditions and beliefs",
+   "link": "https://www.thehindu.com/news/national/sco-civilisational-forum-adopts-outcome-document-recognising-culture-as-a-vital-bridge/article71731509.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzMxNjUxLmVjZQ",
+   "date": "2026-11-22",
+   "title": "COP 31 talks fail as EU, others reject any climate deal without language on a fossil fuel phase-out",
+   "summary": "EU, Panama among about 130 parties that refuse to accept COP President’s consensus cover text, alleges that it “greenwashes” fossil fuels; India, China, Saudi Arabia are on the other side of the divide",
+   "link": "https://www.thehindu.com/news/international/cop31-fails-to-agree-on-climate-deal-in-chaotic-finale/article71731651.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MzE2NzcuZWNl",
+   "date": "2026-11-22",
+   "title": "Drone strikes hit homes, UN premises in Sudan's capital",
+   "summary": "A drone strike completely destroyed a house, a witness said, while a Sudanese Army source said the drones had been launched from Ethiopia",
+   "link": "https://www.thehindu.com/news/international/drone-strikes-hit-homes-un-premises-in-sudans-capital/article71731677.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzMxMzU1LmVjZQ",
+   "date": "2026-11-22",
+   "title": "EU will ‘not endorse’ climate deal, throwing COP31 outcome into doubt",
+   "summary": "Ireland’s Climate and Energy Minister Darragh O’Brien said the EU would not back an Antalya Pact that “does not even mention fossil fuels”, as the UN climate talks ran into record extra time",
+   "link": "https://www.thehindu.com/news/international/eu-will-not-endorse-climate-deal-throwing-cop31-outcome-into-doubt/article71731355.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MzEwNDIuZWNl",
+   "date": "2026-11-22",
+   "title": "Russian attack near Ukraine’s capital strikes apartment building, killing two and wounding four others",
+   "summary": "Rescuers evacuated nine people, including a child, from the destroyed five-storey building in Dymer, while 11 were believed to be trapped under the rubble",
+   "link": "https://www.thehindu.com/news/international/a-russian-attack-destroyed-an-apartment-building-in-dymer-near-kyiv-killing-two-as-kaliningrad-sounded-a-rare-air-alert/article71731042.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MzIyMjUuZWNl",
+   "date": "2026-11-22",
+   "title": "Indian science needs fewer borders",
+   "summary": "Research institutions need timely funding, better teaching incentives, greater autonomy, leadership control, safeguards against quid pro quo, and reduced administrative burdens",
+   "link": "https://www.thehindu.com/opinion/op-ed/indian-science-needs-fewer-borders/article71732225.ece",
+   "source": "The Hindu",
+   "section": "Science",
+   "topics": [
+    "Science & Technology",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "eHpZbFpWTWpGTlQwVT9vYz01",
+   "date": "2026-11-22",
+   "title": "How India’s first indigenous bird flu vaccine was developed, why it matters",
+   "summary": "How India’s first indigenous bird flu vaccine was developed, why it matters The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNenFtRDc2VHhIRkFEQ3FObXotMktfenoxemFBY1FhRHJSenl5OUdWdEFJSWtTWU9Jb25GZ3Y4dFpFcjRfZUpvVWhmc2NabDV2X2tFU1h5NlhRVEtYN2R4a05mRlVHM2lRZEo4eE5xdzY2Q25RdnlBbzZ4YklhRi0xc3p3a1M2NjRLR2wtYXNFQmc1ZjdjYkVOYjh3cEl1ckEyT1NDajA0T2VDc0J6V0FCTFFOTEotdEpTX1BqeVFtcEhsbTJ4QmpCZdIBzwFBVV95cUxOYThpRFFMTzNiNVZURkVodWJBNFhNeHI0T1JXY3ZRQ2tXbTNWS2tJM29TdjBsbm5xQzljWVRpV1h0b1prYzBDM2lON3NUWk1uS1lOMzRrOFl1a0ZHbnNsc2JTUnhqT3NmbklDbFdBRDdTYmF2aGQ1N2pJaTV6ZHZiN1ZpSnlPTDlEQzN5TDFrLUdPbjVSbVdNT2Jxek8wREV0S016NDRaUWlOOEV6Yld3S1pydDF5THphMnFXRDJBQV9KdXN4bExzYlZVMjFNT0U?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
    ],
    "score": 2,
    "important": false
