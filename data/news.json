@@ -1,6 +1,25 @@
 {
- "updated": "2026-11-21T23:14:05.462Z",
+ "updated": "2026-11-22T03:14:02.878Z",
  "items": [
+  {
+   "id": "ZFJOa3h0VW01Q2FVRT9vYz01",
+   "date": "2026-11-22",
+   "title": "Trump, Xi and Putin agree to reduce nuclear risks: Why the Shenzhen declaration matters",
+   "summary": "Trump, Xi and Putin agree to reduce nuclear risks: Why the Shenzhen declaration matters The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSWpOTTVvT09TekVNUE1NNjNxbGJlUF9oNnU3aDlybjIyeDFYUnBiXzFJOEFfT2FSZ0xtZHVqemJCVkhibEJKUEFYeGJXZlNydFk5N25hRExSaWx0bUY3VHEzcUhldmhfWjJSNEtQMFJpeUV5NktkZGQ4X2d3aU5XeDk1N0xpdWNfVkNRZTRVd1pOTnFTWHFLamJ6ZjRQa01KM2ppT3p3dEpyUU5Ga09VMWFJYmFxdTNuODA1UTFQUdIBxgFBVV95cUxNaUN1bXFaS2ZKZUdJb2k3VlVaRG95OWxYcUdGbVVvX0ZSSWpOcE1xbFFoV1FEVHhMWGlTYnBJZ21ncjNHVW4tVzd2M29kZFEwR0FmTnVETXZUUUpJM1NyRVhyYVpQSzRMQm5Qdk5jMXZSeFhVMzNCaGgzVWwwaUNBdGY5ZHRaYkFFdTRjMkUwMTZrVHRvenhHVjE5X0M3QXJkWEROQkxZTS1sMDZZdk11RlNvTG1QNXJVZTljQjdRNkxtUm5CaUE?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
   {
    "id": "cnRpY2xlNzE3MjExOTguZWNl",
    "date": "2026-11-22",
@@ -24,6 +43,58 @@
    "title": "‘Two rulers, one fort’: Pakistan Minister invokes Humayun, Sher Shah at SCO Civilisational Forum",
    "summary": "‘This [Purana] Qila, where we are sitting, is in itself a story; a fort, whose foundation was laid by Humayun, who had a descent from the Timurid [dynasty] linkage.. came from Central Asia; and, Sher Shah Suri further built on it, who was an Afghan’, said Musadik Malik",
    "link": "https://www.thehindu.com/news/international/two-rulers-one-fort-pakistan-minister-invokes-humayun-sher-shah-at-sco-civilisational-forum/article71729569.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcyODYwMC5lY2U",
+   "date": "2026-11-22",
+   "title": "T.N. may see solar energy installations slowing down, say energy generators",
+   "summary": "In the last one month, some of the solar energy generators received notices demanding 8% banking charges.",
+   "link": "https://www.thehindu.com/news/cities/Coimbatore/tn-may-see-solar-energy-installations-slowing-down-say-energy-generators/article71728600.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzI5NDcyLmVjZQ",
+   "date": "2026-11-22",
+   "title": "India, Bulgaria discuss bilateral ties, IMEC, Black Sea situation",
+   "summary": "‘Our teams have drawn up a detailed roadmap of cooperation, so we will be approving that today, and I think that will give a very clear pathway to our activities ahead,’ said S. Jaishankar",
+   "link": "https://www.thehindu.com/news/national/india-bulgaria-discuss-bilateral-ties-imec-black-sea-situation/article71729472.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MzA0OTcuZWNl",
+   "date": "2026-11-22",
+   "title": "Bahrain says Iran struck industrial site as tankers hit in Hormuz",
+   "summary": "“Our position is clear: as long as Iran's demands are not met, the discussion on the Strait of Hormuz and its opening is pointless,” Foreign Minister Abbas Araghchi said",
+   "link": "https://www.thehindu.com/news/international/bahrain-says-iran-struck-industrial-site-as-tankers-hit-in-hormuz/article71730497.ece",
    "source": "The Hindu",
    "section": "International",
    "topics": [
