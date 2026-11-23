@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T00:50:54.688Z",
+ "updated": "2026-11-23T09:01:22.627Z",
  "items": [
   {
    "id": "ydGljbGU3MTczMzE3MC5lY2U",
@@ -21,6 +21,79 @@
    ],
    "score": 6,
    "important": true
+  },
+  {
+   "id": "J0aWNsZTcxNzMzMjUyLmVjZQ",
+   "date": "2026-11-23",
+   "title": "Nepal PM India visit LIVE: Saryu-Kamala Express from Ayodhya to Janakpur, Nepal inaugurated today",
+   "summary": "This is Balen Shah's first official bilateral foreign visit since taking office in March. He travelled to the U.S. in September to attend the United Nations General Assembly",
+   "link": "https://www.thehindu.com/news/national/nepal-pm-india-visit-balen-shah-begins-bilateral-trip-energy-connectivity-on-agenda-live-updates-november-23-2026/article71733252.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzMzNTU0LmVjZQ",
+   "date": "2026-11-23",
+   "title": "Relief for suspended Sanskrit varsity students, Kerala High Court quashes suspension, guilty report",
+   "summary": "The University was also instructed to hold a separate examination for the suspended students, as undertaken before the Supreme Court, within six weeks",
+   "link": "https://www.thehindu.com/news/national/kerala/relief-for-suspended-sanskrit-varsity-students-kerala-high-court-quashes-suspension-guilty-report/article71733554.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTczMzY3MC5lY2U",
+   "date": "2026-11-23",
+   "title": "Pakistan PM Shehbaz Sharif to undertake official visit to Russia",
+   "summary": "The three-day visit to Russia will begin on November 30, aiming to strengthen bilateral ties by securing energy and investment agreements",
+   "link": "https://www.thehindu.com/news/international/pakistan-pm-shehbaz-sharif-to-undertake-official-visit-to-russia/article71733670.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTczMzE3OC5lY2U",
+   "date": "2026-11-23",
+   "title": "Suspected Ukrainian sea drones hit Russian warship at Benghazi naval base, Libyan officials say",
+   "summary": "The strike at the Benghazi Naval Base in eastern Libya severely damaged the Merkury, a Russian navy corvette, and ignited a fire at the facility, two Libyan military officials said",
+   "link": "https://www.thehindu.com/news/international/suspected-ukrainian-sea-drones-hit-russian-warship-at-benghazi-naval-base-libyan-officials-say/article71733178.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
   },
   {
    "id": "ydGljbGU3MTczMTI3MS5lY2U",
@@ -53,6 +126,155 @@
     "International Relations",
     "Economy",
     "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzMzOTI0LmVjZQ",
+   "date": "2026-11-23",
+   "title": "Kozhikode district panchayat launches ‘LEAP’ to help students from poor families pursue higher education",
+   "summary": "The students will get free training to appear for competitive exams",
+   "link": "https://www.thehindu.com/news/cities/kozhikode/kozhikode-district-panchayat-launches-leap-to-help-students-from-poor-families-pursue-higher-education/article71733924.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzMzNzIxLmVjZQ",
+   "date": "2026-11-23",
+   "title": "Supreme Court bars Tamil Nadu government from coercive action against SASTRA University over land dispute",
+   "summary": "A Bench headed by CJI Surya Kant made absolute its interim order staying any coercive measures over 31.37 acres of government land allegedly encroached upon by the Thanjavur university",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/supreme-court-bars-tamil-nadu-government-from-coercive-action-against-sastra-university-over-land-dispute/article71733721.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzMzNTEwLmVjZQ",
+   "date": "2026-11-23",
+   "title": "In 12 states, NGO Pratham’s Second Chance Programme is helping women school dropouts appear for their Class X Board exams",
+   "summary": "As a significant percentage of older girls and women in India have not completed secondary education, this 14-year-old initiative focuses on helping them restart their educational journey and direct it towards earning a livelihood",
+   "link": "https://www.thehindu.com/news/national/in-12-states-ngo-prathams-second-chance-programme-is-helping-women-school-dropouts-appear-for-their-class-x-board-exams/article71733510.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzA1MjU4OTcuZWNl",
+   "date": "2026-11-23",
+   "title": "Changes in Kerala school arts fest only after discussions with stakeholders: Director of General Education",
+   "summary": "Discussions on possible change in the festival’s manual could start in the new academic year, he adds",
+   "link": "https://www.thehindu.com/news/national/kerala/changes-in-kerala-school-arts-fest-only-after-discussions-with-stakeholders-director-of-generation-education/article70525897.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTczMTc1MS5lY2U",
+   "date": "2026-11-23",
+   "title": "AIDSO opposes move to introduce skill-based education from class 6 in government schools in Karnataka",
+   "summary": "Organisation alleges that the policy will push poor children away from mainstream education and turn them into cheap labour",
+   "link": "https://www.thehindu.com/news/national/karnataka/aidso-opposes-move-to-introduce-skill-based-education-from-class-6-in-government-schools-in-karnataka/article71731751.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU2NjMzMTI1MS5lY2U",
+   "date": "2026-11-23",
+   "title": "After a three-year break, Kerala School Kalolsavam makes a comeback with higher aspirations",
+   "summary": "The last festival was held at Kanhangad in late 2019, with 12,000-odd students taking part. The crowd participation was spirited too. Then COVID struck and festivities were given a break. From today, Kozhikode will strive to make up for the lost years and put up a cultural show par excellence at the 61st Kerala State School Arts Festival.",
+   "link": "https://www.thehindu.com/news/national/kerala/after-a-three-year-break-school-arts-festival-makes-a-comeback-with-higher-aspirations/article66331251.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "History, Art & Culture",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-1",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTczMTY1MS5lY2U",
+   "date": "2026-11-23",
+   "title": "COP31 talks fail as EU, others reject any climate deal without language on a fossil fuel phase-out",
+   "summary": "EU, Panama among about 130 parties that refuse to accept COP President’s consensus cover text, alleges that it “greenwashes” fossil fuels; India, China, Saudi Arabia are on the other side of the divide",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-fails-to-agree-on-climate-deal-in-chaotic-finale/article71731651.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Environment & Ecology",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "xNzk1MzU3MzQwMzQyLmh0bWw",
+   "date": "2026-11-23",
+   "title": "The quiet boom in investing by Indian women, in charts",
+   "summary": "Be it low-risk bank deposits or high-risk equity funds, Indian women have increased their share in the last five years. Gender parity, though, remains a long way off.",
+   "link": "https://www.livemint.com/economy/women-investors-india-female-workforce-women-mutual-fund-investors-11795357340342.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Health & Social Issues",
+    "Economy"
    ],
    "gs": [
     "GS-2",
@@ -129,6 +351,399 @@
    ],
    "gs": [
     "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTczMzk5MS5lY2U",
+   "date": "2026-11-23",
+   "title": "NCERT to probe complaints of blurred text in school textbooks, assures corrective action",
+   "summary": "The council said it would initiate strict action against any printer found responsible, after a Supreme Court lawyer flagged printing defects in Class 10 textbooks",
+   "link": "https://www.thehindu.com/news/national/ncert-to-probe-complaints-of-blurred-text-in-school-textbooks-assures-corrective-action/article71733991.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzMzODQxLmVjZQ",
+   "date": "2026-11-23",
+   "title": "Supreme Court says, right to seek correction of electoral roll entry is personal, can't be pursued in PIL",
+   "summary": "A Bench comprising CJI Surya Kant and Justices Joymalya Bagchi and V. Mohana said it was not inclined to entertain the plea",
+   "link": "https://www.thehindu.com/news/national/uttar-pradesh/supreme-court-says-right-to-seek-correction-of-electoral-roll-entry-is-personal-cant-be-pursued-in-pil/article71733841.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTczMzcxMS5lY2U",
+   "date": "2026-11-23",
+   "title": "Adityanath hails Ayodhya-Janakpur rail link as new chapter in India-Nepal cultural ties",
+   "summary": "‘The centuries-old, unbroken emotional and cultural relationship between India and Nepal will now be further strengthened through modern rail connectivity,’ Yogi Adityanath said",
+   "link": "https://www.thehindu.com/news/national/adityanath-hails-ayodhya-janakpur-rail-link-as-new-chapter-in-india-nepal-cultural-ties/article71733711.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTczMzYwOS5lY2U",
+   "date": "2026-11-23",
+   "title": "High Court relief sparks celebrations as 16 suspended SSUS students return to Kalady University campus in victory march",
+   "summary": "The suspended students were then taken to the SSUS campus in a triumphant march carrying a banner that read, “The people united will never be defeated”",
+   "link": "https://www.thehindu.com/news/national/kerala/high-court-relief-sparks-celebrations-as-16-suspended-ssus-students-return-to-kalady-university-campus-in-victory-march/article71733609.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzMzOTYzLmVjZQ",
+   "date": "2026-11-23",
+   "title": "Supreme Court seeks response of Centre, ECI on PIL for reforms in anti-defection law",
+   "summary": "The PIL raised concerns over alleged misuse of resignations by elected representatives to circumvent disqualification proceedings and influence the survival of elected governments",
+   "link": "https://www.thehindu.com/news/national/supreme-court-seeks-response-of-centre-eci-on-pil-for-reforms-in-anti-defection-law/article71733963.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTczMzg0My5lY2U",
+   "date": "2026-11-23",
+   "title": "Supreme Court asks petitioner to move Allahabad High Court over ‘demolition’ of 100-year-old mosque at Saharanpur",
+   "summary": "Declining to directly examine the allegations, the Supreme Court asked the petitioner to approach the jurisdictional High Court, saying that every alleged violation of a Supreme Court judgment cannot be brought directly before the apex court",
+   "link": "https://www.thehindu.com/news/national/supreme-court-asks-petitioner-to-move-allahabad-high-court-over-demolition-of-100-year-old-mosque-at-saharanpur/article71733843.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzMzODQwLmVjZQ",
+   "date": "2026-11-23",
+   "title": "TMC MLA Sabina Yeasmin appears before NIA in connection with ‘attacks’ on judicial officers",
+   "summary": "The NIA has been probing the alleged attacks on judicial officers and a judge's vehicle during violence in the Kaliachak and Mothabari areas on April 1",
+   "link": "https://www.thehindu.com/news/national/west-bengal/tmc-mla-sabina-yeasmin-appears-before-nia-in-connection-with-attacks-on-judicial-officers/article71733840.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTczMzc2MS5lY2U",
+   "date": "2026-11-23",
+   "title": "Rahul Gandhi’s Gaza remarks expose old fault lines between Congress and Left",
+   "summary": "The backlash from Left parties to the Congress leader’s comments on Israel and Gaza underscores enduring ideological differences within the Opposition alliance",
+   "link": "https://www.thehindu.com/news/national/rahul-gandhis-gaza-remarks-expose-old-fault-lines-between-congress-and-left/article71733761.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MDQzOTMuZWNl",
+   "date": "2026-11-23",
+   "title": "Tamil Nadu Minister Vanni Arasu faces flak for pursuing tiger in Mudumalai Tiger Reserve",
+   "summary": "The Minister is also seen getting close to a wild elephant, but this apparently happened in the Bandipur Tiger Reserve in Karnataka.",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/minister-vanni-arasu-faces-flak-for-pursuing-tiger-in-mudumalai-tiger-reserve/article71704393.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcwNzEzNy5lY2U",
+   "date": "2026-11-23",
+   "title": "Complaint to National Tiger Conservation Authority seeks probe into T.N. Minister Vanni Arasu’s visit to Mudumalai Tiger Reserve",
+   "summary": "The complaint said that the Minister’s or his family members’ entry without valid authorisation warrants an immediate investigation into how such access was granted",
+   "link": "https://www.thehindu.com/news/cities/Coimbatore/complaint-to-national-tiger-conservation-authority-seeks-probe-into-minister-vanni-arasus-mtr-visit/article71707137.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MzEzMDIuZWNl",
+   "date": "2026-11-23",
+   "title": "DRDO scientist P.C. Jain receives Murli Manohar Joshi Award",
+   "summary": "An alumnus of IIT Roorkee and IIT Bombay, Prakash Chand Jain’s work resulted in substantial weight reductions in missile airframes",
+   "link": "https://www.thehindu.com/news/national/telangana/drdo-scientist-pc-jain-receives-murli-manohar-joshi-award/article71731302.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzMzNDc0LmVjZQ",
+   "date": "2026-11-23",
+   "title": "India readies to take off on SAF, as CORSIA deadline approaches",
+   "summary": "Mandatory second phase of the Carbon Offsetting and Reduction Scheme for International Aviation becomes effective from January 2027, bringing a wider group of international airlines, including Indian carriers, under binding carbon-offsetting obligations",
+   "link": "https://www.thehindu.com/news/national/india-readies-to-take-off-on-saf-as-corsia-deadline-approaches/article71733474.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzMxNTI1LmVjZQ",
+   "date": "2026-11-23",
+   "title": "Andhra Deputy Mayors of 13 corporations, Vice-Chairpersons of 87 municipalities to be elected on November 23",
+   "summary": "Mayors and Chairpersons were elected directly this time, following amendments to the municipal laws",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-deputy-mayors-of-13-corporations-vice-chairpersons-of-87-municipalities-to-be-elected-on-november-23/article71731525.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTY2MzM5NDYwLmVjZQ",
+   "date": "2026-11-23",
+   "title": "Kerala School Kalolsavam 2023: Ghazals, Oppana, theatre take centre stage on the second day",
+   "summary": "Battle for Gold Cup hots up. At the time of filing this report, Kannur was leading the table with 443 points, while host Kozhikode was second with 440. They were followed by the reigning champion Palakkad (437), Thrissur (426) and Ernakulam (412).",
+   "link": "https://www.thehindu.com/news/national/kerala/kerala-school-kalolsavam-2023-ghazals-oppana-theatre-take-centre-stage-on-the-second-day/article66339460.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTY2MzQ3MzA4LmVjZQ",
+   "date": "2026-11-23",
+   "title": "Asia’s yes, but is Kerala School Kalolsavam world’s biggest arts festival of school children?",
+   "summary": "With the Internet age making information accessible and easy to source, a clear answer to ground the claim may soon be in the offing",
+   "link": "https://www.thehindu.com/news/national/kerala/is-kerala-school-kalolsavam-state-school-arts-festival-worlds-biggest-arts-festival-for-school-children/article66347308.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU2NjM0NzYxMi5lY2U",
+   "date": "2026-11-23",
+   "title": "Kerala School Kalolsavam | Group dance, drama attract huge crowds as Kozhikode overtakes Kannur in race to the top",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/kerala/group-dance-drama-attract-huge-crowds-as-kozhikode-overtakes-kannur-in-race-to-the-top/article66347612.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MzM0NDcuZWNl",
+   "date": "2026-11-23",
+   "title": "U.S. panel urges India dialogue for Dalai Lama succession, warns of China legitimacy contest",
+   "summary": "A U.S. Congressional panel has recommended establishing a senior-level channel with India for succession contingency planning for the 14th Dalai Lama, arguing that China may turn the process into an international legitimacy contest",
+   "link": "https://www.thehindu.com/news/international/us-panel-urges-india-dialogue-for-dalai-lama-succession-warns-of-china-legitimacy-contest/article71733447.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzMxNDczLmVjZQ",
+   "date": "2026-11-23",
+   "title": "India’s recurring pollution crisis calls for a sustained movement for cleaner air",
+   "summary": "India’s fight against air pollution requires public engagement, effective communication and changes in civic behaviour; lessons from Swachh Bharat Mission offer a template for mobilising citizens to take ownership of clean air through collective action and responsible habits",
+   "link": "https://www.thehindu.com/news/national/indias-recurring-pollution-crisis-calls-for-a-sustained-movement-for-cleaner-air/article71731473.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Environment & Ecology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzA0OTAzODUuZWNl",
+   "date": "2026-11-23",
+   "title": "What is the HPV vaccine’s role in preventing cervical cancer?",
+   "summary": "The HPV vaccine is not used to cure cancer; it also does not cure HPV if it is present. What it does, is ensure that some of the most detrimental types of HPV do not enter and infect the body in the first place",
+   "link": "https://www.thehindu.com/sci-tech/health/what-is-the-hpv-vaccines-role-in-preventing-cervical-cancer/article70490385.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MzE3MTEuZWNl",
+   "date": "2026-11-23",
+   "title": "Keralam cracks down on unsafe cosmetics after teen’s kidney disease",
+   "summary": "Statewide inspections under Operation Soundarya on Sunday led to the seizure of fake cosmetic products worth more than ₹10 lakh. Teen’s plight prompts complaints from others citing health problems after using similar products",
+   "link": "https://www.thehindu.com/news/national/kerala/keralam-cracks-down-on-unsafe-cosmetics-after-teens-kidney-disease/article71731711.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "MlJhVWpkck1uVmhidz9vYz01",
+   "date": "2026-11-23",
+   "title": "FPI disclosure relief: Why SEBI wants to ease rules, and could it reduce transparency?",
+   "summary": "FPI disclosure relief: Why SEBI wants to ease rules, and could it reduce transparency? The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLUwwMGd3ZG92T3Z0NHU4em52QWNyMTgtRHJVbUhNdEphWndyWEFEVkNlQU4xUExZVDJHakJ6N29jVkpYTXhSS0JvVVJDTmpQUFFHYy1lV0ZEemZZU0hFOHBKaW9CWmRvWkJXTndkNFVTVnZPQUhSWWhVTnFLdnhsdEZBcFh4LURUaElvN3dWZGJqTXV3TmJOTUZFajMzNG1hSWJzVmIxWjRULS1kYVRwZnJGZlg2WVV2MXNObkZJY23SAccBQVVfeXFMTWRLNW84a3lkbTNWNVhCZ25hZDhkdHVSeTctbGhzV19GQzlvcWVqc2h3XzlKLWxnS3lpNEZKbTNvYkpYdWJqTk9EOW9Fbkl6UTZobndhRzByV1FxZTlCYm9hQ1VoNWRQdDc4azBtUkNROG14WDROcHdNS1g5Q1Q2bERnemN6S0VScTdXZUdXZFhOeER0ODBZTExGRDNVODdDSm9NYm9FdmZwZFpocFVRbDBkbHAySURnamJBQWNPd2RaUjdrMnVhbw?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "dnMmRUaHJlRlpvYnc_b2M9NQ",
+   "date": "2026-11-23",
+   "title": "Why Trump wants Jensen Huang back at Nvidia, and why its board is resisting",
+   "summary": "Why Trump wants Jensen Huang back at Nvidia, and why its board is resisting The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMUJnUm9HWEE1Q3hpYldTNC0xZm5ndWhaN3Rlb3VEalp0elU1VVhBYU9PWWJ3VkV3N1J5R3VORG13OFZUbnBhSDQ5U2Z3b3M0RDhRYkNyR3V4M3hjOTNRbjY4Q1Ixd3ZBVnVZeU9lUlpWZTN3dnNBZXJPMmxoNHVGR1dMWVpBMTlydWxYOEpTNEJmSFhuandsTXV4YW5rcDVyQkRDNXEzTzRfMjFZaml2Y0dadFc4VXB1X1NiRDJIMG9UNV9SdTRoaDMwbHZpSXd1ZTBJZXlqWmvSAd8BQVVfeXFMTXVvclR4Mk9YWXg5dF9xcVNneXMybUgtNmUxS25MOTgyZDVCb19ZOWliYjVNZGFQU0JUbjJQdlM3eHRRSlJVUG42am9yd1Zwdk1kNkpKeTVLZnNUYTRHUFQ1VmRxRTN3c0loRmxsbDFLZXVxd0xJSjNsUnprc1VvNVFxampsbGNEYUpjdEJDVHlMUjI3bHA5aUxpbG1TSlhDbzZXOF92NVRQQjlMUTJNNndsc0h3ZWROX0xidFNlZEVyc3NmNVNsQVFpQzhaSGdHUjVVNE80bWg2dThreFZobw?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
    ],
    "score": 2,
    "important": false
@@ -406,6 +1021,23 @@
    "section": "Explained",
    "topics": [
     "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MjgzMzAuZWNl",
+   "date": "2026-11-22",
+   "title": "Keralam Health department aims for zero preventable maternal, child deaths",
+   "summary": "The State is planning to roll out a Keralam Pregnancy Risk Score for the structured follow-up of high-risk pregnancies, along with the implementation of Keralam Maternal Obstetric Early Warning Score, which will help clinicians in the timely recognition of clinical deterioration in obstetric cases",
+   "link": "https://www.thehindu.com/news/national/kerala/keralam-health-department-aims-for-zero-preventable-maternal-childdeaths/article71728330.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Health & Social Issues"
    ],
    "gs": [
     "GS-2"
