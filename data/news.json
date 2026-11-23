@@ -1,6 +1,154 @@
 {
- "updated": "2026-11-23T09:01:22.627Z",
+ "updated": "2026-11-23T21:20:36.154Z",
  "items": [
+  {
+   "id": "ydGljbGU3MTczNTEyNC5lY2U",
+   "date": "2026-11-24",
+   "title": "Fatal disagreement: on the COP31 summit",
+   "summary": "Developed nations must bear much of the cost of carbon emissions",
+   "link": "https://www.thehindu.com/opinion/editorial/fatal-disagreement-on-the-cop31-summit/article71735124.ece",
+   "source": "The Hindu",
+   "section": "Environment",
+   "topics": [
+    "Environment & Ecology",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MzYxNjIuZWNl",
+   "date": "2026-11-24",
+   "title": "Beware of Pakistan operatives in WhatsApp groups of defence personnel: BRO",
+   "summary": "The Border Roads Organisation calls for immediate audit of WhatsApp groups, strengthening threat detection and rapid response",
+   "link": "https://www.thehindu.com/news/national/beware-of-pakistan-operatives-in-whatsapp-groups-of-defence-personnel-bro/article71736162.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Internal Security & Defence",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzM1MDk1LmVjZQ",
+   "date": "2026-11-24",
+   "title": "Will bank manager accept Kayalvizhi Alagiri’s apology, asks Madras High Court",
+   "summary": "Justice V. Lakshminarayanan grants a day’s time for the police to find out if the victim, subjected to physical assault, would agree for closure of criminal prosecution against the accused",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/will-bank-manager-accept-kayalvizhi-alagiris-apology-asks-madras-high-court/article71735095.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTczNTI1OC5lY2U",
+   "date": "2026-11-24",
+   "title": "No Winter Session of Parliament? Skipped only four times in history",
+   "summary": "Each previous instance coincided with extraordinary disruptions, from the Emergency and Lok Sabha dissolutions to Indira Gandhi’s assassination and the COVID-19 pandemic",
+   "link": "https://www.thehindu.com/news/national/no-winter-session-of-parliament-skipped-only-four-times-in-history/article71735258.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzM0NTg4LmVjZQ",
+   "date": "2026-11-24",
+   "title": "Autism lab, sleep research facility inaugurated in IIT Madras",
+   "summary": "The sleep study facility will enable individuals to access specialised assessment, consultation, and treatment through experts associated with Kauvery Hospitals",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/autism-lab-sleep-research-facility-inaugurated-in-iit-madras/article71734588.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzM0NzczLmVjZQ",
+   "date": "2026-11-24",
+   "title": "Amid pressure from different quarters, police bring Thirupparankundram hillock under tight security",
+   "summary": "The police declared areas around Thirupparankundram a “red zone” and prohibited flying of drones and unmanned aerial vehicles till Tuesday (November 24, 2026). Hundreds of police personnel have been deployed around the hillock that houses the Subramania Swamy Temple to prevent any unauthorised person gaining access to the hilltop where Deepathoon is located near Sikandar Badushah Dargah",
+   "link": "https://www.thehindu.com/news/cities/Madurai/amid-pressure-from-different-quarters-police-bring-thirupparankundram-hillock-under-tight-security/article71734773.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Internal Security & Defence",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzM1ODE2LmVjZQ",
+   "date": "2026-11-24",
+   "title": "A framework for nuclear risk reduction cannot wait",
+   "summary": "Shenzhen offers an opening, but sustained engagement between Washington, Moscow and Beijing must now follow",
+   "link": "https://www.thehindu.com/opinion/op-ed/a-framework-for-nuclear-risk-reduction-cannot-wait/article71735816.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTczNTQ4Mi5lY2U",
+   "date": "2026-11-24",
+   "title": "Just verdict: on Myanmar and the International Court of Justice",
+   "summary": "Rohingya cannot return unless Myanmar turns democratic",
+   "link": "https://www.thehindu.com/opinion/editorial/just-verdict-on-myanmar-and-the-international-court-of-justice/article71735482.ece",
+   "source": "The Hindu",
+   "section": "Editorial",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
   {
    "id": "ydGljbGU3MTczMzE3MC5lY2U",
    "date": "2026-11-23",
@@ -18,6 +166,24 @@
     "GS-3",
     "GS-2",
     "Prelims"
+   ],
+   "score": 6,
+   "important": true
+  },
+  {
+   "id": "J0aWNsZTcxNzM0ODkwLmVjZQ",
+   "date": "2026-11-23",
+   "title": "Zelenskyy calls for four-way talks with Russia ‘as soon as possible’",
+   "summary": "During a gathering of Ukrainian supporters in Berlin last week, U.S. envoy Jared Kushner said that Washington might consider offering Ukraine a security guarantee similar to that provided under Article 5 of the North Atlantic Treaty as part of a peace settlement.",
+   "link": "https://www.thehindu.com/news/international/zelenskyy-calls-for-four-way-talks-with-russia-as-soon-as-possible/article71734890.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
    ],
    "score": 6,
    "important": true
@@ -91,6 +257,63 @@
    ],
    "gs": [
     "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTczNjA1Ny5lY2U",
+   "date": "2026-11-23",
+   "title": "Rule of law needed, not ‘Rule of Power’: Netherlands Foreign Minister Berendsen on trilateral summit",
+   "summary": "Berendsen holds talks with EAM Jaishankar, says Europe and India must end dependencies on global powers for energy, security and technology",
+   "link": "https://www.thehindu.com/news/national/rule-of-law-needed-not-rule-of-power-netherlands-foreign-minister-berendsen-on-trilateral-summit/article71736057.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTczNDc2NS5lY2U",
+   "date": "2026-11-23",
+   "title": "England launches world's largest AI-aided breast cancer screening trial",
+   "summary": "Women attending routine breast screening at 30 planned sites nationwide will be given details about the trial and participate, unless they choose to opt out",
+   "link": "https://www.thehindu.com/sci-tech/health/england-launches-worlds-largest-ai-aided-breast-cancer-screening-trial/article71734765.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "MTc5NTQyODM5OTI4OC5odG1s",
+   "date": "2026-11-23",
+   "title": "New GDP, CPI and IIP series to help make better-calibrated policy decisions, says RBI's Poonam Gupta",
+   "summary": "The revised methodologies are expected to make early estimates more stable, reduce data revisions and give policymakers a clearer picture of structural and cyclical changes in the economy.",
+   "link": "https://www.livemint.com/economy/new-gdp-cpi-and-iip-series-to-help-make-better-calibrated-policy-decisions-says-rbis-poonam-gupta-11795428399288.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
    ],
    "score": 4,
    "important": false
@@ -279,6 +502,100 @@
    "gs": [
     "GS-2",
     "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzM1OTkwLmVjZQ",
+   "date": "2026-11-23",
+   "title": "Rahul Gandhi’s Gaza remarks spark controversy, expose old fault lines between Congress and Left",
+   "summary": "Rahul Gandhi’s remarks on the Israel-Gaza conflict have triggered a political row within the INDIA bloc, with Left parties criticising his support for stronger India-Israel defence ties. CPI(M) leader Pinarayi Vijayan and CPI(ML) Liberation leader Dipankar Bhattacharya have questioned his position, exposing ideological differences within the Opposition alliance. Why has the controversy erupted, an",
+   "link": "https://www.thehindu.com/videos/rahul-gandhis-gaza-remarks-spark-controversy-expose-old-fault-lines-between-congress-and-left/article71735990.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MzU5OTMuZWNl",
+   "date": "2026-11-23",
+   "title": "Will use 'all available means' to counter U.S. blockade: Iran",
+   "summary": "War broke out between Iran and the United States on February 28 when U.S.-Israeli strikes killed the Islamic republic's supreme leader Ayatollah Ali Khamenei",
+   "link": "https://www.thehindu.com/news/international/will-use-all-available-means-to-counter-us-blockade-iran/article71735993.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzMzNTk1LmVjZQ",
+   "date": "2026-11-23",
+   "title": "How did the COP31 climate agreement fall apart – and what happens now?",
+   "summary": "In a year of unprecedented climate disasters, a supercharged El Niño and as the world heads inevitably past 1.5 °C of warming, the EU and other nations said that the international process did not meet the moment",
+   "link": "https://www.thehindu.com/news/international/how-did-the-cop31-climate-agreement-fall-apart-and-what-happensnow/article71733595.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Environment & Ecology",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "BvV2pscVJGTXdhV1E_b2M9NQ",
+   "date": "2026-11-23",
+   "title": "What Jensen Huang’s return means for Nvidia and the AI ecosystem",
+   "summary": "What Jensen Huang’s return means for Nvidia and the AI ecosystem The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPU0dMal9SNlQxRW5wVjJzWERyX2VCZW52T3dRNmdGcVh6YUkzTjg5RmlTUml3NnZtMndTYTlEdGZUVThKazlKeTBqbHRTTXdSOXhxLU9WLTBwZFpvSHd6QUtIYUdDRW56M2ZZbjF0M2xxMDdIS2xMNEFnVVVUZmdtbVR3Y3BnS2FkMllVTWV4Rk93UDhZdkVpWUpXaVh6bE5SeGdnaVVoYTlTUURHS1BxeGNDYW02aThmZ3cxM2llVTdKMFM3cFZTZlNR0gHQAUFVX3lxTE0zci1IVUEzS0JzSTN0MU53UXloN3dOZy1JcjgzQ1BIaTNENWRzN3VFQVJralVQOXk3MzlvcE83UVotOUJMcF8zTXZRRURVUloycjVHSDZ5QkhRU1ZKU1NOM1pYZURoZUJMUGZYYTBnMm12Sm5va0FOMnMyRzlwdXZ4U2U4QVJ2cHgyZGV3U3plR2NHM3BZLU9KWnRWTmhtNkpLSU45Q0dxNVhHNWhhYzZLcUlTd2xkWUhjdkdLNTlYLTh4MzhMb1poWjlqRFMwaWQ?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Environment & Ecology",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "E3OTU0Mjk5NzkxNzAuaHRtbA",
+   "date": "2026-11-23",
+   "title": "Fertilizer subsidy may rise 15% to ₹2.5 trillion even as sales fall 8%",
+   "summary": "India’s fertilizer subsidy bill could rise 15% to ₹2.5 trillion in FY27, near its record high, as global prices climb despite weaker demand. Fertilizer sales fell 8% in April-October, while deficient monsoon rains are expected to reduce annual consumption to 65-67 million tonnes.",
+   "link": "https://www.livemint.com/economy/fertilizer-subsidy-record-urea-dap-sales-fall-finance-ministry-11795429979170.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Polity & Governance",
+    "Economy",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3",
+    "GS-1"
    ],
    "score": 3,
    "important": false
@@ -741,6 +1058,256 @@
    "section": "Explained",
    "topics": [
     "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzM1ODAxLmVjZQ",
+   "date": "2026-11-23",
+   "title": "Marshal Zhukov remembered",
+   "summary": "Describing Marshal Zhukov as the ‘captain of the winning team,’ Former Ambassador Seetharam emphasised that his brilliant military strategies and leadership played a crucial role in defeating the Nazi-fascist forces and securing the Soviet victory.",
+   "link": "https://www.thehindu.com/news/national/kerala/marshal-zhukov-remembered/article71735801.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTczNTg0OC5lY2U",
+   "date": "2026-11-23",
+   "title": "Delhi Police bust cybercrime syndicate that defrauded victims of over ₹20 crore via malicious APK files",
+   "summary": "Officials received over 1,300 complaints in the past three months relating to bank account takeovers and cyber fraud through APK files",
+   "link": "https://www.thehindu.com/news/national/delhi-police-bust-cybercrime-syndicate-that-defrauded-victims-of-over-20-crore-via-malicious-apk-files/article71735848.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MzUyNDMuZWNl",
+   "date": "2026-11-23",
+   "title": "Amid poor public response to Census self-enumeration, enumerators fan out in Uttar Pradesh",
+   "summary": "Census enumerators are facing several challenges in U.P., including the refusal to share OTPs, suspicion on being asked about the number of bank accounts, and difficulty in recalling the date of birth and place of birth of both parents",
+   "link": "https://www.thehindu.com/news/national/uttar-pradesh/amid-poor-public-response-to-census-self-enumeration-enumerators-fan-out-in-uttar-pradesh/article71735243.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTczNTA0OC5lY2U",
+   "date": "2026-11-23",
+   "title": "Will push fuel cess to fund welfare of unorganised workers: Labour Minister",
+   "summary": "Santosh Lad was speaking on the second day of the 43rd national conference of the All India Trade Union Congress (AITUC), which focused on artificial intelligence, gig workers and social security",
+   "link": "https://www.thehindu.com/news/national/karnataka/will-push-fuel-cess-to-fund-welfare-of-unorganised-workers-labour-minister/article71735048.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTczNTM0MS5lY2U",
+   "date": "2026-11-23",
+   "title": "Nvidia reinstates Jensen Huang as CEO after U.S. government input",
+   "summary": "U.S. President Donald Trump welcomed the move as a “correct and proper decision”",
+   "link": "https://www.thehindu.com/sci-tech/technology/nvidia-reinstates-jensen-huang-as-ceo-after-us-government-input/article71735341.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTczNTkwMS5lY2U",
+   "date": "2026-11-23",
+   "title": "Zelenskyy hails Ukraine's attack on a Russian warship in Libya",
+   "summary": "The operation, conducted some 2,400 kilometres (1,500 miles) from the front line in Ukraine, was the latest daring long-range assault by Kyiv's forces",
+   "link": "https://www.thehindu.com/news/international/zelenskyy-hails-ukraines-attack-on-a-russian-warship-in-libya/article71735901.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTczNDA5Mi5lY2U",
+   "date": "2026-11-23",
+   "title": "Bangladesh vows to arrest ex-PM Hasina if she returns from India",
+   "summary": "State Minister for Foreign Affairs Shama Obaed Islam said Dhaka expects India to honour the extradition treaty, as Sheikh Hasina’s planned December return fuels political tension and street violence",
+   "link": "https://www.thehindu.com/news/international/bangladesh-vows-to-arrest-ex-pm-hasina-if-she-returns-from-india/article71734092.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzA2OTE1MjguZWNl",
+   "date": "2026-11-23",
+   "title": "Pakistan PM cancels trip to Russia over regional clashes",
+   "summary": "“In view of the current regional and internal situation, the Prime Minister has decided to postpone his visit to Russia after consultations,” Mr. Sharif’s office said",
+   "link": "https://www.thehindu.com/news/international/pakistan-pm-cancels-trip-to-russia-over-regional-clashes/article70691528.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MzQ3NTcuZWNl",
+   "date": "2026-11-23",
+   "title": "SBI, HDFC Bank, ICICI Bank retain D-SIB status; RBI maintains capital requirements",
+   "summary": "The additional capital requirements are intended to enhance the resilience of these institutions.",
+   "link": "https://www.thehindu.com/business/Economy/sbi-hdfc-bank-icici-bank-retain-d-sib-status-rbi-maintains-capital-requirements/article71734757.ece",
+   "source": "The Hindu",
+   "section": "Economy",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzM1Mjc3LmVjZQ",
+   "date": "2026-11-23",
+   "title": "Severe anaemia affects less than 2% of population: ICMR survey",
+   "summary": "SAMPADA covered more than 2 lakh individuals from over 81,000 households across 183 districts in 35 States and Union Territories",
+   "link": "https://www.thehindu.com/sci-tech/health/severe-anaemia-affects-less-than-2-of-population-icmr-survey/article71735277.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Health & Social Issues",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTczNDc4MC5lY2U",
+   "date": "2026-11-23",
+   "title": "Antimicrobial overuse could make common infections harder to treat: Health ministry official",
+   "summary": "World AMR Awareness Week is observed from November 18 to 24 every year to improve awareness and understanding of antimicrobial resistance and promote best practices among the public, policymakers and One Health stakeholders",
+   "link": "https://www.thehindu.com/sci-tech/health/antimicrobial-overuse-could-make-common-infections-harder-to-treat-health-ministry-official/article71734780.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "jM1FuRkxiMmRCVjBrP29jPTU",
+   "date": "2026-11-23",
+   "title": "Why SC issued notice to Centre and CJI over appointments of judges",
+   "summary": "Why SC issued notice to Centre and CJI over appointments of judges The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQmprb0VjeU4tSkdDY2FsOWloTmhqQ29mMDlfNFJ5emR0Z1d5alUxZ004eXE1RjNrWHBHd2VEb0dPX0U2VGxyRGcxeXFrTFlEM2dwU25wOE4zX0luckJrajdtOV9aMm9Wc3F5VXRjYXNjMW90dWw0TXVadWhYaFpQamJHckxidVR4N205OWJQTXRKbXRDLUk1bnVDWE0tRDBVV3E2RFY2WkNkbGRBZVB5V1U2NklOb2VlRC0tRWRR0gHEAUFVX3lxTE9MczNIdExiNEdZc09WdXliMm1OSXdkck56aF94Q01KNFV0X3NCbWl3eXZWWG00dUhYZFdzMDJCbGQ4czExZUVQN2xocG5FblpxUllxNndJd2FWT21KOVpOY1NVMTJINm9XaGx0ek1hYWpIdm9VWE9rM1ktR0hwVE9JaGhHNGx3REluSVlvT3Aya3V0TmpDaW9XWm9mVXpHaFBZelQwcUxhRlR2RWxjWXVtaUJzNTFLZjR0dmc3QnFLb2dBV0k?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "TFFUVlVjVVJPVkRWbj9vYz01",
+   "date": "2026-11-23",
+   "title": "Ayodhya to Janakpur: Faith, strategy behind India-Nepal’s new rail link",
+   "summary": "Ayodhya to Janakpur: Faith, strategy behind India-Nepal’s new rail link The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSERpNVVoRDdWUHBiY3hpT3ZpUktlUGdBSTZFdWo4MGRCVlNZeXVTVjB4MnpCYi14VUJtTjFYSzdVX0JiTXNtWXdURFUxTWFHOWhSZWNLWHhIcWppZW1tUHEwOFVGUzI4WlpUZzlJbUJMNjBVd2tfaHcxOUdWX2JMMEZ5UHNTald5eXNhZWRzeVBQMkFORUpkR1J0Z0pSdXA0ajZvZm1SZjZPWlltaEVmb3Q1Y09NSG1LOHZVQjVlMnJuZzMyNV930gHOAUFVX3lxTFA4X3E3aVFGTndId0ZzQUREQWJZQk5yeWRqeGlsVG95Xy15eWRJdzROWnhCLUdHa3E1NThFUk1mdkd3Z3RtNXdEbXlYRUVhN0RYa1B2YndUT1oxSEQ0WklYdWp1TjBHejRGczEzUTRqbVlVMDBSdXk1N2pLZzAyZkt1TjM5SHBEX3N0MTNHMDFTeGNIS2hNQ3puSV9vdGo3S3ZiSmRBRGstaTdMY1JPY0s1VUxHUFZoeFJyMkNsV0JKN3VzbGpLQTVUcUROVDVn?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "dWSGQ2VkUxRFlVUjI_b2M9NQ",
+   "date": "2026-11-23",
+   "title": "How just one ingredient can make ‘fairness’ creams dangerous for health",
+   "summary": "How just one ingredient can make ‘fairness’ creams dangerous for health The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc2Fnal91YVdhZlE5eDlOSTFidFN1OFo2VExmbU5uMHFUNGxzdXFtYzNoRF9EQkxCcDY5ZHNEZHRHbDE0aU5jeGM4eUgyTndwamlGbERVTThfZ1BWWm5DS2tEYWxRWnJIaEhLTmJhRTZRZmhJNmhCU1I4cmFMd1psUEdsbUY5d3VITnl1VWp6azNVcFdYZmh1cmVlVk5jd2lOTW1lazc1UndMMDFIT3fSAbQBQVVfeXFMTW5ieThidVA2RF9ienk2RUVmbzUzZTNsb0QxcFhwNk5DQkRSUDFqZEh4MHZWaXFad1BmcWRSY2xrMHN2R1JiZktxR1lCdUd4dGs5MmtrRDlBTkRDUjhhMjc0WGprMzFiUi1VZUpvcHZCcDcyM1NqZUhmaVRxMDNJNDBMX1d3ZW53S05GS3BESlhYVWhzX1MtUGJSY2RRWXBLSWRhUWJHanNIZndWVHd6VE1DYUR2?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Health & Social Issues"
    ],
    "gs": [
     "GS-2"
@@ -1514,6 +2081,23 @@
    "section": "Explained",
    "topics": [
     "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ZPRWh6YzBGa1VtUlI_b2M9NQ",
+   "date": "2026-11-22",
+   "title": "Two farmers were caught growing ganja. Why the one who harvested crop faces tougher charge",
+   "summary": "Two farmers were caught growing ganja. Why the one who harvested crop faces tougher charge The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa2o0aEU4QkdBMTkycWJCbWwyS1VjVDY5NjE5dDJPc1dfeS1FeEZRa01KVWlGNl9UNWxXaGNTdWVIMWF4UmM4SWhYSjBya2lYd2N5aU1ubnpENUtKZlUwbjZIT2NJejd3SEM4R0NxNUJaanExcFBHY3NiN3pzWVN1aTN0T2pSLTF6RWIzb1A5d2dKXzl3Z083U1JHOWt4Q0xsdjZUNVFDOFZDSF9vZU5hYjREMFh5aHEzbmJ30gHCAUFVX3lxTE1NTWlyaEtiVjdXQzlKbENIaXZRajBMcXJDckFlX3J5YTA4anpRYTZ6TVkySlFQTUhTZFp5cUREa2VYVndvajM1NU9TdVRvNEUyMktEekpzUDJWclI4bDItSHhOZ1VsNjNtTlZtWnpiNDc3N0lURGZ4TjA4VklxV1NybmxxTVY4bXBhUlpuanpwZ09zVTRVNVZrS2ZVWjBYbG1jdktVSUFXa0hidkQyUFpkVUtVODQ3UzBFOEhzc0FkUmRR?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Economy"
    ],
    "gs": [
     "GS-3"
