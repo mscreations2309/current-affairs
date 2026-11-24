@@ -1,6 +1,27 @@
 {
- "updated": "2026-11-23T21:20:36.154Z",
+ "updated": "2026-11-24T06:00:07.437Z",
  "items": [
+  {
+   "id": "J0aWNsZTcxNzM2MjQyLmVjZQ",
+   "date": "2026-11-24",
+   "title": "Rajasthan women’s varsity signs MoU with BRICS nations for global leadership centre",
+   "summary": "The MoU was signed on the conclusion of a five-day BRICS women leaders’ summit, organised on the university campus, which focused on promoting women’s leadership, cultural exchanges, and mutual cooperation and innovative research across the 11 BRICS member countries.",
+   "link": "https://www.thehindu.com/news/national/rajasthan/rajasthan-womens-varsity-signs-mou-with-brics-nations-for-global-leadership-centre/article71736242.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Health & Social Issues",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 6,
+   "important": true
+  },
   {
    "id": "ydGljbGU3MTczNTEyNC5lY2U",
    "date": "2026-11-24",
@@ -21,6 +42,65 @@
    "important": false
   },
   {
+   "id": "J0aWNsZTcxNzM3MDU4LmVjZQ",
+   "date": "2026-11-24",
+   "title": "Sanjay Raut accuses State Assembly Speaker Rahul Narwekar of tribal land grab",
+   "summary": "Sanjay Raut has demanded to register a criminal case under the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act",
+   "link": "https://www.thehindu.com/news/national/maharashtra/sanjay-raut-accuses-state-assembly-speaker-rahul-narwekar-of-tribal-land-grab/article71737058.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MzcyMzcuZWNl",
+   "date": "2026-11-24",
+   "title": "Russian attack kills two people, wounds 22 in Ukraine's Zaporizhzhia, official says",
+   "summary": "Earlier, Mykhailo Semikin, the regional Governor, said people might be ‌trapped under rubble after ​Russia struck the city, damaging apartments, private ⁠buildings, transport infrastructure and cars",
+   "link": "https://www.thehindu.com/news/international/russian-attack-kills-two-people-wounds-22-in-ukraines-zaporizhzhia-official-says/article71737237.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Polity & Governance",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MzcwOTIuZWNl",
+   "date": "2026-11-24",
+   "title": "5.6 magnitude earthquake strikes Nepal’s Koshi province close to China border",
+   "summary": "The European-Mediterranean Seismological Centre (EMSC), however, put the earthquake’s magnitude at 5.3 and said it occurred at a depth of 10 kilometres",
+   "link": "https://www.thehindu.com/news/international/earthquake-strikes-nepals-koshi-province-close-to-china-border/article71737092.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
    "id": "cnRpY2xlNzE3MzYxNjIuZWNl",
    "date": "2026-11-24",
    "title": "Beware of Pakistan operatives in WhatsApp groups of defence personnel: BRO",
@@ -34,6 +114,117 @@
    ],
    "gs": [
     "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzM1NzQyLmVjZQ",
+   "date": "2026-11-24",
+   "title": "What stands atop Thiruparankundram hill is a survey pillar, ascertains Tamil Nadu government report",
+   "summary": "This report has evoked interest against the backdrop of the latest dispute over the lighting of the Karthigai Deepam atop Thiruparankundram hill, which has taken centre stage, following the Supreme Court’s decision to permit the lighting of the lamp at the newly identified deepathoon as a limited, one-time arrangement",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/what-stands-atop-thiruparankundram-hill-is-a-survey-pillar-ascertains-tn-government-report/article71735742.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Reports & Indices",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "Prelims",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MzcwNzQuZWNl",
+   "date": "2026-11-24",
+   "title": "Elon Musk’s companies sued by U.S. states over flood of sexualised images made with Grok AI",
+   "summary": "Two Democratic attorneys general are suing several of Elon Musk’s companies in connection with the controversy over his AI chatbot’s ability to create sexualised images",
+   "link": "https://www.thehindu.com/sci-tech/technology/elon-musks-companies-sued-by-us-states-over-flood-of-sexualised-images-made-with-grok-ai/article71737074.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Science & Technology",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzM3MTY1LmVjZQ",
+   "date": "2026-11-24",
+   "title": "China's Shenzhou-24 spaceship to include first foreign astronaut from Pakistan",
+   "summary": "Pakistani payload specialist Zeeshan Ali's participation is ‌part of bilateral cooperation under Beijing’s ‌Belt ⁠and Road Initiative",
+   "link": "https://www.thehindu.com/sci-tech/science/chinas-shenzhou-24-spaceship-to-include-first-foreign-astronaut-from-pakistan/article71737165.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTczNzAzNS5lY2U",
+   "date": "2026-11-24",
+   "title": "Trump orders U.S. Army to pause detonation of lead explosives in Iowa",
+   "summary": "U.S. appeals court lifts previous stay that blocked detonation; opponents raise concerns about toxic lead dust cloud",
+   "link": "https://www.thehindu.com/news/international/trump-orders-us-army-to-pause-detonation-of-lead-explosives-in-iowa/article71737035.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTczNjk4Ny5lY2U",
+   "date": "2026-11-24",
+   "title": "Chinese neuroscientist at Princeton is held by ICE after detention at Washington airport",
+   "summary": "‘News of Eva’s detention is distressing for me and many members of the Princeton University community,’ Rodney Priestley, dean of the university’s graduate school, said in a statement",
+   "link": "https://www.thehindu.com/news/international/chinese-neuroscientist-at-princeton-is-held-by-ice-after-detention-at-washington-airport/article71736987.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Health & Social Issues",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "5nbGFkZXNoLTEwOTc1NjEzLw",
+   "date": "2026-11-24",
+   "title": "Ganga Water Treaty: Will the 1996 pact be renewed? Where India, Bangladesh stand",
+   "summary": "",
+   "link": "https://indianexpress.com/article/explained/explained-global/ganga-water-sharing-treaty-renewal-2026-india-bangladesh-10975613/",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
     "GS-2"
    ],
    "score": 3,
@@ -145,6 +336,148 @@
    ],
    "gs": [
     "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MzcyNjEuZWNl",
+   "date": "2026-11-24",
+   "title": "Delhi air quality remains ‘poor’, average AQI settles at 242",
+   "summary": "Of the 57 weather monitoring stations in Delhi, 34 were in the poor category, 15 in the moderate category and eight in the very poor category. Siri Fort recorded the worst air quality with an AQI of 330",
+   "link": "https://www.thehindu.com/news/cities/Delhi/delhi-air-quality-remains-poor-average-aqi-settles-at-242/article71737261.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTczNTY4Mi5lY2U",
+   "date": "2026-11-24",
+   "title": "Kerala HC directs TDB to report on alleged poor quality of puja items at Pamba Ganapathy Temple",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/kerala/kerala-hc-directs-tdb-to-report-on-alleged-poor-quality-of-puja-items-at-pamba-ganapathy-temple/article71735682.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "History, Art & Culture",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-1",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MzcxMTEuZWNl",
+   "date": "2026-11-24",
+   "title": "Invoking Bengal famine, India tells UNSC costs of conflict not shared equally",
+   "summary": "Ambassador Harish Parvathaneni, told a high-level briefing of the Security Council that developing countries were bearing the brunt of food, fuel, fertiliser and energy shortages caused by global conflicts",
+   "link": "https://www.thehindu.com/news/national/invoking-bengal-famine-india-tells-unsc-costs-of-conflict-not-shared-equally/article71737111.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MzcwOTEuZWNl",
+   "date": "2026-11-24",
+   "title": "Earthquake in Nepal triggers tremors across north Bengal, Sikkim",
+   "summary": "The tremors were felt at around 7 a.m., prompting people in several areas to rush out of their homes",
+   "link": "https://www.thehindu.com/news/national/earthquake-in-nepal-west-bengal-sikkim-triggers-tremors/article71737091.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzM3MDY4LmVjZQ",
+   "date": "2026-11-24",
+   "title": "Why U.S. President Donald Trump believed he needed to get Jensen Huang back at Nvidia",
+   "summary": "U.S. President Donald Trump has intervened to reinstate Jensen Huang as CEO of Nvidia, following his recent ouster",
+   "link": "https://www.thehindu.com/sci-tech/technology/why-us-president-donald-trump-believed-he-needed-to-get-jensen-huang-back-at-nvidia/article71737068.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTczNzA1MS5lY2U",
+   "date": "2026-11-24",
+   "title": "Vance, Rubio meet with Qatari PM as uncertainty mounts over Trump's intentions with Iran",
+   "summary": "The development comes after Donald Trump told Mr. Vance that the administration did not need a deal with Iran and instructed him to focus on fraud and crime in Democratic-led cities following the Republican Party's wipeout in this month's midterm election",
+   "link": "https://www.thehindu.com/news/international/vance-rubio-meet-with-qatari-pmas-uncertainty-mounts-over-trumps-intentions-with-iran/article71737051.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MzQwNzYuZWNl",
+   "date": "2026-11-24",
+   "title": "The balance between emotion and logical thinking is tipping in students. Time to intervene",
+   "summary": "In a recent assessment involving more than 300 students from schools across Chennai, supported by observations gathered from assessments conducted throughout India, over 80% of students expressed a preference for making decisions primarily through emotions rather than logical analysis.",
+   "link": "https://www.thehindu.com/education/the-balance-between-emotion-and-logical-thinking-is-tipping-in-students-time-to-intervene/article71734076.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Health & Social Issues",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "pY2F0aW9ucy0xMDk3NjAxOC8",
+   "date": "2026-11-24",
+   "title": "COP31 ended without an overarching decision. Why does that matter?",
+   "summary": "",
+   "link": "https://indianexpress.com/article/explained/explained-climate/cop31-antalya-climate-deal-failure-india-implications-10976018/",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
    ],
    "score": 2,
    "important": false
@@ -1316,6 +1649,23 @@
    "important": false
   },
   {
+   "id": "9yY2VtZW50LTEwOTc1MTQwLw",
+   "date": "2026-11-23",
+   "title": "Rohingya genocide: Why the ICJ’s verdict against Myanmar may never be enforced",
+   "summary": "",
+   "link": "https://indianexpress.com/article/explained/explained-global/rohingya-genocide-icj-myanmar-enforcement-10975140/",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
    "id": "E3OTUzMzkyMzUyMTAuaHRtbA",
    "date": "2026-11-22",
    "title": "The El Niño polycrisis: How a severe drought is squeezing Indian farms, ethanol plants and your kitchen budget",
@@ -1605,6 +1955,23 @@
    "section": "Health",
    "topics": [
     "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "vbi1qYXBhbi0xMDk3Mzk0OS8",
+   "date": "2026-11-22",
+   "title": "China This Week | Trump, Xi and Putin’s declaration, Japan’s snub, and the Shenzhen story",
+   "summary": "",
+   "link": "https://indianexpress.com/article/explained/explained-global/china-this-week-trump-xi-putin-declaration-japan-10973949/",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations"
    ],
    "gs": [
     "GS-2"
