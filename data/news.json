@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:00:07.437Z",
+ "updated": "2026-11-24T17:41:02.589Z",
  "items": [
   {
    "id": "J0aWNsZTcxNzM2MjQyLmVjZQ",
@@ -20,6 +20,47 @@
     "GS-1"
    ],
    "score": 6,
+   "important": true
+  },
+  {
+   "id": "J0aWNsZTcxNjEyMTM5LmVjZQ",
+   "date": "2026-11-24",
+   "title": "Estonia on the edge as Russia-NATO tensions rise",
+   "summary": "The NATO member is overhauling its military strategy, moving troops closer to the border and investing in long-range arms as Russia is carrying out grey-zone tactics in NATO’s eastern flank; the country’s defence spending is set to rise by 42% in 2026, reaching €2.4 billion, or around 5.4% of its GDP; the U.K. has maintained some 1,200 troops in Estonia as part of NATO’s forward defence",
+   "link": "https://www.thehindu.com/news/international/estonia-on-the-edge-as-russia-nato-tensions-rise/article71612139.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Internal Security & Defence",
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 6,
+   "important": true
+  },
+  {
+   "id": "J0aWNsZTcxNzM4MDg4LmVjZQ",
+   "date": "2026-11-24",
+   "title": "CAQM report in Supreme Court shows huge gap between policy and groundwork in curbing vehicular emissions",
+   "summary": "There is hardly any infrastructure to provide basic support to e-mobility, the report says; for a total 12.94 lakh electric vehicles Delhi and the three NCR States, the number of charging points or stations are only 16,785",
+   "link": "https://www.thehindu.com/news/cities/Delhi/more-than-236-million-end-of-life-vehicles-plying-in-delhi-ncr-caqm-to-sc/article71738088.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Economy",
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 5,
    "important": true
   },
   {
@@ -96,6 +137,42 @@
     "GS-2",
     "GS-3",
     "GS-1"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTUyNDIzNy5lY2U",
+   "date": "2026-11-24",
+   "title": "Lula draws the line amid Trump interference in Brazil’s close and tough election",
+   "summary": "Lula says ‘Brazil does not fit in anyone’s backyard’ even as the country’s top intelligence agency raises the risk of U.S. interference in the October 4 elections to a ‘critical level’. In recent months, the Trump administration has put enormous pressure on Brazil through tariffs and sanctions",
+   "link": "https://www.thehindu.com/news/international/lula-draws-the-line-amid-trump-interference-in-brazils-close-and-tough-election/article71524237.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE0NTk4MDIuZWNl",
+   "date": "2026-11-24",
+   "title": "Brazil, India are building strategic ties for a changing world, says Brazil’s Foreign Minister",
+   "summary": "On whether BRICS seeks to replace the U.S. dollar, the Brazilian envoy says the possible use of local currencies for settling part of bilateral trade is something many countries already do, and that governments do not tell companies which currency they must use",
+   "link": "https://www.thehindu.com/news/national/brazil-india-are-building-strategic-ties-for-a-changing-world-says-brazils-foreign-minister/article71459802.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
    ],
    "score": 4,
    "important": false
@@ -226,6 +303,85 @@
    ],
    "gs": [
     "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MzkzMjMuZWNl",
+   "date": "2026-11-24",
+   "title": "No defence data breach, says Government, as security agencies asked to audit messaging groups",
+   "summary": "A high-level meeting has been convened at the Ministry of Home Affairs on Wednesday to discuss issues related to data breaches and cyber safety",
+   "link": "https://www.thehindu.com/news/national/no-defence-data-breach-says-government-as-security-agencies-asked-to-audit-messaging-groups/article71739323.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Science & Technology",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzM3MzUyLmVjZQ",
+   "date": "2026-11-24",
+   "title": "SAMPADA data claims lower anaemia prevalence in India than previous surveys",
+   "summary": "India stopped collecting anaemia data as part of NFHS, after the 5th round. This is the first time anaemia data is being published, after the measure was withdrawn from the NFHS on the grounds that the government intended to conduct a gold-standard test of drawing venous blood, instead of the finger prick test",
+   "link": "https://www.thehindu.com/sci-tech/health/sampada-data-claims-lower-anaemia-prevalence-in-india-than-previous-surveys/article71737352.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Reports & Indices",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "Prelims",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "MTc5NTUzNzI5NTY5MC5odG1s",
+   "date": "2026-11-24",
+   "title": "Explained | While US-China agreement offers trade relief, why firms may not reverse their costly supply-chain moves",
+   "summary": "China has extended its suspension of restrictions on exports of key minerals to the US until Jan 27, 2027, easing supply concerns. But repeated trade negotiations have pushed businesses to diversify suppliers, often at higher cost, and many may retain those alternatives despite the extension.",
+   "link": "https://www.livemint.com/economy/explained-while-us-china-agreement-offers-trade-relief-why-firms-may-not-reverse-their-costly-supply-chain-moves-11795537295690.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "International Relations",
+    "Economy",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "xNzk1NTM5MzA5MTUyLmh0bWw",
+   "date": "2026-11-24",
+   "title": "US prepares fresh tariff hikes on China, India and other countries: What we know",
+   "summary": "Trump administration is preparing fresh tariffs on China, India and several other economies over industrial subsidies. Here's which countries could face higher duties and what the proposed move means for global trade.",
+   "link": "https://www.livemint.com/economy/us-prepares-fresh-tariff-hikes-on-china-india-and-other-countries-what-we-know-11795539309152.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
    ],
    "score": 3,
    "important": false
@@ -475,6 +631,324 @@
    "section": "Explained",
    "topics": [
     "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3Mzk2NjkuZWNl",
+   "date": "2026-11-24",
+   "title": "Former members say EPG report was ‘highly positive’ for India-Nepal ties",
+   "summary": "Their reaction comes a day after Foreign Secretary Vikram Misri termed the report of India-Nepal Eminent Persons Group “not relevant”",
+   "link": "https://www.thehindu.com/news/national/former-members-say-epg-report-was-highly-positive-for-india-nepal-ties/article71739669.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3Mzc0MDYuZWNl",
+   "date": "2026-11-24",
+   "title": "Thirupparankundram 'deepathoon' row LIVE: Karthigai Deepam lit at traditional spot despite Supreme Court order",
+   "summary": "The Arulmighu Subramanian Swamy Temple administration stated that it had followed “age-old traditions and Agama rules” by lighting the maha deepam at the traditional Uchipillayar deepa mandapam. Meanwhile, police detained protesters outside the Thirupparankundram temple",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/karthigai-deepam-deepathoon-lighting-2026-live-updates-november-24-tamil-nadu/article71737406.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzM5MjE1LmVjZQ",
+   "date": "2026-11-24",
+   "title": "Arrangements in place for Mission Chakkakompan",
+   "summary": "Forest department also plans to dart Murivali in Chinnakkanal",
+   "link": "https://www.thehindu.com/news/national/kerala/arrangements-in-place-for-mission-chakkakompan/article71739215.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MzkwMzAuZWNl",
+   "date": "2026-11-24",
+   "title": "Gurugram Festival to bring a palette of cultural shows",
+   "summary": "The festival will be held from November 27 to 29",
+   "link": "https://www.thehindu.com/news/national/haryana/gurugramfestival-to-bring-a-palette-of-cultural-shows/article71739030.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTczODgwOS5lY2U",
+   "date": "2026-11-24",
+   "title": "Operation Gaja: Herds regroup, 39 elephants are 3.5 km from Tatkola forest",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/karnataka/operation-gaja-herds-regroup-39-elephants-are-35-km-from-tatkola-forest/article71738809.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzM5MTI1LmVjZQ",
+   "date": "2026-11-24",
+   "title": "Indian space companies sign largest-of-its-kind deal on satellite systems",
+   "summary": "Bellatrix Aerospace to supply in-space propulsion systems for GalaxEye’s 30 satellites",
+   "link": "https://www.thehindu.com/business/Industry/indian-space-companies-sign-largest-of-its-kind-deal-on-satellite-systems/article71739125.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTczOTMyNi5lY2U",
+   "date": "2026-11-24",
+   "title": "Government examining measures to curb human-elephant conflict in Hassan, says Forest Minister",
+   "summary": "Ramalinga Reddy says steel-rope barriers and GPS collars are among options to address the issue",
+   "link": "https://www.thehindu.com/news/national/karnataka/government-examining-measures-to-curb-human-elephant-conflict-in-hassan-says-forest-minister/article71739326.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTczODY4Ni5lY2U",
+   "date": "2026-11-24",
+   "title": "Karnataka developing dedicated app for ST welfare schemes, says Raghumurthy",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/karnataka/karnataka-developing-dedicated-app-for-st-welfare-schemes-says-raghumurthy/article71738686.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzM4NDM4LmVjZQ",
+   "date": "2026-11-24",
+   "title": "TTD, in association with LIC, launches insurance cover for pilgrims",
+   "summary": "Under ‘Srivari Yatra Suraksha’ scheme, ₹2 lakh is payable in the event of natural death and ₹10 lakh in case of accidental death; the families of seven of the 17 pilgrims who died in the last two months receive compensation",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/ttd-in-association-with-lic-launches-insurance-cover-for-pilgrims/article71738438.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzM5ODc1LmVjZQ",
+   "date": "2026-11-24",
+   "title": "Iran rules out talks with U.S. until its seven conditions are met",
+   "summary": "Iran also said three oil tankers had struck naval mines in the Strait of Hormuz and caught fire despite U.S. aerial protection",
+   "link": "https://www.thehindu.com/news/international/iran-rules-out-talks-with-us-until-its-seven-conditions-are-met/article71739875.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MzgyNzkuZWNl",
+   "date": "2026-11-24",
+   "title": "Israeli strikes in Gaza kill seven including senior security official",
+   "summary": "The ‌Israeli military and the Shin ‌Bet domestic ​security service said in ⁠a joint statement they ‌had struck a senior Hamas member, without identifying ‌him, adding ​that further details would ⁠be provided later",
+   "link": "https://www.thehindu.com/news/international/hamas-security-official-killed-in-israel-strikes-in-gaza/article71738279.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTczNzE4Mi5lY2U",
+   "date": "2026-11-24",
+   "title": "Hasina to return to Bangladesh on December 16, says Awami League",
+   "summary": "Ousted Prime Minister has asked Bangladesh government for an aircraft; Awami League team has visited Petrapole in West Bengal to assess Benapole-Petrapole crossing in case Ms. Hasina plans to enter Bangladesh trough land border crossing",
+   "link": "https://www.thehindu.com/news/international/former-bangladesh-pm-sheikh-hasina-return-to-bangladesh/article71737182.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MzgzMTcuZWNl",
+   "date": "2026-11-24",
+   "title": "Sri Lanka’s Opposition lawmakers accuse government of preventing parliamentary debate on Imran Khan’s release",
+   "summary": "Cannot entertain motion that could impact bilateral ties, said the Sri Lanka government",
+   "link": "https://www.thehindu.com/news/international/sri-lankas-opposition-lawmakers-accuse-government-of-preventing-parliamentary-debate-on-imran-khans-release/article71738317.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTczNzc2Ni5lY2U",
+   "date": "2026-11-24",
+   "title": "U.S. targets chip smuggling to China after Huang's return to scandal-hit Nvidia",
+   "summary": "Jensen Huang resigned over extramarital affairs, including with Alice Huang, linked to Singapore-based company Megaspeed International, who is suspected of being a Chinese spy",
+   "link": "https://www.thehindu.com/news/international/us-targets-chip-smuggling-to-china-after-huangs-return-to-scandal-hit-nvidia/article71737766.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "RkpXYldkWlFVVjVkdz9vYz01",
+   "date": "2026-11-24",
+   "title": "In Jensen Huang’s return, unanswered questions of national security, governance and politics",
+   "summary": "In Jensen Huang’s return, unanswered questions of national security, governance and politics The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX3FIbTFQaG55TjRaQ1Z5TTJ0bVdJUXFhVXpyX2EzZ1dHaDYycF8yVFlQU3FYRjd0S2xnb0Jka1pjWkdQWi1keW5Qbi1hUEp5WjVJWUszdlJRak5mTmVzUGRDbDRyMHU3Y3d4azRhM1hOc0l0RG5GSl9zZl9kUTZSTzFTcDBnMmtyNlplaEVwTjhWZ19jempJaHdLTzNzeUNXamlMbmNtaEh2R1lRMTQ2V29xdkpxMkXSAb4BQVVfeXFMTTdPa0hRak4wcTJISnV0V3dDWGptcWUxaWprdkNGT3R3ZmhlMTExcHotSzVJRTQzZERJTDNBT21pWXBzZUNQQ1M1X04yRGdSa2JPMTVSdFFrcFBwQWpzeUIyZm8yXzlSMU9FcndLWHVTcE5wUjhBUENWQzRrQlJHNXJPcmlTSFVsbGxpb0h1M1kyU013OVljYmdxcnlGTXhuaE5WOE9VMjk5dkU1YVN3QnRDdnc3WFJWbWdZQUV5dw?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "bVJ4YVcxS1FuUTNVUT9vYz01",
+   "date": "2026-11-24",
+   "title": "AI stocks rebound: How Nvidia’s comeback lifted Asian and US markets",
+   "summary": "AI stocks rebound: How Nvidia’s comeback lifted Asian and US markets The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSEo0RENkS2MzS1lYVHhZVVJjbUQydWJKOHlTZ2hEdXVxcTNfSzNSYzdjc1BLWXJQNVhsYmhsYzRIcFY4b25saWw2U3dsQ2JLOWYwc3Q5X1ZsUVBuT3BQaV90NmJqMDZYaHM4bE5TYUhwbHVVbmlLU29sZFI0NE10cV8tYXJTMWRucm9uOE5TaXVlX3JhYXFNWXZqZlc4ODkzQXlSOE9IZ1hVV29fTVRRdFlJTmJRamFlOFlYWVNWMTZ2UWR3NmRxaW1KQnQ3UQ?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "bWx0TUU5a1NrOVBkdz9vYz01",
+   "date": "2026-11-24",
+   "title": "Adani’s Tarali project: The dispute over its cost and wildlife fee",
+   "summary": "Adani’s Tarali project: The dispute over its cost and wildlife fee The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU1FhaEY2WENBaC1RNmhXUjRTWVN3YjBhLVpZUk0wT0dqZGI0cWsxWE5zaWk0RHdJamFsX2ZZM280R1VtdmkyYldmblZyT2s1WkswbTl6RGZXNGlqLWRwR25rLXN1MHV1SFBIUzFlRDlNc3Raa0lUVzZJV252T25fRzI1ZHdQdi04MVhBYWdSazY5eDdLN0xxTU1JSFFzdXBna1hvczlEdVp5ZTd4QmltME9kSk9Pd9IBtgFBVV95cUxOU1FhaEY2WENBaC1RNmhXUjRTWVN3YjBhLVpZUk0wT0dqZGI0cWsxWE5zaWk0RHdJamFsX2ZZM280R1VtdmkyYldmblZyT2s1WkswbTl6RGZXNGlqLWRwR25rLXN1MHV1SFBIUzFlRDlNc3Raa0lUVzZJV252T25fRzI1ZHdQdi04MVhBYWdSazY5eDdLN0xxTU1JSFFzdXBna1hvczlEdVp5ZTd4QmltME9kSk9Pdw?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "kzTnpOaFRVZFNPSFU_b2M9NQ",
+   "date": "2026-11-24",
+   "title": "Mango mix-up: Why Maharashtra and Gujarat farmers are fighting over Hapus tag",
+   "summary": "Mango mix-up: Why Maharashtra and Gujarat farmers are fighting over Hapus tag The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV3FZTl9OSHFBOVdNYnVPUHJlc0dkbk80alJOUkJKeHFWMEdQVmhadHZVR2p0QndhT3hReVQxRmh1RWpzLTRtUDJJZU9sRWx4bncwb2xJWHd0Mk5MMzFaMGZQQ3JOWVBoZFBkYjVKWENaZDVwWHJzVVo1aTJ2aFRYOUFvOFRpMnNlSW5pWkUtY3h6RGJMVm4wcGl6eXRFZkN0dG9FRm1n0gGsAUFVX3lxTE4tZXV6YjU5MmZOWkljc1dUZnJZak5Jb3RhNkVPSjFQTDdWbjFiU0RtRFpvcnBzWVlkRlhCRENLeWk0Umt5SkdJY25jcndHSFh0RVMxOHJfZUZpOVAtOGFtOWNKZ25rd0R2Q2dNcndYVXpHZnhYX3VOMnJwT3Z2WkR4NnFlRWVmQ09ZWWpHWXRMd3I0S3N1NVN0YlBOV2FURGJfRDI3NzNhTUdSOHU?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Economy"
    ],
    "gs": [
     "GS-3"
