@@ -1,6 +1,27 @@
 {
- "updated": "2026-11-25T02:25:31.100Z",
+ "updated": "2026-11-25T12:51:23.753Z",
  "items": [
+  {
+   "id": "cnRpY2xlNzE3NDA5MDUuZWNl",
+   "date": "2026-11-25",
+   "title": "U.S. set to slap tariffs on China, EU and others after probe on excess industrial capacity: report",
+   "summary": "India was also named among 16 ⁠major U.S. trading partners; Together, the duties are meant to ​rebuild Trump’s global “Liberation Day” tariffs that were struck down by the U.S. Supreme Court in February",
+   "link": "https://www.thehindu.com/news/international/trump-administration-set-to-unveil-new-tariffs-after-probeon-excess-factory-capacity-sources/article71740905.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Polity & Governance",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 6,
+   "important": true
+  },
   {
    "id": "J0aWNsZTcxNzQwODkxLmVjZQ",
    "date": "2026-11-25",
@@ -16,6 +37,64 @@
    "gs": [
     "GS-3",
     "GS-2"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "J0aWNsZTcxNzQxOTA0LmVjZQ",
+   "date": "2026-11-25",
+   "title": "Drought threat looms over Keralam as 27 rainfall stations cross Trigger-1 drought threshold",
+   "summary": "As per disaster management authority assessment, the State is likely to face a significant reduction in water availability during the upcoming summer, driven by the failure of both the southwest and northeast monsoons. The evolving situation points to the possibility of early summer-like conditions setting in across Keralam as early as the end of January 2027",
+   "link": "https://www.thehindu.com/news/national/kerala/drought-threat-looms-over-keralam-as-27-rainfall-stations-cross-trigger-1-drought-threshold/article71741904.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-1",
+    "Prelims"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "ydGljbGU3MTc0MjEyNC5lY2U",
+   "date": "2026-11-25",
+   "title": "Cabinet approves ₹11,000-crore scheme to boost CIE manufacturing ecosystem in India",
+   "summary": "The Indian CIE industry is the world’s third-largest, with a market size of ₹97,000 crore in FY 2024-25, yet about 45% of it depends on imports, says Minister",
+   "link": "https://www.thehindu.com/news/national/cabinet-approves-11000-crore-scheme-to-boost-cie-manufacturing-ecosystem-in-india/article71742124.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Polity & Governance",
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "J0aWNsZTcxNzQxMjAxLmVjZQ",
+   "date": "2026-11-25",
+   "title": "U.S. shelves proposals to use business deals with Russia to end Ukraine war, FT reports",
+   "summary": "Donald Trump’s envoys Steve ‌Witkoff and Jared ​Kushner told European officials that ⁠corporate tie-ups were no longer ‌a core aspect of the U.S. pitch to Russia",
+   "link": "https://www.thehindu.com/news/international/us-shelves-proposals-to-use-business-deals-with-russia-to-end-ukraine-war-ft-reports/article71741201.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
    ],
    "score": 5,
    "important": true
@@ -54,6 +133,66 @@
    "gs": [
     "GS-2",
     "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NDA5NDEuZWNl",
+   "date": "2026-11-25",
+   "title": "WHO chief calls on U.S. to lift oil blockade on Cuba, citing health impact",
+   "summary": "United Nations has also repeatedly warned of a growing humanitarian crisis on the island, calling the U.S. fuel blockade a violation of international ‌law and the human rights of all ​Cubans",
+   "link": "https://www.thehindu.com/news/international/who-chief-calls-on-us-to-lift-oil-blockade-on-cuba-citing-health-impact/article71740941.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Health & Social Issues",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzQxMDM4LmVjZQ",
+   "date": "2026-11-25",
+   "title": "Solomon Islands names Australia as its primary security partner in a new treaty that excludes China",
+   "summary": "The new treaty confirms Australia's place as the Solomons' ‘primary security partner’ and states ‘there will be no foreign military or security base’ on the smaller nation 2,000 kilometres northeast of Australia",
+   "link": "https://www.thehindu.com/news/international/solomon-islands-names-australia-as-its-primary-security-partner-in-a-new-treaty-that-excludes-china/article71741038.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTcxOTIxNy5lY2U",
+   "date": "2026-11-25",
+   "title": "Wildlife, forests, and culture in Gudalur: Sculptures, stories, and interactive workshops",
+   "summary": "Into the Forest, an ongoing exhibition in Gudalur explores the relationship between forests, wildlife and people through sculptures, stories, workshops for children and creative artefacts made using invasive plant species",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/wildlife-forests-and-culture-in-gudalur-sculptures-stories-and-interactive-workshops/article71719217.ece",
+   "source": "The Hindu",
+   "section": "Environment",
+   "topics": [
+    "Environment & Ecology",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-1"
    ],
    "score": 4,
    "important": false
@@ -107,6 +246,115 @@
    ],
    "gs": [
     "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTczOTYzNS5lY2U",
+   "date": "2026-11-25",
+   "title": "Tamil Nadu government set to ink 70 MoUs for investments to the tune of over ₹50,000 crore",
+   "summary": "Sources said the MoUs would cover sectors including manufacturing, clean energy, textiles, aerospace and defence",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-set-to-ink-70-mous-for-investments-to-the-tune-of-over-50000-crore/article71739635.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTc0MTI2MC5lY2U",
+   "date": "2026-11-25",
+   "title": "India-Nepal joint military exercise begins in Rupandehi",
+   "summary": "The exercise, involving battalion-level soldiers from the two countries, will run till December 8",
+   "link": "https://www.thehindu.com/news/international/india-nepal-joint-military-exercise-begins-in-rupandehi/article71741260.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Internal Security & Defence",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NDA5NzkuZWNl",
+   "date": "2026-11-25",
+   "title": "Israeli Defence Minister says Iran is developing chemical weapons",
+   "summary": "‘We must not allow this to proceed,’ Israel Katz added",
+   "link": "https://www.thehindu.com/news/international/israeli-defence-minister-says-iran-is-developing-chemical-weapons/article71740979.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NDE3MTEuZWNl",
+   "date": "2026-11-25",
+   "title": "Air passenger services see 35% inflation in Q2; banking, securities transaction witness deflation",
+   "summary": "The Commerce and Industry Ministry released the provisional Service Producer Price Indices (PPI) for the second quarter of 2026-27",
+   "link": "https://www.thehindu.com/business/Economy/air-passenger-services-see-35-inflation-in-q2-banking-securities-transaction-witness-deflation/article71741711.ece",
+   "source": "The Hindu",
+   "section": "Economy",
+   "topics": [
+    "Economy",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "UlBPR0p5VDFFNWRIaz9vYz01",
+   "date": "2026-11-25",
+   "title": "How Himachal government narrowed its welfare promise for women, households",
+   "summary": "How Himachal government narrowed its welfare promise for women, households The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUG5IMkJJYUxDdXRpY3d4bXdSQ3lLRmZ0SEVTVWZHbjdGaDlJcWJuMVVFZFRmdkVMRGxOWkVVM05YY085V2w1YzNhNU96N19TR2o1RGhJX0ZEY2NLb1I3WDBVNUl2aXdJWkZFLXZJbDBQc3RBcWlWVVVHWkw5SmJuUENRQUc2RDh5T1lKdEdCOC0xMVlTUW5jV2ZRcHh5YXRNNVhwNllwbVFtci0xaVhDNlln0gG4AUFVX3lxTFB0RmhmSlp5X2NBNGVrYUM1YjMzTko1VjIwelIwQ0hjRllJSjczY3llRnd6UGp4NlVzRDE4ZnB4S2pkeHZBeTR3RXFadWxCbEN2MnlkTHhzOTRvZ1A4XzI5Y1JkYVdVVE1ZVldvQ1pSR1VMSGN5OW5hZU1ubWU5NUVvYXN2UTlRLXAwUGVlMTEtWlVTdDJIOFNsQzg5ZGhaLUV3cFpsaU12cFZKODBuNERPOGJyT1E5dHk?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "lObGxPZFROWFptVTU_b2M9NQ",
+   "date": "2026-11-25",
+   "title": "COP31 failed to deliver. How climate negotiations can move forward from here",
+   "summary": "COP31 failed to deliver. How climate negotiations can move forward from here The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONjNBRWhoYmlwRllyUjNkNkRiWkJiZFptbzR6MlhOYVRaeno1SGhvazMwUUxkekVHS2JBcTNxdWxVcUxVZzlic2VJXzIxWWhxNm1yaTdQY19FWmhQT1hxOElEQkdRdWNvOGZxWUlHaXFPRUdMcmw5c3V2V1VuZ2F0dnhWYXM5SElGZmZqRGlUd25DX2FCM1RGc1E3SXFDVS13MW0waHh3T0ZCUGFyTVVNRTNpVUtYOFJKTGdKR1lCb2l1TWt2NVl2Zm02U3hLdWRMQ0HSAdgBQVVfeXFMTWY5VXo3c2RxRk9FSVIzWTB4cVQ0X29VcGtqaFczQ1pVZ1ZtcXZ4YlRQVUFvX1RZMEF5SUJxNTBJZEV1QW5CMWtYZWNwZjNIanZ6LTZsUVRzTUFEdnlNWC1xRFk2RDlITTMxWHNKRllOMnVRdzlpSldJVTBvRTJ3X2VmR1R1bjhSbVFvSVJNcXhXX0FiVHBVQ05CQW91SUZ4bnRqdlFsVzBVbkc4Q3NaNmZxWUVPVGdzb0lWVUl3RlFjbGdYT0M5RU82U3lCZzUyNllOdTNXZmU5?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
    ],
    "score": 3,
    "important": false
@@ -407,6 +655,269 @@
    "section": "Economy",
    "topics": [
     "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NDI0NDIuZWNl",
+   "date": "2026-11-25",
+   "title": "Jharkhand govt moves resolution against SIR during special assembly session",
+   "summary": "Alleging that the Election Commission of India (ECI) was ‘working as the Centre’s puppet’, the Jharkhand Finance Minister said that removing Gyanesh Kumar was ‘necessary to protect the Constitution’",
+   "link": "https://www.thehindu.com/news/national/jharkhand/jharkhand-govt-moves-resolution-against-sir-during-special-assembly-session/article71742442.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NDIxODIuZWNl",
+   "date": "2026-11-25",
+   "title": "Srisailam temple organises Karthika Vanabhojanalu",
+   "summary": "Rituals, cultural performances and a spiritual discourse mark the event at Rudra Vanam; 420 Chenchu devotees get free Sparsha Darshanam",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/srisailam-temple-organises-karthika-vanabhojanalu/article71742182.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzQxOTY3LmVjZQ",
+   "date": "2026-11-25",
+   "title": "Cabinet clears construction of new airport at Silchar for ₹2,014 crore",
+   "summary": "The existing Silchar airport, owned by the Indian Air Force and the Airports Authority of India (AAI), operates a civil enclave spread over 70 acres",
+   "link": "https://www.thehindu.com/news/national/cabinet-clears-construction-of-new-airport-at-silchar-for-2014-crore/article71741967.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTc0MTQyMS5lY2U",
+   "date": "2026-11-25",
+   "title": "The Hindu’s coffee table book on exploration of the Western Ghats released",
+   "summary": "The book titled, ‘Mountains of Our Destiny: The Western Ghats, A Journey Through The Southern Monsoon Mountains by Vrinda Ramanan and J. Ramanan is a sequel to ‘Mountains of our Destiny: An Expedition to the Indian Himalaya’, also by the same authors.",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/the-hindus-coffee-table-book-on-exploration-of-the-western-ghats-released/article71741421.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTc0MjAyNi5lY2U",
+   "date": "2026-11-25",
+   "title": "Women’s Commission urges Telangana Governor to recommend special investigation into illegal oocyte racket",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/telangana/womens-commission-urges-telangana-governor-to-recommend-special-investigation-into-illegal-oocyte-racket/article71742026.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTc0MTY4My5lY2U",
+   "date": "2026-11-25",
+   "title": "Supreme Court sets aside Allahabad High Court order for CBI, ED enquiries into DA complaint against Rahul Gandhi",
+   "summary": "The top court directs the Congress leader to be impleaded as a party in the High Court case",
+   "link": "https://www.thehindu.com/news/national/supreme-court-sets-aside-allahabad-high-court-order-for-cbi-ed-enquiries-into-da-complaint-against-rahul-gandhi/article71741683.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NDEyODMuZWNl",
+   "date": "2026-11-25",
+   "title": "Thirupparankundram Deepathoon row: What does John Doe order passed by Madras HC mean?",
+   "summary": "The Madras High Court restrained anyone from violating the November 20 Supreme Court order which allowed the lighting of the lamp on the hillock as a ‘limited one-time arrangement’ only.",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/thriupparankundram-deepathoon-tamil-nadu-john-doe-order-explained/article71741283.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE2NzUzMzkuZWNl",
+   "date": "2026-11-25",
+   "title": "Calcutta High Court restrains KMC polls until challenge on delimitation decided",
+   "summary": "The West Bengal government, through a delimitation, has increased the number of wards of KMC from 144 to 209. The petitioner argued that the State government and its agencies have resorted to gerrymandering in order to secure partisan advantage to the ruling political party in West Bengal on the premise of previous electoral results.",
+   "link": "https://www.thehindu.com/news/cities/kolkata/calcutta-high-court-restrains-kmc-polls-until-challenge-on-delimitation-decided/article71675339.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNjk0ODExMjguZWNl",
+   "date": "2026-11-25",
+   "title": "China to launch Shenzhou-20 spaceflight on April 24",
+   "summary": "The Shenzhou-20 spaceflight will carry three astronauts namely Chen Dong, Chen Zhongrui and Wang Jie",
+   "link": "https://www.thehindu.com/sci-tech/china-to-launch-shenzhou-20-spaceflight-on-april-24/article69481128.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NDEwODEuZWNl",
+   "date": "2026-11-25",
+   "title": "Trump awards Rudy Giuliani the Medal of Freedom",
+   "summary": "After the 9/11 attacks, Mr. Giuliani ‌became one of the most popular figures in U.S. politics. He launched a Republican presidential ‌bid ⁠in 2007, and even after it failed, he remained a prominent conservative ⁠messenger",
+   "link": "https://www.thehindu.com/news/international/trump-awards-rudy-giuliani-the-medal-of-freedom/article71741081.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzQwOTc4LmVjZQ",
+   "date": "2026-11-25",
+   "title": "Huawei says U.S. conviction 'without legal or factual merit'",
+   "summary": "The world's leading telecom equipment manufacturer, Huawei has been targeted by U.S. President Donald Trump's administration",
+   "link": "https://www.thehindu.com/sci-tech/technology/huawei-says-us-conviction-without-legal-or-factual-merit/article71740978.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTc0MTA0OS5lY2U",
+   "date": "2026-11-25",
+   "title": "Bangladesh garment workers win 36% wage rise",
+   "summary": "The South Asian nation, the world’s second-biggest garment exporter behind China, has seen widespread protests since October by workers demanding higher pay",
+   "link": "https://www.thehindu.com/news/international/bangladesh-garment-workers-win-36-wage-rise/article71741049.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTc0MDk2NC5lY2U",
+   "date": "2026-11-25",
+   "title": "Thomas Markle charged in U.S. on second count of possessing child sexual abuse material",
+   "summary": "The indictment doubles the number of federal ‌charges currently lodged in Los Angeles against the 82-year-old Markle in a case that grew out of an investigation initiated last month in the ‌Philippines",
+   "link": "https://www.thehindu.com/news/international/thomas-markle-charged-in-us-on-second-count-of-possessing-child-sexual-abuse-material/article71740964.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3Mzg3MzguZWNl",
+   "date": "2026-11-25",
+   "title": "Workers in high-risk jobs to receive shots against rabies in Tamil Nadu",
+   "summary": "Sanitation workers, dog catchers, animal handlers and others involved in veterinary activities to be vaccinated; govt. sanctions ₹2.22 crore for drive",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/workers-in-high-risk-jobs-to-receive-shots-against-rabies-in-tamil-nadu/article71738738.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "Tllka1pHVVVVMVRXcz9vYz01",
+   "date": "2026-11-25",
+   "title": "Rooftop solar rules: Why the Centre wants users to install storage, pay for excess power",
+   "summary": "Rooftop solar rules: Why the Centre wants users to install storage, pay for excess power The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbzNYYThTUTJxUUZtUlM3anMtZVhhSVd2VjI0OXJrdENSd3RaNjBvUnJwZTRsc1VfU1YzUGdSZ0JDMVlOXzl5OGxmMVBxMnVrcTlkdzRvdkxWLXI0V2hHdTZKTmdlVXJuSEF4UDRIaUlWWWRvMjM3dGk0SWFZalFVQ2ZOSGFuam93WjJpV25hMDRnTVRqMWN2R20xbXZRdjFDRVdNcnA4SERuNEJycm8tbUluZWczYlI1dWhDaEJtRzMxdkJxUlBDWHZGRlFFNU1r0gHQAUFVX3lxTFBvM1hhOFNRMnFRRm1SUzdqcy1lWGFJV3ZWMjQ5cmt0Q1J3dFo2MG9ScnBlNGxzVV9TVjNQZ1JnQkMxWU5fOXk4bGYxUHEydWtxOWR3NG92TFYtcjRXaEd1NkpOZ2VVcm5IQXhQNEhpSVZZZG8yMzd0aTRJYVlqUVVDZk5IYW5qb3daMmlXbmEwNGdNVGoxY3ZHbTFtdlF2MUNFV01ycDhIRG40QnJyby1tSW5lZzNiUjV1aENoQm1HMzF2QnFSUENYdkZGUUU1TWs?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Environment & Ecology"
    ],
    "gs": [
     "GS-3"
