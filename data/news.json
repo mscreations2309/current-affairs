@@ -1,6 +1,59 @@
 {
- "updated": "2026-11-25T12:51:23.753Z",
+ "updated": "2026-11-25T22:30:16.145Z",
  "items": [
+  {
+   "id": "J0aWNsZTcxNzQxNDg5LmVjZQ",
+   "date": "2026-11-26",
+   "title": "Supreme Court suggests referring KMC delimitation case back to High Court for fresh look",
+   "summary": "Supreme Court lists the case for hearing on November 30 after lawyers seek time to get instructions on the suggestion from the court",
+   "link": "https://www.thehindu.com/news/national/west-bengal/supreme-court-inclined-to-stay-calcutta-hc-order-deferring-kolkata-civic-polls-till-decision-on-ward-delimitation/article71741489.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NDQxMjQuZWNl",
+   "date": "2026-11-26",
+   "title": "Governor seeks CM’s report on compliance with SC’s directions",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/governor-seeks-cms-report-on-compliance-with-scs-directions/article71744124.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NDMzODUuZWNl",
+   "date": "2026-11-26",
+   "title": "Akbaruddin Owaisi questions low spending, high dropouts in minority schools",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/cities/Hyderabad/akbaruddin-owaisi-questions-low-spending-high-dropouts-in-minority-schools/article71743385.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
   {
    "id": "cnRpY2xlNzE3NDA5MDUuZWNl",
    "date": "2026-11-25",
@@ -100,6 +153,26 @@
    "important": true
   },
   {
+   "id": "J0aWNsZTcxNzQzOTM0LmVjZQ",
+   "date": "2026-11-25",
+   "title": "Ukraine says it struck two oil refineries in Russia's Samara region",
+   "summary": "Samara’s regional governor, ​Vyacheslav Fedorishchev, said on social media that local air defence ⁠forces had downed 145 Ukrainian drones overnight, causing power outages",
+   "link": "https://www.thehindu.com/news/international/ukraine-says-it-struck-two-oil-refineries-in-russias-samara-region/article71743934.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
    "id": "cnRpY2xlNzE3Mzg2MzMuZWNl",
    "date": "2026-11-25",
    "title": "CM to open ‘Vision Koyilandy Conclave 2026’ on Nov. 27",
@@ -193,6 +266,62 @@
    "gs": [
     "GS-3",
     "GS-1"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NDMzMTIuZWNl",
+   "date": "2026-11-25",
+   "title": "India’s satellite supply chain ‘highly dependent on imports’, says space body",
+   "summary": "India’s space economy is currently valued at nearly $9 billion and is set to grow to $40-45 billion in less than a decade",
+   "link": "https://www.thehindu.com/sci-tech/science/indias-satellite-supply-chain-highly-dependent-on-imports-says-space-body/article71743312.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NDM4MjkuZWNl",
+   "date": "2026-11-25",
+   "title": "Trump’s tariff plan explained: Which countries could be hit and why?",
+   "summary": "The Trump administration is preparing a fresh tariff offensive targeting major trading partners including China, India and the European Union. Here’s what the investigation is about and what it could mean for global trade.",
+   "link": "https://www.thehindu.com/videos/trumps-tariff-plan-explained-which-countries-could-be-hit-and-why/article71743829.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "xNzk1NjEyODMzMjM3Lmh0bWw",
+   "date": "2026-11-25",
+   "title": "India stands out amid uneven global growth, says RBI bulletin",
+   "summary": "Strong consumption, credit growth and exports underpin domestic economic activity, even as geopolitical tensions, elevated energy prices and global financial market volatility cloud the outlook.",
+   "link": "https://www.livemint.com/economy/india-stands-out-amid-uneven-global-growth-says-rbi-bulletin-11795612833237.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
    ],
    "score": 4,
    "important": false
@@ -354,6 +483,99 @@
     "Environment & Ecology"
    ],
    "gs": [
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTc0MzA4Ny5lY2U",
+   "date": "2026-11-25",
+   "title": "Forum to launch indefinite strike against school adoption scheme in Karnataka",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/karnataka/forum-to-launch-indefinite-strike-against-school-adoption-scheme-in-karnataka/article71743087.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "MTc5NTYzMDEwNDUzMC5odG1s",
+   "date": "2026-11-25",
+   "title": "India rejects US' structural excess capacity allegations as Washington links 17% tariff to trade deal, 25% otherwise",
+   "summary": "India rejected US claims of structural excess capacity, saying it has none in any sector. New Delhi said it remains committed to concluding a bilateral trade deal, as Washington proposed tariffs of 17% if an agreement is reached and 25% otherwise.",
+   "link": "https://www.livemint.com/economy/india-rejects-us-structural-excess-capacity-allegations-as-washington-links-17-tariff-to-trade-deal-25-otherwise-11795630104530.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "E3OTU2MjM0NDQ1NTIuaHRtbA",
+   "date": "2026-11-25",
+   "title": "US proposes extra tariffs of up to 25% on Indian goods, 17% after trade deal",
+   "summary": "India faces an additional tariff of up to 25%, which can come down to 17% if both sides sign the proposed trade deal, according to the US Trade Representative. The US is India’s largest export market, accounting for shipments of goods worth over $87 billion in the fiscal year through March 2026.",
+   "link": "https://www.livemint.com/economy/new-us-tariffs-on-india-impact-trade-deal-11795623444552.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "E3OTU2MTU3MzU5OTAuaHRtbA",
+   "date": "2026-11-25",
+   "title": "RBI shifts more gold home amid geopolitical uncertainty",
+   "summary": "The shift comes against the backdrop of growing concerns among central banks about the risks associated with holding sovereign assets in foreign jurisdictions",
+   "link": "https://www.livemint.com/economy/rbi-gold-reserves-rbi-offshore-gold-custody-central-banks-gold-reserves-11795615735990.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "E3OTU2MTk4MDQxNjMuaHRtbA",
+   "date": "2026-11-25",
+   "title": "US targets India, China, EU with new tariffs citing overcapacity",
+   "summary": "Indian products would face a 17% charge if a trade pact with Washington is finalised, though that could increase to 25%.",
+   "link": "https://www.livemint.com/economy/us-targets-china-eu-with-new-tariffs-citing-overcapacity-11795619804163.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
     "GS-3"
    ],
    "score": 3,
@@ -921,6 +1143,156 @@
    ],
    "gs": [
     "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzQzMTUzLmVjZQ",
+   "date": "2026-11-25",
+   "title": "1,400 of 46,080 applicants selected to attend Kashi Tamil Sangamam: Education Minister",
+   "summary": "The fifth edition of the Kashi Tamil Sangamam features the launch of a nationwide student engagement programme focused on learning the Thirukkural",
+   "link": "https://www.thehindu.com/news/national/1400-of-46080-applicants-selected-to-attend-kashi-tamil-sangamam-education-minister/article71743153.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTc0MzQ1NC5lY2U",
+   "date": "2026-11-25",
+   "title": "SRM University-A.P. signs MoU with AiDEM to facilitate global career opportunities for students",
+   "summary": "The collaboration is expected to provide students with structured international placement support, pre-placement orientation and exposure to Japanese workplace culture",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/srm-university-ap-signs-mou-with-aidem-to-facilitate-global-career-opportunities-for-students/article71743454.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzQzMjI2LmVjZQ",
+   "date": "2026-11-25",
+   "title": "Great Nicobar Island project: Final Calcutta High Court hearing deferred as Centre seeks to file affidavit, objections",
+   "summary": "Centre argues that the FRA is not implemented in the A&NI, objects to some petitions claiming that they should be heard by the NGT or SC; next hearing posted for January 13, 2027; court to hear Attorney General of India on January 22",
+   "link": "https://www.thehindu.com/sci-tech/science/great-nicobar-island-project-final-calcutta-high-court-hearing-deferred-as-centre-seeks-to-file-affidavit-objections/article71743226.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzQzODkzLmVjZQ",
+   "date": "2026-11-25",
+   "title": "Israeli strike kills Hamas official, his wife and children",
+   "summary": "The Israeli military confirmed it had killed Abuelouf, whom it described as a significant figure who \"served as ‌a key source of expertise in efforts to restrict the IDF’s counterterrorism operations in the ‌Gaza ⁠Strip\"",
+   "link": "https://www.thehindu.com/news/international/israeli-strike-kills-hamas-official-his-wife-and-children/article71743893.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NDMwODEuZWNl",
+   "date": "2026-11-25",
+   "title": "U.S. announces new 25% tariffs on India, second-highest in the 14 countries against which action has been taken",
+   "summary": "The order by the U.S. Trade Representative also opens the door for a lower 17% tariff if India and the U.S. sign a trade deal",
+   "link": "https://www.thehindu.com/news/international/donald-trump-tariffs-us-midterm-elections/article71743081.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NDI1NTQuZWNl",
+   "date": "2026-11-25",
+   "title": "Bangladesh tightens border security ahead of Hasina's planned return; deploys 108 BGB platoons",
+   "summary": "The heightened security comes amid fears that Ms. Hasina's supporters could intensify violence and sabotage in the coming days. Awami League, whose activities have been banned, is promoting a lockdown programme for November 29 and 30 through online platforms, adding to concerns over a possible escalation of tensions",
+   "link": "https://www.thehindu.com/news/international/bangladesh-tightens-border-security-ahead-of-hasinas-planned-return-deploys-108-bgb-platoons/article71742554.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NDM1NjYuZWNl",
+   "date": "2026-11-25",
+   "title": "Broad-based pressure on food prices continues: RBI Bulletin",
+   "summary": "CPI inflation peaked to 6.1 % (y-o-y) in October 2026 from 5.5% in September 2026, slightly above the upper tolerance level of 6%–last observed in October 2024.",
+   "link": "https://www.thehindu.com/business/Economy/broad-based-pressure-on-food-prices-continues-rbi-bulletin/article71743566.ece",
+   "source": "The Hindu",
+   "section": "Economy",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NDI1MDEuZWNl",
+   "date": "2026-11-25",
+   "title": "Air pollution accelerates dementia by reprogramming brain's immune cells: study",
+   "summary": "The analysis found that people living in the most polluted third of areas are 25% more likely to develop Alzheimer's disease or a related form of dementia than those in the least polluted third",
+   "link": "https://www.thehindu.com/sci-tech/health/air-pollution-accelerates-dementia-by-reprogramming-brains-immune-cells-study/article71742501.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Environment & Ecology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
    ],
    "score": 2,
    "important": false
