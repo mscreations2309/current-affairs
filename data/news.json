@@ -1,6 +1,65 @@
 {
- "updated": "2026-11-25T22:30:16.145Z",
+ "updated": "2026-11-26T05:01:36.144Z",
  "items": [
+  {
+   "id": "J0aWNsZTcxNzQ1MDI0LmVjZQ",
+   "date": "2026-11-26",
+   "title": "India, China hold high-level talks in Arunachal sector on border management, LAC issues: MEA",
+   "summary": "MEA spokesperson Randhir also addressed a report claiming China-sourced satellite data may have aided Pakistan in tracking Indian troop movements and monitoring installations during Operation Sindoor",
+   "link": "https://www.thehindu.com/news/national/india-china-hold-high-level-talks-in-arunachal-sector-on-border-management-lac-issues-mea/article71745024.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 6,
+   "important": true
+  },
+  {
+   "id": "xNzk1NjUzNjU5NzEzLmh0bWw",
+   "date": "2026-11-26",
+   "title": "UAE eyes 7-8% growth next year as IMF reverses recession forecast, projects 0.2% expansion",
+   "summary": "The UAE expects its economy to recover next year, with tourism improving and the IMF forecasting 0.2% growth in 2026. The economy minister is more optimistic, targeting 7% to 8% growth, but warned that prospects depend on the Iran war and said investment would prioritize crisis-resilient industries.",
+   "link": "https://www.livemint.com/economy/uae-eyes-7-8-growth-next-year-as-imf-reverses-recession-forecast-projects-0-2-expansion-11795653659713.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "E3OTU1OTgxNTUyMDYuaHRtbA",
+   "date": "2026-11-26",
+   "title": "India’s Q2 GDP growth to slow marginally to 7.6%, shows Mint poll",
+   "summary": "A deficient monsoon and uneven rural demand may have weighed on growth, while resilient manufacturing and services activity are expected to have supported the economy.",
+   "link": "https://www.livemint.com/economy/indias-q2-gdp-growth-to-slow-marginally-to-7-6-shows-mint-poll-11795598155206.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 4,
+   "important": false
+  },
   {
    "id": "J0aWNsZTcxNzQxNDg5LmVjZQ",
    "date": "2026-11-26",
@@ -14,6 +73,62 @@
    ],
    "gs": [
     "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzQ1MDQ1LmVjZQ",
+   "date": "2026-11-26",
+   "title": "U.S. Army declares success in detonation of lead-based explosives stockpile in Iowa",
+   "summary": "The Army and the U.S. Environmental Protection Agency said emission monitors detected zero levels of airborne lead in the surrounding region immediately after the explosion",
+   "link": "https://www.thehindu.com/news/international/us-army-declares-success-in-detonation-of-lead-based-explosives-stockpile-in-iowa/article71745045.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Environment & Ecology",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTc0Mzk3OS5lY2U",
+   "date": "2026-11-26",
+   "title": "The economic impact of inequitable toilet access",
+   "summary": "Inclusive public infrastructure is crucial for the socio-economic participation of all genders and social groups",
+   "link": "https://www.thehindu.com/society/the-economic-impact-of-inequitable-toilet-access/article71743979.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Economy",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "MxZlprSklZM010UVE_b2M9NQ",
+   "date": "2026-11-26",
+   "title": "Why COP31 marks the end of an era of climate compromises",
+   "summary": "Why COP31 marks the end of an era of climate compromises The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVE5qcG5qMGlfdlU3ZWpDa2ZLUEdIanlGMHBqMUU5cV9IWXJUTnpZX3luMFAwV1Bkc1FTYWtxRWdNTG02VDVlZ2dYSG96cnZtRXRNQ0xKYkJwMHZydFVCNHNmY2VMNktyUlVMR1VTdUtzVUlJYWczLTMyZFNWeTVPT1dMWENjYmc2VFhUSWNvN2JUUWo5SEE4SE9DVzYzdHNIanBsQWZGcVZkRHc1TnVzc2lnYVoya00xZnRhZ2dlWGl6V0ZzamFZaWp5T2NKX0XSAdYBQVVfeXFMTWpRMm5uZ0w2cEJEWC1CNVNtNGhaVXg3MUFEbWpnRWIweVpBLV9wNVc0Zjlua0tzVWctVnkxdU9YMkFrWnA0QlpFQkNsb3NDTVpWQm1rZkRVNDcwVGNKT0ZONUlCbHlZMXkyZXJTendVOFRiVEJaRXZXeER6aFgwZnkwWnRCdG9VUTliTWJwVy1NU1d2WXZ3cW1VUGFyWXBtT3dmOUpZbXc2SjFQbFFWWWdvbXZBUmo1MzdqQnhLUmFEclhNNm9zUkF2anpOOS1fZkJIY3MtQQ?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
    ],
    "score": 3,
    "important": false
@@ -50,6 +165,205 @@
    ],
    "gs": [
     "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NDI5MTMuZWNl",
+   "date": "2026-11-26",
+   "title": "Uttariya instead of robes: West Bengal Government suggests universities to adopt Indian attire in convocations",
+   "summary": "West Bengal Higher Education Minister Jagannath Chattopadhyay said that the government was putting effort to follow own Indian culture and tradition and Uttariyo is enough for such ceremonies",
+   "link": "https://www.thehindu.com/news/national/west-bengal/uttariya-instead-of-robes-west-bengal-government-suggests-universities-to-adopt-indian-attire-in-convocations/article71742913.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzQyNDkzLmVjZQ",
+   "date": "2026-11-26",
+   "title": "Karnataka charts India’s first comprehensive care and rehabilitation policy for burns survivors",
+   "summary": "15-bed burns care wards to be set up in district hospitals; Bangalore Medical College and Research Institute’s Mahabodhi Burns Care Centre to be upgraded as Centre of Excellence",
+   "link": "https://www.thehindu.com/news/national/karnataka/karnataka-charts-indias-first-comprehensive-care-and-rehabilitation-policy-for-burns-survivors/article71742493.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzQxMjk1LmVjZQ",
+   "date": "2026-11-26",
+   "title": "Supreme Court issues notice on bail pleas by Umar Khalid, Sharjeel Imam in 2020 Delhi riots case",
+   "summary": "The court declined to take up their pleas for interim relief; CJI to set up three-judge Bench to decide whether prolonged incarceration and delay in trial can override stringent bail curbs under UAPA",
+   "link": "https://www.thehindu.com/news/national/sharjeel-imam-umar-khalid-bail-supreme-court-notice-to-delhi-police-on-pleas-in-uapa-delhi-riots-case/article71741295.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzQyNTk2LmVjZQ",
+   "date": "2026-11-26",
+   "title": "Keralam Minister announces ‘Speak up to stand up’ for woman survivors of violence",
+   "summary": "Beneficiaries will be provided with safe accommodation, counselling, social and emotional support, free legal aid, opportunities for continuing their education, employment, and skill training",
+   "link": "https://www.thehindu.com/news/national/kerala/keralam-minister-announces-speak-up-to-stand-up-for-woman-survivors-of-violence/article71742596.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzQxMjI1LmVjZQ",
+   "date": "2026-11-26",
+   "title": "Thirupparankundram row: Supreme Court to examine if wilful disobedience occurred, as State and Hindu parties spar",
+   "summary": "Madurai Collector claims all arrangements made to light the lamp on the Deepathoon, as per the SC’s November 20 order, but temple did not send team; temple cites ‘historical continuity’; Hindu parties accuse State, temple of collusion to defy order",
+   "link": "https://www.thehindu.com/news/national/supreme-court-hearing-on-deepathoon-case-madurai-tamil-nadu/article71741225.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NDI1NjAuZWNl",
+   "date": "2026-11-26",
+   "title": "Maharashtra Cabinet approves free foodgrains for over 42 lakh farmers",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/cities/mumbai/maha-govt-approves-free-food-grains-for-over-4230-lakh-farmers/article71742560.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NDUyMjIuZWNl",
+   "date": "2026-11-26",
+   "title": "Nepal flash floods: Kathmandu begins process to declare 213 Indians missing presumed dead",
+   "summary": "Inviting objections or concerns, the Embassy said concerned family members could contact it via eoikathmandufloodsupport@gmail.com or +9779851316807",
+   "link": "https://www.thehindu.com/news/national/nepal-flash-floods-kathmandu-begins-process-to-declare-213-indians-missing-presumed-dead/article71745222.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzQ1MjA5LmVjZQ",
+   "date": "2026-11-26",
+   "title": "Top 10 math problems AI models have taken a run at in 2026 (so far)",
+   "summary": "A flurry of announcements landed in the third week of November claiming that various artificial intelligence (AI) models had solved longstanding mathematical problems",
+   "link": "https://www.thehindu.com/sci-tech/science/top-10-math-problems-ai-models-have-taken-a-run-at-in-2026-so-far/article71745209.ece",
+   "source": "The Hindu",
+   "section": "Science",
+   "topics": [
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "wVTNkNFUzWTNWbDlSP29jPTU",
+   "date": "2026-11-26",
+   "title": "Why RBI is bringing its gold reserves back to India",
+   "summary": "Why RBI is bringing its gold reserves back to India The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaXJ0cnlEZm16SGtMSU5sQmpRODJUTmcwZHAwdWpaZGFtU2xteFZzU2gxdktHVk9QQXBZZGlncEUxN1kzT01KSEJzeFRHU09ra0g3ZGdQVTJ2YUtodm1mWGJRUXlDTjR3N0JGcGNjQ3d1WWw2cDA5ME5ZQmRrLU9yRTZJeEdQa2liVHdDUEppblo3SEx4bDVES1lVU1hLNWlrUFAzUTNNa1ZsSUFrV00yVF9jRDJmck9mLXlFdGRsYmZjcUJ5M0ZrQUU0NVN0eVRvUGZj0gHaAUFVX3lxTE1WSDdVa19UT0htd0N6amhUM2lKYy1pejRyOHFPTlBCX3VYN3l4dE1FSnJ5SFNaRVEwanFWOHNOd3B3N0JYbzdsUmQzRTJmNjdGT05qTTFEeTA4dmgzcEhBNTZCWnJWd1hmTzZmUXZsMHlaUXlyTlN4RUpJMmx1Rk51YnBlX1VNSXA0Y1pQMnZXTjk4cjVybXNyMFE0dHJ3cXZTeUdQY0tyOFU5TDJiN2tMT2VFVlJEUzhrbElwMlE4cEJxWTZKV0ZXWDVHTkEwZmM0U3d4U3Y3Vl9R?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "MHd6WWxWUU1qbDVVUT9vYz01",
+   "date": "2026-11-26",
+   "title": "US proposes new tariffs: Why India has an edge over its competitors, and at what cost",
+   "summary": "US proposes new tariffs: Why India has an edge over its competitors, and at what cost The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZ2hYcDl2SjFvVEF6OE5rV3FyS1ROQTlLVkRxbmRtRHRKcWdVbE8wUFF3eGhab0QzalZkRU9iVjBiRnJVOUU2eG9NVjlPVV9velU1alVOdkR4ODBZWndwWFVhby1TNkxOT2N5bXp0Y3AycGdsZW8wUk1va3kwSGI2dk9GUGZUTVh5QTAtQlhuMmpSSEQ3SG1mMUk1dC1GQUR1NlZGS1lJT3FIX3JycS0yYWJCaXRUNjBiSEx3eHE5Q1c1M21tVmFCYzJYUjhJd9IB1AFBVV95cUxNbHhkb2kxRDc0ODZNcXMtT2NIekYzdURFX3ZaNi1LeGZ6TzZ5Z002eE9nbjdDNkVPYUdTbTVCQjE4QUI5dVh5V3RnRjNIYTBtS2pZbXNYU1VkUzc4N3lMcnBrbzIwTEdMLTNUT0ZWeVNJRzBuOUNZcUtabGVwTEdCR0RiX3pGTnFabkMtcU1VcUVOdklxeVFfa1NSNmxiUU9Id3BsYTd0V2hkenlvRDBtYmVpX0xTeDlDMmJ2TXdia09RUEJKQUtTRGEyM0wzYlVQMjl5UQ?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "E3OTU2NTU1NzM1NTMuaHRtbA",
+   "date": "2026-11-26",
+   "title": "South Korea raises rates to 2-year high as inflation and housing prices remain a worry",
+   "summary": "South Korea’s central bank raised its benchmark rate by 25 basis points to 3.25%, its highest level in two years, citing above-target inflation and renewed rises in Seoul housing prices.",
+   "link": "https://www.livemint.com/economy/south-korea-raises-rates-to-2-year-high-as-inflation-and-housing-prices-remain-a-worry-11795655573553.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
    ],
    "score": 2,
    "important": false
@@ -322,6 +636,26 @@
    "gs": [
     "GS-3",
     "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzQyMjczLmVjZQ",
+   "date": "2026-11-25",
+   "title": "A rare bird on stony rivers shows why Himalayan water needs its sediment",
+   "summary": "The Himalayan rivers are home to several species that depend on rivers and their ecosystems, including fish, aquatic invertebrates like stonefly larvae and mayfly nymphs, and flora such as Himalayan alder and sea buckthorn along the banks and on the floodplains. When a river changes, all these environs, and their species, change as well",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/ibisbill-rare-bird-stony-rivers-himalayan-water-sediment-illegal-mining/article71742273.ece",
+   "source": "The Hindu",
+   "section": "Science",
+   "topics": [
+    "Environment & Ecology",
+    "Economy",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-1"
    ],
    "score": 4,
    "important": false
@@ -1298,6 +1632,23 @@
    "important": false
   },
   {
+   "id": "J0aWNsZTcxNzQxODk0LmVjZQ",
+   "date": "2026-11-25",
+   "title": "COP31 and the unmet promises of climate action",
+   "summary": "COP31 has once again laid out the gap between what countries promise and what they are actually prepared to do. With the window to keep warming below 1.5 degrees rapidly closing, the coming year should be spent on fixing what is broken",
+   "link": "https://www.thehindu.com/sci-tech/science/cop31-fossil-fuels-unmet-promises-climate-finance-action/article71741894.ece",
+   "source": "The Hindu",
+   "section": "Science",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
    "id": "J0aWNsZTcxNzM2MjQyLmVjZQ",
    "date": "2026-11-24",
    "title": "Rajasthan women’s varsity signs MoU with BRICS nations for global leadership centre",
@@ -1677,6 +2028,23 @@
    ],
    "gs": [
     "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "qZGZNMDVYVG1velp3P29jPTU",
+   "date": "2026-11-24",
+   "title": "COP31 ends without climate deal. Why, and what does that mean for India?",
+   "summary": "COP31 ends without climate deal. Why, and what does that mean for India? The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObkIwS0pzYjRHRkR6Z3NnVlg1Z3R6dnctNTlSTUZJeHdiV2U1S1lLOWktUVg5endhdzlSNzhzenI0RVptZV9Tc0NrT1hPbmNoOGYxenpSa1VQUW5TTmdxVkh2ZXVCczBIUVF5TkVuYlNnX2UwQUlzdTJJNGFyaDZINHIzeUtHai1od05tcGNDQUlCSHdFNFhkZlc3YWJ5UklzRFJJSDFZVXhkOFpHMzg5MTRtSFk3Y2xBZkZXbEFnQTh1OGvSAcoBQVVfeXFMT2NlQ19vcDNUMDFvYlVJZDBVZXNySEJhSWpfRDRkdWJOakh4TndyMkFIYXBfTlJ2RnVJY2hjMUhYOVplTmFOTmt5YVJkQVl1WFdKZm9YY2g0OHhKRTBlLTY2djZNNV9VOWRMZ29aOFE2eUE0QWdRYlFuV1FfZk5yRUJ3RDZ4V0h3Y2NRWGxhS3dZdmZfNWFwVTN0WDNSUkl3S25Nd1ZrVjVwTWJKT2h3ei1VNkZWVHB1cHU2YndKdWNEajdfM05XTmozZw?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
     "GS-3"
    ],
    "score": 3,
