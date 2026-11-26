@@ -1,6 +1,118 @@
 {
- "updated": "2026-11-26T15:12:40.400Z",
+ "updated": "2026-11-26T23:52:14.464Z",
  "items": [
+  {
+   "id": "ydGljbGU3MTc0MjMzNC5lY2U",
+   "date": "2026-11-27",
+   "title": "In Rajasthan, the girls who refuse to be spoken for",
+   "summary": "Rajasthan ranks sixth among India’s States with the highest prevalence of child marriage, according to the latest National Family Health Survey (2023-24). Poverty, the lack of education, and entrenched customs such as atta-satta, reinforced by a skewed sex ratio, continue to fuel the practice, particularly in tribal and rural areas. Now, a growing number of girls, empowered by education and greate",
+   "link": "https://www.thehindu.com/news/national/rajasthan/in-rajasthan-the-girls-who-refuse-to-be-spoken-for/article71742334.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Reports & Indices",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 8,
+   "important": true
+  },
+  {
+   "id": "J0aWNsZTcxNzQ4MzM3LmVjZQ",
+   "date": "2026-11-27",
+   "title": "Two Italians killed in drone attack in Kuwait",
+   "summary": "‘Around 2:00 p.m. today, several Iranian-made drones targeted Kuwaiti military installations, including an air-defence detection station where two Italian technicians from Rheinmetall were working,’ Italian FM Antonio Tajani said",
+   "link": "https://www.thehindu.com/news/international/drone-attack-kuwait-us-iran-war-death-november-27-2026/article71748337.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTc0NzAyMS5lY2U",
+   "date": "2026-11-27",
+   "title": "Pressure tactics: On the new U.S. tariffs on India",
+   "summary": "The new U.S. tariffs must not erode India’s stand on a trade deal",
+   "link": "https://www.thehindu.com/opinion/editorial/pressure-tactics-on-the-new-us-tariffs-on-india/article71747021.ece",
+   "source": "The Hindu",
+   "section": "Editorial",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzQ2OTYyLmVjZQ",
+   "date": "2026-11-27",
+   "title": "Cultural values of language remain irreplaceable in AI era: Arabic meet",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/kerala/cultural-values-of-language-remain-irreplaceable-in-ai-era-arabic-meet/article71746962.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzQ3NTAzLmVjZQ",
+   "date": "2026-11-27",
+   "title": "Two women booked over use of banned VPNs in Poonch; absconder held after two decades in Reasi: Officials",
+   "summary": "In 2025, the District Magistrate, Poonch, issued prohibitory orders on the use of VPN apps in the district close to the Line of Control (LoC) and also considered as an infiltration route of terrorists",
+   "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/two-women-booked-over-use-of-banned-vpns-in-poonch-absconder-held-after-two-decadesin-reasi-officials/article71747503.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzQ3NDg4LmVjZQ",
+   "date": "2026-11-27",
+   "title": "Madras High Court commends Tamil Nadu police for tracing 2,510 missing persons within a fortnight",
+   "summary": "Justices A.D. Jagadish Chandira and B. Karthikeyan record their appreciation for a special drive conducted by the police to trace missing men, women, boys and girls",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-commends-tamil-nadu-police-for-tracing-2510-missing-persons-within-a-fortnight/article71747488.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
   {
    "id": "J0aWNsZTcxNzQ1MDI0LmVjZQ",
    "date": "2026-11-26",
@@ -18,6 +130,26 @@
     "GS-2",
     "GS-3",
     "Prelims"
+   ],
+   "score": 6,
+   "important": true
+  },
+  {
+   "id": "ydGljbGU3MTc0NjUwOC5lY2U",
+   "date": "2026-11-26",
+   "title": "Samajwadi Party releases manifesto with focus on youth, jobs and farmers",
+   "summary": "Its promises include 25 lakh government jobs, ₹5,000 a month for unemployed graduates, caste census, annual pension of ₹40,000 for elderly women, immediate farm loan waiver, 300 units of free domestic electricity and subsidised canteens",
+   "link": "https://www.thehindu.com/news/national/uttar-pradesh/sps-election-manifesto-promises-5000-monthly-allowance-for-graduates-free-power-and-msp-guarantee/article71746508.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Polity & Governance",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
    ],
    "score": 6,
    "important": true
@@ -93,6 +225,46 @@
     "Science & Technology",
     "Health & Social Issues",
     "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NDc4NTcuZWNl",
+   "date": "2026-11-26",
+   "title": "Kremlin accuses Ukraine of trying to widen conflict zone to Mediterranean and Baltic seas",
+   "summary": "Ukraine sank a Russian naval corvette in a Libyan port using maritime drones on Sunday, a day after ​it carried out a ‌drone strike on a Russian military-linked cargo ship in the Gulf of Finland",
+   "link": "https://www.thehindu.com/news/international/kremlin-accuses-ukraine-of-trying-to-widen-conflict-zone-to-mediterranean-and-baltic-seas/article71747857.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Internal Security & Defence",
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NDc2NzIuZWNl",
+   "date": "2026-11-26",
+   "title": "China's Defence Ministry urges Japan to stop 'stirring up' South China Sea disputes",
+   "summary": "The comments were in response to an ⁠announcement earlier this month that Japan will provide the Philippines with radars and drones to boost its coastal surveillance capabilities",
+   "link": "https://www.thehindu.com/news/international/chinas-defence-ministry-urges-japan-to-stop-stirring-up-south-china-sea-disputes/article71747672.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Internal Security & Defence",
+    "Polity & Governance",
+    "International Relations"
    ],
    "gs": [
     "GS-3",
@@ -337,6 +509,119 @@
    "gs": [
     "GS-2",
     "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NDc3OTguZWNl",
+   "date": "2026-11-26",
+   "title": "CPI announces three-day ‘Jail Bharo Andolan’ from December 1",
+   "summary": "Demands include CEC Gyanesh Kumar’s resignation, implementation of women’s quota, and legal MSP guarantee for farmers",
+   "link": "https://www.thehindu.com/news/national/cpi-announces-three-day-jail-bharo-andolan-from-december-1/article71747798.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTc0NzMzMy5lY2U",
+   "date": "2026-11-26",
+   "title": "Bengaluru: Forum launches indefinite protest against school adoption scheme",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/karnataka/bengaluru-forum-launches-indefinite-protest-against-school-adoption-scheme/article71747333.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NDc2MzguZWNl",
+   "date": "2026-11-26",
+   "title": "Pendency a challenge to justice delivery, says President",
+   "summary": "At the Constitution Day celebrations organised by the Supreme Court, President Murmu listed measures used to improve timely delivery of justice",
+   "link": "https://www.thehindu.com/news/national/pendency-a-challenge-to-justice-delivery-says-president/article71747638.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzQ2ODE2LmVjZQ",
+   "date": "2026-11-26",
+   "title": "Right to vote cannot be compromised: People Against SIR protest in Delhi on Constitution Day",
+   "summary": "Over 200 protesters, including student groups, farmers’ unions and women’s organisations, demand scrapping of the SIR and action against the CEC; police barricades prevent march to Jantar Mantar",
+   "link": "https://www.thehindu.com/news/cities/Delhi/right-to-vote-cannot-be-compromised-people-against-sir-protest-in-delhi-on-constitution-day/article71746816.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Economy",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTc0Nzk4My5lY2U",
+   "date": "2026-11-26",
+   "title": "Israel kills nine in Gaza, including Hamas-appointed deputy Education Minister, officials say",
+   "summary": "Medics said an Israeli airstrike hit an apartment in Deir Al-Balah in central Gaza Strip, killing ‌Khaled Abu Nada, the Deputy Gaza Education Minister, and his wife.",
+   "link": "https://www.thehindu.com/news/international/israel-kills-nine-in-gaza-including-hamas-appointed-deputy-education-minister-officials-say/article71747983.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTc0Nzg5OC5lY2U",
+   "date": "2026-11-26",
+   "title": "Nvidia stops shipping AI servers to four Southeast Asian nations",
+   "summary": "The Financial Times report said Nvidia had instructed manufacturing partners to stop shipping computer servers to buyers in Malaysia, Singapore, Thailand and Indonesia",
+   "link": "https://www.thehindu.com/news/international/nvidia-stops-shipping-ai-servers-to-four-southeast-asian-nations/article71747898.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Economy",
+    "Science & Technology",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "Prelims"
    ],
    "score": 3,
    "important": false
@@ -854,6 +1139,76 @@
    "section": "Explained",
    "topics": [
     "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3Mzk3MjAuZWNl",
+   "date": "2026-11-26",
+   "title": "Up in the air: Karnataka’s regional airports hit turbulence",
+   "summary": "It has been a challenging phase for Karnataka’s seven Tier-I and Tier-II airports, as airlines have frequently dropped routes citing poor financial viability post the subsidy period under the ambitious UDAN (Ude Desh ka Aam Naagrik) scheme. The Hindu examines the growing uncertainty they face...",
+   "link": "https://www.thehindu.com/news/national/karnataka/up-in-the-air-karnatakas-regional-airports-hit-turbulence/article71739720.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NDc5MzMuZWNl",
+   "date": "2026-11-26",
+   "title": "CJP holds Constitution Day rally in Nagpur; Dipke targets Centre, ECI",
+   "summary": "“There is not a single institution in this country that has not been hijacked. The Election Commission is the foremost among them,” alleges Cockroach Janta Party founder",
+   "link": "https://www.thehindu.com/news/national/cjp-holds-constitution-day-rally-in-nagpur-dipke-targets-centre-eci/article71747933.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTc0NzQ4Ny5lY2U",
+   "date": "2026-11-26",
+   "title": "PMLA Bench adjudicating property attachment must have at least one judicial member: Supreme Court",
+   "summary": "The PMLA permits the State to reach into a citizen’s estate even before guilt is proved, the Supreme Court notes",
+   "link": "https://www.thehindu.com/news/national/pmla-bench-adjudicating-property-attachment-must-have-at-least-one-judicial-member-supreme-court/article71747487.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzQ3NTk5LmVjZQ",
+   "date": "2026-11-26",
+   "title": "Delhi tops list of most polluted NCR cities for PM2.5, PM10 despite no severe AQI days",
+   "summary": "The city's air quality remained in the poor or very poor categories for 30 days",
+   "link": "https://www.thehindu.com/sci-tech/health/delhi-tops-list-of-most-polluted-ncr-cities-for-pm25-pm10-despite-no-severe-aqi-days/article71747599.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Environment & Ecology"
    ],
    "gs": [
     "GS-3"
