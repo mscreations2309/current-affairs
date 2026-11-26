@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T05:01:36.144Z",
+ "updated": "2026-11-26T15:12:40.400Z",
  "items": [
   {
    "id": "J0aWNsZTcxNzQ1MDI0LmVjZQ",
@@ -56,6 +56,47 @@
    "gs": [
     "GS-3",
     "GS-1"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzQ1OTc0LmVjZQ",
+   "date": "2026-11-26",
+   "title": "Infectious diseases from free-ranging domestic animals threaten Nilgiris wildlife",
+   "summary": "Five of the 12 reported instances of wildlife deaths since 2005 likely due to infections contracted from feral animals were recorded in the Nilgiris district, shows report by Forest Department",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/infectious-diseases-from-free-ranging-domestic-animals-threaten-nilgiris-wildlife/article71745974.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology",
+    "Health & Social Issues",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzQ1MzM5LmVjZQ",
+   "date": "2026-11-26",
+   "title": "New images reveal crater on asteroid hit by NASA’s DART planetary defence mission",
+   "summary": "The DART, short for Double Asteroid Redirection ⁠Test, spacecraft collided with Dimorphos on September 26, 2022; asteroid tumbles in space, with boulders flying around",
+   "link": "https://www.thehindu.com/sci-tech/science/new-images-reveal-crater-on-asteroid-struck-by-dart-spacecraft/article71745339.ece",
+   "source": "The Hindu",
+   "section": "Science",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
    ],
    "score": 4,
    "important": false
@@ -128,6 +169,173 @@
     "Environment & Ecology"
    ],
    "gs": [
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzQ2NzYyLmVjZQ",
+   "date": "2026-11-26",
+   "title": "Prototype of Chandrayaan-5/LUPEX rover unveiled",
+   "summary": "The Chandrayaan-5/LuPEX mission is the fifth mission in the Chandrayaan series of lunar missions; JAXA, the Japanese space agency, unveiled the rover in Japan on November 25",
+   "link": "https://www.thehindu.com/news/national/karnataka/prototype-of-chandrayaan-5lupex-rover-unveiled/article71746762.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTc0NzA4OS5lY2U",
+   "date": "2026-11-26",
+   "title": "Government proposes special sitting of Parliament from November 30",
+   "summary": "Union Parliamentary Affairs Minister Kiren Rijiju said that the Lok Sabha will be convened on November 30, 2026, and the Rajya Sabha will be convened on December 2, 2026",
+   "link": "https://www.thehindu.com/news/national/government-to-reconvene-parliament-from-november-30-to-december-3-kiren-rijiju/article71747089.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NDY1NTcuZWNl",
+   "date": "2026-11-26",
+   "title": "Universities in Andhra Pradesh to introduce AI-integrated R-26 engineering curriculum",
+   "summary": "The curriculum seeks to make engineering education more relevant to evolving industry requirements, improve employability and promote innovation, research and entrepreneurship, says APSCHE Chairman",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/universities-in-andhra-pradesh-to-introduce-ai-integrated-r-26-engineering-curriculum/article71746557.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3MzgxMTUuZWNl",
+   "date": "2026-11-26",
+   "title": "Audit seeks clarification on 36 transactions worth ₹19 lakh in Agriculture Department",
+   "summary": "Employees are saying there have been misappropriation of funds through private bank accounts, manipulation of recipient IDs and diversion of salary and subsidy payments",
+   "link": "https://www.thehindu.com/news/national/karnataka/audit-seeks-clarification-on-36-transactions-worth-19-lakh-in-agriculture-department/article71738115.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzQ1OTI5LmVjZQ",
+   "date": "2026-11-26",
+   "title": "Situation in India-China border areas remains ‘generally stable’, says China",
+   "summary": "On November 24, 2026, India and China concluded a second round of Corps Commander-level talks aimed at easing tensions along the Line of Actual Control (LAC) in Arunachal Pradesh",
+   "link": "https://www.thehindu.com/news/international/situation-in-india-china-border-areas-remain-generally-stable-says-china/article71745929.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Internal Security & Defence",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NDU2OTIuZWNl",
+   "date": "2026-11-26",
+   "title": "Elon Musk says every child in U.S. will get two SpaceX shares",
+   "summary": "SpaceX did ​not immediately respond ‌to a request for comment on whether Mr. Musk’s SpaceX share donations would be linked to Trump Accounts or ‌come with any kind of ​lockup period",
+   "link": "https://www.thehindu.com/news/international/elon-musk-says-every-child-in-us-will-get-two-spacex-shares/article71745692.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzA5ODg1OTAuZWNl",
+   "date": "2026-11-26",
+   "title": "India, Netherlands upgrade ties; sign 17 MoUs on water, renewable energy, and semiconductors",
+   "summary": "MEA pushes back on Dutch concerns over press freedom and minority rights in India. Agreements signed include a semiconductor fabrication project between TATA Electronics and Dutch company ASML",
+   "link": "https://www.thehindu.com/news/national/india-netherlands-elevating-ties-to-strategic-partnership-says-pm-modi/article70988590.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Environment & Ecology",
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTQ1MDU1My5lY2U",
+   "date": "2026-11-26",
+   "title": "Low funding for postdoc roles fuelling brain drain, govt. funds only 2,500 positions",
+   "summary": "India spends about $13 a year per person on research; China spends $250, the U.S. over $2,100. There are just 262 full-time-equivalent researchers per million people in the country",
+   "link": "https://www.thehindu.com/education/the-ecosystem-divide-why-indian-bright-minds-thrive-abroad-but-stall-at-home/article71450553.ece",
+   "source": "The Hindu",
+   "section": "Science",
+   "topics": [
+    "International Relations",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "eHBsYWluZWQtMTA5NzkzMDcv",
+   "date": "2026-11-26",
+   "title": "Tariffs come full circle: How Trump’s Section 301 tariffs restore duties struck down by US top court",
+   "summary": "",
+   "link": "https://indianexpress.com/article/explained/explained-economics/us-tariffs-india-section-301-trade-deal-explained-10979307/",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
     "GS-3"
    ],
    "score": 3,
@@ -359,6 +567,291 @@
    "link": "https://www.livemint.com/economy/south-korea-raises-rates-to-2-year-high-as-inflation-and-housing-prices-remain-a-worry-11795655573553.html",
    "source": "Mint",
    "section": "Economy",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzQ3NDEyLmVjZQ",
+   "date": "2026-11-26",
+   "title": "Watch: Vijay promised women’s safety. Did his government deliver? | Focus Tamil Nadu",
+   "summary": "A woman IAS officer in Tamil Nadu has filed a harassment complaint against Kallakurichi TVK MLA C. Arul Vignesh. The case has raised questions about Chief Minister Vijay’s commitment to women’s safety and his government’s response. In this episode of The Hindu Focus Tamil Nadu, we examine the Madras High Court’s intervention and the questions of accountability facing the TVK government.",
+   "link": "https://www.thehindu.com/videos/shows/watch-vijay-promised-womens-safety-did-his-government-deliver-focus-tamil-nadu/article71747412.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NDY3NzUuZWNl",
+   "date": "2026-11-26",
+   "title": "Tiruvannamalai railway station nets over ₹60 lakh revenue during Karthigai Deepam",
+   "summary": "Tiruchi Railway Division had made comprehensive arrangements for issue of tickets, crowd management, and 24 special trains were operated to the temple town to clear the extra rush",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/tiruvannamalai-railway-station-nets-over-60-lakh-revenue-during-karthigai-deepam/article71746775.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzQ2ODMwLmVjZQ",
+   "date": "2026-11-26",
+   "title": "Lessons on Constitution in all schools in Karnataka from next academic year, says Chief Minister D.K. Shivakumar",
+   "summary": "Separate committee to be formed to incorporate lessons into curriculum, says Karnataka Chief Minister D.K. Shivakumar at Constitution Day celebrations in Mysuru",
+   "link": "https://www.thehindu.com/news/national/karnataka/lessons-on-constitution-in-all-schools-in-karnataka-from-next-academic-year-says-chief-minister-dk-shivakumar/article71746830.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzQ3MTU3LmVjZQ",
+   "date": "2026-11-26",
+   "title": "Enumerate Telangana tenant farmers in crop loss survey; support financially distressed farmers: Committee",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/telangana/enumerate-telangana-tenant-farmers-in-crop-loss-survey-support-financially-distressed-farmers-committee/article71747157.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTc0Njc4NS5lY2U",
+   "date": "2026-11-26",
+   "title": "More migrant children in aided than in govt. schools in Keralam",
+   "summary": "Total number of migrant children in Classes I to X across government, aided, and unaided sectors crossed 25,000 in 2025-26 academic year",
+   "link": "https://www.thehindu.com/news/national/kerala/more-migrant-children-in-aided-schools-than-govt-in-keralam/article71746785.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzQ1Nzg1LmVjZQ",
+   "date": "2026-11-26",
+   "title": "YSRCP accuses coalition government of undermining constitutional values",
+   "summary": "The opposition party leaders call for restoration of constitutional governance, social justice and democratic rights in the State",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-accuses-coalition-government-of-undermining-constitutional-values/article71745785.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTc0NjU3MS5lY2U",
+   "date": "2026-11-26",
+   "title": "India’s Constitution is the bedrock of its democracy: Lok Sabha Speaker",
+   "summary": "Addressing young participants on Constitution Day, Mr. Birla said it had guided the world’s largest democracy through successive phases of transformation while preserving its unity amidst extraordinary diversity",
+   "link": "https://www.thehindu.com/news/national/indias-constitution-is-the-bedrock-of-its-democracy-lok-sabha-speaker/article71746571.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzQ2MTUxLmVjZQ",
+   "date": "2026-11-26",
+   "title": "Mysuru summit: Industry leaders call for wider adoption of AI in industrial operations",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/karnataka/mysuru-summit-industry-leaders-call-for-wider-adoption-of-ai-in-industrial-operations/article71746151.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "International Relations",
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzQ2MjUzLmVjZQ",
+   "date": "2026-11-26",
+   "title": "Two-thirds of adolescents in India are deficient in vitamin B12: ICMR survey",
+   "summary": "Findings raise concerns about the long-term consequences of nutritional deficiencies across generations, particularly among children, adolescents, and pregnant women",
+   "link": "https://www.thehindu.com/sci-tech/health/two-thirds-of-adolescents-in-india-are-deficient-in-vitamin-b12-icmr-survey/article71746253.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzQ2MDA3LmVjZQ",
+   "date": "2026-11-26",
+   "title": "Experts say new U.S. tariffs do not pose substantial threat, India should not rush into trade deal",
+   "summary": "The latest proposal by the USTR takes the tariff framework on India back to what it was at the start of trade deal negotiations",
+   "link": "https://www.thehindu.com/business/Economy/experts-say-new-us-tariffs-do-not-pose-substantial-threat-india-should-not-rush-into-trade-deal/article71746007.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzQ1MDk2LmVjZQ",
+   "date": "2026-11-26",
+   "title": "Daily Quiz: on famous meeting between state heads",
+   "summary": "Xi Jinping, Vladimir Putin, and Donald Trump held a summit in Shenzhen last week in what many have described as a historic moment. A quiz on famous meetings between state heads.",
+   "link": "https://www.thehindu.com/news/international/daily-quiz-on-famous-meeting-between-state-heads/article71745096.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NDY0MDMuZWNl",
+   "date": "2026-11-26",
+   "title": "Indian pharma company Hetero begins supply of generic twice-yearly HIV prevention injection in Africa",
+   "summary": "The World Health Organization (WHO) has recommended twice-yearly injectable lenacapavir as an additional HIV prevention option, based on clinical evidence showing high efficacy in preventing HIV infection",
+   "link": "https://www.thehindu.com/sci-tech/health/indian-pharma-company-hetero-begins-supply-of-generic-twice-yearly-hiv-prevention-injection-in-africa/article71746403.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "International Relations",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "RzLWZzc2FpLTEwOTc5OTA4Lw",
+   "date": "2026-11-26",
+   "title": "Salt, sugar and fat warnings on food packets: What changes after the Supreme Court ruling?",
+   "summary": "",
+   "link": "https://indianexpress.com/article/explained/supreme-court-warning-labels-packaged-foods-fssai-10979908/",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "wcmVwYXJlZC0xMDk3OTY0Ny8",
+   "date": "2026-11-26",
+   "title": "New US tariffs, old playbook: Why India might be better prepared this time",
+   "summary": "",
+   "link": "https://indianexpress.com/article/explained/explained-economics/new-us-tariffs-india-impact-prepared-10979647/",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "5zY2llbmNlLTEwOTc4NjQzLw",
+   "date": "2026-11-26",
+   "title": "Why Ambedkar said democracy needs a conscience, not just a Constitution",
+   "summary": "",
+   "link": "https://indianexpress.com/article/explained/explained-politics/ambedkar-democracy-public-conscience-10978643/",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "R2YW50YWdlLTEwOTc4OTU3Lw",
+   "date": "2026-11-26",
+   "title": "New US tariff push: Why India has an edge over its rivals, and at what cost",
+   "summary": "",
+   "link": "https://indianexpress.com/article/explained/explained-economics/us-new-section-301-tariffs-india-trade-deal-asean-advantage-10978957/",
+   "source": "Indian Express",
+   "section": "Explained",
    "topics": [
     "Economy"
    ],
