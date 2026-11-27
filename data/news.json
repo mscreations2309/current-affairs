@@ -1,6 +1,80 @@
 {
- "updated": "2026-11-27T08:27:44.504Z",
+ "updated": "2026-11-27T18:57:03.688Z",
  "items": [
+  {
+   "id": "ydGljbGU3MTc1MTcyNy5lY2U",
+   "date": "2026-11-28",
+   "title": "Congress reaches out to DMK, other Opposition parties to stall passage of delimitation Bill",
+   "summary": "The party may urge CMs of southern States to hold press conferences, and is likely to hold a nationwide campaign against ‘divisive’ delimitation exercise",
+   "link": "https://www.thehindu.com/news/national/congress-reaches-out-to-dmk-other-opposition-parties-to-stall-passage-of-delimitation-bill/article71751727.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzUwOTIzLmVjZQ",
+   "date": "2026-11-28",
+   "title": "Former ISRO chief stresses environmental safety in technological advancement",
+   "summary": "International toxicology convention in Mysuru brings scientists and researchers together to discuss emerging health and environmental risks",
+   "link": "https://www.thehindu.com/news/national/karnataka/former-isro-chief-stresses-environmental-safety-in-technological-advancement/article71750923.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NTEwMzQuZWNl",
+   "date": "2026-11-28",
+   "title": "Fair play: on a hurried delimitation of Lok Sabha constituencies",
+   "summary": "The government must build consensus on delimitation",
+   "link": "https://www.thehindu.com/opinion/editorial/fair-play-on-a-hurried-delimitation-of-lok-sabha-constituencies/article71751034.ece",
+   "source": "The Hindu",
+   "section": "Editorial",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzUxNDY1LmVjZQ",
+   "date": "2026-11-28",
+   "title": "Supreme Court orders Karthigai Deepam to be lit at ‘deepathoon’ on November 28; issues contempt notice",
+   "summary": "Bench directs Tamil Nadu Chief Secretary, DGP, Madurai District Collector, temple authorities to be present for next hearing on Dec. 15; court sees ‘pre-meditated conspiracy' between State and temple trustees",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/supreme-court-orders-karthigai-deepam-to-be-lit-on-deepathoon-on-november-28-issues-contempt-notice/article71751465.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
   {
    "id": "ydGljbGU3MTc0MjMzNC5lY2U",
    "date": "2026-11-27",
@@ -19,6 +93,24 @@
     "Prelims"
    ],
    "score": 8,
+   "important": true
+  },
+  {
+   "id": "J0aWNsZTcxNzUyMTUwLmVjZQ",
+   "date": "2026-11-27",
+   "title": "Centre proposes freeze on Lok Sabha seat proportions for States until 2051",
+   "summary": "The new Constitutional Amendment Bill, accompanied by a fresh Delimitation Bill, proposes to increase the number of Lok Sabha seats in each State by 50%; they also bring into force the 33% reservation for women in the Lok Sabha",
+   "link": "https://www.thehindu.com/news/national/centre-proposes-freeze-on-lok-sabha-seat-proportions-for-states-until-2051/article71752150.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 7,
    "important": true
   },
   {
@@ -56,6 +148,44 @@
    "gs": [
     "GS-2",
     "GS-3"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "ydGljbGU3MTc1MTg1NS5lY2U",
+   "date": "2026-11-27",
+   "title": "Naidu appeals to opposition parties to support delimitation, women’s quota Bills",
+   "summary": "Calling it a historic opportunity to enhance women’s participation in governance and nation-building, Chandrababu Naidu says the quota Bill should be passed unanimously; 50% increase in Lok Sabha seats will protect southern States’ interests, he adds",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-appeals-to-opposition-parties-to-support-delimitation-womens-quota-bills/article71751855.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "MTc5NTc4MjQ1NDM5NC5odG1s",
+   "date": "2026-11-27",
+   "title": "China Railway Resources Group bets on Zimbabwe's gold potential with AI mining and $600 million investment plan",
+   "summary": "Zimbabwe-based Duration Gold and China Railway Resources Group signed an agreement to explore a potential $600 million investment in reviving and expanding four gold mines. The proposed partnership would bring financing, engineering expertise and AI-powered mining technology to Vubachikwe, Gaika.",
+   "link": "https://www.livemint.com/economy/china-railway-resources-group-bets-on-zimbabwes-gold-potential-with-ai-mining-and-600-million-investment-plan-11795782454394.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy",
+    "Science & Technology",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
    ],
    "score": 5,
    "important": true
@@ -105,6 +235,104 @@
    "title": "Donald Trump urges Vladimir Putin to end ‘military aggression’ in Europe",
    "summary": "Donald Trump said he had requested Vladimir Putin when they met in China last week, adding that he thought it would help lead to a deal to end Moscow's grinding war in Ukraine",
    "link": "https://www.thehindu.com/news/international/donald-trump-urges-vladimir-putin-to-end-military-aggression-in-europe/article71749343.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzUxNDk2LmVjZQ",
+   "date": "2026-11-27",
+   "title": "INDIA bloc to chalk out Parliament strategy as Opposition rallies against delimitation Bills",
+   "summary": "Floor leaders to discuss a joint response ahead of special session; parties warn the move could distort representation, weaken federalism and politically benefit the BJP",
+   "link": "https://www.thehindu.com/news/national/india-bloc-to-chalk-out-parliament-strategy-as-opposition-rallies-against-delimitation-bills/article71751496.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NTA3MTguZWNl",
+   "date": "2026-11-27",
+   "title": "Central Sanskrit University urges citizens to accurately record Sanskrit proficiency in Census 2027",
+   "summary": "Vice-Chancellor Shrinivasa Varakhedi says the Census is not merely a headcount exercise, but an important instrument for documenting the nation’s cultural, linguistic, and social identity",
+   "link": "https://www.thehindu.com/news/cities/Delhi/central-sanskrit-university-urges-citizens-to-accurately-record-sanskrit-proficiency-in-census-2027/article71750718.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzUyMjE0LmVjZQ",
+   "date": "2026-11-27",
+   "title": "U.S. military says it disabled commercial ship trying to run Iran blockade",
+   "summary": "U.S. military aircraft ​launched ‌”precision munitions” that struck the stern of the ‌Palau-flagged M/V ​Pacific Archer after it departed ⁠from the port city of ‌Bandar Abbas",
+   "link": "https://www.thehindu.com/news/international/us-military-says-it-disabled-commercial-ship-trying-to-run-iran-blockade/article71752214.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Economy",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NTA4NDguZWNl",
+   "date": "2026-11-27",
+   "title": "Is stubble burning in Punjab affecting Sri Lanka’s air quality?",
+   "summary": "Pollution from northern India and the wider region travels over the Bay of Bengal to Sri Lanka during the northeast monsoon, and crop burning is part of that mix",
+   "link": "https://www.thehindu.com/sci-tech/science/is-stubble-burning-in-punjab-affecting-sri-lankas-air-quality/article71750848.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Environment & Ecology",
+    "International Relations",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzUwMDQ3LmVjZQ",
+   "date": "2026-11-27",
+   "title": "Pakistan set to host talks with Saudi Arabia, Turkey under trilateral defence pact",
+   "summary": "The talks in Islamabad will focus on West Asia and the Houthi attacks on Saudi Arabia, two security officials said, with Pakistan’s Defence and Foreign Ministers and army chief attending",
+   "link": "https://www.thehindu.com/news/international/pakistan-set-to-host-talks-with-saudi-arabia-turkey-under-trilateral-defence-pact/article71750047.ece",
    "source": "The Hindu",
    "section": "International",
    "topics": [
@@ -356,6 +584,102 @@
    "gs": [
     "GS-1",
     "Prelims"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTc1MjE5My5lY2U",
+   "date": "2026-11-27",
+   "title": "Govt. committed to protecting environment and safeguarding resources for future generations: Revanth Reddy",
+   "summary": "Chief Minister says State facing a serious situation, with projections indicating that there might be no rainfall for the next eight months; calls for a collective effort to tackle climate change and challenges posed by the El Niño phenomenon",
+   "link": "https://www.thehindu.com/news/national/telangana/govt-committed-to-protecting-environment-and-safeguarding-resources-for-future-generations-revanth-reddy/article71752193.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTc1MDQ1Mi5lY2U",
+   "date": "2026-11-27",
+   "title": "Arsenic in the water: Thailand presses Myanmar over mining pollution",
+   "summary": "Tap water supplies to 14 villages in Mae Sai district near the Myanmar border were suspended earlier this month after arsenic levels were found to be nearly 30 times government limits",
+   "link": "https://www.thehindu.com/news/international/arsenic-in-the-water-thailand-presses-myanmar-over-mining-pollution/article71750452.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Environment & Ecology",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTc0OTY0Ny5lY2U",
+   "date": "2026-11-27",
+   "title": "Bombay High Court puts road project on hold till State files report on mangrove loss, compensatory measures",
+   "summary": "The Bombay High Court directed the State to submit figures documenting tree cover, losses, and five-year survival rates before any orders are passed",
+   "link": "https://www.thehindu.com/news/cities/mumbai/bombay-high-court-puts-road-project-on-hold-till-state-files-report-on-mangrove-loss-compensatory-measures/article71749647.ece",
+   "source": "The Hindu",
+   "section": "Environment",
+   "topics": [
+    "Polity & Governance",
+    "Environment & Ecology",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTc1MDc1OC5lY2U",
+   "date": "2026-11-27",
+   "title": "Hyderabad’s air pollution puts focus on hospitals; doctors call for city-level health database",
+   "summary": "Hospitals want to share anonymised data on respiratory illnesses, strokes and cardiovascular conditions, while doctors propose using daily AQI readings to alert vulnerable patients",
+   "link": "https://www.thehindu.com/news/national/telangana/hyderabads-air-pollution-puts-focus-on-hospitals-doctors-call-for-city-level-health-database/article71750758.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Environment & Ecology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NDYzODcuZWNl",
+   "date": "2026-11-27",
+   "title": "MGM Healthcare Malar launches AI-powered MRI facility in Chennai",
+   "summary": "According to the hospital, the technology can reduce scan time; a brain MRI that conventionally takes about 35 minutes can now be completed in under 14 minutes",
+   "link": "https://www.thehindu.com/news/cities/chennai/mgm-healthcare-malar-launches-ai-powered-mri-facility-in-chennai/article71746387.ece",
+   "source": "The Hindu",
+   "section": "Health",
+   "topics": [
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
    ],
    "score": 3,
    "important": false
@@ -679,6 +1003,288 @@
    ],
    "gs": [
     "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NTAzMzEuZWNl",
+   "date": "2026-11-27",
+   "title": "BJP, poll body conspiring to add fake voters in U.P., says Akhilesh",
+   "summary": "Akhilesh Yadav said delimitation would be the BJP’s biggest mistake; he said the BJP, in collaboration with the Election Commission, has added 2,84,000 fake votes to the voter list",
+   "link": "https://www.thehindu.com/news/national/uttar-pradesh/who-is-lying-akhilesh-questions-up-cm-ceo-over-conflicting-missing-voter-figures/article71750331.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NTE5OTcuZWNl",
+   "date": "2026-11-27",
+   "title": "Supreme Court refuses to mandate unified portal for tracing unclaimed deposits; cites regulatory reforms",
+   "summary": "Sucheta Dalal’s petition highlighted the accumulation of unclaimed deposits and investments with financial institutions and the procedural difficulties faced by nominees and legal heirs in recovering them",
+   "link": "https://www.thehindu.com/news/national/supreme-court-refuses-to-mandate-unified-portal-for-tracing-unclaimed-deposits-cites-regulatory-reforms/article71751997.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTc1MTkwOS5lY2U",
+   "date": "2026-11-27",
+   "title": "Mamata-led Trinamool Congress questions legality of rebel MPs voting on delimitation bill amid pending defection case",
+   "summary": "Party asks whether 20 MPs who switched to the NDA-backed NCPI can participate in voting before the Speaker decides on disqualification petitions",
+   "link": "https://www.thehindu.com/news/national/mamata-led-trinamool-congress-questions-legality-of-rebel-mps-voting-on-delimitation-bill-amid-pending-defection-case/article71751909.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTc1MTMyMi5lY2U",
+   "date": "2026-11-27",
+   "title": "President Droupadi Murmu offers prayers at Guruvayur temple",
+   "summary": "Accompanied by Governor Om Prakash Mathur, she offers kanikka; receives traditional souvenirs and greets devotees waiting outside the temple",
+   "link": "https://www.thehindu.com/news/national/kerala/president-droupadi-murmu-offers-prayers-at-guruvayur-temple/article71751322.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NTE3NjcuZWNl",
+   "date": "2026-11-27",
+   "title": "Forest department temporarily calls off Mission Chakkakompan after failure on third day",
+   "summary": "Poor visibility and incomplete sedation force the officials to halt the operation on the third day of the mission",
+   "link": "https://www.thehindu.com/news/national/kerala/forest-department-temporarily-calls-off-mission-chakkakompan-after-failure-on-third-day/article71751767.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzUyMDM2LmVjZQ",
+   "date": "2026-11-27",
+   "title": "Teenage Indian AI entrepreneur takes selfie with Putin, goes viral",
+   "summary": "Raul John Aju, founder and chief technology officer of Kochi-based AIRealm Technologies, met Putin at the AI Journey conference",
+   "link": "https://www.thehindu.com/news/national/teenage-indian-ai-entrepreneur-takes-selfie-with-putin-goes-viral/article71752036.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzUyMTM4LmVjZQ",
+   "date": "2026-11-27",
+   "title": "Delimitation redraw brings DMK and BJP together, deepens rift with Congress",
+   "summary": "With the amended Bill meeting its long-standing demands on seat-share protection and an extended freeze on inter-State redistribution, the DMK has thrown its weight behind the government, drawing sharp criticism from its former INDIA bloc ally",
+   "link": "https://www.thehindu.com/news/national/delimitation-redraw-brings-dmk-and-bjp-together-deepens-rift-with-congress/article71752138.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTc1MTk3Mi5lY2U",
+   "date": "2026-11-27",
+   "title": "Karnataka’s voice in Parliament a serious concern: Dy.CM",
+   "summary": "Union Minister H. D. Kumaraswamy supports the Bill, even as former CM Siddaramaiah called for an all party meeting",
+   "link": "https://www.thehindu.com/news/national/karnataka/karnatakas-voice-in-parliament-a-serious-concern-dycm/article71751972.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTc1MjExMi5lY2U",
+   "date": "2026-11-27",
+   "title": "NATO jets scrambled after drone enters Latvian airspace",
+   "summary": "This year, two drones were shot down over Latvia by NATO fighter jets, which protect the skies of Baltic states",
+   "link": "https://www.thehindu.com/news/international/nato-jets-scrambled-after-drone-enters-latvian-airspace/article71752112.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NTA3ODMuZWNl",
+   "date": "2026-11-27",
+   "title": "Hackers breach U.S. Air Force flagship Cloud One computing platform",
+   "summary": "The intrusion at Cloud One was discovered within the past month or so ⁠during work to upgrade the system, two people familiar with the matter said",
+   "link": "https://www.thehindu.com/news/international/hackers-breach-us-air-force-flagship-cloud-one-computing-platform/article71750783.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTc1MDE2NC5lY2U",
+   "date": "2026-11-27",
+   "title": "Hasina has become a ‘thorn’ in Bangladesh-India ties: Minister Humaiun Kobir",
+   "summary": "State Minister for Foreign Affairs Humaiun Kobir says New Delhi is beginning to realise the strain the former Prime Minister’s presence in India is causing to bilateral relations",
+   "link": "https://www.thehindu.com/news/international/hasina-has-become-a-thorn-in-bangladesh-india-ties-minister-humaiun-kobir/article71750164.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTc1MTA0My5lY2U",
+   "date": "2026-11-27",
+   "title": "RBI cuts daily CRR maintenance to 90%, to unlock over ₹40,000 crore",
+   "summary": "The latest relaxation is expected to improve banks’ liquidity flexibility and support credit deployment.",
+   "link": "https://www.thehindu.com/business/Economy/rbi-cuts-daily-crr-maintenance-to-90-to-unlock-over-40000-crore/article71751043.ece",
+   "source": "The Hindu",
+   "section": "Economy",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NTA0NjIuZWNl",
+   "date": "2026-11-27",
+   "title": "COP31: India welcomes $50 million climate fund pledge, says adaptation needs far greater",
+   "summary": "He said India would continue to push for enhanced financial support, transparency in delivery and implementation of existing commitments, particularly for the poorest and most climate-vulnerable countries.",
+   "link": "https://www.thehindu.com/news/national/cop31-india-welcomes-50-million-climate-fund-pledge-says-adaptation-needs-far-greater/article71750462.ece",
+   "source": "The Hindu",
+   "section": "Environment",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "MnRETWpjMmVIWlFRUT9vYz01",
+   "date": "2026-11-27",
+   "title": "Why is Bangladesh protesting for Sheikh Hasina’s return, and how is India involved?",
+   "summary": "Why is Bangladesh protesting for Sheikh Hasina’s return, and how is India involved? The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSG9kNHZQN2JuQkRCQk5aVVhUa1U5WnQ1bzlzZEVXZzRFVGlHVlZzcUw3dmdXRWZxQXFNdTZlZXktZEdCNVhIWXVSRVZBZ2E3RW9JNFQ5bGYyMzhhVHhSNzUtLWdSbXptVXhKa09ZWTZrODZGeVd6RFRnSm5uTDIxTjQ5UHNLR2hUbmtON25zR2xSeVMyZUFDWEt0N21rbk1hb09MUDdaM2V3UXNQbFM1WmdUN2szYU3SAb4BQVVfeXFMTlRUSGk0QjlxSGdhc2pVRC1nWkUybDlhR3dLdmF4b0hmWmdyc1Y0OUstRy1jb29td04wVGxxdng5aFhPM1pTZnhBSXpabndWbnNoUXdocy1GYUdjb2Y3Tk45bjJhYUxjTksyV01XaHZJS2g4TVNSWHlpbGpMMzdrN2tFRTJwTlh6NnVtdnU5amFRWVF1YVhUUUI5dmI2UVlaUnRQQ3lpNkk1N0poWXlncnFweG5HQ2tDMjc2eHZQQQ?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "VVZvUVhwU1NHOUxVUT9vYz01",
+   "date": "2026-11-27",
+   "title": "Tata Steel-APL Apollo deal: Why SEBI is reviewing the Rs 28,000-crore deal",
+   "summary": "Tata Steel-APL Apollo deal: Why SEBI is reviewing the Rs 28,000-crore deal The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeXlkTXAtLW8zYTFvV1VPSmpaRmY5S194VW5IQWpyeHZ4bU9xZ0xNYllkZHRpMmlZMFlCeEJKbzJKRG9oN3UwOUxfdFlIYkEzWk9WVVBvWk1nTmdSbGg4cXZTdU53TzB3Mnh5bDg3T3ZhVUN5LWstS0x4b29zdEVwVUJhNlI2MU1YMDNHRWhvZ1l6SnFpTXFQbGktWHFqTngxZDV6SjRrX1VSRGFXNVhtLW5qTnBoZEc2SE5JNXhhd3k2Wkcwa3JsTjh5cWZYNUhzRE1JbjNrWi1MZUnSAeIBQVVfeXFMTkRVaTlhLXJyOG5XNmFNNDNpdnFIWVZvUUZXTUI3U2ZYdTNpMThhWUF6Y0xORjZZdFp4MURpSTNQSi1uRzN3V05kb0Q1QjVRRVVldE42N2diVENXTnN5RnZuanZrYzN0SHRJcTlpSFNBNDB6TXFMZFRNZFdORXZ4cm14RnhjR1VOdGpyVWFTOXpZYkgtZENPT3oybEFBSnFXLVpybm9udDZNaTNHX2NIdGY1c0pCY3RSelRRRUJQS2lYUGIycDFNTi15VG1xVVpVY0p4d0IzNk1EdUVoQXpSSG9LUQ?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "0Y2xZMWNFUXpNMHhKP29jPTU",
+   "date": "2026-11-27",
+   "title": "How delimitation will change political representation in India",
+   "summary": "How delimitation will change political representation in India The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOckVERjNfbElzdEtKNzdteUJmdEpyaEhFckMteDNmXzVBT3VFOHVvd0daVEVneE9uUm5jWHBnN0lhVTdxeUNjSHRnZVRnRkJ6ai10c2ljOFM5emZEMXo4ci1qYXFCVTktZGJKRXZxaTc2NWY2NkEzZmFuS1JsSzdmRUxNV2J1R2F4V21fcTJGOWNrT0FRUEdQemFNYTFqeFp5Ql9oZWdPT3F0emNNb2U5T3owclVMMHhCX1JfSTZYVVFoZnliTTZWb21ESVpHeFRCN1lBT1U2R0dWVko40gHjAUFVX3lxTE0zcmlYeGstSW9pYTcwZVRPM1NyVkhPUjRIWTNDTVhvaTZKMWw3TVRQWW5xaVJLV3dJTVlKaFo4eFRiaTM1dkJTbVEtWGU3dG85MXJuTkRrd3kzUzdGMXoyLWUwZVR1Vng0U1BtVDFyeDc3UXBKazdYRUNzSml2eHFSenJhOF9mV0FON1IwXzlla1dGaVRkb1RSaWpXeFFjcmxVeGxkTVZGYUNYMV9ackU3SzhQSFVZMjNheTZhb2h5X1BkRFNCYjlXSDBKOTVsVjVuYUphYjFQR3ZtclY1cEQzM0xJ?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
    ],
    "score": 2,
    "important": false
@@ -1802,6 +2408,23 @@
    ],
    "gs": [
     "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "pEY2xOS2FHSlFhVmc_b2M9NQ",
+   "date": "2026-11-26",
+   "title": "Salt, sugar and fat warnings: What Supreme Court’s order means for packaged food labels",
+   "summary": "Salt, sugar and fat warnings: What Supreme Court’s order means for packaged food labels The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPem9uLVBfYWxDU2NsVHJHaVlkRVgteGdCeFZSUnNqZXVsTDBpZDNfTUNEc3d5TDRhc1p6ZmJUQXB4U1Q1X0hET2pQQmxxYTlFeFE5MGdacTVUdXZHUlRHdzVYVktGSjllZkFpY0dYcEdsanAxdFl0WnBCX2tNYmxQbHpQVzdrLTFKalRMUGR5Qm10V0FocEU2ZnFLakpMd0tTUTVTSE9n0gGsAUFVX3lxTE0teHpQbXZYR3Nsd014VHlsZWxWV1kwbE9Ecy1NU2sxeENXc0NuSWtDS3VKWmRRU3hOLUE5dzRNZ0k3SE5oUFFHalNieGlIQklWX1BRdTNyZGhxWFNpTjJ4c01fNGh2eUxHZVh2RFhxMV9vWFVuZ0g1dGE4MF9DcjZPSlRVM0pCOF9GRjBaNEh2RG1uenU3aXlfWDVrYlB2eklfX2JDclNKaGJQaVg?oc=5",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
    ],
    "score": 2,
    "important": false
