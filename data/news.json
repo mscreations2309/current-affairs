@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T23:52:14.464Z",
+ "updated": "2026-11-27T08:27:44.504Z",
  "items": [
   {
    "id": "ydGljbGU3MTc0MjMzNC5lY2U",
@@ -20,6 +20,103 @@
    ],
    "score": 8,
    "important": true
+  },
+  {
+   "id": "MTc5NTc2MzExODA1OC5odG1s",
+   "date": "2026-11-27",
+   "title": "RBI governor urges MSMEs to free-trade deals; flags low AI adoption",
+   "summary": "Malhotra said the FTAs would improve market access for small businesses and create opportunities for them to specialize in segments of global value chains.",
+   "link": "https://www.livemint.com/economy/rbi-governor-msmes-free-trade-deals-exports-ai-adoption-11795763118058.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "Economy",
+    "Polity & Governance",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "xNzk1NzU0NDIzMDUzLmh0bWw",
+   "date": "2026-11-27",
+   "title": "US tariffs: India gets an edge over China, Vietnam, Bangladesh—but what must New Delhi do to secure it?",
+   "summary": "The US has proposed a 17% tariff on Indian exports if New Delhi reaches a trade deal with Washington, potentially giving India an edge over Asian rivals. But the offer comes with demands on market access and trade policies, which India wants addressed through ongoing negotiations.",
+   "link": "https://www.livemint.com/economy/us-tariffs-india-gets-an-edge-over-china-vietnam-bangladesh-but-what-must-new-delhi-do-to-secure-it-11795754423053.html",
+   "source": "Mint",
+   "section": "Economy",
+   "topics": [
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "cnRpY2xlNzE3NDk1MDcuZWNl",
+   "date": "2026-11-27",
+   "title": "Parliament's special sitting not for women’s quota but delimitation, will be resisted with all might: Congress",
+   "summary": "The Opposition party said the government is convening a session, slated to begin on November 30, on the delimitation bill, which it will firmly oppose",
+   "link": "https://www.thehindu.com/news/national/pm-hm-jodi-lying-special-sitting-not-for-womens-quota-but-delimitation-congress/article71749507.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NDk0OTMuZWNl",
+   "date": "2026-11-27",
+   "title": "India-U.S. trade deal is close to culmination: Goyal",
+   "summary": "The Commerce and Industry Minister said the “process and pathway” for finalising the pact is now taking shape, after a USTR report proposed 25% tariffs on Indian imports, capped at 17% if a deal is agreed",
+   "link": "https://www.thehindu.com/news/national/india-us-trade-deal-is-close-to-culmination-goyal/article71749493.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "International Relations",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTc0OTM0My5lY2U",
+   "date": "2026-11-27",
+   "title": "Donald Trump urges Vladimir Putin to end ‘military aggression’ in Europe",
+   "summary": "Donald Trump said he had requested Vladimir Putin when they met in China last week, adding that he thought it would help lead to a deal to end Moscow's grinding war in Ukraine",
+   "link": "https://www.thehindu.com/news/international/donald-trump-urges-vladimir-putin-to-end-military-aggression-in-europe/article71749343.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 4,
+   "important": false
   },
   {
    "id": "J0aWNsZTcxNzQ4MzM3LmVjZQ",
@@ -53,6 +150,212 @@
    "gs": [
     "GS-2",
     "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTc0NjgyMS5lY2U",
+   "date": "2026-11-27",
+   "title": "Srikakulam farmers own the land but not the manganese Vedanta wants beneath it",
+   "summary": "In two Srikakulam gram panchayats where maize grows on land handed down through generations, farmers say no one told them their fields had been auctioned for mining. They have since stopped a survey of the 375-acre block, writes T. Appalanaidu",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/srikakulam-farmers-own-the-land-but-not-the-manganese-vedanta-wants-beneath-it/article71746821.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Economy",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzQyNTU4LmVjZQ",
+   "date": "2026-11-27",
+   "title": "Men too must understand provisions of POSH Act to create safe working environment for women: Judge",
+   "summary": "Unwelcome remarks or behaviour, physical contact, showing objectionable photographs or videos and jokes that make a woman feel uncomfortable or unsafe can all fall within the ambit of harassment: SP",
+   "link": "https://www.thehindu.com/news/national/karnataka/men-too-must-understand-provisions-of-posh-act-to-create-safe-working-environment-for-women-judge/article71742558.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Environment & Ecology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTc0OTc3NS5lY2U",
+   "date": "2026-11-27",
+   "title": "Special session of Parliament: Congress, NCP(SP) issue whip to party MPs",
+   "summary": "The government has called for a special sitting of Parliament beginning Monday (November 30, 2026), where it is likely to table an amended Delimitation Bill",
+   "link": "https://www.thehindu.com/news/national/special-session-of-parliament-from-nov-30-congress-ncp-sp/article71749775.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzQ2OTkyLmVjZQ",
+   "date": "2026-11-27",
+   "title": "Kanchi pontiff opens hall at Thyagaraja Mandapam in Tirupati, urges protection of heritage",
+   "summary": "Kanchi pontiff Shankara Vijayendra Saraswathi calls on the present generation to protect and preserve ancient heritage, values and culture",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/kanchi-pontiff-opens-hall-at-thyagaraja-mandapam-in-tirupati-urges-protection-of-heritage/article71746992.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-1"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTc0NjUxMi5lY2U",
+   "date": "2026-11-27",
+   "title": "Constitution being undermined by those in power, say Left leaders on Constitution Day",
+   "summary": "The independence of institutions, including the Election Commission, the judiciary and the CBI, is being eroded, alleges CPI leader K. Narayana",
+   "link": "https://www.thehindu.com/news/national/andhra-pradesh/constitution-being-undermined-by-those-in-power-say-left-leaders-on-constitution-day/article71746512.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTc0OTUzMS5lY2U",
+   "date": "2026-11-27",
+   "title": "Pakistan intruder shot dead by BSF troops along IB in Punjab",
+   "summary": "The intruder was challenged and asked to stop, but he continued moving towards the International Border (IB) and was shot by the BSF troops, says officials",
+   "link": "https://www.thehindu.com/news/national/pakistan-intruder-shot-dead-by-bsf-troops-along-ib-in-punjab/article71749531.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Internal Security & Defence",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzQ5MjcwLmVjZQ",
+   "date": "2026-11-27",
+   "title": "U.S. chip curbs will slow Asia data-centre investment, Fitch says",
+   "summary": "Fitch’s statement comes a day ​after S&P placed Nvidia’s rating on downgrade ⁠watch over governance concerns",
+   "link": "https://www.thehindu.com/sci-tech/technology/us-chip-curbs-will-slow-asia-data-centre-investment-fitch-says/article71749270.ece",
+   "source": "The Hindu",
+   "section": "Science",
+   "topics": [
+    "Polity & Governance",
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTc0OTI2NC5lY2U",
+   "date": "2026-11-27",
+   "title": "Apple pulls MiniMax AI chatbot from App Store over child safety concerns",
+   "summary": "China cracked down on domestic AI companion apps including Xingye, banning intimate ⁠relationships for minors and ordering platforms to develop strict guardrails",
+   "link": "https://www.thehindu.com/sci-tech/technology/apple-pulls-minimax-ai-chatbot-from-app-store-over-child-safety-concerns/article71749264.ece",
+   "source": "The Hindu",
+   "section": "Science",
+   "topics": [
+    "International Relations",
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTc0OTI1My5lY2U",
+   "date": "2026-11-27",
+   "title": "Why is COP31 perceived to be a failure? | Explained",
+   "summary": "Parties agreed to arrangements for the Adaptation Fund to serve the Paris Agreement exclusively once the first share of proceeds under Article 6.4 (the Paris Agreement’s carbon-market mechanism) turns into revenue, though this fund is practically underfunded",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/why-is-cop31-perceived-to-be-a-failure-explained/article71749253.ece",
+   "source": "The Hindu",
+   "section": "Environment",
+   "topics": [
+    "Environment & Ecology",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "hwbGFpbmVkLTEwOTgwODAyLw",
+   "date": "2026-11-27",
+   "title": "Delimitation: Why government wants to use 2011 Census when a new one is due",
+   "summary": "",
+   "link": "https://indianexpress.com/article/explained/explained-politics/delimitation-2011-census-womens-reservation-lok-sabha-seats-explained-10980802/",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "taGlzdG9yeS0xMDk4MDcxNi8",
+   "date": "2026-11-27",
+   "title": "A temple lamp or a survey marker? How a stone on a Madurai hill took two governments to court",
+   "summary": "",
+   "link": "https://indianexpress.com/article/explained/karthigai-deepam-madurai-temple-dargah-row-history-10980716/",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "History, Art & Culture",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-1",
+    "Prelims"
    ],
    "score": 3,
    "important": false
@@ -109,6 +412,273 @@
    ],
    "gs": [
     "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NDgxNDUuZWNl",
+   "date": "2026-11-27",
+   "title": "We changed politics, but much remains to be done: Kejriwal on AAP’s 14th foundation day",
+   "summary": "AAP chief Arvind Kejriwal marked the party’s 14th Foundation Day on November 26, 2026, saying the party has withstood skepticism about its survival and grown from Delhi to win trust across India, with governments in Delhi and Punjab and support from Jammu and Kashmir to Goa and Gujarat, while promising more work on education, healthcare, and anti-corruption",
+   "link": "https://www.thehindu.com/news/cities/Delhi/we-changed-politics-but-much-remains-to-be-done-kejriwal-on-aaps-14th-foundation-day/article71748145.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzQ5ODE4LmVjZQ",
+   "date": "2026-11-27",
+   "title": "Coffee planter killed in wild elephant attack in Kodagu",
+   "summary": "The incident occurred in an area where elephant movement was not frequent, unlike in other parts of the forest range, sources said",
+   "link": "https://www.thehindu.com/news/national/karnataka/coffee-planter-killed-in-wild-elephant-attack-in-kodagu/article71749818.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzQ5ODAyLmVjZQ",
+   "date": "2026-11-27",
+   "title": "Supreme Court rejects plea to remove video of Italian politician’s ‘Vote Chor’ slogan at Bharat Summit 2026",
+   "summary": "After the Bench said it was dismissing the petition, the petitioner’s counsel urged that the authorities be asked to treat the same as a representation",
+   "link": "https://www.thehindu.com/news/national/supreme-court-rejects-plea-to-remove-video-of-italian-politicians-vote-chor-slogan-at-bharat-summit-2026/article71749802.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTc0OTYzNC5lY2U",
+   "date": "2026-11-27",
+   "title": "Supreme Court grants bail to former AAP MLA Naresh Balyan in MCOCA case",
+   "summary": "A bench of Justices Vikram Nath and Aparesh Kumar Singh passed the order while hearing Mr. Balyan’s plea challenging a Delhi High Court order denying him bail in the case",
+   "link": "https://www.thehindu.com/news/cities/Delhi/supreme-court-grants-bail-to-former-aap-mla-naresh-balyan-in-mcoca-case/article71749634.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NDk2NDMuZWNl",
+   "date": "2026-11-27",
+   "title": "‘Honest attempt’: JDU backs special Parliament session, urges Opposition to support bills",
+   "summary": "",
+   "link": "https://www.thehindu.com/news/national/honest-attempt-jdu-backs-special-parliament-session-urges-opposition-to-support-bills/article71749643.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzQ2NTQwLmVjZQ",
+   "date": "2026-11-27",
+   "title": "The Age of Crime: Why there is a call to lower juvenile age threshold following rise in crimes by minors in Keralam",
+   "summary": "Back-to-back incidents of heinous crimes involving juveniles have given rise to a public demand for amending the Juvenile Justice Act to lower the age threshold. Child rights campaigners, however, caution against lowering the age limit and say such changes shall be considered only after wide consultations. K.S. Sudhi takes a look at opposing view points.",
+   "link": "https://www.thehindu.com/news/national/kerala/the-age-of-crime-call-to-lower-juvenile-age-threshold-following-rise-in-crimes-by-minors/article71746540.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NDk2MzMuZWNl",
+   "date": "2026-11-27",
+   "title": "CPI(M) urges DMK to spell out its position on delimitation",
+   "summary": "Reports that the Union government has reached an understanding with the DMK on the issue are worrying, CPI(M) State secretary Shanmugam says",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/cpim-urges-dmk-to-spell-out-its-position-on-delimitation/article71749633.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzQ5NTQ3LmVjZQ",
+   "date": "2026-11-27",
+   "title": "Keralam’s FYUGP may be renamed Flexible Graduate Programme; KSHEC panel proposes framework overhaul",
+   "summary": "Committee formed by Kerala State Higher Education Council recommends rationalising credit requirements for undergraduate degrees from 133 to 132 for three-year programme and from 177 to 176 for four-year Honours and Honours with Research programmes",
+   "link": "https://www.thehindu.com/news/national/kerala/keralams-fyugp-may-be-renamed-flexible-graduate-programme-kshec-panel-proposes-framework-overhaul/article71749547.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTc0OTM5NS5lY2U",
+   "date": "2026-11-27",
+   "title": "Madras High Court permits byelections only in Ambasamudram and Perundurai constituencies in Tamil Nadu",
+   "summary": "Chief Justice Sushrut Arvind Dharmadhikari and Justice G. Arul Murugan say bypolls to Tiruchi East, Karur, and Viralimalai will have to wait till orders could be passed in related election petitions",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-permits-byelections-only-in-ambasamudram-and-perundurai-constituencies/article71749395.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTc0OTMwMy5lY2U",
+   "date": "2026-11-27",
+   "title": "Bangladesh’s Opposition party blasts Australian media reports over leader’s visit",
+   "summary": "The party said the legal notice sent to The Australian newspaper pointed out ‘seven defamatory imputations and demands corrections, retraction of the report, an apology and the preservation of relevant documents’",
+   "link": "https://www.thehindu.com/news/international/bangladeshs-opposition-party-blasts-australian-media-reports-over-leaders-visit/article71749303.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-2",
+    "Prelims"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTc0OTU4Mi5lY2U",
+   "date": "2026-11-27",
+   "title": "Costa Rica bars entry to UN rapporteur over ‘links to terrorist acts’",
+   "summary": "Francesca Albanese arrived at the airport serving the capital, San Jose, to receive an honorary degree from the University of Costa Rica, a public university",
+   "link": "https://www.thehindu.com/news/international/costa-rica-bars-entry-to-un-rapporteur-over-links-to-terrorist-acts/article71749582.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NDk0OTUuZWNl",
+   "date": "2026-11-27",
+   "title": "South Korea repatriates six North Koreans rescued from drifting boat",
+   "summary": "South ‌Korea decided to repatriate six ​of them after confirming their wish through a joint investigation with ⁠the United Nations Command, the Ministry said.",
+   "link": "https://www.thehindu.com/news/international/south-korea-repatriates-six-north-koreans-rescued-from-drifting-boat/article71749495.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "Polity & Governance",
+    "International Relations"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NDkyNjYuZWNl",
+   "date": "2026-11-27",
+   "title": "AI agents used in five cyber attacks in Switzerland, government says",
+   "summary": "In four ⁠of the five cases, the attacks were ​successful and systems ‌were compromised, BACS said",
+   "link": "https://www.thehindu.com/sci-tech/technology/ai-agents-used-in-five-cyber-attacks-in-switzerland-government-says/article71749266.ece",
+   "source": "The Hindu",
+   "section": "Science",
+   "topics": [
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzQxOTYwLmVjZQ",
+   "date": "2026-11-27",
+   "title": "The changing scents of a warming world",
+   "summary": "Be it in a forest or among the flowers in a garden, the air is enriched in volatile organic compounds, whose profiles climate change is beginning to alter",
+   "link": "https://www.thehindu.com/sci-tech/energy-and-environment/the-changing-scents-of-a-warming-world/article71741960.ece",
+   "source": "The Hindu",
+   "section": "Science",
+   "topics": [
+    "Environment & Ecology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "zc2lzdGFudC0xMDk3OTU4NC8",
+   "date": "2026-11-27",
+   "title": "How OpenAI and Anthropic are using AI to solve the toughest problems in Maths",
+   "summary": "",
+   "link": "https://indianexpress.com/article/explained/explained-ai/ai-mathematical-proofs-lean-proof-assistant-10979584/",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
    ],
    "score": 2,
    "important": false
@@ -622,6 +1192,26 @@
    "gs": [
     "GS-3",
     "Prelims"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTc0Nzg2My5lY2U",
+   "date": "2026-11-26",
+   "title": "The fiscal cost of cash-transfer schemes",
+   "summary": "A social policy is often based on expected electoral gain, and is implemented without any ex ante appraisal; since cash transfers and subsidies are perpetual in nature and politically hard to reverse, such continuous commitment of financial resources demands prior evaluation and real-time monitoring to address potential shortcomings",
+   "link": "https://www.thehindu.com/business/Economy//article71747863.ece",
+   "source": "The Hindu",
+   "section": "Economy",
+   "topics": [
+    "Polity & Governance",
+    "Economy",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
    ],
    "score": 3,
    "important": false
