@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T01:57:52.667Z",
+ "updated": "2026-11-28T10:24:34.779Z",
  "items": [
   {
    "id": "ydGljbGU3MTc1MjI4MS5lY2U",
@@ -14,6 +14,60 @@
    ],
    "gs": [
     "GS-2"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "ydGljbGU3MTc1Mzg0MS5lY2U",
+   "date": "2026-11-28",
+   "title": "INDIA bloc leaders meet at Kharge’s residence to discuss joint strategy ahead of Parliament’s special sitting",
+   "summary": "Kapil Sibal alleged that the government’s delimitation Bill is aimed at keeping the BJP in power for 30-40 years, as the Centre is set to introduce a fresh constitutional amendment Bill on Monday (November 30, 2026)",
+   "link": "https://www.thehindu.com/news/national/parliaments-special-sitting-india-bloc-floor-leaders-deliberate-joint-strategy/article71753841.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "cnRpY2xlNzE3NTM3NTAuZWNl",
+   "date": "2026-11-28",
+   "title": "Constitution Amendment Bill: April to November what changed",
+   "summary": "The revised Constitution amendment Bill closes legal loopholes, extends the population freeze to 2051 and narrows Parliament’s discretion on delimitation",
+   "link": "https://www.thehindu.com/news/national/constitution-amendment-bill-april-to-november-what-changed/article71753750.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 5,
+   "important": true
+  },
+  {
+   "id": "ydGljbGU3MTc1MzgwMC5lY2U",
+   "date": "2026-11-28",
+   "title": "President Murmu to begin three-day Mizoram visit on November 28",
+   "summary": "On November 29, the President will visit the Ropuiliani Tribal Freedom Fighters’ Museum at Kelsih, and participate in Mizoram University's 21st convocation and the closing ceremony of its Silver Jubilee celebrations here on November 30, according to an official release",
+   "link": "https://www.thehindu.com/news/president-droupadi-murmu-three-day-mizoram-visit-for-27th-hornbill-festival/article71753800.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Health & Social Issues",
+    "History, Art & Culture",
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
    ],
    "score": 5,
    "important": true
@@ -48,6 +102,80 @@
    ],
    "gs": [
     "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NTM3NjYuZWNl",
+   "date": "2026-11-28",
+   "title": "DMK MPs’ meeting demands fair delimitation based on 1971 census",
+   "summary": "A resolution adopted at the meeting said the MPs would act with determination during the special session of Parliament to protect Tamil Nadu’s right to representation",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/dmk-mps-meeting-demands-fair-delimitation-based-on-1971-census/article71753766.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzUzNTY4LmVjZQ",
+   "date": "2026-11-28",
+   "title": "Centre’s delimitation fix steadies Yogi Adityanath’s nerves ahead of polls",
+   "summary": "By raising the constitutional ceiling on State assemblies from 500 to 650 seats, the Union Cabinet’s revised delimitation bill allows U.P. assembly to expand to 605 members without dividing the State",
+   "link": "https://www.thehindu.com/news/national/uttar-pradesh/centres-delimitation-fix-steadies-yogi-adityanaths-nerves-ahead-of-polls/article71753568.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTc1MzYxNS5lY2U",
+   "date": "2026-11-28",
+   "title": "COP31 outcome reality check for process not delivering at pace climate crisis demands: Scientists",
+   "summary": "\"The message I am getting from COP31 is that as a global community, we have failed to address the accelerating change in climate,\" says climate scientist and a lead author of the Intergovernmental Panel on Climate Change (IPCC) Reports, Roxy Mathew Koll",
+   "link": "https://www.thehindu.com/news/national/cop31-outcome-reality-check-for-process-not-delivering-at-pace-climate-crisis-demands-scientists/article71753615.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Environment & Ecology",
+    "Science & Technology",
+    "Reports & Indices"
+   ],
+   "gs": [
+    "GS-3",
+    "Prelims"
+   ],
+   "score": 4,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzUzNjM3LmVjZQ",
+   "date": "2026-11-28",
+   "title": "Telangana to unveil 11 new policies at Global Summit",
+   "summary": "Industrial Policy 2.0 to focus on manufacturing; sector-specific incentives planned for textiles, footwear, defence, IT and electronics",
+   "link": "https://www.thehindu.com/news/national/telangana/telangana-to-unveil-11-new-policies-at-global-summit/article71753637.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "International Relations",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
    ],
    "score": 4,
    "important": false
@@ -122,6 +250,99 @@
    "gs": [
     "GS-3",
     "Prelims"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTc1MzUzNS5lY2U",
+   "date": "2026-11-28",
+   "title": "Delimitation Bill LIVE: This Bill is dangerous to democracy, says Kharge; DMK announces support for Centre's proposal",
+   "summary": "Opposition leaders discuss a joint response ahead of special session; parties warn the move could distort representation, weaken federalism and politically benefit the BJP",
+   "link": "https://www.thehindu.com/news/national/delimitation-bill-special-parliament-session-india-bloc-meeting-opposition-bjp-live-updates-november-28-2026/article71753535.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NTQxMTAuZWNl",
+   "date": "2026-11-28",
+   "title": "Delimitation is about gerrymandering, nothing to do with women’s reservation: Arundhati Roy",
+   "summary": "Full text of Arundhati Roy’s speech delivered at the National Conclave of Writers & Artists",
+   "link": "https://www.thehindu.com/news/national/delimitation-is-about-gerrymandering-nothing-to-do-with-womens-reservation-arundhati-roy/article71754110.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzUzNDg3LmVjZQ",
+   "date": "2026-11-28",
+   "title": "Why the Supreme Court wants red warning labels on unhealthy packaged foods | Explained",
+   "summary": "The Supreme Court, earlier this week, directed the FSSAI to introduce a single-phase front-of-pack nutrition labelling (FoPNL) regime and gave the regulator four months to finalise the draft regulations",
+   "link": "https://www.thehindu.com/sci-tech/health/why-the-supreme-court-wants-red-warning-labels-on-unhealthy-packaged-foods-explained/article71753487.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NTIzNTYuZWNl",
+   "date": "2026-11-28",
+   "title": "Water man of India Rajendra Singh advises against Sabarmati model for Musi river",
+   "summary": "Musi banks should be planted instead of concretised, the Magsaysay awardee says at the curtain riser event for the Telangana Climate Conclave",
+   "link": "https://www.thehindu.com/news/cities/Hyderabad/water-man-of-india-rajendra-singh-advises-against-sabarmati-model-for-musi-river/article71752356.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Economy",
+    "Environment & Ecology",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 3,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NTM1NTUuZWNl",
+   "date": "2026-11-28",
+   "title": "Putin unveils new nuclear submarine",
+   "summary": "Nuclear-powered submarines are a key part of Russia's nuclear deterrent because their ability to operate covertly underwater ensures a retaliatory strike capability in the event of an attack",
+   "link": "https://www.thehindu.com/news/international/putin-unveils-new-nuclear-submarine/article71753555.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Science & Technology",
+    "Internal Security & Defence"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
    ],
    "score": 3,
    "important": false
@@ -210,6 +431,236 @@
    ],
    "gs": [
     "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NTQwMTcuZWNl",
+   "date": "2026-11-28",
+   "title": "Delimitation Bill a bid to reduce political representation of south Indian States: Chennithala",
+   "summary": "The Minister, in a statement on Saturday (November 28, 2026), said the Bharatiya Janata Party (BJP) was implementing its agenda of political interests and cementing power.",
+   "link": "https://www.thehindu.com/news/national/kerala/delimitation-bill-a-bid-to-reduce-political-representation-of-south-indian-states-chennithala/article71754017.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NTM5NzkuZWNl",
+   "date": "2026-11-28",
+   "title": "Former High Court judges review arrangements at Thirupparankundram ahead of ‘deepathoon’ lamp lighting",
+   "summary": "Temple administrators and the District Collector apprised the judges of the logistical measures currently in place to regulate crowd movement and maintain public order",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/former-high-court-judges-review-arrangements-at-thirupparankundram-ahead-of-deepathoon-lamp-lighting-crpf-takes-over-security/article71753979.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NTQwMjYuZWNl",
+   "date": "2026-11-28",
+   "title": "INDIA bloc decides to oppose Delimitation Bill, says it is against SCs/STs, will end democracy",
+   "summary": "‘Once the power goes into their hands, they will do anything to use this bill as a weapon to remain in power permanently. We will oppose this bill,’ says Mr. Kharge",
+   "link": "https://www.thehindu.com/news/national/india-bloc-decides-to-oppose-delimitation-bill-says-it-is-against-scssts-will-end-democracy/article71754026.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NTM4MjguZWNl",
+   "date": "2026-11-28",
+   "title": "DMK to support Delimitation Bill as there is no loss for Tamil Nadu: A. Raja",
+   "summary": "Asked why the DMK, which had consistently opposed the BJP, had decided to support the Bill, Mr. Raja said there was nothing wrong with supporting a measure if its provisions were consistent with the party’s position",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/dmk-to-support-delimitation-bill-as-there-is-no-loss-for-tamil-nadu-a-raja/article71753828.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NTM3NDYuZWNl",
+   "date": "2026-11-28",
+   "title": "Karnataka to launch ‘Delhi Chalo’ protest if Centre fails to release drought relief: Karnataka CM D.K. Shivakumar",
+   "summary": "The Chief Minister said the State had not received any financial assistance from the Union government for drought relief and no announcement had been made despite providing all data",
+   "link": "https://www.thehindu.com/news/national/karnataka/karnataka-to-launch-delhi-chalo-protest-if-centre-fails-to-release-drought-relief-karnataka-cm-dk-shivakumar/article71753746.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Science & Technology",
+    "Geography & Disasters"
+   ],
+   "gs": [
+    "GS-3",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NTM1MzcuZWNl",
+   "date": "2026-11-28",
+   "title": "Devotees gather at Thirupparankundram foothills under tight security",
+   "summary": "Two former Madras High Court judges, Justice S. Vaidyanathan and Justice V. Parthiban, who were appointed as receivers to oversee the temple’s affairs and ensure the ritual is conducted without obstruction, have already arrived in Madurai to supervise the arrangements",
+   "link": "https://www.thehindu.com/news/cities/Madurai/devotees-gather-at-thiruparankundram-foothills-under-tight-security/article71753537.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "History, Art & Culture"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-1"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTc1MzY3MC5lY2U",
+   "date": "2026-11-28",
+   "title": "President Murmu says maritime domain increasingly important in interconnected world",
+   "summary": "Addressing the passing-out parade of the Indian Naval Academy at Ezhimala, Droupadi Murmu said the security of maritime routes is closely linked to the economic well-being of nations",
+   "link": "https://www.thehindu.com/news/national/kerala/president-murmu-says-maritime-domain-increasingly-important-in-interconnected-world/article71753670.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance",
+    "Economy"
+   ],
+   "gs": [
+    "GS-2",
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "J0aWNsZTcxNzUzNjIzLmVjZQ",
+   "date": "2026-11-28",
+   "title": "Thirupparankundram row: Palaniswami condemns TVK-led govt. over Supreme Court’s remarks",
+   "summary": "The law, the Constitution, and the Supreme Court must be treated with dignity, he said",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/thirupparankundram-row-palaniswami-condemns-tvk-led-govt-over-supreme-courts-remarks/article71753623.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NTM4MzUuZWNl",
+   "date": "2026-11-28",
+   "title": "NCP (SP)'s decision to 'back' delimitation bill unilateral, will invite backlash: Raut",
+   "summary": "‘By raising the number of MPs from 543 to 806 and then doing delimitation as per your whim, you are snatching people's rights forever. This is a conspiracy of the BJP,’ says Mr. Raut",
+   "link": "https://www.thehindu.com/news/national/maharashtra/ncp-sps-decision-to-back-delimitation-bill-unilateral-will-invite-backlash-raut/article71753835.ece",
+   "source": "The Hindu",
+   "section": "National",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "ydGljbGU3MTc1MzkyOS5lY2U",
+   "date": "2026-11-28",
+   "title": "At least seven killed, 97 injured in explosion at a middle school in eastern Afghanistan",
+   "summary": "There was no immediate information on what caused the explosion",
+   "link": "https://www.thehindu.com/news/international/several-students-reportedly-killed-wounded-in-explosion-at-a-middle-school-in-eastern-afghanistan/article71753929.ece",
+   "source": "The Hindu",
+   "section": "International",
+   "topics": [
+    "International Relations",
+    "Health & Social Issues"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "cnRpY2xlNzE3NTEwMTUuZWNl",
+   "date": "2026-11-28",
+   "title": "ISRO invites Indian industry to develop human space flight analog simulation facility",
+   "summary": "The Bengaluru-based HSFC has issued an Expression of Interest in this regard on November 26, 2026.",
+   "link": "https://www.thehindu.com/sci-tech/science/isro-invites-indian-industry-to-develop-human-space-flight-analog-simulation-facility/article71751015.ece",
+   "source": "The Hindu",
+   "section": "Science",
+   "topics": [
+    "Science & Technology"
+   ],
+   "gs": [
+    "GS-3"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "sZWN0aW9ucy0xMDk4MjEyMi8",
+   "date": "2026-11-28",
+   "title": "Delimitation debate: What is gerrymandering, and how can it tilt elections in a party’s favour?",
+   "summary": "",
+   "link": "https://indianexpress.com/article/explained/explained-politics/delimitation-bill-2026-gerrymandering-meaning-examples-india-us-elections-10982122/",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Polity & Governance"
+   ],
+   "gs": [
+    "GS-2"
+   ],
+   "score": 2,
+   "important": false
+  },
+  {
+   "id": "udHMtZG93bi0xMDk4MTExNi8",
+   "date": "2026-11-28",
+   "title": "India’s LNG imports could hit 8-month low in November: Why are shipments down?",
+   "summary": "",
+   "link": "https://indianexpress.com/article/explained/explained-economics/indias-lng-imports-could-hit-8-month-low-in-november-why-are-shipments-down-10981116/",
+   "source": "Indian Express",
+   "section": "Explained",
+   "topics": [
+    "Economy"
+   ],
+   "gs": [
+    "GS-3"
    ],
    "score": 2,
    "important": false
